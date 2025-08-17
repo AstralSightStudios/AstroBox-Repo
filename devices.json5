@@ -36,50 +36,50 @@
         "fetch": false
     },
     "M2313W1": {
-        "name": "Xiaomi Watch S3",
+        "name": "Xiaomi Watch S3 系列",
         "codename": "n62",
         "chip": "bes",
         "fetch": true
     },
     "M2311W1": {
-        "name": "Xiaomi Watch S3 eSIM",
+        "name": "Xiaomi Watch S3 系列",
         "codename": "n62", // eSIM版无特别特性 一视同仁
         "chip": "bes",
         "fetch": true
     },
     "M2323W1": {
-        "name": "Xiaomi Watch S3", // 国际版
+        "name": "Xiaomi Watch S3 系列", // 国际版
         "codename": "n62",
         "chip": "bes",
         "fetch": true
     },
     "M2425W1": {
-        "name": "Xiaomi Watch S4",
+        "name": "Xiaomi Watch S4 系列",
         "codename": "o62",
         "chip": "bes",
         "fetch": true
     },
-    "M2424W1": {
-        "name": "Xiaomi Watch S4 eSIM",
+    "M2424W1": { // S4 eSIM
+        "name": "Xiaomi Watch S4 系列",
         "codename": "o62",
         "chip": "bes",
         "fetch": true
     },
     "M2426W1": {
-        "name": "Xiaomi Watch S4 eSIM", // 15周年纪念版
+        "name": "Xiaomi Watch S4 15周年纪念版", // 15周年纪念版
         "codename": "o62m",
         "chip": "xring",
         "fetch": true
     },
     "M2312W1": {
-        "name": "Xiaomi Watch S4 Sport",
+        "name": "Xiaomi Watch S4 系列",
         "codename": "o62", // Sport版无特别特性，当成普通S4看待
         "chip": "bes",
         "fetch": true
     },
     "M2502W1": {
-        "name": "Xiaomi Watch S4 41mm",
-        "codename": "o63",
+        "name": "Xiaomi Watch S4 系列", // S4 41mm 无特别特性 当成普通S4看待
+        "codename": "o62",
         "chip": "bes",
         "fetch": true
     },
