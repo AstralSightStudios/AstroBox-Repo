@@ -33,7 +33,7 @@
         "background": "assets/banner/under/bg.png",
         "title": "勇者指令：地下城",
         "description": "回合制jrpg游戏！",
-        "foreground": "assets/banner/under/band.png",
+        "foreground": "assets/banner/under/fg.png",
         "button": {
             "text": "立即下载",
             "url": "https://astrobox.online/open?source=res&res=%E5%8B%87%E8%80%85%E6%8C%87%E4%BB%A4%EF%BC%9A%E5%9C%B0%E4%B8%8B%E5%9F%8E&provider=official"
