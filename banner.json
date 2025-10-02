@@ -28,5 +28,15 @@
             "text": "立即下载",
             "url": "https://astrobox.online/open?source=res&res=%E5%96%B5%E5%96%B5%E7%94%B5%E5%AD%90%E4%B9%A6&provider=official"
         }
+    },
+    {
+        "background": "assets/banner/under/bg.png",
+        "title": "勇者指令：地下城",
+        "description": "回合制jrpg游戏！",
+        "foreground": "assets/banner/under/band.png",
+        "button": {
+            "text": "立即下载",
+            "url": "https://astrobox.online/open?source=res&res=%E5%8B%87%E8%80%85%E6%8C%87%E4%BB%A4%EF%BC%9A%E5%9C%B0%E4%B8%8B%E5%9F%8E&provider=official"
+        }
     }
 ]
