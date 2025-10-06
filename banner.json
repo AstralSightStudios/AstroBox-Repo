@@ -1,5 +1,15 @@
 [
     {
+        "background": "assets/banner/hb/bg.png",
+        "title": "Hyper Box",
+        "description": "拥有20+功能和超绝UI的万能工具箱",
+        "foreground": "assets/banner/hb/fg.png",
+        "button": {
+            "text": "立即下载",
+            "url": "https://astrobox.online/open?source=res&res=Hyper%20Box&provider=official"
+        }
+    },
+    {
         "background": "assets/banner/omusic/bg.png",
         "title": "OMusic",
         "description": "好用的第三方网易云音乐客户端",
