@@ -33,7 +33,7 @@
         "background": "assets/banner/simpleweather/bg.png",
         "title": "简明天气",
         "description": "适用于Vela的长期天气存储快应用",
-        "foreground": "assets/banner/simpleweather/bg.png",
+        "foreground": "assets/banner/simpleweather/fg.png",
         "button": {
             "text": "立即下载",
             "url": "https://astrobox.online/open?source=res&res=%E7%AE%80%E6%98%8E%E5%A4%A9%E6%B0%94&provider=official"
