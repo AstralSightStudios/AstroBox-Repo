@@ -30,6 +30,16 @@
         }
     },
     {
+        "background": "assets/banner/simpleweather/bg.png",
+        "title": "简明天气",
+        "description": "适用于Vela的长期天气存储快应用",
+        "foreground": "assets/banner/simpleweather/bg.png",
+        "button": {
+            "text": "立即下载",
+            "url": "https://astrobox.online/open?source=res&res=%E7%AE%80%E6%98%8E%E5%A4%A9%E6%B0%94&provider=official"
+        }
+    },
+    {
         "background": "assets/banner/b2048/back.png",
         "title": "Better2048",
         "description": "官方的不好玩，我们重新做了一个",
