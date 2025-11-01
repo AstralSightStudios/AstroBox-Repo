@@ -124,6 +124,7 @@
     "WA2536B": {
       "id": "vivowgt2",
       "name": "vivo WATCH GT 2",
+      "description": "计划支持",
       "chip": "bes",
       "fetch": true
     }
