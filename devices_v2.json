@@ -9,6 +9,7 @@
     },
     "M2346B1": {
       "id": "xmb9",
+      "name": "Xiaomi Smart Band 9",
       "description": "环9nfc",
       "chip": "bes",
       "fetch": false
