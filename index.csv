@@ -101,4 +101,6 @@ OMusic,https://raw.githubusercontent.com/OrPudding/OMusic-AstroBox-Resource/main
 BandTwine,https://raw.githubusercontent.com/OrPudding/BandTwine_AstroBox_Release/refs/heads/main/icon.png,https://raw.githubusercontent.com/OrPudding/BandTwine_AstroBox_Release/refs/heads/main/cover.png,quickapp,"游戏;互动小说,文字游戏,实用工具;游戏引擎",n62;n66;n67;o62;o66;o66nfc,OrPudding/bandtwine.json,
 MerquryIM Dev,https://raw.githubusercontent.com/CoraTech-Wear/merqury-astrobox-res/refs/heads/main/icon.png,https://raw.githubusercontent.com/CoraTech-Wear/merqury-astrobox-res/refs/heads/main/cover.png,quickapp,聊天;IM;QQ;开源,o65m;o62m;o62,coratech/merquryim.json,
 会了吧,https://raw.githubusercontent.com/mqycn/huile8-miband/refs/heads/main/icon.png,https://raw.githubusercontent.com/mqycn/huile8-miband/refs/heads/main/preview.png,quickapp,实用工具,"n62;o62;o62m;o65;o65m;n66;n67",mqycn/huile8.json,
+SMusic,https://raw.githubusercontent.com/SarmonFish/vela-smusic-release/main/icon.png,https://raw.githubusercontent.com/SarmonFish/vela-smusic-release/main/cover.png,quickapp,音乐;实用工具;开源,n62;o62;o62m;o65;o65m;p65,SarmonFish/SMusic.json,
+
 
