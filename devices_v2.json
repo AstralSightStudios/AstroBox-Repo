@@ -1,0 +1,132 @@
+{
+  "xiaomi": {
+    "M2345B1": {
+      "id": "xmb9",
+      "name": "Xiaomi Smart Band 9",
+      "description": "",
+      "chip": "bes",
+      "fetch": false
+    },
+    "M2346B1": {
+      "id": "xmb9",
+      "name": "Xiaomi Smart Band 9",
+      "description": "环9nfc",
+      "chip": "bes",
+      "fetch": false
+    },
+    "M2401B1": {
+      "id": "xmb9p",
+      "name": "Xiaomi Smart Band 9 Pro",
+      "description": "",
+      "chip": "bes",
+      "fetch": true
+    },
+    "M2402B1": {
+      "id": "xmb9p",
+      "name": "Xiaomi Smart Band 9 Pro",
+      "description": "环9pro国际版",
+      "chip": "bes",
+      "fetch": true
+    },
+    "M2457B1": {
+      "id": "xmb10",
+      "name": "Xiaomi Smart Band 10",
+      "description": "",
+      "chip": "bes",
+      "fetch": false
+    },
+    "M2456B1": {
+      "id": "xmb10nfc",
+      "name": "Xiaomi Smart Band 10 NFC",
+      "description": "环10nfc，支持录音，与普通版区分",
+      "chip": "bes",
+      "fetch": false
+    },
+    "M2313W1": {
+      "id": "xmws3",
+      "name": "Xiaomi Watch S3 系列",
+      "description": "",
+      "chip": "bes",
+      "fetch": true
+    },
+    "M2311W1": {
+      "id": "xmws3",
+      "name": "Xiaomi Watch S3 系列",
+      "description": "s3 esim",
+      "chip": "bes",
+      "fetch": true
+    },
+    "M2323W1": {
+      "id": "xmws3",
+      "name": "Xiaomi Watch S3 系列",
+      "description": "s3国际版",
+      "chip": "bes",
+      "fetch": true
+    },
+    "M2425W1": {
+      "id": "xmws4",
+      "name": "Xiaomi Watch S4 系列",
+      "description": "",
+      "chip": "bes",
+      "fetch": true
+    },
+    "M2424W1": {
+      "id": "xmws4",
+      "name": "Xiaomi Watch S4 系列",
+      "description": "s4 esim",
+      "chip": "bes",
+      "fetch": true
+    },
+    "M2426W1": {
+      "id": "xmws4xring",
+      "name": "Xiaomi Watch S4 15周年纪念版",
+      "description": "s4玄戒版",
+      "chip": "xring",
+      "fetch": true
+    },
+    "M2312W1": {
+      "id": "xmws4",
+      "name": "Xiaomi Watch S4 系列",
+      "description": "s4sport，无特别特性",
+      "chip": "bes",
+      "fetch": true
+    },
+    "M2502W1": {
+      "id": "xmws4",
+      "name": "Xiaomi Watch S4 系列",
+      "description": "s441mm，无特别特性",
+      "chip": "bes",
+      "fetch": true
+    },
+    "M2427W1": {
+      "id": "xmrw5",
+      "name": "REDMI Watch 5",
+      "description": "",
+      "chip": "bes",
+      "fetch": true
+    },
+    "M2428W1": {
+      "id": "xmrw5xring",
+      "name": "REDMI Watch 5 eSIM",
+      "description": "rw5esim，玄戒芯片，做区分",
+      "chip": "xring",
+      "fetch": true
+    },
+    "M2523W1": {
+      "id": "xmrw6",
+      "name": "REDMI Watch 6",
+      "description": "",
+      "chip": "bes",
+      "fetch": true
+    }
+  },
+  "vivo": {
+    "WA2536B": {
+      "id": "vivowgt2",
+      "name": "vivo WATCH GT 2",
+      "description": "计划支持",
+      "chip": "bes",
+      "fetch": true
+    }
+  }
+}

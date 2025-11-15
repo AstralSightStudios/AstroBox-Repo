@@ -5,6 +5,12 @@
         "chip": "bes",
         "fetch": false
     },
+    "M2523W1": {
+        "name": "REDMI Watch 6",
+        "codename": "p65",
+        "chip": "bes",
+        "fetch": true
+    },
     "M2346B1": { // nfc版无特别特性 因此与普通版一视同仁
         "name": "Xiaomi Smart Band 9",
         "codename": "n66",
