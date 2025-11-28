@@ -110,4 +110,5 @@ UNO,https://raw.githubusercontent.com/SixOneTeam/UNO_res/refs/heads/main/icon.pn
 伪装模式,https://raw.githubusercontent.com/SixOneTeam/weizhuang_res/refs/heads/main/icon.png,https://raw.githubusercontent.com/SixOneTeam/weizhuang_res/refs/heads/main/preview.png,quickapp,工具;伪装;保护,n66;o66;o66nfc;n67,SixOneTeam/weizhuang.json,force_paid
 众生,https://raw.githubusercontent.com/SixOneTeam/zhongsheng_res/refs/heads/main/icon.png,https://raw.githubusercontent.com/SixOneTeam/zhongsheng_res/refs/heads/main/preview.png,quickapp,游戏;人生;模拟,n66;o66;o66nfc;n67,SixOneTeam/zhongsheng.json,force_paid
 「景深;缓亮」长崎素世 [MyGO!!!!!],https://raw.githubusercontent.com/midi-HL/-MyGO-/refs/heads/main/icon.jpg,https://raw.githubusercontent.com/midi-HL/-MyGO-/refs/heads/main/xmbnad9.png,watchface,"表盘;缓慢亮屏;二次元;MyGO!!!!!;长崎素世;景深",n66,HLchenxing/MyGO!!!!!.json,
-BcReader,https://github.com/BeiChen-CN/BcReader_AstroBox_Release/blob/main/logo.png,https://github.com/BeiChen-CN/BcReader_AstroBox_Release/blob/main/cover.png,quickapp,实用工具;电子书;阅读;小说,p65,Jiangbeichen/BcReader.json
+BcReader,https://raw.githubusercontent.com/BeiChen-CN/BcReader_AstroBox_Release/refs/heads/main/logo.png,https://raw.githubusercontent.com/BeiChen-CN/BcReader_AstroBox_Release/refs/heads/main/cover.png,quickapp,电子书;实用工具;阅读;小说,p65;o65;o65m,Jiangbeichen/BcReader.json
+
