@@ -20,6 +20,16 @@
         }
     },
     {
+        "background": "assets/banner/bandcomic/bg.png",
+        "title": "腕上漫画",
+        "description": "在表上随时浏览并本地保存在线漫画",
+        "foreground": "assets/banner/bandcomic/fg.png",
+        "button": {
+            "text": "🔥线路1",
+            "url": "https://astrobox.online/open?source=res&res=%E8%85%95%E4%B8%8A%E6%BC%AB%E7%94%BB&provider=official"
+        }
+    },
+    {
         "background": "assets/banner/popp/back.png",
         "title": "PoP☆P",
         "description": "《星之卡比》风格表盘",
