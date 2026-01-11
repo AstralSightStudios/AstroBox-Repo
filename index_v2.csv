@@ -1,11 +1,7 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.searchstars.hyperbilibili,澎湃哔哩,quick_app,searchstars,Hyperbilibili_AstroBox_Release,650a7b4,icon.png,preview.png,客户端;实用工具;视频;社区;互动;在线;哔哩哔哩;B站;b站,xiaomi,xmws3;xmws4;xmrw5xring,
 LegacyItem1,Starfield Chronomark,watchface,Searchstars,StarfieldWatchFace_AstroBox_Release,efdc847,icon.png,preview.png,复刻;Starfield;星空;表盘;简约,xiaomi,xmws3;xmws4,
 LegacyItem2,木鱼Pro,quick_app,wuhaiqi0621,muyuPro_ForAstroBox,217b10d,icon.png,head.png,实用工具;木鱼;游戏,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,paid
 LegacyItem3,Hyper Box,quick_app,wuhaiqi0621,HyperBox_ForAstroBox,e7c6ffb,icon.png,head.png,实用工具;工具箱;计算器;水平仪;每日一言;歌词本;答案之书;木鱼;性能测试;摩斯密码;二维码;跑马灯;荧光棒,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
-com.yzf.daymatter,倒数日 快应用,quick_app,sf-yuzifu,Daymatter_Quickapp_AstroBox_Release,a29a0f9,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程,xiaomi,xmb9;xmb9p;xmws4;xmws4xring;xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc,
-979825266002,倒数日 表盘,watchface,sf-yuzifu,Daymatter_Watchface_AstroBox_Release,78d2985,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程;表盘,xiaomi,xmb9;xmb9p;xmws4;xmws4xring;xmb10;xmb10nfc,
-com.yzf.fireworkMaster,狂欢烟火大师赛,quick_app,sf-yuzifu,FireworkMaster_AstroBox_Release,9384f63,icon.png,preview.png,游戏;休闲;烟花;明日方舟,xiaomi,xmb9;xmb9p;xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc,
 LegacyItem7,喵喵电子书,quick_app,NEORUAA,MiaoReader_AstroBox_Release,61d87d0,icon.png,cover.png,实用工具;电子书;阅读;小说,xiaomi,xmb10;xmb10nfc;xmb9p,
 LegacyItem8,跃界,watchface,aurysian-yan,leap-n67-astrobox,fe87635,icon.png,cover.png,景深;壁纸;表盘;数据展示,xiaomi,xmb9p,
 LegacyItem9,我的世界,quick_app,DDguan2010,vela-minecraft,0ce9eaa,icon.png,preview0.png,游戏;我的世界;开放世界;休闲,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p,force_paid
@@ -25,7 +21,6 @@ LegacyItem22,The Commander 体验版,watchface,hrsthrt74,the-commander-for-astro
 LegacyItem23,PoP☆P,watchface,hrsthrt74,pop-star-p-for-astrobox,5b387b3,icon.png,cover.png,任天堂;星之卡比;可爱;简约;多设备支持,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws4;xmws4xring;o63;xmrw5;xmrw5xring,
 LegacyItem24,动态疾旋鼬,watchface,Eric-qiqi,Jixuanyou-for-astrobox,bd13cbb,icon.png,首页头图.png,可爱;动态;跳转;疾旋鼬,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
 LegacyItem25,重圆2 体验版,watchface,OnDriveLine,Recircle2_AB,bfbfd62,icon.png,cover.png,表盘;可编辑控件;时间感知,xiaomi,xmb9;xmb10;xmb10nfc,paid
-979825266001,【可互动】心跳文学部 莫妮卡,watchface,sf-yuzifu,Monika,a508910,icon.png,preview.png,表盘;可互动;心跳文学部;莫妮卡;ddlc;DDLC;Doki Doki Literature Club;心跳文学社;二次元;多设备支持;Monika;monika,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
 LegacyItem27,方块生活,quick_app,Azumachiaki,block_life,1d008b4,icon.png,cover.png,游戏;开放世界;沙盒游戏,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
 LegacyItem28,残星,quick_app,Azumachiaki,Fading_Star,acf9c7d,icon.png,cover.png,游戏;回合制;剧情游戏,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
 LegacyItem29,腕上芙宁娜Pro,quick_app,Dreamqiucn,Furina_of_band_PRO,638b247,logo.png,preview1.png,游戏;养成;战斗;原神;付费,xiaomi,xmb9;xmb9p;xmb10nfc;xmb10;xmrw5;xmrw5xring,force_paid
@@ -44,7 +39,6 @@ LegacyItem41,斗地主,quick_app,SarmonFish,vela-doudizhu-release,7c1fcff,icon.p
 LegacyItem42,章鱼克喵喵,watchface,MapleMapleMa,Klein_Moretti,05c6ffe,icon.png,头图.jpg,表盘;诡秘之主,xiaomi,xmb9;xmb10;xmb10nfc,
 LegacyItem43,内卷盒子,quick_app,Tellmeway0,LearnBox,6194bc6,logo.png,cover.png,学习;高效;付费,xiaomi,xmb9p,force_paid
 LegacyItem44,时研Focus,quick_app,Solan-486,Time-Y-Resource-Astrobox,215e5a5,icon.png,cover.png,快应用;工具;专注时钟;摆件;番茄钟,xiaomi,xmb9p,force_paid
-com.yzf.ballsRace,滚珠赛道,quick_app,sf-yuzifu,ballsRace,6a84b6a,icon.png,preview.png,游戏;快应用;滚珠赛道;赛车,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
 LegacyItem46,户山香澄 表盘,watchface,SmallK111407,KasumiWatchFace_AstroBox,a619149,icon.png,%E5%A4%B4%E5%9B%BE.png,表盘;邦多利;户山香澄;二次元;丰富样式;多数据,xiaomi,xmb9p,
 LegacyItem47,扫雷,quick_app,jfgege,Minesweeper-Vela,f84a3de,logo.png,header.png,游戏;扫雷;经典,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p;xmrw5;xmws3;xmws4,force_paid
 LegacyItem48,「如常」普拉娜,watchface,AL-1S-hash,AB-rc-pln,eb5c9bb,icon.png,preview0.png,表盘;付费;可编辑;时间感知;多设备支持,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,paid
@@ -112,4 +106,10 @@ LegacyItem109,众生,quick_app,SixOneTeam,zhongsheng_res,9e933fd,icon.png,previe
 LegacyItem110,「景深;缓亮」长崎素世 [MyGO!!!!!],watchface,midi-HL,-MyGO-,0396861,icon.jpg,xmbnad9.png,表盘;缓慢亮屏;二次元;MyGO!!!!!;长崎素世;景深,xiaomi,xmb9,
 979800000001,CAPTURE THE MOMENT,watchface,hrsthrt74,capture-the-moment-for-astrobox,1224fb8,icon.png,cover.png,徕卡;可编辑组件,xiaomi,xmrw6;xmrw5xring;xmrw5;xmb9p,
 979800000002,WF2,watchface,hrsthrt74,WF2-for-astrobox,6d18905,icon.png,cover.png,任天堂;简约;NintendoSwitch;指针;可编辑;深色模式;跳转;复刻,xiaomi,xmb9p;xmb10;xmb10nfc;xmrw5;xmrw6;xmrw5xring,
+com.searchstars.hyperbilibili,澎湃哔哩,quick_app,searchstars,Hyperbilibili_AstroBox_Release,650a7b4,icon.png,preview.png,客户端;实用工具;视频;社区;互动;在线;哔哩哔哩;B站;b站,xiaomi,xmws3;xmws4;xmrw5xring,
+com.yzf.ballsRace,滚珠赛道,quick_app,sf-yuzifu,ballsRace,6a84b6a,icon.png,preview.png,游戏;快应用;滚珠赛道;赛车,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
 moe.yzf.comic,腕上漫画,quick_app,sf-yuzifu,bandcomic_Quickapp_AstroBox_Release,a801d68,icon.png,preview.png,漫画;本地;摸鱼;实用工具;本子;二次元,xiaomi,xmb9p;xmrw5;xmrw6;xmrw5xring;xmws4;xmws4xring;xmws3,
+com.yzf.daymatter,倒数日 快应用,quick_app,sf-yuzifu,Daymatter_Quickapp_AstroBox_Release,a29a0f9,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程,xiaomi,xmb9;xmb9p;xmws4;xmws4xring;xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc,
+979825266002,倒数日 表盘,watchface,sf-yuzifu,Daymatter_Watchface_AstroBox_Release,78d2985,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程;表盘,xiaomi,xmb9;xmb9p;xmws4;xmws4xring;xmb10;xmb10nfc,
+com.yzf.fireworkMaster,狂欢烟火大师赛,quick_app,sf-yuzifu,FireworkMaster_AstroBox_Release,9384f63,icon.png,preview.png,游戏;休闲;烟花;明日方舟,xiaomi,xmb9;xmb9p;xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc,
+979825266001,【可互动】心跳文学部 莫妮卡,watchface,sf-yuzifu,Monika,a508910,icon.png,preview.png,表盘;可互动;心跳文学部;莫妮卡;ddlc;DDLC;Doki Doki Literature Club;心跳文学社;二次元;多设备支持;Monika;monika,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
