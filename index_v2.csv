@@ -12,7 +12,6 @@ LegacyItem13,焕芯,watchface,ChiHuan08,HuanXin_AstroBox,f88980b,icon.png,%E5%A4
 LegacyItem14,环间图库,quick_app,NEORUAA,BandAlbum_AstroBox_Release,4df5740,icon.png,cover.png,实用工具;图库;相册;图片,xiaomi,xmws4;xmws3;o63;xmws4xring;xmb10;xmb10nfc;xmb9;xmb9p,
 LegacyItem15,设备详细信息,quick_app,Internet1235,DeviceInfo_AstroBox_Release,31f44d7,icon.svg,cover.svg,实用工具;设备信息;系统信息,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p;xmws3;xmws4;xmws4xring;o63;xmrw5;xmrw5xring,
 LegacyItem16,澄序课程表,quick_app,waterflames-team,clartime-velaapp-astroinfo,5b65c78,logo.png,cover.png,实用工具;课程表;简约;美观,xiaomi,xmb9p,
-fun.okschoollife,OK School Life,quick_app,CheongSzesuen,OKSchoolLife_AstroBox_Release,91b128e,icon.png,head/head@1x.png,游戏;文字游戏;移植;校园模拟;学校;校园,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,
 LegacyItem18,playball,quick_app,zyhsck,my_astrobox_ball,9d458d9,logo.png,cover.png,游戏,redmi,xmrw5;xmrw5xring,
 LegacyItem19,《马力欧＆路易吉RPG 兄弟齐航》风格表盘 +,watchface,hrsthrt74,MLRPG-brothership-for-astrobox,5a4631e,icon.png,cover.png,任天堂;马力欧;路易吉;NintendoSwitch;多样式;多设备支持;景深;简约,xiaomi,xmb9p;xmrw5;xmrw5xring,
 LegacyItem20,PRiSM+,watchface,hrsthrt74,prism-plus-for-astrobox,9b59135,icon.png,cover.png,SEGA;maimaiDX;舞萌 DX;简约;多设备支持,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring,
@@ -47,7 +46,6 @@ LegacyItem50,学习盒子-高中版,quick_app,Hiqming,gaozhong,3ce14ab,logo.png,
 LegacyItem51,趣摇盲盒,quick_app,Hiqming,qymh,1220217,logo.png,1.jpg,游戏;随机,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,force_paid
 LegacyItem52,动感飞车,quick_app,Hiqming,feiche,12d7350,logo.png,1.jpg,游戏;赛车;动感,xiaomi,xmb9;xmb10;xmb10nfc,force_paid
 LegacyItem53,WindowsWF,watchface,wuhaiqi0621,WinWF_ForAstroBox,200094c,icon.png,head.png,Windows;表盘;微软;Win11;跳转;壁纸,xiaomi,xmb10;xmb10nfc,
-LegacyItem54,同位素2048,quick_app,CheongSzesuen,Isotope2048_AstroBox_Release,3be617b,logo.png,Isotope2048.png,2048;游戏;化学;科学;趣味;二改,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p,
 LegacyItem55,环间扫雷,quick_app,DDguan2010,vela-minesweeper,c35a1a5,icon.png,preview0.png,游戏;休闲;扫雷,xiaomi,xmb10;xmb10nfc;xmb9,force_paid
 LegacyItem56,【部分付费】派对游戏合集,quick_app,Demon0H,partygame_miband,57570b1,icon.png,cover.png,游戏;付费;派对游戏,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,paid
 LegacyItem57,人生重开模拟器,quick_app,DDguan2010,vela-liferestart,e425273,icon.png,preview0.png,游戏;休闲;人生重开;模拟,xiaomi,xmb10;xmb10nfc;xmb9,
@@ -75,7 +73,6 @@ LegacyItem78,花开忘忧,watchface,wuhaiqi0621,HuaKaiWangYou_ForAstroBox,1e3257
 LegacyItem79,飞鸟会长不肯认输,quick_app,liuyuze61,Asunabi_AstroBox,9929fb9,logo.png,preview.png,galgame;游戏,xiaomi,xmb9p;xmb10;xmb10nfc,
 LegacyItem80,JSLab,quick_app,cciccicu,JSLab_AstroBox_Release,d5903fe,logo.png,cover.png,JS;工具,xiaomi,xmb9p,
 LegacyItem81,authRD,watchface,hrsthrt74,authRD-for-astrobox,54db0b2,icon.png,cover.png,明日方舟;通行证;多样式;跳转,xiaomi,xmb9p,
-cn.waijade.B2048,更好的2048,quick_app,CheongSzesuen,B2048_AstroBox_Release,639bad8,logo.png,head/head.png,2048;二改;更好的2048;益智,xiaomi,xmb10;xmb10nfc,
 LegacyItem83,Smart-Box,quick_app,Emptysets,SmartBox,451b2c3,icon.png,preview.png,工具箱;实用工具;免费,xiaomi,xmb9;xmb9p,
 LegacyItem84,赤旗破晓,quick_app,Tellmeway0,RememberHistory,9bfe066,logo.png,rh_cover.png,历史;游戏;免费,xiaomi,xmb9p,
 LegacyItem85,banDS,watchface,hrsthrt74,banDS-for-astrobox,6d2a9f6,icon.png,cover.png,任天堂;Y2K;复古;像素风;千禧年;点阵;可编辑;可编辑控件;复刻;跳转,xiaomi,xmb9p,
@@ -115,3 +112,6 @@ com.yzf.fireworkMaster,狂欢烟火大师赛,quick_app,sf-yuzifu,FireworkMaster_
 979825266001,【可互动】心跳文学部 莫妮卡,watchface,sf-yuzifu,Monika,a508910,icon.png,preview.png,表盘;可互动;心跳文学部;莫妮卡;ddlc;DDLC;Doki Doki Literature Club;心跳文学社;二次元;多设备支持;Monika;monika,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
 979808740628,authRD - 新约能天使,watchface,hrsthrt74,authRD-exusiaialt-for-astrobox,deafb15,icon.png,cover.png,明日方舟;多样式;跳转,xiaomi,xmrw5;xmrw5xring;xmrw6,
 979808741500,死了么,watchface,hrsthrt74,sileme-for-astrobox,5bb93a7,icon.png,cover.png,表盘,xiaomi,xmb9p,
+cn.waijade.Isotope.2048,同位素2048,quick_app,CheongSzesuen,Isotope2048_AstroBox_Release,a0c6769,logo.png,head/Isotope2048.png,2048;游戏;化学;科学;趣味;二改,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p,
+cn.waijade.B2048,更好的2048,quick_app,CheongSzesuen,B2048_AstroBox_Release,edb72d8,logo.png,head/head.png,2048;二改;更好的2048;益智,xiaomi,xmb10;xmb10nfc,
+fun.okschoollife,OK School Life,quick_app,CheongSzesuen,OKSchoolLife_AstroBox_Release,91b128e,icon.png,head/head@1x.png,游戏;文字游戏;移植;校园模拟;学校;校园,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,
