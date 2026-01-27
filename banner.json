@@ -20,6 +20,16 @@
         }
     },
     {
+        "background": "assets/banner/hyperisland/bg.png",
+        "title": "超级岛HyperIsland",
+        "description": "你的手表，也能上岛",
+        "foreground": "assets/banner/hyperisland/fg.png",
+        "button": {
+            "text": "立即购买",
+            "url": "https://afdian.com/item/856f5592c09311f0940352540025c377"
+        }
+    },
+    {
         "background": "assets/banner/bandcomic/bg.png",
         "title": "腕上漫画",
         "description": "在表上随时浏览并本地保存在线漫画",
