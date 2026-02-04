@@ -5,8 +5,8 @@
     "description": "AstroBox 官方“吉祥物”动态表盘，全设备适配",
     "foreground": "assets/banner/abgirl/fg.png",
     "button": {
-      "text": "立即购买",
-      "url": "https://afdian.com/item/c90bb970fcee11f0b2b052540025c377"
+      "text": "了解更多",
+      "url": "https://astrobox.online/open?source=res&res=ABGirl%E5%8A%A8%E6%80%81%E8%A1%A8%E7%9B%98&provider=official"
     }
   },
   {
@@ -35,8 +35,8 @@
     "description": "你的手表，也能上岛",
     "foreground": "assets/banner/hyperisland/fg.png",
     "button": {
-      "text": "立即购买",
-      "url": "https://afdian.com/item/856f5592c09311f0940352540025c377"
+      "text": "了解更多",
+      "url": "https://astrobox.online/open?source=res&res=%E8%B6%85%E7%BA%A7%E5%B2%9BHyperIsland&provider=official"
     }
   },
   {
