@@ -59,8 +59,9 @@
     "featuredAuthors": [
         {
             "id": "sf-yuzifu",
-            "name": "Yulimfish",
-            "description": "创作一些好用、好看的作品",
+            "name": "小鱼yuzifu",
+            "description": "You like me, I like you.",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/53327400?v=4",
             "resourceIds": [
                 "com.yzf.ballsRace",
                 "com.yzf.daymatter",
