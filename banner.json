@@ -2,7 +2,7 @@
     {
         "background": "assets/banner/aba2025/bg.png",
         "title": "Awards '25",
-        "description": "在2月14日之前为你心目中的年度优秀资源投上一票吧！",
+        "description": "为你心目中的年度优秀资源投上一票吧！",
         "foreground": "assets/banner/aba2025/fg.png",
         "button": {
             "text": "立即投票",
