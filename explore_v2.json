@@ -1,1 +1,72 @@
-{}
+{
+    "masonryCards": [
+        {
+            "id": "3",
+            "type": "normal",
+            "content": "将自己的资源<br/>发布到AstroBox",
+            "heightPC": 130,
+            "appearance": {
+                "dark": {
+                    "background": {
+                        "color": "rgba(71, 71, 75, 0.30)"
+                    }
+                },
+                "light": {
+                    "background": {
+                        "color": "#F2F9FF"
+                    }
+                }
+            },
+            "canClose": false,
+            "actionsAlign": "left",
+            "actions": [
+                {
+                    "id": "action3",
+                    "content": "前往 Creator Console",
+                    "url": "https://example.com/action3"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "type": "normal",
+            "content": "AstroBox<br/>Weekly #2",
+            "heightPC": 130,
+            "appearance": {
+                "dark": {
+                    "background": {
+                        "color": "rgba(71, 71, 75, 0.30)"
+                    }
+                },
+                "light": {
+                    "background": {
+                        "color": "#F2F9FF"
+                    }
+                }
+            },
+            "canClose": false,
+            "actionsAlign": "left",
+            "actions": [
+                {
+                    "id": "action3",
+                    "content": "阅读",
+                    "url": "https://example.com/action3"
+                }
+            ]
+        }
+    ],
+    "featuredResourceIds": ["979808741600", "moe.yzf.comic"],
+    "featuredAuthors": [
+        {
+            "id": "sf-yuzifu",
+            "name": "小鱼yuzifu",
+            "description": "You like me, I like you.",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/53327400?v=4",
+            "resourceIds": [
+                "com.yzf.ballsRace",
+                "com.yzf.daymatter",
+                "com.yzf.fireworkMaster"
+            ]
+        }
+    ]
+}

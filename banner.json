@@ -1,5 +1,25 @@
 [
     {
+        "background": "assets/banner/aba2025/bg.png",
+        "title": "Awards '25",
+        "description": "为你心目中的年度优秀资源投上一票吧！",
+        "foreground": "assets/banner/aba2025/fg.png",
+        "button": {
+            "text": "立即投票",
+            "url": "https://my.feishu.cn/share/base/form/shrcnZctz8gHnvb5kZNPw2X5wE7"
+        }
+    },
+    {
+        "background": "assets/banner/abgirl/bg.png",
+        "title": "ABGirl",
+        "description": "AstroBox 官方“吉祥物”动态表盘，全设备适配",
+        "foreground": "assets/banner/abgirl/fg.png",
+        "button": {
+            "text": "了解更多",
+            "url": "https://astrobox.online/open?source=res&res=ABGirl%E5%8A%A8%E6%80%81%E8%A1%A8%E7%9B%98&provider=official"
+        }
+    },
+    {
         "background": "assets/banner/hb/bg.png",
         "title": "Hyper Box",
         "description": "拥有20+功能和超绝UI的万能工具箱",
@@ -17,6 +37,16 @@
         "button": {
             "text": "立即下载",
             "url": "https://astrobox.online/open?source=res&res=OMusic&provider=official"
+        }
+    },
+    {
+        "background": "assets/banner/hyperisland/bg.png",
+        "title": "超级岛HyperIsland",
+        "description": "你的手表，也能上岛",
+        "foreground": "assets/banner/hyperisland/fg.png",
+        "button": {
+            "text": "了解更多",
+            "url": "https://astrobox.online/open?source=res&res=%E8%B6%85%E7%BA%A7%E5%B2%9BHyperIsland&provider=official"
         }
     },
     {
