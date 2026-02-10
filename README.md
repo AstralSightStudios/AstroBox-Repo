@@ -13,7 +13,7 @@ AstroBox的官方软件源仓库
 同时也可阅读[资源下架清单](REMOVED.md)以获取下架过的资源的列表以及下架原因。
 
 ## 资源要求
-可参考[资源提交规范](assets/docs/submission_standards.md)
+可参考[资源提交规范](assets/docs/submission_standards.md)和[AstroBox-NG资源适配规范](assets/docs/ResAdptV2.md)
 
 ## 审核流程
 可参见[《AstroBox 官方社区源资源审核标准》](assets/docs/review_standards.docx)
