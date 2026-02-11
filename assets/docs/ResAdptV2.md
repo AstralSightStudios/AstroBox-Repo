@@ -15,7 +15,7 @@ com.searchstars.hyperbilibili,澎湃哔哩,quick_app,searchstars,Hyperbilibili_A
 - repo_owner：资源仓库所有者GitHub名称(**非GitHub昵称**)，必填。
 - repo_name：资源仓库所有者名下的GitHub仓库名，必填。
 - repo_commit_hash：资源仓库对应版本的提交短哈希，必填，更新后需要同步在此仓库更新此字段，此字段用于防止提交者滥改资源。
-- icon/cover：展示用图在仓库中的文件名，必填，直接写对于根目录的路径。比如：如果放在根目录下，直接写`xxx.png`即可。
+- icon/cover：展示用图在仓库中的文件名，必填，直接写对于根目录的路径。比如：如果放在根目录下，直接写`xxx.png`即可，如果在根目录的一个名为`xx`的子文件夹下，则写`./xx/icon.png`即可。
 - tags：数组，用于分类和搜索，必填。
 - device_vendor：数组，支持的设备的制造商 (xiaomi / vivo / ...)，必填。
 - devices：数组，支持的设备 ID，可以从[这里](#设备对照列表)获取，必须和manifest中的完全一致，必填。
