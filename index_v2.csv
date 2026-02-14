@@ -10,6 +10,7 @@ LegacyItem11,水平仪,quick_app,leset0ng,lstReleaseForAstroBox,be562f9,logo.png
 LegacyItem12,SekaiUI 初音未来表盘,watchface,SmallK111407,SekaiUI_AstroBox,ceb3805,icon.png,%E5%A4%B4%E5%9B%BE.png,表盘;世界计划;初音未来;数据展示;丰富样式,xiaomi,xmb9p;n65;xmrw5;xmrw5xring;xmrw6,
 LegacyItem13,焕芯,watchface,ChiHuan08,HuanXin_AstroBox,f88980b,icon.png,%E5%A4%B4%E5%9B%BE.png,表盘;编辑控件;拼色;简约,xiaomi,xmb9p,
 LegacyItem14,环间图库,quick_app,NEORUAA,BandAlbum_AstroBox_Release,4df5740,icon.png,cover.png,实用工具;图库;相册;图片,xiaomi,xmws4;xmws3;o63;xmws4xring;xmb10;xmb10nfc;xmb9;xmb9p,
+LegacyItem15,设备详细信息,quick_app,Internet1235,DeviceInfo_AstroBox_Release,31f44d7,icon.svg,cover.svg,实用工具;设备信息;系统信息,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p;xmws3;xmws4;xmws4xring;o63;xmrw5;xmrw5xring,
 LegacyItem16,澄序课程表,quick_app,waterflames-team,clartime-velaapp-astroinfo,5b65c78,logo.png,cover.png,实用工具;课程表;简约;美观,xiaomi,xmb9p,
 LegacyItem18,playball,quick_app,zyhsck,my_astrobox_ball,9d458d9,logo.png,cover.png,游戏,redmi,xmrw5;xmrw5xring,
 LegacyItem19,《马力欧＆路易吉RPG 兄弟齐航》风格表盘 +,watchface,hrsthrt74,MLRPG-brothership-for-astrobox,5a4631e,icon.png,cover.png,任天堂;马力欧;路易吉;NintendoSwitch;多样式;多设备支持;景深;简约,xiaomi,xmb9p;xmrw5;xmrw5xring,
@@ -117,4 +118,3 @@ fun.okschoollife,OK School Life,quick_app,CheongSzesuen,OKSchoolLife_AstroBox_Re
 com.lladlam.bandpet,BandPet-Free,quick_app,lladlam,Astrobox-BandPet-Free,caa8f89,icon.png,preview.png,游戏;点击;交换,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmws4;xmws4xring,
 <placeholder>,动态疾旋鼬,watchface,Eric-qiqi,Jixuanyou-for-astroboxv2,3ad0e4d,./media/icon.png,./media/toutu.png,可爱;动态;跳转;疾旋鼬,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p,
 <placeholder>,玉兰黄鹂,watchface,Eric-qiqi,yulanhuangli-for-astrobox,ccbffe4,./media/icon.png,./media/awa.png,工笔画,xiaomi,xmb9p,
-com.deviceinfo,设备详细信息,quick_app,Internet1235,DeviceInfo_AstroBox_Release,6565cc4,icon.svg,cover.svg,实用工具;设备信息;系统信息,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p;xmws3;xmws4;xmws4xring;o63;xmrw5;xmrw5xring;xmrw6,
