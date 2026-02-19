@@ -1,7 +1,7 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
 LegacyItem1,Starfield Chronomark,watchface,Searchstars,StarfieldWatchFace_AstroBox_Release,efdc847,icon.png,preview.png,复刻;Starfield;星空;表盘;简约,xiaomi,xmws3;xmws4,
 LegacyItem2,木鱼Pro,quick_app,wuhaiqi0621,muyuPro_ForAstroBox,217b10d,icon.png,head.png,实用工具;木鱼;游戏,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,paid
-LegacyItem3,Hyper Box,quick_app,wuhaiqi0621,HyperBox_ForAstroBox,e7c6ffb,icon.png,head.png,实用工具;工具箱;计算器;水平仪;每日一言;歌词本;答案之书;木鱼;性能测试;摩斯密码;二维码;跑马灯;荧光棒,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
+LegacyItem3,Hyper Box,quick_app,wuhaiqi0621,HyperBox_ForAstroBox,e7c6ffb,icon.png,head.png,实用工具;工具箱;计算器;水平仪;每日一言;歌词本;答案之书;木鱼;性能测试;摩斯密码;二维码;跑马灯;荧光棒,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6,
 LegacyItem7,喵喵电子书,quick_app,NEORUAA,MiaoReader_AstroBox_Release,61d87d0,icon.png,cover.png,实用工具;电子书;阅读;小说,xiaomi,xmb10;xmb10nfc;xmb9p,
 LegacyItem8,跃界,watchface,aurysian-yan,leap-n67-astrobox,fe87635,icon.png,cover.png,景深;壁纸;表盘;数据展示,xiaomi,xmb9p,
 LegacyItem9,我的世界,quick_app,DDguan2010,vela-minecraft,0ce9eaa,icon.png,preview0.png,游戏;我的世界;开放世界;休闲,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p,force_paid
