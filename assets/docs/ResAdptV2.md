@@ -15,7 +15,7 @@ com.searchstars.hyperbilibili,澎湃哔哩,quick_app,searchstars,Hyperbilibili_A
 |-------------------|-------------------|-------------------|-----------------|-----------------|
 | 97                | 98                | 如h74为0874       | 如01            | 如01            |
 
-> 前四位数字固定，分别为A(97)B(98)对应的ASCII编码，剩下八位由作者自己支配，建议结构为四位数字（字母要用ASCII转换）加上四位数字，两两一组分别代表表盘系列序号和分支序号。此为根据目前的表盘ID得到的惯例，正式版可能修改。
+> 前四位数字固定，分别为A(97)B(98)对应的ASCII编码，剩下八位由作者自己支配，建议结构为四位数字（字母要用ASCII转换），用于作者名字。后四位数字，两两一组分别代表表盘系列序号和分支序号。此为根据目前的表盘ID得到的惯例，正式版可能修改。
 
 - name：名称，必填，且必须和你的仓库中manifest中的完全一致。
 - restype：资源类型（quick_app / watchface / firmware），必填。
@@ -87,6 +87,7 @@ com.searchstars.hyperbilibili,澎湃哔哩,quick_app,searchstars,Hyperbilibili_A
    - **cover**：资源封面图。
    - **author**：作者信息，选填。`bindABAccount`为true根据`name`绑定到指定的AstroBox账号，选填。
 - **links**：相关链接列表，选填。可填入官网、开源地址、QQ加群跳转等。
+  - **icon**：AstroBox NextGen用了统一的图标库，为了保持风格统一，这里只能填[Phosphor](https://phosphoricons.com/)中的图标名称，比如`github-logo`、`house`、`telegram-logo`等等。
 - **downloads**：下载资源，按设备ID划分。设备ID与index_v2.csv中的devices一致。
   - **version**：资源版本号。
   - **file_name**：资源文件名路径。
