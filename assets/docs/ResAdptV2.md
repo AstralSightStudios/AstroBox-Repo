@@ -9,7 +9,11 @@ com.searchstars.hyperbilibili,澎湃哔哩,quick_app,searchstars,Hyperbilibili_A
 979808741600,endID,watchface,hrsthrt74,endID-for-astrobox,b3d1e51,icon.png,cover.png,表盘,xiaomi,xmrw6;xmrw5xring;xmrw5;xmws4;xmb9p;xmb10;xmb10nfc,
 ```
 ### 1.2 CSV字段说明
-- id：唯一标识（快应用包名），若是表盘则以`<placeholder>`占位，我们会单独分配表盘ID，必填。
+- id：唯一标识（快应用包名），若是表盘则以`<placeholder>`占位，我们会单独分配表盘ID，必填。`＜placeholder＞`大致结构如`979808741600`
+    | A(两位)                        | B(两位)         |作者名(四位)|系列(两位)|分支(两位)|
+|------------------------------|--------------|--------------|--------------|--------------|
+| 97          | 98        |如h74为0874|如01|如01|
+＞ 前四位数字固定，分别为A(97)B(98)对应的ASCII编码，剩下八位由作者自己支配，建议结构为四位数字（字母要用ASCII转换）加上四位数字，两两一组分别代表表盘系列序号和分支序号。此为根据目前的表盘ID得到的惯例，正式版可能修改。
 - name：名称，必填，且必须和你的仓库中manifest中的完全一致。
 - restype：资源类型（quick_app / watchface / firmware），必填。
 - repo_owner：资源仓库所有者GitHub名称(**非GitHub昵称**)，必填。
