@@ -1,11 +1,11 @@
 [
     {
         "background": "assets/banner/FUCK/bg.png",
-        "title": "抵制闲鱼倒狗",
+        "title": "假二创",
         "description": "@水印相机",
         "foreground": "assets/banner/hb/fg.png",
         "button": {
-            "text": "查看倒狗闲鱼首页",
+            "text": "查看此人闲鱼首页",
             "url": "https://m.tb.cn/h.iaE0S0P?tk=NOLYUKSwhtl"
         }
     },
