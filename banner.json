@@ -1,15 +1,5 @@
 [
   {
-    "background": "assets/banner/FUCK/bg.png",
-    "title": "真假“二创”🤣",
-    "description": "@水印相机 会员名x***6 IP浙江",
-    "foreground": "assets/banner/hb/fg.png",
-    "button": {
-      "text": "查看此人闲鱼首页",
-      "url": "https://m.tb.cn/h.iaE0S0P?tk=NOLYUKSwhtl"
-    }
-  },
-  {
     "background": "assets/banner/abgirl/bg.png",
     "title": "ABGirl",
     "description": "AstroBox 官方“吉祥物”动态表盘，全设备适配",
