@@ -1,5 +1,15 @@
 [
     {
+        "background": "assets/banner/FUCK/bg.png",
+        "title": "抵制闲鱼倒狗",
+        "description": "@山本元柳斋不用飘柔\n@水印相机",
+        "foreground": "assets/banner/hb/fg.png",
+        "button": {
+            "text": "唯一下载渠道",
+            "url": "https://astrobox.online/"
+        }
+    },
+    {
         "background": "assets/banner/abgirl/bg.png",
         "title": "ABGirl",
         "description": "AstroBox 官方“吉祥物”动态表盘，全设备适配",
