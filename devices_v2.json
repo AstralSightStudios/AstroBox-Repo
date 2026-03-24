@@ -118,7 +118,21 @@
       "description": "",
       "chip": "bes",
       "fetch": true
-    }
+    },
+    "M2530W1": {
+      "id": "xmws5",
+      "name": "Xiaomi Watch S5 系列",
+      "description": "",
+      "chip": "bes",
+      "fetch": true
+    },
+    "M2517W1": {
+      "id": "xmws5",
+      "name": "Xiaomi Watch S5 系列",
+      "description": "s5 esim",
+      "chip": "bes",
+      "fetch": true
+    },
   },
   "vivo": {
     "WA2536B": {
