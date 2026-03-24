@@ -100,5 +100,23 @@
         "codename": "o65m",
         "chip": "xring",
         "fetch": true
-    }
+    },
+    "M2523W1": {
+        "name": "REDMI Watch 6",
+        "codename": "p65",
+        "chip": "bes",
+        "fetch": true
+    },
+    "M2530W1": {
+        "name": "Xiaomi Watch S5 系列",
+        "codename": "p62",
+        "chip": "bes",
+        "fetch": true
+    },
+    "M2517W1": { // S4 eSIM
+        "name": "Xiaomi Watch S5 系列",
+        "codename": "p62",
+        "chip": "bes",
+        "fetch": true
+    },
 }
