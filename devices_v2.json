@@ -132,7 +132,7 @@
       "description": "s5 esim",
       "chip": "bes",
       "fetch": true
-    },
+    }
   },
   "vivo": {
     "WA2536B": {
