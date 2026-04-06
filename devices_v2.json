@@ -93,8 +93,8 @@
     },
     "M2502W1": {
       "id": "xmws441",
-      "name": "Xiaomi Watch S4 系列",
-      "description": "s441mm，无特别特性",
+      "name": "Xiaomi Watch S4 41mm",
+      "description": "s441mm，无特别特性，但屏幕大小有差异",
       "chip": "bes",
       "fetch": true
     },
