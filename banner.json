@@ -62,7 +62,7 @@
   {
     "background": "assets/banner/simpleweather/bg.png",
     "title": "简明天气",
-    "description": "适用于Vela的长期天气存储快应用",
+    "description": "更好看好用的米环米表天气应用",
     "foreground": "assets/banner/simpleweather/fg.png",
     "button": {
       "text": "立即下载",
