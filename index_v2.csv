@@ -91,7 +91,7 @@ com.yzf.fireworkMaster,狂欢烟火大师赛,quick_app,sf-yuzifu,FireworkMaster_
 979808741500,死了么,watchface,hrsthrt74,sileme-for-astrobox,5bb93a7,icon.png,cover.png,表盘,xiaomi,xmb9p,
 cn.waijade.Isotope.2048,同位素2048,quick_app,CheongSzesuen,Isotope2048_AstroBox_Release,a0c6769,logo.png,head/Isotope2048.png,2048;游戏;化学;科学;趣味;二改,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p,
 cn.waijade.B2048,更好的2048,quick_app,CheongSzesuen,B2048_AstroBox_Release,edb72d8,logo.png,head/head.png,2048;二改;更好的2048;益智,xiaomi,xmb10;xmb10nfc,
-cn.waijade.okschoollife,OK School Life,quick_app,CheongSzesuen,OKSchoolLife_AstroBox_Release,2cfc63d,icon.png,head/head@1x.png,游戏;文字游戏;移植;校园模拟;学校;校园,xmb9,xmb9p,xmb10,xmb10nfc,xmws3,xmws4,xmws4xring,xmws441,xmrw5,xmrw5xring,xmrw6,xmws5,
+cn.waijade.okschoollife,OK School Life,quick_app,CheongSzesuen,OKSchoolLife_AstroBox_Release,2cfc63d,icon.png,head/head@1x.png,游戏;文字游戏;移植;校园模拟;学校;校园,xmb9,xmb9p;xmb10;xmb10nfc;xmws3;xmws4;xmws4xring;xmws441;xmrw5;xmrw5xring;xmrw6;xmws5,
 979808741600,endID,watchface,hrsthrt74,endID-for-astrobox,b3d1e51,icon.png,cover.png,表盘,xiaomi,xmrw6;xmrw5xring;xmrw5;xmws4;xmb9p;xmb10;xmb10nfc,
 com.lladlam.bandpet,BandPet-Free,quick_app,lladlam,Astrobox-BandPet-Free,caa8f89,icon.png,preview.png,游戏;点击;交换,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmws4;xmws4xring,
 979869821000,动态疾旋鼬,watchface,Eric-qiqi,Jixuanyou-for-astroboxv2,3ad0e4d,media/icon.png,media/toutu.png,可爱;动态;跳转;疾旋鼬,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p,
