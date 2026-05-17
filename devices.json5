@@ -122,4 +122,10 @@
     chip: "bes",
     fetch: true,
   },
+  M2553B1: {
+    name: "Xiaomi Smart Band 10 Pro",
+    codename: "p67",
+    chip: "bes",
+    fetch: false,
+  },
 }

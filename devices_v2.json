@@ -132,6 +132,13 @@
       "description": "s5 esim",
       "chip": "bes",
       "fetch": true
+    },
+    "M2553B1": {
+      "id": "xmb10p",
+      "name": "Xiaomi Smart Band 10 Pro",
+      "description": "",
+      "chip": "bes",
+      "fetch": false
     }
   },
   "vivo": {
