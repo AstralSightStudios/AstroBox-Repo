@@ -12,7 +12,7 @@
   {
     "background": "assets/banner/hb/bg.png",
     "title": "Hyper Box",
-    "description": "拥有20+功能和超绝UI的万能工具箱，现已支持REDMI Watch 5/6",
+    "description": "拥有20+功能和超绝UI的万能工具箱，现已支持小米手环10Pro",
     "foreground": "assets/banner/hb/fg.png",
     "button": {
       "text": "立即下载",
