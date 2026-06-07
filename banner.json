@@ -20,10 +20,10 @@
     }
   },
   {
-    "background": "assets/banner/omusic/bg.png",
+    "background": "assets/banner/neomusic/bg.png",
     "title": "NeoMusic",
-    "description": "OMusic 升级而来的第三方音乐客户端",
-    "foreground": "assets/banner/omusic/fg.png",
+    "description": "专为小米 VelaOS 手表打造的第三方音乐客户端",
+    "foreground": "assets/banner/neomusic/fg.png",
     "button": {
       "text": "立即下载",
       "url": "https://astrobox.online/open?source=res&res=NeoMusic&provider=official"
