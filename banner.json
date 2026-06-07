@@ -21,12 +21,12 @@
   },
   {
     "background": "assets/banner/omusic/bg.png",
-    "title": "OMusic",
-    "description": "好用的第三方网易云音乐客户端",
+    "title": "NeoMusic",
+    "description": "OMusic 升级而来的第三方网易云音乐客户端",
     "foreground": "assets/banner/omusic/fg.png",
     "button": {
       "text": "立即下载",
-      "url": "https://astrobox.online/open?source=res&res=OMusic&provider=official"
+      "url": "https://astrobox.online/open?source=res&res=NeoMusic&provider=official"
     }
   },
   {
