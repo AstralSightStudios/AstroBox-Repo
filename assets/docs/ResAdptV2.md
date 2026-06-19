@@ -91,7 +91,7 @@ com.searchstars.hyperbilibili,澎湃哔哩,quick_app,searchstars,Hyperbilibili_A
 - **downloads**：下载资源，按设备ID划分。设备ID与index_v2.csv中的devices一致。
   - **version**：资源版本号。
   - **file_name**：资源文件名路径。
-- **ext**：扩展字段，用于未来的拓展。
+- **ext**：扩展字段，用于未来的拓展。目前已有加密后的资源的链接，需要用到Creator Console。
 
 ### 设备对照列表
 
@@ -101,9 +101,12 @@ com.searchstars.hyperbilibili,澎湃哔哩,quick_app,searchstars,Hyperbilibili_A
 | Xiaomi Smart Band 9 Pro      | xmb9p        |
 | Xiaomi Smart Band 10         | xmb10        |
 | Xiaomi Smart Band 10 NFC     | xmb10nfc     |
+| Xiaomi Smart Band 10 Pro     | xmb10p       |
 | Xiaomi Watch S3 系列         | xmws3        |
 | Xiaomi Watch S4 系列         | xmws4        |
 | Xiaomi Watch S4 15周年纪念版 | xmws4xring   |
+| Xiaomi Watch S4 41mm         | xmws441      |
+| Xiaomi Watch S5 系列         | xmws5        |
 | REDMI Watch 5                | xmrw5        |
 | REDMI Watch 5 eSIM           | xmrw5xring   |
 | REDMI Watch 6                | xmrw6        |
