@@ -7,68 +7,44 @@
 
       "contentMode": "default",
       "content": {
-        "title": "CBT3 正式发布",
-        "tag": "更新日志",
-        "introduction": "点击查看本次重大更新说明"
-      },
-
-      "background": {
-        "img": "update/update.png"
-      },
-
-      "actions": [
-        {
-          "id": "update",
-          "content": "阅读",
-          "url": "update/cbtupdate.md"
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "type": "normal",
-      "canClose": false,
-
-      "contentMode": "default",
-      "content": {
-        "title": "先锋测试",
+        "title": "AstroBox 2.0 正式公测",
         "tag": "公告",
-        "introduction": "先锋测试正式开始"
+        "introduction": "期待听到大家的反馈"
       },
 
       "background": {
-        "img": "notice/cover.png"
+        "img": "notice/cover1.png"
       },
 
       "actions": [
         {
           "id": "notice",
           "content": "阅读",
-          "url": "notice/cbt.md"
+          "url": "notice/index.md"
         }
       ]
     },
     {
-      "id": "5",
-      "type": "normal",
+      "id": "4",
+      "type": "big",
       "canClose": false,
 
       "contentMode": "default",
       "content": {
-        "title": "困惑的成长",
-        "tag": "作者专访",
-        "introduction": "鱼子酱的人生故事"
+        "title": "简明天气",
+        "tag": "资源推荐",
+        "introduction": "一个从校园痛点里长出来的天气应用"
       },
 
       "background": {
-        "img": "weekly-1/cover.jpg"
+        "img": "jmtq/ab-square.png"
       },
 
       "actions": [
         {
-          "id": "91",
+          "id": "jmtq",
           "content": "阅读",
-          "url": "weekly-1/index.md"
+          "url": "jmtq/index.md"
         }
       ]
     }
