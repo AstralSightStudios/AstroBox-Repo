@@ -50,4 +50,4 @@ cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/
 
 如果你也是米环米表用户，正在寻找一款真正"离线可用、界面顺眼、逻辑简单"的天气应用，这款从社区痛点里长出来的作品，值得一试。
 
-::resource{id=com.LegacyItem91}
+::resource{id=LegacyItem91}
