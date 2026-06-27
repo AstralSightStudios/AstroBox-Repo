@@ -22,7 +22,6 @@ LegacyItem18,playball,quickapp,zyhsck,my_astrobox_ball,9d458d9,logo.png,cover.pn
 979808740400,The Commander 体验版,watchface,hrsthrt74,the-commander-for-astrobox,625d3c0,icon.png,cover.png,多种数据,xiaomi,xmb9p,paid
 979808740500,PoP☆P,watchface,hrsthrt74,pop-star-p-for-astrobox,76c13da,icon.png,cover.png,任天堂;星之卡比;可爱;简约;多设备支持,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc;xmws4;xmws4xring;o63;xmrw5;xmrw5xring;xmrw6,
 LegacyItem24,动态疾旋鼬,watchface,Eric-qiqi,Jixuanyou-for-astrobox,2429a95,icon.png,首页头图.png,可爱;动态;跳转;疾旋鼬,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
-979808747710,重圆2 体验版,watchface,OnDriveLine,Recircle2_AB,aea821f,icon.png,cover.png,表盘;可编辑控件;时间感知,xiaomi,xmb9;xmb10;xmb10nfc,paid
 979825266001,【可互动】心跳文学部 莫妮卡,watchface,sf-yuzifu,Monika,a261c4b,icon.png,preview.png,表盘;可互动;心跳文学部;莫妮卡;ddlc;DDLC;Doki Doki Literature Club;心跳文学社;二次元;多设备支持;Monika;monika,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
 LegacyItem27,方块生活,quickapp,Azumachiaki,block_life,a8d5d34,icon.png,cover.png,游戏;开放世界;沙盒游戏,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
 LegacyItem28,残星,quickapp,Azumachiaki,Fading_Star,2ddb659,icon.png,cover.png,游戏;回合制;剧情游戏,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
@@ -151,3 +150,4 @@ LegacyItem148,三相消除,quickapp,jinmohan,SanXiangXiaoChuFor_AstroBox_Release
 moe.orpu.neomusic,NeoMusic,quick_app,OrPudding,NeoMusic-AstroBox-Resource,f31ff42,icon.png,cover.png,音乐;实用工具,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6;xmws5,paid
 LegacyItem153,恐龙快跑,quickapp,YuanRong1026,go-runner_xiaomi-Vela,71316df,icon.png,cover.png,游戏;休闲;娱乐,xiaomi,xmb9p;xmb10;xmb10nfc,
 979808741600,endID,watchface,hrsthrt74,endID-for-astrobox,cfb0f39,icon.png,cover.png,表盘,xiaomi,xmrw6;xmrw5xring;xmrw5;xmws4;xmb9p;xmb10;xmb10nfc;xmws5,
+979808747710,重圆2 体验版,watchface,OnDriveLine,Recircle2_AB,b845fa3dd80860823d3232e1007c8053bb066a1d,icon.png,cover.png,表盘;可编辑控件;时间感知,xiaomi,xmb10;xmb10nfc;xmb9,paid
