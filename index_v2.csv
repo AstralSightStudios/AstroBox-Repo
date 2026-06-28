@@ -111,8 +111,6 @@ com.matrixfive.online.ylgy,三相消除,quick_app,jinmohan,SanXiangXiaoChuFor_As
 LegacyItem153,恐龙快跑,quick_app,YuanRong1026,go-runner_xiaomi-Vela,71316df,icon.png,cover.png,游戏;休闲;娱乐,xiaomi,xmb9p;xmb10;xmb10nfc,
 979808741600,endID,watchface,hrsthrt74,endID-for-astrobox,cfb0f39,icon.png,cover.png,表盘,xiaomi,xmrw6;xmrw5xring;xmrw5;xmws4;xmb9p;xmb10;xmb10nfc;xmws5,
 979878680101,重圆2 体验版,watchface,OnDriveLine,Recircle2_AB,c1b7801,icon.png,cover.png,表盘;可编辑控件;时间感知,xiaomi,xmb10;xmb10nfc;xmb9,force_paid
-979869821200,动态疾旋鼬,watchface,Eric-qiqi,Jixuanyou-for-astroboxv2,5af5d6b,media/icon.png,media/toutu.png,可爱;动态;跳转;疾旋鼬,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p;xmb10p,
-979869821300,玉兰黄鹂,watchface,Eric-qiqi,yulanhuangli-for-astrobox,b873b0c,media/icon.png,media/awa.png,工笔画,xiaomi,xmb9p;xmb10p,
 979808740100,《马力欧＆路易吉RPG 兄弟齐航》风格表盘 +,watchface,hrsthrt74,MLRPG-brothership-for-astrobox,1c80753,icon.png,cover.png,任天堂;马力欧;路易吉;NintendoSwitch;多样式;多设备支持;景深;简约,xiaomi,xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6,
 979808740200,PRiSM+,watchface,hrsthrt74,prism-plus-for-astrobox,a8ec92b,icon.png,cover.png,SEGA;maimaiDX;舞萌 DX;简约;多设备支持,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6,
 979808740300,World of Race,watchface,hrsthrt74,world-of-race-for-astrobox,0c3a7f7,icon.png,cover.png,任天堂;马力欧;NintendoSwitch;简约,xiaomi,xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6,
@@ -151,3 +149,5 @@ top.zaona.gobang.better,更好的五子棋,quick_app,zaona,better-gobang-astrobo
 979890780101,Ultra,watchface,zaona,ultra-astrobox-release,b56ce8b,icon.png,preview.png,表盘;简约,xiaomi,xmb10;xmb10nfc,
 moe.orpu.neomusic,NeoMusic,quick_app,OrPudding,NeoMusic-AstroBox-Resource,2e031a9,icon.png,cover.png,音乐;实用工具,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6;xmws5,force_paid
 com.charlie.hyperbox,Hyper Box,quick_app,wuhaiqi0621,HyperBox_ForAstroBox,14d6fae,icon.png,head_a.png,实用工具;工具箱;计算器;水平仪;每日一言;歌词本;答案之书;木鱼;性能测试;摩斯密码;二维码;跑马灯;荧光棒,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p,
+979869821000,动态疾旋鼬,watchface,Eric-qiqi,Jixuanyou-for-astroboxv2,5af5d6b,media/icon.png,media/toutu.png,可爱;动态;跳转;疾旋鼬,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p;xmb10p,
+979869821100,玉兰黄鹂,watchface,Eric-qiqi,yulanhuangli-for-astrobox,b873b0c,media/icon.png,media/awa.png,工笔画,xiaomi,xmb9p;xmb10p,
