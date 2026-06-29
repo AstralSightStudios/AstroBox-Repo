@@ -153,3 +153,4 @@ com.charlie.hyperbox,Hyper Box,quick_app,wuhaiqi0621,HyperBox_ForAstroBox,14d6fa
 979869821100,玉兰黄鹂,watchface,Eric-qiqi,yulanhuangli-for-astrobox,b873b0c,media/icon.png,media/awa.png,工笔画,xiaomi,xmb9p;xmb10p,
 979811204059,数字交替Alternate,watchface,aurysian-yan,Alternate-ABResV2,ce194ec934ef688d3bc351f7b55a918e9d6859d2,media/icon.png,media/cover.png,大数字;大时间;多数据;简洁;天气;读秒,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb9,
 979811111111,Test,watchface,66hh,astrobox-resource-979811111111,ba793a9b92b592c42711fc1708face8670b4eb7f,,media/bg.png,Test,xiaomi,xmrw5,force_paid
+com.azuma.syclass,Var课程表,quick_app,AzumaChiaki,VarClass-ab,10c8705ff442442bc5f60e955d9851b12db506b5,media/icon.png,media/cover.png,课程表;效率;工具,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,force_paid
