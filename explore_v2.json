@@ -50,10 +50,10 @@
     }
   ],
   
-  "featuredResourceIds": ["979808741600", "moe.yzf.comic", "com.application.zaona.weather"],
+  "featuredResourceIds": ["979808741600", "moe.yzf.comic", "com.application.zaona.weather","com.charlie.hyperbox"],
   "featuredAuthors": [
     {
-      "id": "9ad058d3-2ff3-4aab-9e59-d82ecb8851c4",
+      "id": "53327400",
       "name": "小鱼yuzifu",
       "description": "You like me, I like you.",
       "avatarUrl": "https://avatars.githubusercontent.com/u/53327400?v=4",
@@ -61,6 +61,18 @@
         "com.yzf.ballsRace",
         "com.yzf.daymatter",
         "com.yzf.fireworkMaster"
+      ]
+    },
+    {
+      "id": "9464fb97-5e26-4fe1-aef8-7c3835bf357c",
+      "name": "Charlie_Q",
+      "description": "你，好。？",
+      "avatarUrl": "https://github.com/wuhaiqi0621.png",
+      "resourceIds": [
+        "com.charlie.hyperbox",
+        "com.charlie.muyuPro",
+        "LegacyItem52",
+        "LegacyItem78"
       ]
     }
   ]
