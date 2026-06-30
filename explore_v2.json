@@ -50,12 +50,23 @@
     }
   ],
   
-  "featuredResourceIds": ["979808741600", "moe.yzf.comic", "com.application.zaona.weather","com.charlie.hyperbox"],
+  "featuredResourceIds": ["979808741600", "moe.yzf.comic","com.charlie.hyperbox","com.azuma.syclass","979820260630","moe.orpu.neomusic"],
   "featuredAuthors": [
+    {
+      "id": "a959f259-6007-4afd-9b59-badf21d8751d",
+      "name": "hrsthrt74",
+      "description": "优质表盘作者",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/49299205?v=4",
+      "resourceIds": [
+        "979800000002",
+        "979808741600",
+        "979808742200"
+      ]
+    },
     {
       "id": "53327400",
       "name": "小鱼yuzifu",
-      "description": "You like me, I like you.",
+      "description": "优质工具作者",
       "avatarUrl": "https://avatars.githubusercontent.com/u/53327400?v=4",
       "resourceIds": [
         "com.yzf.ballsRace",
@@ -66,13 +77,34 @@
     {
       "id": "9464fb97-5e26-4fe1-aef8-7c3835bf357c",
       "name": "Charlie_Q",
-      "description": "你，好。？",
+      "description": "畅销工具作者",
       "avatarUrl": "https://github.com/wuhaiqi0621.png",
       "resourceIds": [
         "com.charlie.hyperbox",
         "com.charlie.muyuPro",
-        "LegacyItem52",
-        "LegacyItem78"
+        "LegacyItem52"
+      ]
+    },
+    {
+      "id": "fab3df12-8a37-4777-99ad-4402086819d2",
+      "name": "Zaona",
+      "description": "优质工具/表盘作者",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/69132416?v=4",
+      "resourceIds": [
+        "com.application.zaona.weather",
+        "979890780202",
+        "979890780301"
+      ]
+    },
+    {
+      "id": "754a6227-e225-4ad0-8322-d71db4534c3a",
+      "name": "池焕不是迟缓",
+      "description": "优质表盘作者",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/146857637?v=4",
+      "resourceIds": [
+        "979820260630",
+        "979805910591",
+        "979840380251"
       ]
     }
   ]
