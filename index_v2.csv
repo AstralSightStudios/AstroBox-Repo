@@ -59,7 +59,7 @@ LegacyItem73,雪山动态_S4,watchface,Ziyimiao5054,Snow-Mountain_S4,72f515c,ico
 LegacyItem74,BanGUI 千早爱音,watchface,SmallK111407,BanGUI_ChihayaAnon_AstroBox,a4ad144,icon.png,cover.png,表盘;邦多利;千早爱音;二次元;丰富样式;多数据,xiaomi,xmb10;xmb10nfc,paid
 LegacyItem75,环间跳蛋,quick_app,MapleMapleMa,SmartVibrator,05c081f,icon.png,头图.png,娱乐;实用工具,xiaomi,xmb10;xmb10nfc,
 LegacyItem76,Physium,quick_app,asahiqin,physium-aiot,f576a19,logo.png,cover.png,学习;实用工具;开源,xiaomi,xmb9;xmb9p,
-LegacyItem78,花开忘忧,watchface,wuhaiqi0621,HuaKaiWangYou_ForAstroBox,1e3257c,icon.png,head.png,景色;简约;表盘;花,xiaomi,xmb9p,
+LegacyItem77,花开忘忧,watchface,wuhaiqi0621,HuaKaiWangYou_ForAstroBox,1e3257c,icon.png,head.png,景色;简约;表盘;花,xiaomi,xmb9p,
 LegacyItem78,飞鸟会长不肯认输,quick_app,liuyuze61,Asunabi_AstroBox,9929fb9,logo.png,preview.png,galgame;游戏,xiaomi,xmb9p;xmb10;xmb10nfc,
 LegacyItem79,JSLab,quick_app,cciccicu,JSLab_AstroBox_Release,05ff539,logo.png,cover.png,JS;工具,xiaomi,xmb9p,
 LegacyItem81,更好的2048,quick_app,CheongSzesuen,B2048_AstroBox_Release,edb72d8,logo.png,head.png,2048;二改;更好的2048;益智,xiaomi,xmb10;xmb10nfc,
@@ -71,7 +71,7 @@ LegacyItem89,realive 3 Classic F4,watchface,yizigezi,realive-3-Classic-F4,decf8c
 LegacyItem90,『忆』UI,watchface,AL-1S-hash,AB-y,813f534,icon.png,tt.png,付费;表盘;缓慢亮屏;二次元;普拉娜;阿罗娜,xiaomi,xmb10nfc;xmb9p;xmb10,force_paid
 LegacyItem92,FlappyBird Pro,quick_app,YangWan233,FlappyBird-Pro_AstroBox,f500606,icon.png,cover.png,游戏;经典;免费,xiaomi,xmb9p,
 LegacyItem96,勇者指令：地下城,quick_app,liuyuze61,BraveCommand_Dungeons_AstroBox,a56c144,logo.png,preview10.png,游戏;回合制;jrpg;像素风格,xiaomi,xmb9p;xmrw5;xmrw5xring;xmb9,force_paid
-LegacyItem99,BandTwine,quick_app,OrPudding,BandTwine_AstroBox_Release,da1f50a,icon.png,cover.png,游戏;互动小说;文字游戏;实用工具;游戏引擎,xiaomi,xmws3;xmb9;xmb9p;xmws4;xmb10;xmb10nfc,
+LegacyItem91,BandTwine,quick_app,OrPudding,BandTwine_AstroBox_Release,da1f50a,icon.png,cover.png,游戏;互动小说;文字游戏;实用工具;游戏引擎,xiaomi,xmws3;xmb9;xmb9p;xmws4;xmb10;xmb10nfc,
 LegacyItem98,MerquryIM Dev,quick_app,CoraTech-Wear,merqury-astrobox-res,020857a,icon.png,cover.png,聊天;IM;QQ;开源,xiaomi,xmrw5xring;xmws4xring;xmws4,
 LegacyItem99,会了吧,quick_app,mqycn,huile8-miband,bd88607,icon.png,preview.png,实用工具,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmb9;xmb9p,
 LegacyItem100,SMusic,quick_app,SarmonFish,vela-smusic-release,0a9fa1c,icon.png,cover.png,音乐;实用工具;开源,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6,
