@@ -7,7 +7,7 @@
 
       "contentMode": "default",
       "content": {
-        "title": "2.0 公测公告及安全提示",
+        "title": "2.0 公测公告",
         "tag": "公告",
         "introduction": "期待听到大家的反馈"
       },
@@ -26,7 +26,31 @@
     },
     {
       "id": "4",
-      "type": "big",
+      "type": "normal",
+      "canClose": false,
+
+      "contentMode": "default",
+      "content": {
+        "title": "纠纷致歉处理说明",
+        "tag": "公告",
+        "introduction": "与“轻腕社区”侧相关纠纷的最终处理说明"
+      },
+
+      "background": {
+        "img": "notice/cover1.png"
+      },
+
+      "actions": [
+        {
+          "id": "notice",
+          "content": "阅读",
+          "url": "notice/notice.md"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "type": "normal",
       "canClose": false,
 
       "contentMode": "default",
