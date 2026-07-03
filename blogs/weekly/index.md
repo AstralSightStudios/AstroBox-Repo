@@ -1,6 +1,6 @@
 ---
 type: "Weekly"
-title: "2.0.1 版本更新"
+title: "V2.0.1 版本更新"
 subtitle: "时隔一周，我们带来了新一个优化版本"
 author: "AstroBox"
 date: 2026-07-04
