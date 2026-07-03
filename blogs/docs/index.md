@@ -30,11 +30,7 @@ cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/
 
 在你完成设备同步之后，你就可以开始连接设备了。首先进入穿戴设备的设置页，找到「我的设备」等相关设置页面，通常这个页面是控制设备重启、关机的。随后请你找到并点击「连接新手机」选项。
 
-![「连接新手机」选项位置]([/assets/images/docs/usage/connection/9.jpg](https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/docs/4.jpg))
-
-按步骤完成之后，穿戴设备进入连接新手机状态，此时你就可以点击设备列表中的对应设备，开始连接了。如果你的手机/电脑出现配对提示，请点击绑定。如果是安卓手机，提示也可能以上方通知的形式展示，点击通知中的配对与连接即可。
-
-![点击设备卡片]([/assets/images/docs/usage/connection/9.jpg](https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/docs/5.png))
+按步骤完成之后，穿戴设备将进入连接新手机状态，此时你就可以点击 AstroBox 中设备列表里的对应设备，开始连接了。如果你的手机/电脑出现配对提示，请点击绑定。如果是安卓手机，提示也可能以上方通知的形式展示，点击通知中的配对与连接即可。
 
 接下来绑定就完成了～你可以开始体验各种穿戴设备三方功能了～
 
