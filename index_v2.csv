@@ -52,7 +52,7 @@ LegacyItem65,绘刻系列,watchface,Ziyimiao5054,Drawing-Carve,9f0f338,icon.png,
 LegacyItem66,Material You,watchface,YangWan233,Material-You_AstroBox,4461c90,icon.png,cover.png,表盘;免费;简约,xiaomi,xmb9p,
 LegacyItem67,赛博算卦,quick_app,Dreamqiucn,cybergua-Astrobox,9469dd2,logo.png,preview1.png,实用工具;软件;算卦;免费,xiaomi,xmb9p,
 LegacyItem69,愤怒的小球,quick_app,Dreamqiucn,angryballs-Astrobox,45cdde2,logo.png,preview1.png,游戏;2d;休闲,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
-LegacyItem70,SimpleRSS 简读,quick_app,yzl3014,AstroBox_SimpleRSS,0c031b0,logo.png,cover.png,工具;阅读;RSS,xiaomi,xmb9p,
+com.yzl3014.simplerss,SimpleRSS,quick_app,yzl3014,AstroBox_SimpleRSS,28598dc,logo.png,cover_v3.png,免费;实用工具;阅读;RSS;开源,xiaomi,xmb9p;xmrw5;xmrw5xring,
 LegacyItem71,MIPhone Go,quick_app,wanggantian,MIPhonego,88e0df7,icon.png,cover.png,游戏;免费;梗,xiaomi,xmb9p,
 LegacyItem72,环间古诗词,quick_app,DDguan2010,vela-poem,fd0e396,icon.png,preview0.png,工具;古诗词;学习,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p,force_paid
 LegacyItem73,雪山动态_S4,watchface,Ziyimiao5054,Snow-Mountain_S4,72f515c,icon.png,cover.png,表盘;动态;雪山,xiaomi,xmws4;xmws4xring,
