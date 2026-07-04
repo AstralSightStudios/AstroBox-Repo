@@ -41,7 +41,7 @@ LegacyItem54,环间扫雷,quick_app,DDguan2010,vela-minesweeper,c35a1a5,icon.png
 LegacyItem55,【部分付费】派对游戏合集,quick_app,Demon0H,partygame_miband,cf46991,icon.png,cover.png,游戏;付费;派对游戏,xiaomi,"n66,n67,o66,o66nfc",paid
 LegacyItem56,人生重开模拟器,quick_app,DDguan2010,vela-liferestart,e425273,icon.png,preview0.png,游戏;休闲;人生重开;模拟,xiaomi,xmb10;xmb10nfc;xmb9,
 LegacyItem57,雪山动态表盘,watchface,Ziyimiao5054,Snow-Mountain,58c1eee,icon.png,cover.png,表盘;动态;雪山,xiaomi,xmb10;xmb10nfc,
-LegacyItem58,经验回归方程计算,quick_app,Dreamqiucn,rcalculate-Astrobox,2c8958b,logo.png,preview1.png,实用工具;软件;计算器,xiaomi,xmb9p,
+com.Dreamqiu.Rcalculate,经验回归方程计算,quick_app,Dreamqiucn,rcalculate-Astrobox,2c8958b,logo.png,preview1.png,实用工具;软件;计算器,xiaomi,xmb9p,
 LegacyItem59,星空Starfield for Xiaomi Watch S4,watchface,MineBabyBlue,Starfield_Watchface_AstroBox_Release-main,87ed74b,icon.png,preview.png,复刻;Starfield;星空;表盘;多数据;免费,xiaomi,xmws4,
 LegacyItem60,米塔mita动态眨眼表盘,watchface,MineBabyBlue,Mita_Watchface_AstroBox_Release-main,91b62c4,icon.png,preview.png,二次元;多数据;表盘;二改;免费,xiaomi,xmb9p,
 LegacyItem61,猫猫木鱼互动表盘（预览）,watchface,MineBabyBlue,CatMuyu_Watchface_AstroBox_Release-main,d6f1fce,icon.png,preview.png,多配色;可互动;可爱;表盘;付费,xiaomi,xmb9p;xmb10,paid
