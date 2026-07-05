@@ -74,7 +74,7 @@
     },
     {
       "id": "6",
-      "type": "normal",
+      "type": "long",
       "canClose": false,
 
       "contentMode": "default",
