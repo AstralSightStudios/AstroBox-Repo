@@ -71,6 +71,30 @@
           "url": "jmtq/index.md"
         }
       ]
+    },
+    {
+      "id": "6",
+      "type": "normal",
+      "canClose": false,
+
+      "contentMode": "default",
+      "content": {
+        "title": "Hyper Box",
+        "tag": "资源推荐",
+        "introduction": "一款真正值得长期留在手环/手表里的快应用"
+      },
+
+      "background": {
+        "img": "hyperbox/ab-square.png"
+      },
+
+      "actions": [
+        {
+          "id": "hyperbox",
+          "content": "阅读",
+          "url": "hyperbox/index.md"
+        }
+      ]
     }
   ],
   
