@@ -26,7 +26,7 @@
     },
     {
       "id": "4",
-      "type": "normal",
+      "type": "big",
       "canClose": false,
 
       "contentMode": "default",
@@ -74,7 +74,7 @@
     },
     {
       "id": "6",
-      "type": "long",
+      "type": "normal",
       "canClose": false,
 
       "contentMode": "default",
