@@ -2,7 +2,7 @@
   "masonryCards": [
     {
       "id": "3",
-      "type": "normal",
+      "type": "big",
       "canClose": false,
 
       "contentMode": "default",
@@ -26,7 +26,7 @@
     },
     {
       "id": "4",
-      "type": "normal",
+      "type": "big",
       "canClose": false,
 
       "contentMode": "default",
@@ -98,7 +98,7 @@
     }
   ],
   
-  "featuredResourceIds": ["979808741600", "moe.yzf.comic","com.charlie.hyperbox","com.azuma.syclass","979820260630","moe.orpu.neomusic"],
+  "featuredResourceIds": ["979808741600", "moe.yzf.comic","979820260630","com.azuma.dic","moe.orpu.neomusic"],
   "featuredAuthors": [
     {
       "id": "a959f259-6007-4afd-9b59-badf21d8751d",
@@ -109,17 +109,6 @@
         "979800000002",
         "979808741600",
         "979808742200"
-      ]
-    },
-    {
-      "id": "53327400",
-      "name": "小鱼yuzifu",
-      "description": "优质工具作者",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53327400?v=4",
-      "resourceIds": [
-        "com.yzf.ballsRace",
-        "com.yzf.daymatter",
-        "com.yzf.fireworkMaster"
       ]
     },
     {
@@ -134,6 +123,17 @@
       ]
     },
     {
+      "id": "ced8d86b-097a-4384-96ec-38d7dcd2fd38",
+      "name": "AzumaChiaki",
+      "description": "畅销工具作者",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/177545038?v=4",
+      "resourceIds": [
+        "com.azuma.syclass",
+        "com.azuma.dic",
+        "com.kevin.en"
+      ]
+    },
+    {
       "id": "fab3df12-8a37-4777-99ad-4402086819d2",
       "name": "Zaona",
       "description": "优质工具/表盘作者",
@@ -142,6 +142,17 @@
         "com.application.zaona.weather",
         "979890780202",
         "979890780301"
+      ]
+    },
+    {
+      "id": "53327400",
+      "name": "小鱼yuzifu",
+      "description": "优质工具作者",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53327400?v=4",
+      "resourceIds": [
+        "com.yzf.ballsRace",
+        "com.yzf.daymatter",
+        "com.yzf.fireworkMaster"
       ]
     },
     {
