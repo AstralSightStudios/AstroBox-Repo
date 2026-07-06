@@ -2,7 +2,7 @@
   "masonryCards": [
     {
       "id": "3",
-      "type": "big",
+      "type": "normal",
       "canClose": false,
 
       "contentMode": "default",
@@ -74,7 +74,7 @@
     },
     {
       "id": "6",
-      "type": "top",
+      "type": "normal",
       "canClose": false,
 
       "contentMode": "default",
@@ -85,7 +85,7 @@
       },
 
       "background": {
-        "img": "hyperbox/ab-square.png"
+        "img": "hyperbox/ab-banner.png"
       },
 
       "actions": [

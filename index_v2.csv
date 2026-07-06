@@ -158,7 +158,7 @@ asia.bilibili.mfa,【腕码】BandOTP,quick_app,lin945,BandOTP_Release,0ee2073,i
 com.yxin.mijia5,米家遥控器,quick_app,yxinstu,mijia-Astrobox,a6e1452,media/1000012179.png,media/1000012178.png,实用工具;智能家居;遥控;米家,xiaomi,xmb9p;xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6,
 979811451483,「忆」UI焕新版-相册表盘,watchface,AL-1S-hash,astrobox-resource-979811451483,65e84eb,media/1000034131.png,media/1000034113.png,表盘;忆;相册表盘,xiaomi,xmb10p;xmrw6;xmb9;xmb10nfc;xmb10;xmb9p,force_paid
 com.azuma.dic,英汉词典,quick_app,AzumaChiaki,AzumaDic,499dacd,media/logo.png,media/780DC36BE6420AF666B84B57D794E620.png,词典;学习;工具;英语,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10nfc;xmb10;xmb10p;xmb9;xmb9p,force_paid
-com.remote.terminal,远程终端,quick_app,F7YM,astrobox-resource-com-remote-terminal,29e049c,media/RemoteTerminal.png,media/Group 7.png,远程控制;Linux;Windows;SSH,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
+com.remote.terminal,远程终端,quick_app,F7YM,astrobox-resource-com-remote-terminal,f71d5cc,media/RemoteTerminal.png,media/Group 7 (2).png,远程控制;Linux;Windows;SSH,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
 9798200001981,「迷幻」,watchface,AL-1S-hash,astrobox-resource-9798200001981,9766b5c,media/1000034208.png,media/1000034207.png,EVOA;孤星计划;极简;长虹玻璃;弥散;艺术,xiaomi,xmb9;xmrw6;xmb10p;xmb9p;xmb10nfc;xmb10,force_paid
 979808586472,时序（shixu）,watchface,Hobjl-lian,979808586472_AstroBox_Release,ff881cd,icon.png,Ab.png,表盘;Hobjl,xiaomi,xmb9p;xmb10;xmrw5;xmrw6;xmb10p,
 979808743900,COMPASS,watchface,hrsthrt74,compass-for-astrobox,1fe82c6,icon.png,cover.png,compass;mc;我的世界;minecraft;动态,xiaomi,xmws5;xmb10p;xmrw6,
