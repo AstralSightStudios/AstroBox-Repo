@@ -1,4 +1,5 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.searchstars.hyperbilibili,澎湃哔哩,quick_app,searchstars,Hyperbilibili_AstroBox_Release,5e10efa,icon.png,preview.png,客户端;实用工具;视频;社区;互动;在线;哔哩哔哩;B站;b站,xiaomi,xmws3;xmws4;xmrw5xring;xmb9p,
 LegacyItem1,Starfield Chronomark,watchface,Searchstars,StarfieldWatchFace_AstroBox_Release,efdc847,icon.png,preview.png,复刻;Starfield;星空;表盘;简约,xiaomi,xmws3;xmws4,
 com.charlie.muyuPro,木鱼Pro,quick_app,wuhaiqi0621,muyuPro_ForAstroBox,83266a4,icon.png,head.png,实用工具;木鱼;电子木鱼;游戏,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,paid
 LegacyItem8,喵喵电子书,quick_app,NEORUAA,MiaoReader_AstroBox_Release,61d87d0,icon.png,cover.png,实用工具;电子书;阅读;小说,xiaomi,xmb10;xmb10nfc;xmb9p,
@@ -164,8 +165,10 @@ com.kevin.en,腕上单词,quick_app,AzumaChiaki,BandEnglish_ab,fa8856a,media/log
 com.azuma.syclass,Var课程表,quick_app,AzumaChiaki,VarClass-ab,c92f6e5,media/icon.png,media/cover.png,课程表;效率;工具,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,force_paid
 com.remote.terminal,远程终端,quick_app,F7YM,astrobox-resource-com-remote-terminal,ab36f9f,media/RemoteTerminal.png,media/Group 7 (2).png,远程控制;Linux;Windows;SSH,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
 979811130359,天归 - 天容万象 星途终归,watchface,auberdominique23-hash,979811130359_AstroBox_Release,4875f37,矩形 1.png,MasterGo 封面 16_9 - 2.png,二次元表盘;课程表;lua表盘,xiaomi,xmb9p;xmb10p,force_paid
-com.watch.dic,腕上词典,quick_app,pcai7296,com.watch.dic_AstroBox_Release,87de5fd,icon.png,cover.png,离线;英语;学习;词典;免费,xiaomi,xmb10;xmb10nfc,
+com.watch.dic,腕上词典,quick_app,pcai7296,com.watch.dic_AstroBox_Release,f409426,icon.png,cover.png,离线;英语;学习;词典;免费,xiaomi,xmb10;xmb10nfc,
 979825266002,倒数日 表盘,watchface,sf-yuzifu,Daymatter_Watchface_AstroBox_Release,f075888,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程;表盘,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws4;xmws4xring;xmws441,
 979825266003,【可互动】千恋＊万花 丛雨,watchface,sf-yuzifu,murasame_AstroBox_Release,cefe00f,media/4495.jpg,media/容器 778 (1).png,二次元;千恋万花;丛雨;可互动,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p;xmrw6,force_paid
 979899954909,午夜飞行俱乐部,watchface,Cannyworks29,MidnightFlightClub,8739deb,media/Gemini_Generated_Image_je9cklje9cklje9c_副本.jpg,media/Gemini_Generated_Image_je9cklje9cklje9c.jpg,飞行;科技感;复古;仪表,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws5;xmws4;xmws441;xmws4xring,force_paid
+979899954912,复古液晶显示,watchface,Cannyworks29,RetroSTNdisplay3,2afa51a,media/画板 1 副本3.png,media/_7146450 2.jpg,复古;液晶;像素;渐变;极简,xiaomi,xmb10p;xmb9p,
+me.cjack.b2048n,2048N,quick_app,CJackHwang,2048N_AstroBox_Release,d111493,src/common/logo.png,src/common/head15.png,免费;开源;2048;游戏;小米手环10;快应用,xiaomi,xmb10;xmb10nfc,
 979899954914,圆饼三指针,watchface,Cannyworks29,Three-Disk-Hands,f872685,media/画板 2523.png,media/封面图 横构图_4245899.jpg,极简;指针,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmws5,
