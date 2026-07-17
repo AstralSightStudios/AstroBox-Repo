@@ -52,7 +52,6 @@ LegacyItem64,Unlock mi Phone,quick_app,Azumachiaki,ulmp,0a1d79d,icon.png,cover.p
 LegacyItem65,绘刻系列,watchface,Ziyimiao5054,Drawing-Carve,9f0f338,icon.png,cover.png,表盘;二次元;免费;景深,xiaomi,xmb10;xmb10nfc,
 LegacyItem66,Material You,watchface,YangWan233,Material-You_AstroBox,4461c90,icon.png,cover.png,表盘;免费;简约,xiaomi,xmb9p,
 com.Dreamqiu.CyberGua,赛博算卦,quick_app,Dreamqiucn,cybergua-Astrobox,9469dd2,logo.png,preview1.png,实用工具;软件;算卦;免费,xiaomi,xmb9p,
-con.Dreamqiu.AngryBalls,愤怒的小球,quick_app,Dreamqiucn,angryballs-Astrobox,45cdde2,logo.png,preview1.png,游戏;2d;休闲,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
 com.yzl3014.simplerss,SimpleRSS,quick_app,yzl3014,AstroBox_SimpleRSS,28598dc,logo.png,cover_v3.png,免费;实用工具;阅读;RSS;开源,xiaomi,xmb9p;xmrw5;xmrw5xring,
 LegacyItem71,MIPhone Go,quick_app,wanggantian,MIPhonego,88e0df7,icon.png,cover.png,游戏;免费;梗,xiaomi,xmb9p,
 LegacyItem72,环间古诗词,quick_app,DDguan2010,vela-poem,fd0e396,icon.png,preview0.png,工具;古诗词;学习,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p,force_paid
@@ -175,3 +174,5 @@ me.cjack.b2048n,2048N,quick_app,CJackHwang,2048N_AstroBox_Release,d111493,src/co
 979899954912,复古液晶显示,watchface,Cannyworks29,RetroSTNdisplay3,37d7986,media/画板 1 副本3.png,media/_7146450 2.jpg,复古;液晶;像素;渐变;极简,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmws5,
 moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,32baec4,logo.png,1.png,天气应用;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441,paid
 moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_Release,afc90d6,logo (1).png.png,封面.png,邮件;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5xring;xmrw5;xmws441;xmrw6;xmws5;xmb9p,force_paid
+con.Dreamqiu.AngryBalls,愤怒的小球,quick_app,Dreamqiucn,angryballs-Astrobox,45cdde2,logo.png,preview1.png,游戏;2d;休闲,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
+com.SoDictionary.solan,So词典[英-日-汉互译版],quick_app,Solan-486,Astrobox-Resource_AstroBox_Release,4ff2898,icon.png,Preview.png,词典;英语;英汉互译;日语;日文;日汉互译;英语词典;日语词典;学习;工具;翻译,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p,force_paid
