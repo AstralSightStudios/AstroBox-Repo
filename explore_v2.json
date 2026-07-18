@@ -98,7 +98,7 @@
     }
   ],
   
-  "featuredResourceIds": ["979808741600", "moe.yzf.comic","979820260630","com.azuma.dic","moe.orpu.neomusic"],
+  "featuredResourceIds": ["979899954914","979808741600", "moe.yzf.comic","979820260630","com.azuma.dic","moe.orpu.neomusic"],
   "featuredAuthors": [
     {
       "id": "a959f259-6007-4afd-9b59-badf21d8751d",
@@ -109,6 +109,17 @@
         "979800000002",
         "979808741600",
         "979808742200"
+      ]
+    },
+    {
+      "id": "e753b212-6ce8-400c-9dd0-210e73c66fba",
+      "name": "Cannyworks",
+      "description": "优质表盘作者",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/304364876?v=4",
+      "resourceIds": [
+        "979899954914",
+        "979812768106",
+        "979899954912"
       ]
     },
     {
