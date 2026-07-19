@@ -4,7 +4,7 @@ title: "手环也可以截图了？！"
 subtitle: "Shell++：“解锁”手环的高级玩法"
 author: "Shell++制作团队 Yulimfish"
 date: 2026-07-20
-cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/shellpp/ab-banner.png"
+cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/shellpp/ab-square.png"
 ---
 
 Shell++ 的一切开始于一个看似简单的需求：**怎样更轻松地拿到手环截图？**
