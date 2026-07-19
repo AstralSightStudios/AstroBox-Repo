@@ -55,20 +55,20 @@
 
       "contentMode": "default",
       "content": {
-        "title": "简明天气",
+        "title": "手环也可以截图了？！",
         "tag": "资源推荐",
-        "introduction": "一个从校园痛点里长出来的天气应用"
+        "introduction": "Shell++：“解锁”手环的高级玩法"
       },
 
       "background": {
-        "img": "jmtq/ab-square.png"
+        "img": "shellpp/ab-square.png"
       },
 
       "actions": [
         {
-          "id": "jmtq",
+          "id": "shellpp",
           "content": "阅读",
-          "url": "jmtq/index.md"
+          "url": "shellpp/index.md"
         }
       ]
     },
