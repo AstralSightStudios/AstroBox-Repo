@@ -126,7 +126,7 @@ com.yzf.ballsRace,滚珠赛道,quick_app,sf-yuzifu,ballsRace,8913510,icon.png,pr
 979808740800,MaterialMania,watchface,hrsthrt74,MaterialMania-for-astrobox,dff0d21,icon.png,cover.png,MaterialDesign;质感设计;简约,xiaomi,xmb10nfc;xmb10,
 979808740611,authRD - 凯尔希,watchface,hrsthrt74,authRD-kaltsit-for-astrobox,51632ed,icon.png,cover.png,明日方舟;多样式;跳转,xiaomi,xmws4;xmws4xring,
 com.application.zaona.flowchat,FlowChat,quick_app,zaona,flow-chat-astrobox-release,b3e81c3,icon.png,preview.png,实用工具,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6,force_paid
-moe.yzf.comic,腕上漫画,quick_app,sf-yuzifu,bandcomic_Quickapp_AstroBox_Release,027541f,icon.png,preview.png,漫画;本地;摸鱼;实用工具;本子;二次元,xiaomi,xmb9p;xmrw5;xmrw6;xmrw5xring;xmws4;xmws441;xmws4xring;xmws3;xmws5,
+moe.yzf.comic,腕上漫画,quick_app,sf-yuzifu,bandcomic_Quickapp_AstroBox_Release,a5dba88,icon.png,preview.png,漫画;本地;摸鱼;实用工具;本子;二次元,xiaomi,xmb9p;xmrw5;xmrw6;xmrw5xring;xmws4;xmws441;xmws4xring;xmws3;xmws5,
 top.zaona.gobang.better,更好的五子棋,quick_app,zaona,better-gobang-astrobox-release,e4dbb64,icon.png,preview.png,游戏;五子棋,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6,
 979800000001,CAPTURE THE MOMENT,watchface,hrsthrt74,capture-the-moment-for-astrobox,1224fb8,icon.png,cover.png,徕卡;可编辑组件,xiaomi,xmrw6;xmrw5xring;xmrw5;xmb9p,
 979808740628,authRD - 新约能天使,watchface,hrsthrt74,authRD-exusiaialt-for-astrobox,deafb15,icon.png,cover.png,明日方舟;多样式;跳转,xiaomi,xmrw5;xmrw5xring;xmrw6,
@@ -154,7 +154,6 @@ com.lst.bandtotp,BandTOTP,quick_app,leset0ng,astrobox-res-bandtotp,6887109,media
 979808743800,A.R.O.N.A.,watchface,hrsthrt74,arona-for-astrobox,0e43135,icon.png,cover.png,arona;ARONA;阿罗娜;ba;蔚蓝档案;碧蓝档案;动态,xiaomi,xmws5,
 com.yxin.mijia5,米家遥控器,quick_app,yxinstu,mijia-Astrobox,a6e1452,media/1000012179.png,media/1000012178.png,实用工具;智能家居;遥控;米家,xiaomi,xmb9p;xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6,
 979811451483,「忆」UI焕新版-相册表盘,watchface,AL-1S-hash,astrobox-resource-979811451483,65e84eb,media/1000034131.png,media/1000034113.png,表盘;忆;相册表盘,xiaomi,xmb10p;xmrw6;xmb9;xmb10nfc;xmb10;xmb9p,force_paid
-com.azuma.dic,英汉词典,quick_app,AzumaChiaki,AzumaDic,499dacd,media/logo.png,media/780DC36BE6420AF666B84B57D794E620.png,词典;学习;工具;英语,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10nfc;xmb10;xmb10p;xmb9;xmb9p,force_paid
 9798200001981,「迷幻」,watchface,AL-1S-hash,astrobox-resource-9798200001981,9766b5c,media/1000034208.png,media/1000034207.png,EVOA;孤星计划;极简;长虹玻璃;弥散;艺术,xiaomi,xmb9;xmrw6;xmb10p;xmb9p;xmb10nfc;xmb10,force_paid
 979808586472,时序（shixu）,watchface,Hobjl-lian,979808586472_AstroBox_Release,ff881cd,icon.png,Ab.png,表盘;Hobjl,xiaomi,xmb9p;xmb10;xmrw5;xmrw6;xmb10p,
 979808743900,COMPASS,watchface,hrsthrt74,compass-for-astrobox,1fe82c6,icon.png,cover.png,compass;mc;我的世界;minecraft;动态,xiaomi,xmws5;xmb10p;xmrw6,
@@ -175,12 +174,17 @@ com.Dreamqiu.9way,九号出口,quick_app,Dreamqiucn,way-astrobox,2e0d776,media/l
 979899954912,复古液晶显示,watchface,Cannyworks29,RetroSTNdisplay3,dcc5a64,media/画板 1 副本3.png,media/_7146450 2.jpg,复古;液晶;像素;渐变;极简,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmws5,
 asia.bilibili.mfa,【腕码】BandOTP,quick_app,lin945,BandOTP_Release,d8631821,icon.png,cover.png,2FA;MFA;双因素验证;验证码;实用工具;软件,xiaomi,xmb9;xmb9p;xmb10;xmb10p,
 com.watch.dic,腕上词典,quick_app,pcai7296,com.watch.dic_AstroBox_Release,19d2bb8,icon.png,cover.png,离线;英语;学习;词典;免费,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p;xmws4;xmrw5;xmrw5xring;xmrw6;xmb10p,
-com.shell.liangyi,Shell++,quick_app,IKUN-CXKPRO,astrobox-resource-com-shell-liangyi,f903fc9,media/logo.png,media/1109537bb54ecabe5418c3f04ac7c510.png,客户端,xiaomi,xmb9p;xmb10p;xmrw6,
-979889683730,Shell++(LuaWatchFace),watchface,IKUN-CXKPRO,astrobox-resource-979889683730,7abf002,media/logo.png,media/1109537bb54ecabe5418c3f04ac7c510.png,lua表盘,xiaomi,xmrw6;xmb9p;xmb10p,
 979809640178,「时语」-相册表盘,watchface,shantuskat,astrobox-resource-979809640178,95c6517,media/Image_1784250240657_832.png,media/画板 18(1).png,相册;二次元;可编辑;表盘,xiaomi,xmb10p;xmb9p;xmb10;xmrw6;xmb10nfc,force_paid
-979824700000,24/7,watchface,AL-1S-hash,astrobox-resource-979824700000,bd6b561,media/Group 68.png,media/Frame 8.png,EVOA;孤星计划;极简;拟物;相册表盘;时钟;商务;多跳转,xiaomi,xmb10p;xmb9p,force_paid
 979820260630,「Layer UI」- 相册表盘,watchface,ChiHuan0807,astrobox-resource-979820260630,6036957,media/LOGO.png,media/22922.png,池焕;迟缓;相册;表盘;简约;模糊;拍立得;相片,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6,force_paid
 cn.seedsoft.realzhixue,真智学,quick_app,virelyx258,cn.seedsoft.realzhixue_AstroBox_Release,06bd235,logo-hd.png,cover.png,学习;校园;工具,xiaomi,xmb9p;xmrw5xring;xmrw5;xmrw6;xmws441;xmws4;xmws4xring;xmws3,
-com.openblack.mahjong,杭州麻将,quick_app,dm1366631,astrobox-resource-com-openblack-mahjong,da23449,media/icon.png,media/cover.png,游戏,xiaomi,xmb10nfc;xmb10;xmb10p,
+com.openblack.mahjong,杭州麻将,quick_app,dm1366631,astrobox-resource-com-openblack-mahjong,16800c6,media/icon.png,media/cover.png,游戏,xiaomi,xmb10nfc;xmb10;xmb10p,
 com.SoDictionary.solan,So词典[英-日-汉互译版],quick_app,Solan-486,Astrobox-Resource_Release,6730971,icon.png,Preview1.3.png,词典;英语;英汉互译;日语;日文;日汉互译;英语词典;日语词典;学习;工具;翻译,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p;xmws3;xmws4;xmws4xring;xmws441;xmws5,force_paid
+979818864961,一个小时的进度,watchface,Cannyworks29,One-Hour-Progress,83ae6cd,media/画板 1.png,media/_7206511_副本.jpg,极简;抽象;进度;数字,xiaomi,xmb10p;xmb9p,force_paid
+979820260722,「Folio UI」- 相册表盘,watchface,ChiHuan0807,astrobox-resource-979820260722,a10afd5,media/容器 19.png,media/lui头图1.png,相册;池焕;迟缓;表盘;吧唧;简约,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p,force_paid
+com.openblack.24point,24点,quick_app,dm1366631,astrobox-resource-com-openblack-24point,e811a0e,media/logo.png,media/cover.png,游戏;益智,xiaomi,xmb10;xmb10nfc;xmb10p,
+979824710000,24/7-相册表盘,watchface,AL-1S-hash,astrobox-resource-979824710000,1d7b469,media/Group 68.png,media/Frame 8.png,EVOA;孤星计划;极简;拟物;相册表盘;时钟;商务;多跳转,xiaomi,xmb10p;xmb9p,force_paid
+979860689210,「如初」-相册表盘,watchface,shantuskat,astrobox-resource-979860689210,8aae71b,media/画板 2.png,media/画板 18.png,相册;二次元;原神;明日方舟;蔚蓝档案;崩坏星穹铁道,xiaomi,xmb10;xmb10nfc;xmb9p;xmb10p;xmrw6,force_paid
+com.shell.liangyi,Shell++,quick_app,IKUN-CXKPRO,astrobox-resource-com-shell-liangyi,9252f24,media/logo.png,media/1109537bb54ecabe5418c3f04ac7c510.png,客户端,xiaomi,xmb9p;xmb10p;xmrw6,
+979889683730,Shell++(LuaWatchFace),watchface,IKUN-CXKPRO,astrobox-resource-979889683730,712fa44,media/logo.png,media/1109537bb54ecabe5418c3f04ac7c510.png,lua表盘,xiaomi,xmrw6;xmb9p;xmb10p,
+com.azuma.dic,英汉词典-五万词库中英互译,quick_app,AzumaChiaki,AzumaDic,719e1e1,media/logo.png,media/780DC36BE6420AF666B84B57D794E620.png,词典;学习;工具;英语,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10nfc;xmb10;xmb10p;xmb9;xmb9p,force_paid
 979844845179,做自己的超人- Super Me,watchface,Cannyworks29,Super-Me,71fba9a,media/背景 副本 6.png,media/IMG_9340_副本.jpg,极简;抽象;进度;数字;潮流,xiaomi,xmb10nfc;xmb10;xmb9,
