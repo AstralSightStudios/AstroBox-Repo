@@ -55,20 +55,20 @@
 
       "contentMode": "default",
       "content": {
-        "title": "简明天气",
+        "title": "手环也可以截图了？！",
         "tag": "资源推荐",
-        "introduction": "一个从校园痛点里长出来的天气应用"
+        "introduction": "Shell++：“解锁”手环的高级玩法"
       },
 
       "background": {
-        "img": "jmtq/ab-square.png"
+        "img": "shellpp/ab-banner.png"
       },
 
       "actions": [
         {
-          "id": "jmtq",
+          "id": "shellpp",
           "content": "阅读",
-          "url": "jmtq/index.md"
+          "url": "shellpp/index.md"
         }
       ]
     },
@@ -98,7 +98,7 @@
     }
   ],
   
-  "featuredResourceIds": ["979899954914","979808741600", "moe.yzf.comic","979820260630","com.azuma.dic","moe.orpu.neomusic"],
+  "featuredResourceIds": ["979899954914","979808741600", "moe.yzf.comic","com.Dreamqiu.9way","979820260630","979809640178","com.azuma.dic","moe.orpu.neomusic"],
   "featuredAuthors": [
     {
       "id": "a959f259-6007-4afd-9b59-badf21d8751d",
