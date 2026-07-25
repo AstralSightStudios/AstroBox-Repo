@@ -31,6 +31,30 @@
 
       "contentMode": "default",
       "content": {
+        "title": "AstroBox 2.0 公测中",
+        "tag": "公告",
+        "introduction": "期待听到大家的反馈"
+      },
+
+      "background": {
+        "img": "weekly/cover1.png"
+      },
+
+      "actions": [
+        {
+          "id": "weekly",
+          "content": "阅读",
+          "url": "weekly/index.md"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "type": "normal",
+      "canClose": false,
+
+      "contentMode": "default",
+      "content": {
         "title": "手环也可以截图了？！",
         "tag": "资源推荐",
         "introduction": "Shell++：“解锁”手环的高级玩法"
@@ -49,7 +73,7 @@
       ]
     },
     {
-      "id": "5",
+      "id": "6",
       "type": "normal",
       "canClose": false,
 
@@ -69,6 +93,54 @@
           "id": "hyperbox",
           "content": "阅读",
           "url": "hyperbox/index.md"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "type": "normal",
+      "canClose": false,
+
+      "contentMode": "default",
+      "content": {
+        "title": "手环脱离手机还能看天气吗？",
+        "tag": "资源推荐",
+        "introduction": "Eternal 永昼天气：让天气数据真正留在手腕上"
+      },
+
+      "background": {
+        "img": "Eternal/banner-ex.png"
+      },
+
+      "actions": [
+        {
+          "id": "Eternal",
+          "content": "阅读",
+          "url": "Eternal/index.md"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "type": "big",
+      "canClose": false,
+
+      "contentMode": "default",
+      "content": {
+        "title": "我把锤子桌面搬上了手表！",
+        "tag": "资源推荐",
+        "introduction": "「匠格」—— 不太合潮流 也不打算合潮流的拟物表盘"
+      },
+
+      "background": {
+        "img": "jg/Cover.png"
+      },
+
+      "actions": [
+        {
+          "id": "jg",
+          "content": "阅读",
+          "url": "jg/index.md"
         }
       ]
     }
