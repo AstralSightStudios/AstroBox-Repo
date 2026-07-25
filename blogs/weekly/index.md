@@ -1,20 +1,16 @@
 ---
-type: "Weekly"
-title: "公测调查问卷"
-subtitle: "邀请您一起填写这篇问卷"
+type: "公告"
+title: "AstroBox 2.0 公测中"
+subtitle: "期待听到大家的反馈"
 author: "AstroBox"
-date: 2026-07-18
+date: 2026-06-28
 cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/weekly/cover.png"
 ---
 
 所有喜爱、关注与支持 AstroBox 的用户大家好！感谢你参与 AstroBox 2.0 的公测！
 
-AstroBox 2.0 已经发布了一段时间，我们希望能听到更多你对 AstroBox 的反馈。欢迎你填写这份问卷，这对我们后续产品优化有很大帮助。
+AstroBox 2.0 已经发布了一段时间，我们希望能听到更多你对 AstroBox 的反馈。如果你有任何建议，欢迎大家通过填写下方的问卷向我们反馈各种问题、提出建议。我们会在后续持续更新、优化这个应用。
 
-问卷地址：
-
-https://abox.run/wj
-
-https://xykong-technology.feishu.cn/share/base/form/shrcnQ97NXnZz8oJCItJpEImUhf
+[https://xykong-technology.feishu.cn/share/base/form/shrcnZScNiXcdtK7xhoDo4Fwysd](https://xykong-technology.feishu.cn/share/base/form/shrcnZScNiXcdtK7xhoDo4Fwysd)
 
 期待 AstroBox 未来能与大家共同成长，持续构建一个优秀的第三方穿戴设备工具箱。
