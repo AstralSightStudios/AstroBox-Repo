@@ -1,6 +1,6 @@
 ---
 type: "资源推荐"
-title: "我把锤子桌面搬上了手表！"
+title: "把锤子桌面搬上手表！"
 subtitle: "「匠格」—— 不太合潮流 也不打算合潮流的拟物表盘"
 author: "Aurysian"
 date: 2026-07-25

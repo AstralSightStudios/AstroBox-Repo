@@ -26,30 +26,54 @@
     },
     {
       "id": "4",
-      "type": "normal",
+      "type": "big",
       "canClose": false,
 
       "contentMode": "default",
       "content": {
-        "title": "AstroBox 2.0 公测中",
-        "tag": "公告",
-        "introduction": "期待听到大家的反馈"
+        "title": "把锤子桌面搬上手表！",
+        "tag": "资源推荐",
+        "introduction": "「匠格」—— 不太合潮流 也不打算合潮流的拟物表盘"
       },
 
       "background": {
-        "img": "weekly/cover1.png"
+        "img": "jg/Cover.png"
       },
 
       "actions": [
         {
-          "id": "weekly",
+          "id": "jg",
           "content": "阅读",
-          "url": "weekly/index.md"
+          "url": "jg/index.md"
         }
       ]
     },
     {
       "id": "5",
+      "type": "big",
+      "canClose": false,
+
+      "contentMode": "default",
+      "content": {
+        "title": "Hyper Box",
+        "tag": "资源推荐",
+        "introduction": "一款真正值得长期留在手环/手表里的快应用"
+      },
+
+      "background": {
+        "img": "hyperbox/ab-square.png"
+      },
+
+      "actions": [
+        {
+          "id": "hyperbox",
+          "content": "阅读",
+          "url": "hyperbox/index.md"
+        }
+      ]
+    },
+    {
+      "id": "6",
       "type": "normal",
       "canClose": false,
 
@@ -72,30 +96,7 @@
         }
       ]
     },
-    {
-      "id": "6",
-      "type": "normal",
-      "canClose": false,
-
-      "contentMode": "default",
-      "content": {
-        "title": "Hyper Box",
-        "tag": "资源推荐",
-        "introduction": "一款真正值得长期留在手环/手表里的快应用"
-      },
-
-      "background": {
-        "img": "hyperbox/ab-banner.png"
-      },
-
-      "actions": [
-        {
-          "id": "hyperbox",
-          "content": "阅读",
-          "url": "hyperbox/index.md"
-        }
-      ]
-    },
+    
     {
       "id": "7",
       "type": "normal",
@@ -103,7 +104,7 @@
 
       "contentMode": "default",
       "content": {
-        "title": "手环脱离手机还能看天气吗？",
+        "title": "手环脱离手机也能看天气",
         "tag": "资源推荐",
         "introduction": "Eternal 永昼天气：让天气数据真正留在手腕上"
       },
@@ -119,31 +120,8 @@
           "url": "Eternal/index.md"
         }
       ]
-    },
-    {
-      "id": "8",
-      "type": "big",
-      "canClose": false,
-
-      "contentMode": "default",
-      "content": {
-        "title": "我把锤子桌面搬上了手表！",
-        "tag": "资源推荐",
-        "introduction": "「匠格」—— 不太合潮流 也不打算合潮流的拟物表盘"
-      },
-
-      "background": {
-        "img": "jg/Cover.png"
-      },
-
-      "actions": [
-        {
-          "id": "jg",
-          "content": "阅读",
-          "url": "jg/index.md"
-        }
-      ]
     }
+    
   ],
   
   "featuredResourceIds": ["979899954914","979808741600","979811204059", "moe.yzf.comic","com.Dreamqiu.9way","979820260630","979809640178","com.azuma.dic","moe.orpu.neomusic"],
