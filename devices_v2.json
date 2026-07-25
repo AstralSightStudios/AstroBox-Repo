@@ -133,6 +133,13 @@
       "chip": "bes",
       "fetch": true
     },
+    "M2551B1": {
+      "id": "xmb10p",
+      "name": "Xiaomi Smart Band 10 Pro",
+      "description": "",
+      "chip": "bes",
+      "fetch": false
+    },
     "M2553B1": {
       "id": "xmb10p",
       "name": "Xiaomi Smart Band 10 Pro",
