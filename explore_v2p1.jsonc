@@ -287,12 +287,12 @@
         },
         {
           "type": "resource",
-          "resourceId": "com.azuma.dic",
+          "resourceId": "979899954909",
           "resBackgroundColorGradient": ["#2b2d42", "#8d99ae"]
         },
         {
           "type": "resource",
-          "resourceId": "com.azuma.dic",
+          "resourceId": "979800000002",
           "resBackgroundColorGradient": ["#2b2d42", "#8d99ae"]
         }
       ]
