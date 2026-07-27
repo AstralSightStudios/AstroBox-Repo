@@ -114,14 +114,11 @@
       "type": "custom",
       "cards": [
         {
-          "type": "blog",
-          "title": "快速上手文档",
-          "tag": "Tips",
-          "textToBlack": true,
-          "introduction": "或许你可以从这里开始探索旅途",
-          "backgroundImg": "docs/cover.png",
-          "backgroundColor": "#1a1a2e",
-          "url": "docs/index.md"
+          "type": "author",
+          "id": "a959f259-6007-4afd-9b59-badf21d8751d",
+          "name": "hrsthrt74",
+          "description": "优质表盘作者",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/49299205?v=4"
         },
         {
           "type": "blog",
