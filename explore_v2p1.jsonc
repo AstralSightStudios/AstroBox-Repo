@@ -32,10 +32,23 @@
           "type": "blog",
           "title": "快速上手文档",
           "tag": "Tips",
+          "textToBlack": true,
           "introduction": "或许你可以从这里开始探索旅途",
           "backgroundImg": "docs/cover.png",
           "backgroundColor": "#1a1a2e",
           "url": "docs/index.md"
+        },
+        {
+          "type": "single_resource_blog",
+          "title": "把锤子桌面搬上手表！",
+          "tag": "资源推荐",
+          "textToBlack": true,
+          "introduction": "「匠格」—— 不太合潮流 也不打算合潮流的拟物表盘",
+          "backgroundImg": "jg/Cover.png",
+          "backgroundColor": "#16213e",
+          "url": "jg/index.md",
+          "resourceId": "979899954914",
+          "resBackgroundColorGradient": ["#0f3460", "#e94560"]
         },
         {
           "type": "single_resource_blog",
@@ -49,10 +62,49 @@
           "resBackgroundColorGradient": ["#0f3460", "#e94560"]
         },
         {
-          "type": "resource",
-          "resourceId": "979808741600",
-          "resBackgroundColorGradient": ["#1b1b2f", "#4a4e69"]
-        }
+          "type": "multi_resource_blog",
+          "title": "七月必装资源合集",
+          "tag": "合集",
+          "textToBlack": true,
+          "introduction": "精选 5 款本月最热门的建筑与工具类资源。",
+          "backgroundImg": "Eternal/banner-ex.png",
+          "backgroundColor": "#22223b",
+          "url": "Eternal/index.md",
+          "resourceId": "resource-77",
+          "resBackgroundColorGradient": ["#4a4e69", "#9a8c98"],
+          "resourceIds": ["979811204059", "moe.yzf.comic","com.Dreamqiu.9way","979820260630","979809640178"]
+        },
+        {
+          "type": "multi_resource_blog",
+          "title": "七月必装资源合集",
+          "tag": "合集",
+          "introduction": "精选 5 款本月最热门的建筑与工具类资源。",
+          "backgroundImg": "Eternal/banner-ex.png",
+          "backgroundColor": "#22223b",
+          "url": "Eternal/index.md",
+          "resourceId": "resource-77",
+          "resBackgroundColorGradient": ["#4a4e69", "#9a8c98"],
+          "resourceIds": ["moe.yzf.comic","979811204059","com.Dreamqiu.9way","979820260630","979809640178"]
+        },
+        {
+          "type": "blog",
+          "title": "快速上手文档",
+          "tag": "Tips",
+          "textToBlack": true,
+          "introduction": "或许你可以从这里开始探索旅途",
+          "backgroundImg": "docs/cover.png",
+          "backgroundColor": "#1a1a2e",
+          "url": "docs/index.md"
+        },
+        {
+          "type": "blog",
+          "title": "快速上手文档",
+          "tag": "Tips",
+          "introduction": "或许你可以从这里开始探索旅途",
+          "backgroundImg": "docs/cover.png",
+          "backgroundColor": "#1a1a2e",
+          "url": "docs/index.md"
+        },
       ]
     },
     {
