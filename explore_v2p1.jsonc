@@ -133,7 +133,7 @@
           "backgroundImg": "shellpp/ab-banner.png",
           "backgroundColor": "#242232",
           "url": "shellpp/index.md",
-          "resourceId": ["979889683730", "com.shell.liangyi"],
+          "resourceIds": ["979889683730", "com.shell.liangyi"],
           "resBackgroundColorGradient": ["#242232", "#22375D"]
         },
         {
