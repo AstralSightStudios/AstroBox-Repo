@@ -83,7 +83,7 @@
           "backgroundImg": "jg/Cover.png",
           "backgroundColor": "#FFFFFF",
           "url": "jg/index.md",
-          "resourceId": ["979899954909", "979818864961", "979899954912"],
+          "resourceIds": ["979899954909", "979818864961", "979899954912"],
           "resBackgroundColorGradient": ["#FFEDDD", "#F9CEA8"]
         },
         {
