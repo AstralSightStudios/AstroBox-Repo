@@ -143,7 +143,7 @@
           "textToBlack": false,
           "introduction": "让天气数据真正留在手腕上",
           "backgroundImg": "Eternal/banner-ex.png",
-          "backgroundColor": "#FFFFFF",
+          "backgroundColor": "#448FE4",
           "url": "Eternal/index.md",
           "resourceId": "moe.mcns.Eternal",
           "resBackgroundColorGradient": ["#448FE4", "#0B224D"]
