@@ -125,7 +125,7 @@
       "type": "custom",
       "cards": [
         {
-          "type": "single_resource_blog",
+          "type": "multi_resource_blog",
           "title": "手环也可以截图了？！",
           "tag": "资源推荐",
           "textToBlack": false,
