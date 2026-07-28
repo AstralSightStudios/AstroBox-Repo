@@ -1,0 +1,298 @@
+{
+  "customSections": [
+    {
+      "id": "weekly_pick",
+      "name": "每周精选",
+      "description": "编辑每周挑选的优质资源和文章",
+      "enabled": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "creator_showcase",
+      "name": "作者橱窗",
+      "description": "展示社区活跃作者的精选作品",
+      "enabled": true,
+      "sortOrder": 2
+    }
+  ],
+  "sections": [
+    {
+      "id": "default",
+      "type": "default",
+      "cards": [
+
+        // | 卡片类型                   | 字段                                                                            | 说明      |
+        // | ---------------------- | ----------------------------------------------------------------------------- | ------- |
+        // | `blog`                 | `title`, `tag`, `introduction`, `backgroundImg`, `backgroundColor`（单色）, `url` | 基础博客卡片  |
+        // | `single_resource_blog` | 继承 blog 全部字段 + `resourceId`, `resBackgroundColorGradient`（双色数组）                  | 单资源推荐   |
+        // | `multi_resource_blog`  | 继承单资源全部字段 + `resourceIds`（字符串数组）                                              | 多资源推荐   |
+        // | `resource`      | `resourceId`, `resBackgroundColorGradient`（双色数组）                                 | 方块状标准资源 |
+
+        {
+          "type": "blog",
+          "title": "快速上手文档",
+          "tag": "Tips",
+          "textToBlack": true,
+          "introduction": "或许你可以从这里开始探索旅途",
+          "backgroundImg": "docs/cover.png",
+          "backgroundColor": "#1a1a2e",
+          "url": "docs/index.md"
+        },
+        {
+          "type": "single_resource_blog",
+          "title": "把锤子桌面搬上手表！",
+          "tag": "资源推荐",
+          "textToBlack": true,
+          "introduction": "「匠格」—— 不太合潮流 也不打算合潮流的拟物表盘",
+          "backgroundImg": "jg/Cover.png",
+          "backgroundColor": "#16213e",
+          "url": "jg/index.md",
+          "resourceId": "979899954914",
+          "resBackgroundColorGradient": ["#0f3460", "#e94560"]
+        },
+        {
+          "type": "single_resource_blog",
+          "title": "把锤子桌面搬上手表！",
+          "tag": "资源推荐",
+          "introduction": "「匠格」—— 不太合潮流 也不打算合潮流的拟物表盘",
+          "backgroundImg": "jg/Cover.png",
+          "backgroundColor": "#16213e",
+          "url": "jg/index.md",
+          "resourceId": "979899954914",
+          "resBackgroundColorGradient": ["#0f3460", "#e94560"]
+        },
+        {
+          "type": "multi_resource_blog",
+          "title": "七月必装资源合集",
+          "tag": "合集",
+          "textToBlack": true,
+          "introduction": "精选 5 款本月最热门的建筑与工具类资源。",
+          "backgroundImg": "Eternal/banner-ex.png",
+          "backgroundColor": "#22223b",
+          "url": "Eternal/index.md",
+          "resourceId": "resource-77",
+          "resBackgroundColorGradient": ["#4a4e69", "#9a8c98"],
+          "resourceIds": ["979811204059", "moe.yzf.comic","com.Dreamqiu.9way","979820260630","com.Dreamqiu.9way","979809640178","979809640178","979809640178"]
+        },
+        {
+          "type": "multi_resource_blog",
+          "title": "七月必装资源合集",
+          "tag": "合集",
+          "introduction": "精选 5 款本月最热门的建筑与工具类资源。",
+          "backgroundImg": "Eternal/banner-ex.png",
+          "backgroundColor": "#22223b",
+          "url": "Eternal/index.md",
+          "resourceId": "resource-77",
+          "resBackgroundColorGradient": ["#4a4e69", "#9a8c98"],
+          "resourceIds": ["moe.yzf.comic","979811204059","com.Dreamqiu.9way","979820260630","979809640178"]
+        },
+        {
+          "type": "blog",
+          "title": "快速上手文档",
+          "tag": "Tips",
+          "textToBlack": true,
+          "introduction": "或许你可以从这里开始探索旅途",
+          "backgroundImg": "docs/cover.png",
+          "backgroundColor": "#1a1a2e",
+          "url": "docs/index.md"
+        },
+        {
+          "type": "blog",
+          "title": "快速上手文档",
+          "tag": "Tips",
+          "introduction": "或许你可以从这里开始探索旅途",
+          "backgroundImg": "docs/cover.png",
+          "backgroundColor": "#1a1a2e",
+          "url": "docs/index.md"
+        },
+      ]
+    },
+    {
+      "id": "weekly_pick",
+      "name": "每周精选",
+      "description": "编辑每周挑选的优质资源和文章",
+      "type": "custom",
+      "cards": [
+        {
+          "type": "author",
+          "id": "a959f259-6007-4afd-9b59-badf21d8751d",
+          "name": "hrsthrt74",
+          "description": "优质表盘作者",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/49299205?v=4"
+        },
+        {
+          "type": "blog",
+          "title": "快速上手文档",
+          "tag": "Tips",
+          "textToBlack": true,
+          "introduction": "或许你可以从这里开始探索旅途",
+          "backgroundImg": "docs/cover.png",
+          "backgroundColor": "#1a1a2e",
+          "url": "docs/index.md"
+        },
+        {
+          "type": "blog",
+          "title": "快速上手文档",
+          "tag": "Tips",
+          "introduction": "或许你可以从这里开始探索旅途",
+          "backgroundImg": "docs/cover.png",
+          "backgroundColor": "#1a1a2e",
+          "url": "docs/index.md"
+        },
+        {
+          "type": "single_resource_blog",
+          "title": "把锤子桌面搬上手表！",
+          "tag": "资源推荐",
+          "textToBlack": true,
+          "introduction": "「匠格」—— 不太合潮流 也不打算合潮流的拟物表盘",
+          "backgroundImg": "jg/Cover.png",
+          "backgroundColor": "#16213e",
+          "url": "jg/index.md",
+          "resourceId": "979899954914",
+          "resBackgroundColorGradient": ["#0f3460", "#e94560"]
+        },
+        {
+          "type": "multi_resource_blog",
+          "title": "七月必装资源合集",
+          "tag": "合集",
+          "textToBlack": true,
+          "introduction": "精选 5 款本月最热门的建筑与工具类资源。",
+          "backgroundImg": "Eternal/banner-ex.png",
+          "backgroundColor": "#22223b",
+          "url": "Eternal/index.md",
+          "resourceId": "resource-77",
+          "resBackgroundColorGradient": ["#4a4e69", "#9a8c98"],
+          "resourceIds": ["979811204059", "moe.yzf.comic","com.Dreamqiu.9way","979820260630","com.Dreamqiu.9way","979809640178","979809640178","979809640178"]
+        },
+        {
+          "type": "single_resource_blog",
+          "title": "把锤子桌面搬上手表！",
+          "tag": "资源推荐",
+          "introduction": "「匠格」—— 不太合潮流 也不打算合潮流的拟物表盘",
+          "backgroundImg": "jg/Cover.png",
+          "backgroundColor": "#16213e",
+          "url": "jg/index.md",
+          "resourceId": "979899954914",
+          "resBackgroundColorGradient": ["#0f3460", "#e94560"]
+        },
+        {
+          "type": "multi_resource_blog",
+          "title": "七月必装资源合集",
+          "tag": "合集",
+          "introduction": "精选 5 款本月最热门的建筑与工具类资源。",
+          "backgroundImg": "Eternal/banner-ex.png",
+          "backgroundColor": "#22223b",
+          "url": "Eternal/index.md",
+          "resourceId": "resource-77",
+          "resBackgroundColorGradient": ["#4a4e69", "#9a8c98"],
+          "resourceIds": ["moe.yzf.comic","979811204059","com.Dreamqiu.9way","979820260630","979809640178"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "com.azuma.dic",
+          "resBackgroundColorGradient": ["#2b2d42", "#8d99ae"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "com.azuma.dic",
+          "resBackgroundColorGradient": ["#2b2d42", "#8d99ae"]
+        }
+      ]
+    },
+    {
+      "id": "creator_showcase",
+      "name": "作者橱窗",
+      "description": "展示社区活跃作者的精选作品",
+      "type": "custom",
+      "cards": [
+        {
+          "type": "blog",
+          "title": "快速上手文档",
+          "tag": "Tips",
+          "textToBlack": true,
+          "introduction": "或许你可以从这里开始探索旅途",
+          "backgroundImg": "docs/cover.png",
+          "backgroundColor": "#1a1a2e",
+          "url": "docs/index.md"
+        },
+        {
+          "type": "single_resource_blog",
+          "title": "把锤子桌面搬上手表！",
+          "tag": "资源推荐",
+          "textToBlack": true,
+          "introduction": "「匠格」—— 不太合潮流 也不打算合潮流的拟物表盘",
+          "backgroundImg": "jg/Cover.png",
+          "backgroundColor": "#16213e",
+          "url": "jg/index.md",
+          "resourceId": "979899954914",
+          "resBackgroundColorGradient": ["#0f3460", "#e94560"]
+        },
+        {
+          "type": "single_resource_blog",
+          "title": "把锤子桌面搬上手表！",
+          "tag": "资源推荐",
+          "introduction": "「匠格」—— 不太合潮流 也不打算合潮流的拟物表盘",
+          "backgroundImg": "jg/Cover.png",
+          "backgroundColor": "#16213e",
+          "url": "jg/index.md",
+          "resourceId": "979899954914",
+          "resBackgroundColorGradient": ["#0f3460", "#e94560"]
+        },
+        {
+          "type": "multi_resource_blog",
+          "title": "七月必装资源合集",
+          "tag": "合集",
+          "textToBlack": true,
+          "introduction": "精选 5 款本月最热门的建筑与工具类资源。",
+          "backgroundImg": "Eternal/banner-ex.png",
+          "backgroundColor": "#22223b",
+          "url": "Eternal/index.md",
+          "resourceId": "resource-77",
+          "resBackgroundColorGradient": ["#4a4e69", "#9a8c98"],
+          "resourceIds": ["979811204059", "moe.yzf.comic","com.Dreamqiu.9way","979820260630","com.Dreamqiu.9way","979809640178","979809640178","979809640178"]
+        },
+        {
+          "type": "multi_resource_blog",
+          "title": "七月必装资源合集",
+          "tag": "合集",
+          "introduction": "精选 5 款本月最热门的建筑与工具类资源。",
+          "backgroundImg": "Eternal/banner-ex.png",
+          "backgroundColor": "#22223b",
+          "url": "Eternal/index.md",
+          "resourceId": "resource-77",
+          "resBackgroundColorGradient": ["#4a4e69", "#9a8c98"],
+          "resourceIds": ["moe.yzf.comic","979811204059","com.Dreamqiu.9way","979820260630","979809640178"]
+        },
+        {
+          "type": "blog",
+          "title": "快速上手文档",
+          "tag": "Tips",
+          "textToBlack": true,
+          "introduction": "或许你可以从这里开始探索旅途",
+          "backgroundImg": "docs/cover.png",
+          "backgroundColor": "#1a1a2e",
+          "url": "docs/index.md"
+        },
+        {
+          "type": "blog",
+          "title": "快速上手文档",
+          "tag": "Tips",
+          "introduction": "或许你可以从这里开始探索旅途",
+          "backgroundImg": "docs/cover.png",
+          "backgroundColor": "#1a1a2e",
+          "url": "docs/index.md"
+        },
+        {
+          "type": "resource",
+          "resourceId": "979899954909",
+          "resBackgroundColorGradient": ["#2b2d42", "#8d99ae"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "979800000002",
+          "resBackgroundColorGradient": ["#2b2d42", "#8d99ae"]
+        }
+      ]
+    }
+  ]
+}
