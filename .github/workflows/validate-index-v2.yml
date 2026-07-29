@@ -1,0 +1,26 @@
+name: Validate index_v2.csv
+
+on:
+  push:
+    paths:
+      - index_v2.csv
+      - .github/scripts/validate_index_v2.py
+      - .github/workflows/validate-index-v2.yml
+  pull_request:
+    paths:
+      - index_v2.csv
+      - .github/scripts/validate_index_v2.py
+      - .github/workflows/validate-index-v2.yml
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate index_v2.csv
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/validate_index_v2.py
