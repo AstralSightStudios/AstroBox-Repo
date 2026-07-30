@@ -7,30 +7,6 @@
 
       "contentMode": "default",
       "content": {
-        "title": "V2.0.1 版本更新",
-        "tag": "Weekly",
-        "introduction": "时隔一周，我们带来了新一个优化版本"
-      },
-
-      "background": {
-        "img": "weekly/cover1.png"
-      },
-
-      "actions": [
-        {
-          "id": "weekly",
-          "content": "阅读",
-          "url": "weekly/index.md"
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "type": "normal",
-      "canClose": false,
-
-      "contentMode": "default",
-      "content": {
         "title": "快速上手文档",
         "tag": "Tips",
         "introduction": "或许你可以从这里开始探索旅途"
@@ -49,32 +25,106 @@
       ]
     },
     {
+      "id": "4",
+      "type": "big",
+      "canClose": false,
+
+      "contentMode": "default",
+      "content": {
+        "title": "把锤子桌面搬上手表！",
+        "tag": "资源推荐",
+        "introduction": "「匠格」—— 不太合潮流 也不打算合潮流的拟物表盘"
+      },
+
+      "background": {
+        "img": "jg/Cover.png"
+      },
+
+      "actions": [
+        {
+          "id": "jg",
+          "content": "阅读",
+          "url": "jg/index.md"
+        }
+      ]
+    },
+    {
       "id": "5",
+      "type": "big",
+      "canClose": false,
+
+      "contentMode": "default",
+      "content": {
+        "title": "Hyper Box",
+        "tag": "资源推荐",
+        "introduction": "一款真正值得长期留在手环/手表里的快应用"
+      },
+
+      "background": {
+        "img": "hyperbox/ab-square.png"
+      },
+
+      "actions": [
+        {
+          "id": "hyperbox",
+          "content": "阅读",
+          "url": "hyperbox/index.md"
+        }
+      ]
+    },
+    {
+      "id": "6",
       "type": "normal",
       "canClose": false,
 
       "contentMode": "default",
       "content": {
-        "title": "简明天气",
+        "title": "手环也可以截图了？！",
         "tag": "资源推荐",
-        "introduction": "一个从校园痛点里长出来的天气应用"
+        "introduction": "Shell++：“解锁”手环的高级玩法"
       },
 
       "background": {
-        "img": "jmtq/ab-square.png"
+        "img": "shellpp/ab-banner.png"
       },
 
       "actions": [
         {
-          "id": "jmtq",
+          "id": "shellpp",
           "content": "阅读",
-          "url": "jmtq/index.md"
+          "url": "shellpp/index.md"
+        }
+      ]
+    },
+    
+    {
+      "id": "7",
+      "type": "normal",
+      "canClose": false,
+
+      "contentMode": "default",
+      "content": {
+        "title": "手环脱离手机也能看天气",
+        "tag": "资源推荐",
+        "introduction": "Eternal 永昼天气：让天气数据真正留在手腕上"
+      },
+
+      "background": {
+        "img": "Eternal/banner-ex.png"
+      },
+
+      "actions": [
+        {
+          "id": "Eternal",
+          "content": "阅读",
+          "url": "Eternal/index.md"
         }
       ]
     }
+    
   ],
   
-  "featuredResourceIds": ["979808741600", "moe.yzf.comic","com.charlie.hyperbox","com.azuma.syclass","979820260630","moe.orpu.neomusic"],
+  "featuredResourceIds": ["979899954914","979808741600","979811204059", "moe.yzf.comic","com.Dreamqiu.9way","979820260630","979809640178","com.azuma.dic","moe.orpu.neomusic"],
   "featuredAuthors": [
     {
       "id": "a959f259-6007-4afd-9b59-badf21d8751d",
@@ -88,14 +138,14 @@
       ]
     },
     {
-      "id": "53327400",
-      "name": "小鱼yuzifu",
-      "description": "优质工具作者",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/53327400?v=4",
+      "id": "e753b212-6ce8-400c-9dd0-210e73c66fba",
+      "name": "Cannyworks",
+      "description": "优质表盘作者",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/304364876?v=4",
       "resourceIds": [
-        "com.yzf.ballsRace",
-        "com.yzf.daymatter",
-        "com.yzf.fireworkMaster"
+        "979899954909",
+        "979812768106",
+        "979899954912"
       ]
     },
     {
@@ -106,7 +156,18 @@
       "resourceIds": [
         "com.charlie.hyperbox",
         "com.charlie.muyuPro",
-        "LegacyItem52"
+        "979856192927"
+      ]
+    },
+    {
+      "id": "ced8d86b-097a-4384-96ec-38d7dcd2fd38",
+      "name": "AzumaChiaki",
+      "description": "畅销工具作者",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/177545038?v=4",
+      "resourceIds": [
+        "com.azuma.syclass",
+        "com.azuma.dic",
+        "com.kevin.en"
       ]
     },
     {
@@ -118,6 +179,17 @@
         "com.application.zaona.weather",
         "979890780202",
         "979890780301"
+      ]
+    },
+    {
+      "id": "53327400",
+      "name": "小鱼yuzifu",
+      "description": "优质工具作者",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53327400?v=4",
+      "resourceIds": [
+        "com.yzf.ballsRace",
+        "com.yzf.daymatter",
+        "com.yzf.fireworkMaster"
       ]
     },
     {

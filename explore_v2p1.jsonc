@@ -1,0 +1,212 @@
+{
+  "customSections": [
+    {
+      "id": "face",
+      "name": "个性表盘",
+      "description": "一抬腕，就出众。",
+      "enabled": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "tools",
+      "name": "必备工具",
+      "description": "日常所需，随手即用。",
+      "enabled": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "games",
+      "name": "玩一会吧",
+      "description": "碎片时间，轻松一刻。",
+      "enabled": true,
+      "sortOrder": 3
+    }
+  ],
+  "sections": [
+    {
+      "id": "default",
+      "type": "default",
+      "cards": [
+
+        // | 卡片类型                | 字段                                                                              |     说明     |
+        // | ---------------------- | -------------------------------------------------------------------------------- | -----------  |
+        // | `blog`                 | `title`, `tag`, `introduction`, `backgroundImg`, `backgroundColor`（单色）, `url` | 基础博客卡片   |
+        // | `single_resource_blog` | 继承 blog 全部字段 + `resourceId`, `resBackgroundColorGradient`（双色数组）          | 单资源推荐    |
+        // | `multi_resource_blog`  | 继承单资源全部字段 + `resourceIds`（字符串数组）                                      | 多资源推荐     |
+        // | `resource`             | `resourceId`, `resBackgroundColorGradient`（双色数组）                             | 方块状标准资源 |
+        // | `author`               | `id`, `name`, `description`, `avatarUrl`                                         | 作者介绍      |
+        
+        {
+          "type": "blog",
+          "title": "更新公告",
+          "tag": "Weekly",
+          "introduction": "UI 大幅优化，引导更加明确",
+          "backgroundImg": "weekly/cover1.png",
+          "backgroundColor": "#1a1a2e",
+          "url": "weekly/index.md"
+        },
+        {
+          "type": "blog",
+          "title": "快速上手文档",
+          "tag": "Tips",
+          "introduction": "或许你可以从这里开始探索旅途",
+          "backgroundImg": "docs/cover.png",
+          "backgroundColor": "#1a1a2e",
+          "url": "docs/index.md"
+        },
+      ]
+    },
+    {
+      "id": "face",
+      "name": "个性表盘",
+      "description": "一抬腕，就出众。",
+      "type": "custom",
+      "cards": [
+        {
+          "type": "single_resource_blog",
+          "title": "把锤子桌面搬上手表！",
+          "tag": "资源推荐",
+          "textToBlack": true,
+          "introduction": "不太合潮流 也不打算合潮流的拟物表盘",
+          "backgroundImg": "jg/Cover.png",
+          "backgroundColor": "#FFFFFF",
+          "url": "jg/index.md",
+          "resourceId": "979837445867",
+          "resBackgroundColorGradient": ["#FFEDDD", "#F9CEA8"]
+        },
+        {
+          "type": "multi_resource_blog",
+          "title": "从生活中寻找时间",
+          "tag": "资源推荐",
+          "textToBlack": true,
+          "introduction": "给肯尼预留的～临时占位",
+          "backgroundImg": "jg/Cover.png",
+          "backgroundColor": "#FFFFFF",
+          "url": "jg/index.md",
+          "resourceIds": ["979899954909", "979818864961", "979899954912"],
+          "resBackgroundColorGradient": ["#FFEDDD", "#F9CEA8"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "979811204059",
+          "resBackgroundColorGradient": ["#642109", "#3E2E1A"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "979808741600",
+          "resBackgroundColorGradient": ["#8A8300", "#464223"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "979890780301",
+          "resBackgroundColorGradient": ["#77D35B", "#143F2B"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "979801672119",
+          "resBackgroundColorGradient": ["#C7B34E", "#671E06"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "979809640178",
+          "resBackgroundColorGradient": ["#CEA2B7", "#13648A"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "979820260630",
+          "resBackgroundColorGradient": ["#B1CEA2", "#164C30"]
+        },
+      ]
+    },
+    {
+      "id": "tools",
+      "name": "必备工具",
+      "description": "日常所需，随手即用。",
+      "type": "custom",
+      "cards": [
+        {
+          "type": "multi_resource_blog",
+          "title": "手环也可以截图了？！",
+          "tag": "资源推荐",
+          "textToBlack": false,
+          "introduction": "“解锁”手环的高级玩法",
+          "backgroundImg": "shellpp/ab-banner.png",
+          "backgroundColor": "#242232",
+          "url": "shellpp/index.md",
+          "resourceIds": ["979889683730", "com.shell.liangyi"],
+          "resBackgroundColorGradient": ["#242232", "#22375D"]
+        },
+        {
+          "type": "single_resource_blog",
+          "title": "手环脱离手机也能看天气",
+          "tag": "资源推荐",
+          "textToBlack": false,
+          "introduction": "让天气数据真正留在手腕上",
+          "backgroundImg": "Eternal/banner-ex.png",
+          "backgroundColor": "#448FE4",
+          "url": "Eternal/index.md",
+          "resourceId": "moe.mcns.Eternal",
+          "resBackgroundColorGradient": ["#448FE4", "#0B224D"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "com.charlie.hyperbox",
+          "resBackgroundColorGradient": ["#23325E", "#011E2E"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "moe.yzf.comic",
+          "resBackgroundColorGradient": ["#AF707B", "#65343C"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "com.azuma.dic",
+          "resBackgroundColorGradient": ["#649AFF", "#091E42"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "com.application.zaona.weather",
+          "resBackgroundColorGradient": ["#80C2E0", "#0D4E9F"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "com.yzf.daymatter",
+          "resBackgroundColorGradient": ["#EAC9FF", "#42373B"]
+        }, 
+        {
+          "type": "resource",
+          "resourceId": "moe.orpu.neomusic",
+          "resBackgroundColorGradient": ["#BCC2FF", "#31334B"]
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "name": "玩一会吧",
+      "description": "碎片时间，轻松一刻。",
+      "type": "custom",
+      "cards": [
+        {
+          "type": "resource",
+          "resourceId": "com.matrixfive.online.ylgy",
+          "resBackgroundColorGradient": ["#C1FF7C", "#2C4114"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "cn.waijade.B2048",
+          "resBackgroundColorGradient": ["#F7DFCC", "#C3612B"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "com.Dreamqiu.9way",
+          "resBackgroundColorGradient": ["#D7B700", "#52490B"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "com.yzf.fireworkMaster",
+          "resBackgroundColorGradient": ["#F8A0E8", "#290B2F"]
+        }
+      ]
+    },
+  ]
+}
