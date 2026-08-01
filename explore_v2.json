@@ -37,7 +37,7 @@
       },
 
       "background": {
-        "img": "jg/Cover.png"
+        "img": "jg/oldCover.png"
       },
 
       "actions": [
@@ -85,7 +85,7 @@
       },
 
       "background": {
-        "img": "shellpp/ab-banner.png"
+        "img": "shellpp/oldab-banner.png"
       },
 
       "actions": [
@@ -110,7 +110,7 @@
       },
 
       "background": {
-        "img": "Eternal/banner-ex.png"
+        "img": "Eternal/oldbanner-ex.png"
       },
 
       "actions": [
