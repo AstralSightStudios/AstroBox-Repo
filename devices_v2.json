@@ -133,6 +133,13 @@
       "chip": "bes",
       "fetch": true
     },
+    "M2551B1": {
+      "id": "xmb10p",
+      "name": "Xiaomi Smart Band 10 Pro",
+      "description": "",
+      "chip": "bes",
+      "fetch": false
+    },
     "M2553B1": {
       "id": "xmb10p",
       "name": "Xiaomi Smart Band 10 Pro",
@@ -145,7 +152,7 @@
     "WA2536B": {
       "id": "vivowgt2",
       "name": "vivo WATCH GT 2",
-      "description": "计划支持",
+      "description": "",
       "chip": "bes",
       "fetch": true
     }
