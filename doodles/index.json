@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "devices": {
+    "watch": [
+      {
+        "url": "8.8-8.16/0.webp",
+        "startAt": "2026-08-02T00:00:00+08:00",
+        "endAt": "2026-08-16T23:59:59+08:00",
+        "zh_CN": {
+          "title": "致敬 IBM PC 诞生 45 周年",
+          "description": "1981年8月12日，IBM 发布个人计算机 IBM 5150，搭载 Intel 8088 处理器与 PC-DOS 系统，从此开启了个人电脑时代。这只涂鸦致敬 45 年前改变世界的这一天。"
+        },
+        "en_US": {
+          "title": "Celebrating 45 Years of the IBM PC",
+          "description": "On August 12, 1981, IBM introduced the IBM 5150 Personal Computer — powered by an Intel 8088 CPU and PC-DOS — kickstarting the personal computer era. This doodle honors that day, 45 years on."
+        }
+      }
+    ],
+    "band": [
+      {
+        "url": "8.8-8.16/1.webp",
+        "startAt": "2026-08-02T00:00:00+08:00",
+        "endAt": "2026-08-16T23:59:59+08:00",
+        "zh_CN": {
+          "title": "致敬 IBM PC 诞生 45 周年",
+          "description": "1981年8月12日，IBM 发布个人计算机 IBM 5150，搭载 Intel 8088 处理器与 PC-DOS 系统，从此开启了个人电脑时代。这只涂鸦致敬 45 年前改变世界的这一天。"
+        },
+        "en_US": {
+          "title": "Celebrating 45 Years of the IBM PC",
+          "description": "On August 12, 1981, IBM introduced the IBM 5150 Personal Computer — powered by an Intel 8088 CPU and PC-DOS — kickstarting the personal computer era. This doodle honors that day, 45 years on."
+        }
+      }
+    ],
+    "bandPro": [
+      {
+        "url": "8.8-8.16/2.webp",
+        "startAt": "2026-08-02T00:00:00+08:00",
+        "endAt": "2026-08-16T23:59:59+08:00",
+        "zh_CN": {
+          "title": "致敬 IBM PC 诞生 45 周年",
+          "description": "1981年8月12日，IBM 发布个人计算机 IBM 5150，搭载 Intel 8088 处理器与 PC-DOS 系统，从此开启了个人电脑时代。这只涂鸦致敬 45 年前改变世界的这一天。"
+        },
+        "en_US": {
+          "title": "Celebrating 45 Years of the IBM PC",
+          "description": "On August 12, 1981, IBM introduced the IBM 5150 Personal Computer — powered by an Intel 8088 CPU and PC-DOS — kickstarting the personal computer era. This doodle honors that day, 45 years on."
+        }
+      }
+    ],
+    "RMWatch": [
+      {
+        "url": "8.8-8.16/3.webp",
+        "startAt": "2026-08-02T00:00:00+08:00",
+        "endAt": "2026-08-16T23:59:59+08:00",
+        "zh_CN": {
+          "title": "致敬 IBM PC 诞生 45 周年",
+          "description": "1981年8月12日，IBM 发布个人计算机 IBM 5150，搭载 Intel 8088 处理器与 PC-DOS 系统，从此开启了个人电脑时代。这只涂鸦致敬 45 年前改变世界的这一天。"
+        },
+        "en_US": {
+          "title": "Celebrating 45 Years of the IBM PC",
+          "description": "On August 12, 1981, IBM introduced the IBM 5150 Personal Computer — powered by an Intel 8088 CPU and PC-DOS — kickstarting the personal computer era. This doodle honors that day, 45 years on."
+        }
+      }
+    ],
+    "RMWatch6": [
+      {
+        "url": "8.8-8.16/4.webp",
+        "startAt": "2026-08-02T00:00:00+08:00",
+        "endAt": "2026-08-16T23:59:59+08:00",
+        "zh_CN": {
+          "title": "致敬 IBM PC 诞生 45 周年",
+          "description": "1981年8月12日，IBM 发布个人计算机 IBM 5150，搭载 Intel 8088 处理器与 PC-DOS 系统，从此开启了个人电脑时代。这只涂鸦致敬 45 年前改变世界的这一天。"
+        },
+        "en_US": {
+          "title": "Celebrating 45 Years of the IBM PC",
+          "description": "On August 12, 1981, IBM introduced the IBM 5150 Personal Computer — powered by an Intel 8088 CPU and PC-DOS — kickstarting the personal computer era. This doodle honors that day, 45 years on."
+        }
+      }
+    ]
+  }
+}
