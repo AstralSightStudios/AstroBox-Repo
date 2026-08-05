@@ -92,9 +92,9 @@
       "fetch": true
     },
     "M2502W1": {
-      "id": "xmws4",
-      "name": "Xiaomi Watch S4 系列",
-      "description": "s441mm，无特别特性",
+      "id": "xmws441",
+      "name": "Xiaomi Watch S4 41mm",
+      "description": "s441mm，无特别特性，但屏幕大小有差异",
       "chip": "bes",
       "fetch": true
     },
@@ -118,13 +118,41 @@
       "description": "",
       "chip": "bes",
       "fetch": true
+    },
+    "M2530W1": {
+      "id": "xmws5",
+      "name": "Xiaomi Watch S5 系列",
+      "description": "",
+      "chip": "bes",
+      "fetch": true
+    },
+    "M2517W1": {
+      "id": "xmws5",
+      "name": "Xiaomi Watch S5 系列",
+      "description": "s5 esim",
+      "chip": "bes",
+      "fetch": true
+    },
+    "M2551B1": {
+      "id": "xmb10p",
+      "name": "Xiaomi Smart Band 10 Pro",
+      "description": "",
+      "chip": "bes",
+      "fetch": false
+    },
+    "M2553B1": {
+      "id": "xmb10p",
+      "name": "Xiaomi Smart Band 10 Pro",
+      "description": "",
+      "chip": "bes",
+      "fetch": false
     }
   },
   "vivo": {
     "WA2536B": {
       "id": "vivowgt2",
       "name": "vivo WATCH GT 2",
-      "description": "计划支持",
+      "description": "",
       "chip": "bes",
       "fetch": true
     }
