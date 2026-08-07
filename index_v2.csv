@@ -151,7 +151,6 @@ com.lst.bandtotp,BandTOTP,quick_app,leset0ng,astrobox-res-bandtotp,6887109,media
 com.yxin.mijia5,米家遥控器,quick_app,yxinstu,mijia-Astrobox,a6e1452,media/1000012179.png,media/1000012178.png,实用工具;智能家居;遥控;米家,xiaomi,xmb9p;xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6,
 979811451483,「忆」UI焕新版-相册表盘,watchface,AL-1S-hash,astrobox-resource-979811451483,65e84eb,media/1000034131.png,media/1000034113.png,表盘;忆;相册表盘,xiaomi,xmb10p;xmrw6;xmb9;xmb10nfc;xmb10;xmb9p,force_paid
 9798200001981,「迷幻」,watchface,AL-1S-hash,astrobox-resource-9798200001981,9766b5c,media/1000034208.png,media/1000034207.png,EVOA;孤星计划;极简;长虹玻璃;弥散;艺术,xiaomi,xmb9;xmrw6;xmb10p;xmb9p;xmb10nfc;xmb10,force_paid
-979808586472,时序（shixu）,watchface,Hobjl-lian,979808586472_AstroBox_Release,ff881cd,icon.png,Ab.png,表盘;Hobjl,xiaomi,xmb9p;xmb10;xmrw5;xmrw6;xmb10p,
 979808743900,COMPASS,watchface,hrsthrt74,compass-for-astrobox,1fe82c6,icon.png,cover.png,compass;mc;我的世界;minecraft;动态,xiaomi,xmws5;xmb10p;xmrw6,
 com.kevin.en,腕上单词,quick_app,AzumaChiaki,BandEnglish_ab,fa8856a,media/logo.png,media/68C96A73ECF0BA8780541353DBE3D0DA.png,英语;单词;学习;工具,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmb10p;xmb9p,force_paid
 com.azuma.syclass,Var课程表,quick_app,AzumaChiaki,VarClass-ab,c92f6e5,media/icon.png,media/cover.png,课程表;效率;工具,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,force_paid
@@ -222,3 +221,4 @@ com.whyy.snapnotes,闪念小抄,quick_app,WenHuaYiYang,snapnotes,2f1cd06,media/�
 com.cicada.solan,竹知了,quick_app,Solan-486,Astrobox_Cicada_AstroBox_Release,9f2f730,icon.png,Preview.png,玩具;抽象;知了;竹知了;妙妙;工具;余音绕梁,xiaomi,xmb9;xmb10;xmb9p;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p,
 com.txcnstudio.todo,Tickit — 腕间智能清单,quick_app,txcn727-coder,astrobox-resource-com-txcnstudio-todo,635cfc1,media/容器 15.png,media/容器 3 (1).png,云端;联网;todo;清单,xiaomi,xmb10p;xmb9p,
 com.whistleo.otp,动态口令（OTP/TOTP/HOTP),quick_app,WhistleO,astrobox-resource-com-whistleo-otp,3ebccf9,media/icon.png,media/cover.png,工具;OTP;动态口令,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws441;xmws4xring;xmws4;xmws5;xmb9p;xmb10p,
+979808586472,【适配更多设备】时序（shixu）,watchface,Hobjl-lian,979808586472_AstroBox_Release,953bd99,icon.png,Ab.png,表盘;Hobjl,xiaomi,xmb9p;xmb10;xmrw5;xmrw6;xmb10p;xmrw5xring;xmb10nfc,
