@@ -145,3 +145,4 @@ invalid-zero-width,零​宽字符测试,quick_app,validation-fixture,zero-width
 invalid-garbled,乱码�测试,quick_app,validation-fixture,garbled,0000000,icon.png,cover.png,测试,xiaomi,test-device,
 LegacyItem1,重复 ID 测试,quick_app,validation-fixture,duplicate-id,0000000,icon.png,cover.png,测试,xiaomi,test-device,
 invalid-duplicate-repo,重复仓库测试,watchface,Searchstars,StarfieldWatchFace_AstroBox_Release,efdc847,icon.png,cover.png,测试,xiaomi,test-device,
+com.MatrixFive.ShuZiWu,缤纷数字屋,quick_app,jinmohan,ShuZiWu-AstroBox,2cea961,media/logo.png,media/Preview.png,游戏;休闲;解压;娱乐,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmb10p,force_paid
