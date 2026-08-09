@@ -190,7 +190,6 @@ com.virelyx258.poster,Poster,quick_app,virelyx258,Vela_Poster,7071140,icon.png,2
 979808744100,幻彩流光 DIY,watchface,hrsthrt74,huancailiuguang-diy-for-astrobox,f758a89,media/icon2.png,media/coverB.png,hrsthrt74;apple;苹果;相册表盘;DIY,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmws5;xmws4xring;xmws441;xmws4,force_paid
 979808744000,幻彩流光,watchface,hrsthrt74,huancailiuguang-for-astrobox,121ce59,media/icon.png,media/coverA.png,hrsthrt74;apple;苹果;多样式;多彩,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmws5,force_paid
 979875862688,绝区零AngelUI-妄想天使-,watchface,shantuskat,astrobox-resource-979875862688,cb6e5bd,media/封面.png,media/画板 4.png,妄想天使;绝区零;免费;米哈游;千夏;二次元,xiaomi,xmb10;xmb10nfc;xmb9p;xmb10p;xmrw6,
-979801672119,「凝」-罗小黑24节气2024,watchface,shantuskat,astrobox-resource-979801672119,fa8ee4d,media/画板 1.png,media/画板 32.png,罗小黑;免费;poolux studio,xiaomi,xmb10;xmb10nfc;xmb10p;xmb9p;xmrw5;xmrw5xring;xmws5;xmrw6,
 979872522000,白夜,watchface,AL-1S-hash,astrobox-resource-979872522000,9e09ad0,media/Group 88.png,media/Frame 8.png,EVOA;孤星计划;极简;商务;多跳转;日;月,xiaomi,xmb10p;xmb9p;xmb10nfc;xmb9;xmb10;xmrw6,force_paid
 979813340786,霓虹双指针「DEMO」,watchface,Cannyworks29,Neo-twin-light,013d280,media/_7266517-2.jpg,media/_7266518-2.jpg,极简;霓虹;复古;数字;指针;赛博朋克,xiaomi,xmb10nfc;xmb10,
 979855569274,大大数字,watchface,Cannyworks29,BIGBIG-NUMBERS,40b2f24,media/付费版 osward 字体 数字表盘 01.png,media/DSCF2411 封面.jpg,极简;复古;数字;开源字体,xiaomi,xmb10nfc;xmb10;xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9;xmb9p,force_paid
@@ -223,3 +222,4 @@ com.txcnstudio.todo,Tickit — 腕间智能清单,quick_app,txcn727-coder,astrob
 com.whistleo.otp,动态口令（OTP/TOTP/HOTP),quick_app,WhistleO,astrobox-resource-com-whistleo-otp,3ebccf9,media/icon.png,media/cover.png,工具;OTP;动态口令,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws441;xmws4xring;xmws4;xmws5;xmb9p;xmb10p,
 979808586472,【适配更多设备】时序（shixu）,watchface,Hobjl-lian,979808586472_AstroBox_Release,953bd99,icon.png,Ab.png,表盘;Hobjl,xiaomi,xmb9p;xmb10;xmrw5;xmrw6;xmb10p;xmrw5xring;xmb10nfc,
 979877068253,【安装我】美式漫画-照片表盘,watchface,Hobjl-lian,astrobox-resource-979877068253,7697c4e,media/icons.png,media/Ab头图1.jpg,Hobjl;表盘,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,force_paid
+979801672119,『凝』-罗小黑24节气2024,watchface,shantuskat,astrobox-resource-979801672119,f04b103,media/画板 1.png,media/画板 32.png,罗小黑;免费;poolux studio,xiaomi,xmb10;xmb10nfc;xmb10p;xmb9p;xmrw5;xmrw5xring;xmws5;xmrw6;xmb9,
