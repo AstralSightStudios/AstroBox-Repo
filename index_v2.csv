@@ -162,7 +162,6 @@ me.cjack.b2048n,2048N,quick_app,CJackHwang,2048N_AstroBox_Release,d111493,src/co
 979812768106,彩虹大大数字,watchface,Cannyworks29,Rainbow-Big-Font,6faef58,media/_5106105.jpg,media/_5106105.png,极简;大数字;彩虹,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9,
 979899954914,圆饼三指针,watchface,Cannyworks29,Three-Disk-Hands,f872685,media/画板 2523.png,media/封面图 横构图_4245899.jpg,极简;指针,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmws5,
 moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,47b7089,logo.png,1.png,天气应用;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441;xmb10p,paid
-moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_Release,e48a70b,logo (1).png.png,封面.png,邮件;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5xring;xmrw5;xmws441;xmrw6;xmws5;xmb9p,force_paid
 con.Dreamqiu.AngryBalls,愤怒的小球,quick_app,Dreamqiucn,angryballs-Astrobox,45cdde2,logo.png,preview1.png,游戏;2d;休闲,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
 com.Dreamqiu.9way,九号出口,quick_app,Dreamqiucn,way-astrobox,2e0d776,media/logo.png,media/九号出口 (1).png,游戏;悬疑;恐怖,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;vivowgt2;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,force_paid
 979899954912,复古液晶显示,watchface,Cannyworks29,RetroSTNdisplay3,dcc5a64,media/画板 1 副本3.png,media/_7146450 2.jpg,复古;液晶;像素;渐变;极简,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmws5,
@@ -230,3 +229,4 @@ com.MatrixFive.ShuZiWu,缤纷数字屋,quick_app,jinmohan,ShuZiWu_AstroBox_Relea
 com.matrixfive.airpistol,轻音效,quick_app,jinmohan,QingYinXiao-AstroBox,2e17983,media/logo.png,media/q1-z.png,创意软件,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmws5,force_paid
 com.schedule.vela,腕上课程表,quick_app,Jursin,astrobox-resource-com-schedule-vela,94ead66,media/logo.png,media/banner.png,课程表,xiaomi,xmb9,
 com.azuma.dic,英汉词典-五万词库中英互译,quick_app,AzumaChiaki,AzumaDic,bce9425,media/logo.png,media/780DC36BE6420AF666B84B57D794E620.png,词典;学习;工具;英语,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10nfc;xmb10;xmb10p;xmb9;xmb9p,force_paid
+moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_Release,20da525,logo (1).png.png,封面.png,邮件;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5xring;xmrw5;xmws441;xmrw6;xmws5;xmb9p;xmb10p,force_paid
