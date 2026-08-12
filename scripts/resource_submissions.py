@@ -134,6 +134,19 @@ def read_text(path: str | Path) -> str:
     return raw.decode("utf-8-sig")
 
 
+def read_remote_text(path: str, ref: str) -> str:
+    safe_path = urllib.parse.quote(path, safe="")
+    safe_ref = urllib.parse.quote(ref, safe="")
+    data = api_request(
+        "GET",
+        f"/repos/{github_repo()}/contents/{safe_path}?ref={safe_ref}",
+    )
+    content = data.get("content", "")
+    if data.get("encoding", "base64") != "base64":
+        raise SubmissionError("不支持的非 base64 文件内容。")
+    return base64.b64decode(content).decode("utf-8-sig")
+
+
 def write_text(path: str | Path, content: str) -> None:
     Path(path).write_text(content, encoding="utf-8", newline="\n")
 
@@ -595,9 +608,17 @@ def command_validate_pr() -> int:
                 f"每个 PR 只能包含一个 submission 目录，当前识别到 {len(dirs)} 个。"
             )
 
+        base_sha = event.get("pull_request", {}).get("base", {}).get("sha")
+        base_entries: list[Entry] = []
+        if base_sha:
+            base_entries, _ = parse_csv_rows(
+                read_remote_text(CATALOG_PATH, base_sha),
+                CATALOG_PATH,
+            )
+
         for directory in dirs:
             entry, request = read_submission(directory)
-            validate_edit_or_create([], entry, request)
+            validate_edit_or_create(base_entries, entry, request)
             print(
                 f"PR #{pr_number} 的 {directory} 通过本地结构校验："
                 f"{request.mode} {entry.get('id')}"
