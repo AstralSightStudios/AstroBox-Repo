@@ -3,7 +3,7 @@
 
 Commands:
   validate-index   Strictly validate index_v2.csv.
-  validate-pr      Validate one PR containing tmp/submissions files.
+  validate-pr      Validate one PR containing tmp staging files.
   apply-pending    Apply merged pending submissions to index_v2.csv.
 
 The script uses only the standard library and the GitHub REST API through
@@ -32,8 +32,8 @@ from typing import Any
 
 
 CATALOG_PATH = "index_v2.csv"
-SUBMISSION_ROOT = "tmp/submissions"
-SUBMISSION_CSV_FILE = "res.csv"
+SUBMISSION_ROOT = "tmp"
+SUBMISSION_CSV_FILE = "resource.csv"
 SUBMISSION_REQUEST_FILE = "request.json"
 HEADER = [
     "id",
@@ -263,9 +263,9 @@ def parse_request_json(text: str, path: str) -> Request:
 
 def submission_dir_from_file(filename: str) -> str | None:
     parts = filename.split("/")
-    if len(parts) < 5 or parts[:2] != SUBMISSION_ROOT.split("/"):
+    if len(parts) < 4 or parts[0] != SUBMISSION_ROOT:
         return None
-    return "/".join(parts[:4])
+    return "/".join(parts[:3])
 
 
 def list_submission_dirs() -> list[str]:
@@ -594,7 +594,7 @@ def command_validate_pr() -> int:
             filename = file.get("filename", "")
             if not filename.startswith(f"{SUBMISSION_ROOT}/"):
                 raise SubmissionError(
-                    f"PR 不允许修改 {filename}；只允许修改 tmp/submissions/** 下的 res.csv 和 request.json。"
+                f"PR 不允许修改 {filename}；只允许修改 tmp/** 下的 resource.csv 和 request.json。"
                 )
             if not filename.endswith(SUBMISSION_CSV_FILE) and not filename.endswith(
                 SUBMISSION_REQUEST_FILE

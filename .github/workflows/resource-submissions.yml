@@ -3,12 +3,12 @@ name: Resource submissions
 on:
   pull_request:
     paths:
-      - "tmp/submissions/**"
+      - "tmp/**"
   push:
     branches:
       - main
     paths:
-      - "tmp/submissions/**"
+      - "tmp/**"
       - "index_v2.csv"
       - "scripts/resource_submissions.py"
       - ".github/workflows/resource-submissions.yml"
