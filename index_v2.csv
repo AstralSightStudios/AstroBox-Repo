@@ -161,7 +161,6 @@ com.remote.terminal,远程终端,quick_app,F7YM,astrobox-resource-com-remote-ter
 me.cjack.b2048n,2048N,quick_app,CJackHwang,2048N_AstroBox_Release,d111493,src/common/logo.png,src/common/head15.png,免费;开源;2048;游戏;小米手环10;快应用,xiaomi,xmb10;xmb10nfc,
 979812768106,彩虹大大数字,watchface,Cannyworks29,Rainbow-Big-Font,6faef58,media/_5106105.jpg,media/_5106105.png,极简;大数字;彩虹,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9,
 979899954914,圆饼三指针,watchface,Cannyworks29,Three-Disk-Hands,f872685,media/画板 2523.png,media/封面图 横构图_4245899.jpg,极简;指针,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmws5,
-moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,47b7089,logo.png,1.png,天气应用;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441;xmb10p,paid
 con.Dreamqiu.AngryBalls,愤怒的小球,quick_app,Dreamqiucn,angryballs-Astrobox,45cdde2,logo.png,preview1.png,游戏;2d;休闲,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
 com.Dreamqiu.9way,九号出口,quick_app,Dreamqiucn,way-astrobox,2e0d776,media/logo.png,media/九号出口 (1).png,游戏;悬疑;恐怖,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;vivowgt2;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,force_paid
 979899954912,复古液晶显示,watchface,Cannyworks29,RetroSTNdisplay3,dcc5a64,media/画板 1 副本3.png,media/_7146450 2.jpg,复古;液晶;像素;渐变;极简,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmws5,
@@ -232,3 +231,4 @@ moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_
 979837445868,匠格DIY版,watchface,aurysian-yan,astrobox-resource-979837445868,d094158,media/icon.png,media/cover-1.png,桌面;锁屏;可编辑;拟物;锤子;相册表盘,xiaomi,xmb10p;xmb9p,force_paid
 com.hachimi.watch.catsforce,哈基米行动,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-catsforce,58f8333,media/logo.png,media/cover.png,游戏;搜打撤,xiaomi,xmb9p;xmb10p,force_paid
 com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-seconds,bb6999f,media/logo.png,media/60秒避难所.png,游戏;避难所;60秒避难所,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,force_paid
+moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,7bbb549,logo.png,1.png,天气应用;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441;xmb10p,paid
