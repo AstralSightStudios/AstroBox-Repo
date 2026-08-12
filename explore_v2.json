@@ -7,30 +7,6 @@
 
       "contentMode": "default",
       "content": {
-        "title": "V2.0.2 版本更新",
-        "tag": "Weekly",
-        "introduction": "本周优化版本已发布"
-      },
-
-      "background": {
-        "img": "weekly/cover1.png"
-      },
-
-      "actions": [
-        {
-          "id": "weekly",
-          "content": "阅读",
-          "url": "weekly/index.md"
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "type": "big",
-      "canClose": false,
-
-      "contentMode": "default",
-      "content": {
         "title": "快速上手文档",
         "tag": "Tips",
         "introduction": "或许你可以从这里开始探索旅途"
@@ -49,32 +25,32 @@
       ]
     },
     {
-      "id": "5",
-      "type": "normal",
+      "id": "4",
+      "type": "big",
       "canClose": false,
 
       "contentMode": "default",
       "content": {
-        "title": "简明天气",
+        "title": "把锤子桌面搬上手表！",
         "tag": "资源推荐",
-        "introduction": "一个从校园痛点里长出来的天气应用"
+        "introduction": "「匠格」—— 不太合潮流 也不打算合潮流的拟物表盘"
       },
 
       "background": {
-        "img": "jmtq/ab-square.png"
+        "img": "jg/oldCover.png"
       },
 
       "actions": [
         {
-          "id": "jmtq",
+          "id": "jg",
           "content": "阅读",
-          "url": "jmtq/index.md"
+          "url": "jg/index.md"
         }
       ]
     },
     {
-      "id": "6",
-      "type": "normal",
+      "id": "5",
+      "type": "big",
       "canClose": false,
 
       "contentMode": "default",
@@ -85,7 +61,7 @@
       },
 
       "background": {
-        "img": "hyperbox/ab-banner.png"
+        "img": "hyperbox/ab-square.png"
       },
 
       "actions": [
@@ -95,10 +71,60 @@
           "url": "hyperbox/index.md"
         }
       ]
+    },
+    {
+      "id": "6",
+      "type": "normal",
+      "canClose": false,
+
+      "contentMode": "default",
+      "content": {
+        "title": "手环也可以截图了？！",
+        "tag": "资源推荐",
+        "introduction": "Shell++：“解锁”手环的高级玩法"
+      },
+
+      "background": {
+        "img": "shellpp/oldab-banner.png"
+      },
+
+      "actions": [
+        {
+          "id": "shellpp",
+          "content": "阅读",
+          "url": "shellpp/index.md"
+        }
+      ]
+    },
+    
+    {
+      "id": "7",
+      "type": "normal",
+      "canClose": false,
+
+      "contentMode": "default",
+      "content": {
+        "title": "手环脱离手机也能看天气",
+        "tag": "资源推荐",
+        "introduction": "Eternal 永昼天气：让天气数据真正留在手腕上"
+      },
+
+      "background": {
+        "img": "Eternal/oldbanner-ex.png"
+      },
+
+      "actions": [
+        {
+          "id": "Eternal",
+          "content": "阅读",
+          "url": "Eternal/index.md"
+        }
+      ]
     }
+    
   ],
   
-  "featuredResourceIds": ["979808741600", "moe.yzf.comic","979820260630","com.azuma.dic","moe.orpu.neomusic"],
+  "featuredResourceIds": ["979899954914","979808741600","979811204059", "moe.yzf.comic","com.Dreamqiu.9way","979820260630","979809640178","com.azuma.dic","moe.orpu.neomusic"],
   "featuredAuthors": [
     {
       "id": "a959f259-6007-4afd-9b59-badf21d8751d",
@@ -112,6 +138,17 @@
       ]
     },
     {
+      "id": "e753b212-6ce8-400c-9dd0-210e73c66fba",
+      "name": "Cannyworks",
+      "description": "优质表盘作者",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/304364876?v=4",
+      "resourceIds": [
+        "979899954909",
+        "979812768106",
+        "979899954912"
+      ]
+    },
+    {
       "id": "9464fb97-5e26-4fe1-aef8-7c3835bf357c",
       "name": "Charlie_Q",
       "description": "畅销工具作者",
@@ -119,7 +156,7 @@
       "resourceIds": [
         "com.charlie.hyperbox",
         "com.charlie.muyuPro",
-        "LegacyItem52"
+        "979856192927"
       ]
     },
     {
