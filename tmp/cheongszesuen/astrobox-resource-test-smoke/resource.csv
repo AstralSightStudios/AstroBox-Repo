@@ -1,2 +1,0 @@
-id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-smoke-test-003,Smoke Test New Path V2,quick_app,cheongszesuen,astrobox-resource-test-smoke,0123456,icon.png,cover.png,test,smoke,device-a,
