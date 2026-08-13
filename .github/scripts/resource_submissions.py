@@ -202,6 +202,15 @@ def parse_csv_rows(text: str, path: str) -> tuple[list[Entry], str]:
     return rows, lines[0] if lines else ""
 
 
+def validate_devices_format(entry: Entry) -> None:
+    devices = entry.get("devices")
+    if "," in devices or '"' in devices:
+        raise SubmissionError(
+            f"资源 {entry.get('id') or 'unknown'} 的 devices 列格式不统一："
+            "请用分号分隔设备，不要包含逗号或双引号。"
+        )
+
+
 def validate_index_entries(entries: list[Entry]) -> None:
     ids: dict[str, list[Entry]] = {}
     repos: dict[tuple[str, str], list[Entry]] = {}
@@ -210,6 +219,7 @@ def validate_index_entries(entries: list[Entry]) -> None:
         repo_key = (entry.get("repo_owner").lower(), entry.get("repo_name").lower())
         if not id_value:
             raise SubmissionError("目录中存在空资源 ID。")
+        validate_devices_format(entry)
         ids.setdefault(id_value.lower(), []).append(entry)
         if all(repo_key):
             repos.setdefault(repo_key, []).append(entry)
@@ -312,6 +322,7 @@ def validate_edit_or_create(
     new_id = entry.get("id")
     if not new_id:
         raise SubmissionError("资源 ID 不能为空。")
+    validate_devices_format(entry)
     if request.mode == "create":
         duplicate = find_entry(entries, new_id)
         if duplicate:
@@ -533,7 +544,10 @@ def prepare_apply_action(
 
 
 def entry_row(entry: Entry) -> str:
-    return ",".join(entry.values.get(column, "").strip() for column in HEADER)
+    output = io.StringIO()
+    writer = csv.writer(output, lineterminator="")
+    writer.writerow([entry.values.get(column, "").strip() for column in HEADER])
+    return output.getvalue()
 
 
 def write_index(entries: list[Entry]) -> None:
@@ -683,6 +697,11 @@ def command_apply_pending() -> int:
                     current_entries[original_index] = entry
 
             write_index(current_entries)
+            # Re-parse the serialized catalog so malformed rows (for example
+            # unquoted commas) are caught before anything is pushed to main.
+            current_entries, _ = parse_csv_rows(
+                read_text(CATALOG_PATH), CATALOG_PATH
+            )
             validate_index_entries(current_entries)
             delete_submission_dir(directory)
             author_name, author_email = commit_author(merge_commit_sha)
@@ -693,8 +712,6 @@ def command_apply_pending() -> int:
                 author_email,
                 coauthor,
             )
-            # Reload the canonical in-memory state after the commit.
-            current_entries, _ = parse_csv_rows(read_text(CATALOG_PATH), CATALOG_PATH)
         except SubmissionError as exc:
             annotation(
                 f"{directory}（PR #{pr_number}）应用失败：{exc}。"
