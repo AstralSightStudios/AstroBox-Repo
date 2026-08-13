@@ -232,3 +232,4 @@ com.hachimi.watch.catsforce,哈基米行动,quick_app,XuebaoHachimi,astrobox-res
 moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,7bbb549,logo.png,1.png,天气应用;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441;xmb10p,paid
 com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-seconds,c410ca1,media/logo.png,media/60秒避难所.png,游戏;避难所;60秒避难所,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p,force_paid
 com.hanyu.ai,腕语,quick_app,hanyu12138,AI-Chat-AB,16bfb70,media/logo.png,media/banner.png,工具;AI;聊天;助手,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4xring;xmws4;xmws3,force_paid
+com.whistleo.smsforwarder.client,SmsForwarder Client,quick_app,WhistleO,com.whistleo.smsforwarder.client_AstroBox_Release,4855fa5,media/logo.png,media/cover.png,SmsForwarder;工具;快应用;手机管理,xiaomi,xmws4;xmrw5;xmrw5xring;xmrw6;xmws5,
