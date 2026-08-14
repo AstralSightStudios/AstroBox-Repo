@@ -1,0 +1,52 @@
+name: Resource submissions
+
+on:
+  pull_request:
+    paths:
+      - "tmp/**"
+  push:
+    branches:
+      - main
+    paths:
+      - "tmp/**"
+      - "index_v2.csv"
+      - ".github/scripts/resource_submissions.py"
+      - ".github/workflows/resource-submissions.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: resource-submissions-apply
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  validate-pr:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Validate resource submission PR
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/resource_submissions.py validate-pr
+
+  apply-pending:
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: read
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Apply pending resource submissions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ACTOR: ${{ github.actor }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python3 .github/scripts/resource_submissions.py apply-pending
