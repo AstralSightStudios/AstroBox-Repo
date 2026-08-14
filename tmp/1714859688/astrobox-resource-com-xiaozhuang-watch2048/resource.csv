@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.xiaozhuang.watch2048,2048,quick_app,1714859688,astrobox-resource-com-xiaozhuang-watch2048,f3e9d09,media/icon.png,media/cover.jpg,Game,xiaomi,xmrw5;xmrw5xring;xmrw6,
