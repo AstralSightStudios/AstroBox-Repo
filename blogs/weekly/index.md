@@ -4,7 +4,7 @@ title: "AstroBox 2.1 正式发布"
 subtitle: "事事顺心，环间有序。"
 author: "AstroBox"
 date: 2026-08-18
-cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/weekly/cover.png"
+cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/weekly/cover.jpg"
 ---
 
 V2.1.0 是 2.0有史以来最大的更新，这是一个在方方面面都重新斟酌的全新版本，我们希望在这个版本中为你带来更加完整、精致、优秀的穿戴设备第三方体验，无论是视觉还是用户体验上，都能让你眼前一亮。
