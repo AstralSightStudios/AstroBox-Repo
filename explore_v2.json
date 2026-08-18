@@ -1,0 +1,32 @@
+{
+  "masonryCards": [
+    {
+      "id": "3",
+      "type": "big",
+      "canClose": false,
+
+      "contentMode": "default",
+      "content": {
+        "title": "AstroBox 2.1 正式发布",
+        "tag": "Tips",
+        "introduction": "此版本探索页将不再维护，请尽快更新"
+      },
+
+      "background": {
+        "img": "weekly/cover1.png"
+      },
+
+      "actions": [
+        {
+          "id": "docs",
+          "content": "阅读",
+          "url": "weekly/index.md"
+        }
+      ]
+    }
+
+  ],
+
+  "featuredResourceIds": [],
+  "featuredAuthors": []
+}
