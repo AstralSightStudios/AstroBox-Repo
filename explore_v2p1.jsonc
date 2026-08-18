@@ -38,11 +38,11 @@
         
         {
           "type": "blog",
-          "title": "更新公告",
+          "title": "AstroBox 2.1 正式发布",
           "tag": "Weekly",
-          "introduction": "UI 大幅优化，引导更加明确",
+          "introduction": "事事顺心，环间有序。",
           "backgroundImg": "weekly/cover1.png",
-          "backgroundColor": "#1a1a2e",
+          "backgroundColor": "#E9EEE9",
           "url": "weekly/index.md"
         },
         {
