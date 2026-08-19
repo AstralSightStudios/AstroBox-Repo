@@ -218,7 +218,6 @@ com.uzens.calculator,矩阵计算器,quick_app,jes-benjamin,com.uzens.calculator
 979820627644,SnapUI-照片表盘【安装我】,watchface,Hobjl-lian,astrobox-resource-979820627644,6d62043,media/icons.png,media/Ab头图1.jpg,Hobjl;表盘,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,force_paid
 979825266003,千恋＊万花 丛雨,watchface,sf-yuzifu,murasame_AstroBox_Release,158dac2,media/4495.jpg,media/容器 778 (1).png,二次元;千恋万花;丛雨;可互动,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p;xmrw6,force_paid
 979844140706,EdgeUI-照片表盘（样式1）【安装我】,watchface,Hobjl-lian,astrobox-resource-979844140706,37f5eb8,media/icons.png,media/ab封面图.jpg,Hobjl;照片表盘,xiaomi,xmrw5;xmrw6;xmb10;xmb9;xmb9p;xmb10p;xmrw5xring;xmb10nfc,force_paid
-979843426107,亮点,watchface,SL9325,979843426107_AstroBox_Release,13bfb5c,图标.png,media/44887.jpg,SL9325;SLWF;表盘;蓝色系;显秒,xiaomi,xmb10p,
 979866636875,此刻,watchface,SL9325,979866636875_AstroBox_Release,9e25cea,图标.png,PSX_20260725_105012.jpg,SL9325;SLWF;表盘;黑白灰,xiaomi,xmb10p,
 com.MatrixFive.ShuZiWu,缤纷数字屋,quick_app,jinmohan,ShuZiWu_AstroBox_Release,a757d31,media/logo.png,media/Preview.png,游戏;休闲;解压;娱乐,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,force_paid
 com.matrixfive.airpistol,轻音效,quick_app,jinmohan,QingYinXiao-AstroBox,2e17983,media/logo.png,media/q1-z.png,创意软件,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmws5,force_paid
@@ -242,3 +241,4 @@ io.github.mcxcc303.dsband.band,DSBand,quick_app,MCXCC303,astrobox-resource-io-gi
 canopus_bluetoothaudio,Canopus 蓝牙音频扩展模块,canopus,Searchstars,astrobox-resource-canopus_bluetoothaudio,76cf568,media/Frame 6-2 1.png,media/Frame 11.png,Canopus;蓝牙;蓝牙耳机;耳机;音乐;播放器;模块;扩展;内核扩展,xiaomi,xmb10p,force_paid
 com.HNTPVZchv.watch.demo,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,0a194f4,media/logo-256.png,media/2：3-低分辨率.png,游戏;塔防,xiaomi,xmb10p;xmb10,
 com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-seconds,0c763e0,media/logo.png,media/60秒避难所.png,游戏;避难所;60秒避难所,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9,force_paid
+979843426542,亮点＋,watchface,SL9325,979843426107_AstroBox_Release,bef9817,media/46444.png,media/44887.jpg,SL9325;SLWF;蓝色系;多样式;显秒;表盘,xiaomi,xmb10p,
