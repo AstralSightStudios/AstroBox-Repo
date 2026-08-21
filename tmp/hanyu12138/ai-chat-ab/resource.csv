@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.hanyu.ai,腕语,quick_app,hanyu12138,AI-Chat-AB,3b60217,media/logo.png,media/banner.png,工具;AI;聊天;助手,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4xring;xmws4;xmws3;xmws441,force_paid
+com.hanyu.ai,腕语,quick_app,hanyu12138,AI-Chat-AB,104112a,media/logo.png,media/banner.png,工具;AI;聊天;助手,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4xring;xmws4;xmws3;xmws441,force_paid
