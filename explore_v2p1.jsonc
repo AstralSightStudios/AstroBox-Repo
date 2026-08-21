@@ -38,11 +38,11 @@
         
         {
           "type": "blog",
-          "title": "更新公告",
-          "tag": "Weekly",
-          "introduction": "UI 大幅优化，引导更加明确",
+          "title": "AstroBox 2.1 正式发布",
+          "tag": "版本更新",
+          "introduction": "事事顺心，环间有序。",
           "backgroundImg": "weekly/cover1.png",
-          "backgroundColor": "#1a1a2e",
+          "backgroundColor": "#E9EEE9",
           "url": "weekly/index.md"
         },
         {
@@ -63,6 +63,17 @@
       "type": "custom",
       "cards": [
         {
+          "type": "multi_resource_blog",
+          "title": "时间，本就有很多样子",
+          "tag": "资源推荐",
+          "introduction": "四块表盘，四种理解时间的方式",
+          "backgroundImg": "Kenny2608/cover.png",
+          "backgroundColor": "#FFFFFF",
+          "url": "Kenny2608/index.md",
+          "resourceIds": ["979899954909", "979818864961", "979844731883", "979855569274", "979899954914"],
+          "resBackgroundColorGradient": ["#414141", "#000000"]
+        },
+        {
           "type": "single_resource_blog",
           "title": "把锤子桌面搬上手表！",
           "tag": "资源推荐",
@@ -72,18 +83,6 @@
           "backgroundColor": "#FFFFFF",
           "url": "jg/index.md",
           "resourceId": "979837445867",
-          "resBackgroundColorGradient": ["#FFEDDD", "#F9CEA8"]
-        },
-        {
-          "type": "multi_resource_blog",
-          "title": "从生活中寻找时间",
-          "tag": "资源推荐",
-          "textToBlack": true,
-          "introduction": "给肯尼预留的～临时占位",
-          "backgroundImg": "jg/Cover.png",
-          "backgroundColor": "#FFFFFF",
-          "url": "jg/index.md",
-          "resourceIds": ["979899954909", "979818864961", "979899954912"],
           "resBackgroundColorGradient": ["#FFEDDD", "#F9CEA8"]
         },
         {
