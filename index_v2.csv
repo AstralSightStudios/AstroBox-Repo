@@ -225,7 +225,6 @@ com.schedule.vela,腕上课程表,quick_app,Jursin,astrobox-resource-com-schedul
 moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_Release,20da525,logo (1).png.png,封面.png,邮件;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5xring;xmrw5;xmws441;xmrw6;xmws5;xmb9p;xmb10p,force_paid
 979837445868,匠格DIY版,watchface,aurysian-yan,astrobox-resource-979837445868,e4fa9fe,media/icon.png,media/cover-1.png,桌面;锁屏;可编辑;拟物;锤子;相册表盘,xiaomi,xmb10p;xmb9p,force_paid
 moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,7bbb549,logo.png,1.png,天气应用;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441;xmb10p,paid
-com.hanyu.ai,腕语,quick_app,hanyu12138,AI-Chat-AB,491fa82,media/logo.png,media/banner.png,工具;AI;聊天;助手,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4xring;xmws4;xmws3,force_paid
 com.hachimi.watch.catsforce,哈基米行动,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-catsforce,946c479,media/logo.png,media/cover.png,游戏;搜打撤,xiaomi,xmb9p;xmb10p;xmb10;xmb9,force_paid
 979808574686,EdgeUI-照片表盘（样式2）【安装我】,watchface,Hobjl-lian,astrobox-resource-979808574686,ba74a41,media/icons.png,media/ab封面图.jpg,Hobjl;照片表盘,xiaomi,xmrw5;xmrw6;xmb10;xmb9;xmb9p;xmb10p;xmrw5xring;xmb10nfc,force_paid
 cn.waijade.wordecho,WordEcho,quick_app,CheongSzesuen,WordEcho_Release,eeaeb53,media/logo.png,media/0@1x.png,单词;记忆;学习;背单词,xiaomi,xmrw6,force_paid
@@ -244,3 +243,4 @@ com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-d
 com.example.band.bilibili.lite,腕上哔哩-WristBili,quick_app,Velvetine13245,astrobox-resource-com.example.band.bilibili.lite,b2dd909,media/icon.webp,media/cover.webp,WristBili;腕上哔哩;B站,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws5,
 979851021027,Rainbow（支持相册编辑）,watchface,zzz78bc,astrobox-resource-979851021027,aa7418f,media/分组 1.png,media/画板 3.webp,表盘,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb10;xmb10nfc;xmb9p,
 cn.galgaoshou.qihe,《难道你是GAL高手》,quick_app,qihe114514,astrobox-resource-cn-galgaoshou-qihe,ee8a933,media/5-modified.png,media/原图 - 副本.png,游戏;galgame,xiaomi,xmb10nfc;xmb10,paid
+com.hanyu.ai,腕语,quick_app,hanyu12138,AI-Chat-AB,104112a,media/logo.png,media/banner.png,工具;AI;聊天;助手,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4xring;xmws4;xmws3;xmws441,force_paid
