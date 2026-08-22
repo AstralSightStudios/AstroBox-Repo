@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.xunripic.watch,Xr图库,quick_app,YcFeller,XunriPhoto,67fa996,icon.png,cover.png,实用工具;图库,xiaomi,xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmws4;xmb10p;xmws5,force_paid
