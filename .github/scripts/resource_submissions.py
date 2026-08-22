@@ -18,10 +18,12 @@ import hashlib
 import io
 import json
 import os
+import random
 import re
 import shutil
 import subprocess
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -59,6 +61,25 @@ INVISIBLE_CHARACTERS = {
 }
 PATH_SEGMENT_RE = re.compile(r"^[a-z0-9](?:[a-z0-9._-]*[a-z0-9])?$")
 API_BASE = "https://api.github.com"
+GRAPHQL_URL = f"{API_BASE}/graphql"
+MERGE_PR_MESSAGE_RE = re.compile(r"Merge pull request #(\d+)")
+RETRY_BACKOFF_SECONDS = (1.0, 2.0, 4.0)
+RETRY_CAP_SECONDS = 15.0
+API_STATS = {"rest": 0, "graphql": 0}
+
+
+def apply_log(message: str) -> None:
+    print(f"[apply-pending] {message}")
+
+
+def retry_delay(attempt_index: int, retry_after: str | None) -> float:
+    delay = RETRY_BACKOFF_SECONDS[min(attempt_index, len(RETRY_BACKOFF_SECONDS) - 1)]
+    if retry_after:
+        try:
+            delay = max(delay, min(float(retry_after), RETRY_CAP_SECONDS))
+        except ValueError:
+            pass
+    return min(delay + random.uniform(0, 0.5), RETRY_CAP_SECONDS)
 
 
 class SubmissionError(RuntimeError):
@@ -113,20 +134,72 @@ def api_request(method: str, path: str, body: Any | None = None) -> Any:
     if body is not None:
         data = json.dumps(body).encode("utf-8")
         headers["Content-Type"] = "application/json"
-    request = urllib.request.Request(url, data=data, headers=headers, method=method)
+    # Only idempotent GETs are retried; every write in this script goes
+    # through git push, so POST/PUT would have nothing to retry anyway.
+    attempts = 3 if method.upper() == "GET" else 1
+    last_error: SubmissionError | None = None
+    for attempt in range(attempts):
+        request = urllib.request.Request(url, data=data, headers=headers, method=method)
+        API_STATS["rest"] += 1
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                raw = response.read()
+                if not raw:
+                    return None
+                return json.loads(raw)
+        except urllib.error.HTTPError as exc:
+            detail = exc.read().decode("utf-8", errors="replace")
+            last_error = SubmissionError(
+                f"GitHub API {exc.code} {path}: {detail[:300]}"
+            )
+            last_error.__cause__ = exc
+            retry_after = exc.headers.get("Retry-After") if exc.headers else None
+            if (
+                method.upper() != "GET"
+                or exc.code < 500
+                or attempt == attempts - 1
+            ):
+                raise last_error
+            time.sleep(retry_delay(attempt, retry_after))
+        except (urllib.error.URLError, TimeoutError) as exc:
+            last_error = SubmissionError(f"GitHub API 网络错误 {path}: {exc}")
+            last_error.__cause__ = exc
+            if method.upper() != "GET" or attempt == attempts - 1:
+                raise last_error
+            time.sleep(retry_delay(attempt, None))
+    raise last_error  # pragma: no cover - defensive
+
+
+def graphql_request(query: str, variables: dict[str, Any] | None = None) -> dict[str, Any]:
+    payload = json.dumps({"query": query, "variables": variables or {}}).encode("utf-8")
+    request = urllib.request.Request(
+        GRAPHQL_URL,
+        data=payload,
+        headers={
+            "Accept": "application/vnd.github+json",
+            "Authorization": f"Bearer {github_token()}",
+            "User-Agent": "astrobox-resource-submissions",
+            "Content-Type": "application/json",
+        },
+        method="POST",
+    )
+    API_STATS["graphql"] += 1
     try:
         with urllib.request.urlopen(request, timeout=30) as response:
-            raw = response.read()
-            if not raw:
-                return None
-            return json.loads(raw)
+            data = json.loads(response.read())
     except urllib.error.HTTPError as exc:
         detail = exc.read().decode("utf-8", errors="replace")
-        raise SubmissionError(
-            f"GitHub API {exc.code} {path}: {detail[:300]}"
-        ) from exc
-    except urllib.error.URLError as exc:
-        raise SubmissionError(f"GitHub API 网络错误 {path}: {exc}") from exc
+        raise SubmissionError(f"GitHub GraphQL HTTP {exc.code}：{detail[:300]}") from exc
+    except (urllib.error.URLError, TimeoutError) as exc:
+        raise SubmissionError(f"GitHub GraphQL 网络错误：{exc}") from exc
+    errors = data.get("errors")
+    if errors:
+        summary = "; ".join(str(item.get("message", item))[:200] for item in errors[:3])
+        raise SubmissionError(f"GitHub GraphQL 查询错误：{summary}")
+    result = data.get("data")
+    if not isinstance(result, dict):
+        raise SubmissionError("GitHub GraphQL 响应缺少 data。")
+    return result
 
 
 def read_text(path: str | Path) -> str:
@@ -430,16 +503,51 @@ def package_blob_set(owner: str, repo: str, commit_sha: str) -> frozenset[str]:
     return frozenset(result)
 
 
-def merged_pull_numbers() -> list[int]:
-    data = api_request(
-        "GET",
-        f"/repos/{github_repo()}/pulls?state=closed&per_page=100&sort=updated&direction=desc",
-    )
-    result: list[int] = []
-    for pr in data:
-        if pr.get("merged_at"):
-            result.append(pr["number"])
-    return result
+PULL_REQUEST_WINDOW_QUERY = """
+query($owner: String!, $name: String!) {
+  repository(owner: $owner, name: $name) {
+    pullRequests(states: MERGED, orderBy: {field: UPDATED_AT, direction: DESC}, first: 100) {
+      nodes {
+        number
+        title
+        mergedAt
+        updatedAt
+        files(first: 100) { nodes { path } }
+      }
+    }
+  }
+}
+"""
+
+
+def parse_pr_numbers_from_event(event_path: str | None = None) -> list[int]:
+    """Extract candidate merged-PR numbers from the push event payload."""
+    path = event_path or os.environ.get("GITHUB_EVENT_PATH", "")
+    if not path or not Path(path).is_file():
+        apply_log("未找到 GITHUB_EVENT_PATH，跳过快路径。")
+        return []
+    try:
+        payload = json.loads(Path(path).read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        apply_log(f"事件 payload 读取失败，跳过快路径：{exc}")
+        return []
+    messages: list[str] = []
+    head = payload.get("head_commit") if isinstance(payload, dict) else None
+    if isinstance(head, dict) and head.get("message"):
+        messages.append(str(head["message"]))
+    commits = payload.get("commits") if isinstance(payload, dict) else None
+    if isinstance(commits, list):
+        for commit in commits:
+            if isinstance(commit, dict) and commit.get("message"):
+                messages.append(str(commit["message"]))
+    numbers: list[int] = []
+    for message in messages:
+        match = MERGE_PR_MESSAGE_RE.search(message)
+        if match:
+            number = int(match.group(1))
+            if number not in numbers:
+                numbers.append(number)
+    return numbers
 
 
 def pull_files(pr_number: int) -> list[dict[str, Any]]:
@@ -450,19 +558,93 @@ def pull_info(pr_number: int) -> dict[str, Any]:
     return api_request("GET", f"/repos/{github_repo()}/pulls/{pr_number}")
 
 
-def map_submission_paths_to_prs() -> tuple[dict[str, int], dict[int, str]]:
-    path_to_pr: dict[str, int] = {}
-    pr_merged_at: dict[int, str] = {}
-    for number in merged_pull_numbers():
+def _submission_dirs_from_files(files: list[dict[str, Any]], key: str) -> list[str]:
+    directories = []
+    for file in files:
+        directory = submission_dir_from_file((file.get(key) or "") if isinstance(file, dict) else "")
+        if directory and directory not in directories:
+            directories.append(directory)
+    return directories
+
+
+class _PrMapping:
+    """dir -> owning merged PR, preferring the most recently updated PR."""
+
+    def __init__(self) -> None:
+        self.path_to_pr: dict[str, int] = {}
+        self.infos: dict[int, dict[str, Any]] = {}
+
+    def add(self, number: int, info: dict[str, Any], directories: list[str]) -> None:
+        self.infos[number] = info
+        updated_at = str(info.get("updated_at") or "")
+        for directory in directories:
+            current = self.path_to_pr.get(directory)
+            if current is None:
+                self.path_to_pr[directory] = number
+                continue
+            current_updated = str(self.infos[current].get("updated_at") or "")
+            if updated_at > current_updated:
+                self.path_to_pr[directory] = number
+
+    def merged_at_map(self) -> dict[int, str]:
+        return {
+            number: str(info["merged_at"])
+            for number, info in self.infos.items()
+            if info.get("merged_at")
+        }
+
+
+def map_submission_paths_to_prs(
+    wanted_directories: set[str],
+) -> tuple[dict[str, int], dict[int, str], dict[int, dict[str, Any]]]:
+    """Map pending submission dirs to their owning merged PR.
+
+    Fast path inspects only PRs referenced by the push event payload;
+    a single GraphQL window scan fills in whatever is left (backlog,
+    squash merges, workflow_dispatch). Returns (dir->PR, PR->merged_at,
+    cached pull_info per PR).
+    """
+    mapping = _PrMapping()
+
+    for number in parse_pr_numbers_from_event():
         info = pull_info(number)
-        merged_at = info.get("merged_at")
-        if merged_at:
-            pr_merged_at[number] = str(merged_at)
-        for file in pull_files(number):
-            directory = submission_dir_from_file(file.get("filename", ""))
-            if directory and directory not in path_to_pr:
-                path_to_pr[directory] = number
-    return path_to_pr, pr_merged_at
+        if not info.get("merged_at"):
+            continue
+        files = pull_files(number)
+        mapping.add(number, info, _submission_dirs_from_files(files, "filename"))
+
+    unmapped = {
+        directory
+        for directory in wanted_directories
+        if directory not in mapping.path_to_pr
+    }
+    if not unmapped:
+        return mapping.path_to_pr, mapping.merged_at_map(), mapping.infos
+
+    owner, name = github_repo().split("/", 1)
+    data = graphql_request(PULL_REQUEST_WINDOW_QUERY, {"owner": owner, "name": name})
+    repository = data.get("repository") or {}
+    nodes = ((repository.get("pullRequests") or {}).get("nodes")) or []
+    for node in nodes:
+        number = node.get("number")
+        if not number or not node.get("mergedAt"):
+            continue
+        existing_info = mapping.infos.get(int(number))
+        info = existing_info or {
+            "number": number,
+            "merged_at": node.get("mergedAt"),
+            "updated_at": node.get("updatedAt"),
+            "merge_commit_sha": None,
+        }
+        files = (node.get("files") or {}).get("nodes") or []
+        directories = [
+            directory
+            for directory in _submission_dirs_from_files(files, "path")
+            if directory in unmapped
+        ]
+        mapping.add(int(number), info, directories)
+
+    return mapping.path_to_pr, mapping.merged_at_map(), mapping.infos
 
 
 def commit_author(sha: str) -> tuple[str, str]:
@@ -644,7 +826,10 @@ def command_validate_pr() -> int:
 
 
 def command_apply_pending() -> int:
+    started_at = time.monotonic()
     errors = 0
+    applied = 0
+    skipped = 0
     try:
         current_text = read_text(CATALOG_PATH)
         current_entries, _ = parse_csv_rows(current_text, CATALOG_PATH)
@@ -653,15 +838,31 @@ def command_apply_pending() -> int:
         annotation(str(exc))
         return 1
 
-    path_to_pr, merged_at = map_submission_paths_to_prs()
+    submission_dirs = list_submission_dirs()
+    apply_log(f"待处理目录：{len(submission_dirs)} 个")
+    if not submission_dirs:
+        apply_log("tmp/ 下无待处理提交，跳过扫描与应用。")
+        _print_summary(started_at, applied, skipped, errors)
+        return 0
+
+    path_to_pr, merged_at, pr_infos = map_submission_paths_to_prs(set(submission_dirs))
     directories = [
-        directory for directory in list_submission_dirs() if directory in path_to_pr
+        directory for directory in submission_dirs if directory in path_to_pr
     ]
+    unmapped = [
+        directory for directory in submission_dirs if directory not in path_to_pr
+    ]
+    if unmapped:
+        apply_log(
+            "警告：以下目录未找到对应的已合并 PR，保持原样：" + ", ".join(unmapped)
+        )
     directories.sort(key=lambda directory: merged_at.get(path_to_pr[directory], ""))
 
     for directory in directories:
         pr_number = path_to_pr[directory]
-        info = pull_info(pr_number)
+        info = pr_infos.get(pr_number)
+        if not isinstance(info, dict) or not info.get("merge_commit_sha"):
+            info = pull_info(pr_number)
         merge_commit_sha = info.get("merge_commit_sha")
         if not merge_commit_sha:
             annotation(f"PR #{pr_number} 缺少 merge_commit_sha，无法确定维护者。")
@@ -680,6 +881,10 @@ def command_apply_pending() -> int:
                     author_name,
                     author_email,
                     coauthor,
+                )
+                skipped += 1
+                apply_log(
+                    f"{directory}（PR #{pr_number}）：内容与当前目录一致，跳过并清理。"
                 )
                 continue
 
@@ -712,6 +917,11 @@ def command_apply_pending() -> int:
                 author_email,
                 coauthor,
             )
+            applied += 1
+            apply_log(
+                f"{directory}（PR #{pr_number}）：已应用 {request.mode} "
+                f"{entry.get('id')}，新 digest {canonical_digest(entry)[:12]}…"
+            )
         except SubmissionError as exc:
             annotation(
                 f"{directory}（PR #{pr_number}）应用失败：{exc}。"
@@ -721,8 +931,17 @@ def command_apply_pending() -> int:
             errors += 1
             continue
 
-    print(f"apply-pending 完成，错误数：{errors}")
+    _print_summary(started_at, applied, skipped, errors)
     return 1 if errors else 0
+
+
+def _print_summary(started_at: float, applied: int, skipped: int, errors: int) -> None:
+    elapsed = time.monotonic() - started_at
+    apply_log(
+        f"完成：应用 {applied} / 跳过 {skipped} / 失败 {errors}，"
+        f"REST 调用 {API_STATS['rest']} 次、GraphQL {API_STATS['graphql']} 次，"
+        f"耗时 {elapsed:.1f}s"
+    )
 
 
 def main() -> int:
