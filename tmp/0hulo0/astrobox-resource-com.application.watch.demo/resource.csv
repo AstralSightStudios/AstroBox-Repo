@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.application.watch.demo,茶叶蛋大冒险,quick_app,0hulo0,astrobox-resource-com.application.watch.demo,e423503,media/icon.webp,media/cover.webp,茶叶蛋大冒险;小游戏,xiaomi,xmb9p;xmb10p;xmrw5;xmrw6;xmws5;xmws4;xmb9;xmb10,
