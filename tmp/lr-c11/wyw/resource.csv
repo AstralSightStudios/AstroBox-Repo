@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.wenyanwendict.lrc,文言词典,quick_app,LR-C11,wyw,3acf85a,media/logo (4).png,media/分组 1 (20).png,小程序;词典,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws4;xmws5;xmws441;xmb10;xmb10nfc;xmb9,force_paid
