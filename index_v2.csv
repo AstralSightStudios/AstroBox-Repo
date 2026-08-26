@@ -193,7 +193,6 @@ com.charlie.hyperbox,Hyper Box,quick_app,wuhaiqi0621,HyperBox_ForAstroBox,010661
 com.azuma.wristqr,WristQR-将任意二维码便捷的保存在手表上,quick_app,AzumaChiaki,WristQR_ab,95a1f53,media/logo.png,media/wristqr-poster-3x2.png,工具;安卓同步器;快捷;生活,xiaomi,xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,force_paid
 979820260728,「Vue」- 蔚蓝档案,watchface,ChiHuan0807,astrobox-resource-979820260728,412b649,media/容器 4.png,media/IMG_20260728_005055.jpg,蔚蓝档案;ba;BA;电子;表盘;迟缓;池焕;拍立得,xiaomi,xmb9p;xmb10p,force_paid
 979830953235,摩登时刻,watchface,mintsummer67,20260727moldentime,dce379a,media/3927.jpg,media/3925.jpg,社区,xiaomi,xmrw5;xmrw5xring;xmrw6,
-979889683730,Shell++(LuaWatchFace),watchface,IKUN-CXKPRO,astrobox-resource-979889683730,9c1584c,media/logo.png,media/1109537bb54ecabe5418c3f04ac7c510.png,lua表盘,xiaomi,xmrw6;xmb9p;xmb10p,
 com.shell.liangyi,Shell++,quick_app,IKUN-CXKPRO,astrobox-resource-com-shell-liangyi,bebd69a,media/logo.png,media/1109537bb54ecabe5418c3f04ac7c510.png,客户端,xiaomi,xmb9p;xmb10p;xmrw6,
 979809640178,「时语」-相册表盘,watchface,shantuskat,astrobox-resource-979809640178,f3d9420,media/f5ce948e5955bfeba41c6bdec9609b12_w500_h500_s93.jpg,media/画板 18(1).png,相册;二次元;可编辑;表盘,xiaomi,xmb10p;xmb9p;xmb10;xmrw6;xmb10nfc,force_paid
 979895662825,给爷爷的表盘,watchface,Cannyworks29,GrandPAPA-WatchFace,4a3c868,media/给爷爷的表盘 介绍.png,media/_3105068-2.jpg,极简;复古;数字;适老化;大数字;清晰;简单,xiaomi,xmb9p;xmb10p,
@@ -253,3 +252,4 @@ cn.galgaoshou.qihe,难道你是GAL高手,quick_app,qihe114514,astrobox-resource-
 979878518191,经典 91,watchface,Cannyworks29,Classic91,160f8c1,media/方形 logo.png,media/_8256680-2.jpg,卡西欧;经典;F91W;模拟;数字屏幕;复古;液晶;相册表盘,xiaomi,xmb9p;xmb10p,
 com.mood.tracker,静心轨迹,quick_app,LR-C11,moodpress,acd36b4,media/logo.png,media/海报 (9).png,心情;小程序,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
 com.bandbbs.ebook.plus,弦电子书,quick_app,youshen2,astrobox-resource-com-bandbbs-ebook-plus,1c7caa9,media/icon.png,media/Frame 22_small.png,电子书;阅读;阅读器;小说;书籍,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
+979889683730,Shell++(LuaWatchFace),watchface,IKUN-CXKPRO,astrobox-resource-979889683730,ec941d1,media/logo.png,media/Shell++封面.png,lua表盘,xiaomi,xmrw6;xmb9p;xmb10p,
