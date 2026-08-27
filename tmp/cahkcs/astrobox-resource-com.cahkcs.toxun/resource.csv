@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.cahkcs.toxun,传输+九号电动车控制,quick_app,cahkcs,astrobox-resource-com.cahkcs.toxun,b06a124,media/icon.webp,media/cover.webp,九号电动车;传输,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmws3;xmws4;xmws441;xmws4xring;xmws5;xmb10;xmb10nfc;xmb9,force_paid
