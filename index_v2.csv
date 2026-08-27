@@ -216,7 +216,6 @@ com.uzens.calculator,矩阵计算器,quick_app,jes-benjamin,com.uzens.calculator
 979866636875,此刻,watchface,SL9325,979866636875_AstroBox_Release,9e25cea,图标.png,PSX_20260725_105012.jpg,SL9325;SLWF;表盘;黑白灰,xiaomi,xmb10p,
 com.MatrixFive.ShuZiWu,缤纷数字屋,quick_app,jinmohan,ShuZiWu_AstroBox_Release,a757d31,media/logo.png,media/Preview.png,游戏;休闲;解压;娱乐,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,force_paid
 com.matrixfive.airpistol,轻音效,quick_app,jinmohan,QingYinXiao-AstroBox,2e17983,media/logo.png,media/q1-z.png,创意软件,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmws5,force_paid
-com.schedule.vela,腕上课程表,quick_app,Jursin,astrobox-resource-com-schedule-vela,94ead66,media/logo.png,media/banner.png,课程表,xiaomi,xmb9,
 moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_Release,20da525,logo (1).png.png,封面.png,邮件;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5xring;xmrw5;xmws441;xmrw6;xmws5;xmb9p;xmb10p,force_paid
 979837445868,匠格DIY版,watchface,aurysian-yan,astrobox-resource-979837445868,e4fa9fe,media/icon.png,media/cover-1.png,桌面;锁屏;可编辑;拟物;锤子;相册表盘,xiaomi,xmb10p;xmb9p,force_paid
 moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,7bbb549,logo.png,1.png,天气应用;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441;xmb10p,paid
@@ -254,3 +253,4 @@ com.bandbbs.ebook.plus,弦电子书,quick_app,youshen2,astrobox-resource-com-ban
 com.shell.liangyi,Shell++,quick_app,IKUN-CXKPRO,astrobox-resource-com-shell-liangyi,424563e,media/logo.png,media/Shell++封面.png,客户端,xiaomi,xmb9p;xmb10p;xmrw6,
 com.dswatch.periodreminder,DS Watch（梁表）,quick_app,rufus-fan,astrobox-projects,64d09a4,media/icon.png,media/头图.png,deepseek;梁子;梁文峰;变祖器,xiaomi,xmb10p,
 com.watch.dic,腕上词典,quick_app,pcai7296,com.watch.dic_AstroBox_Release,7966e1a,media/logo.png,cover.png,离线;英语;学习;词典;免费,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p;xmws4;xmrw5;xmrw5xring;xmrw6;xmb10p,
+com.schedule.vela,腕上课程表,quick_app,Jursin,astrobox-resource-com-schedule-vela,19927b3,media/logo.png,media/banner.png,课程表,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
