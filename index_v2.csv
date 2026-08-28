@@ -227,7 +227,6 @@ com.azuma.dic,英汉词典-五万词库中英互译,quick_app,AzumaChiaki,AzumaD
 cn.seedsoft.tmtclock,番茄钟,quick_app,virelyx258,astrobox-resource-cn-seedsoft-tmtclock,a85954e,media/logo.png,media/cover.png,学习;生活,xiaomi,xmws5;xmws4;xmws441;xmws4xring;xmws3;xmrw5xring;xmrw5;xmrw6,
 com.canopus.lyraimport,Lyra音乐导入器,quick_app,Searchstars,LyraImport-QA-AstroBox-Release,88d882e,icon.png,cover.png,音乐;快应用;导入;导入器;Canopus;Lyra;Lyra播放器,xiaomi,xmb10p,
 canopus_lyraplayer,Lyra音乐播放器,canopus,Searchstars,LyraPlayer-AstroBox-Release,5ffb03c,icon.png,cover.png,音乐;Canopus;Lyra,xiaomi,xmb10p,
-canopus_bluetoothaudio,Canopus 蓝牙音频扩展模块,canopus,Searchstars,astrobox-resource-canopus_bluetoothaudio,76cf568,media/Frame 6-2 1.png,media/Frame 11.png,Canopus;蓝牙;蓝牙耳机;耳机;音乐;播放器;模块;扩展;内核扩展,xiaomi,xmb10p,force_paid
 com.HNTPVZchv.watch.demo,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,0a194f4,media/logo-256.png,media/2：3-低分辨率.png,游戏;塔防,xiaomi,xmb10p;xmb10,
 979843426542,亮点＋,watchface,SL9325,979843426107_AstroBox_Release,e3d319e,media/46444.png,media/44887.jpg,SL9325;SLWF;蓝色系;多样式;显秒;表盘,xiaomi,xmb10p,
 com.example.band.bilibili.lite,腕上哔哩-WristBili,quick_app,Velvetine13245,astrobox-resource-com.example.band.bilibili.lite,aac1947,media/icon.webp,media/cover.webp,WristBili;腕上哔哩;B站,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws5,
@@ -255,3 +254,4 @@ com.watch.dic,腕上词典,quick_app,pcai7296,com.watch.dic_AstroBox_Release,796
 com.schedule.vela,腕上课程表,quick_app,Jursin,astrobox-resource-com-schedule-vela,19927b3,media/logo.png,media/banner.png,课程表,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
 979833453977,嘉光,watchface,ChiHuan0807,979833453977_AstroBox_Release,0fb9bd2,logo.png,画板 1.png,免费;简约;重力感应;池焕;迟缓;蓝;绿;红,xiaomi,xmws5,
 com.h.hzc,海战船,quick_app,henrrybyhao,astrobox-resource-com-h-hzc,f5cbc0a,media/图标1.png,media/mmexport1787892272438.jpg,游戏;免费;海战船;应用,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,
+canopus_bluetoothaudio,Canopus 蓝牙音频扩展模块,canopus,Searchstars,astrobox-resource-canopus_bluetoothaudio,cf44482,media/Frame 6-2 1.png,media/Frame 11.png,Canopus;蓝牙;蓝牙耳机;耳机;音乐;播放器;模块;扩展;内核扩展,xiaomi,xmb10p,force_paid
