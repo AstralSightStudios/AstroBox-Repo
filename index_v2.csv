@@ -135,7 +135,6 @@ top.zaona.gobang.better,更好的五子棋,quick_app,zaona,better-gobang-astrobo
 979805910807,「矩」- 橘雪莉,watchface,ChiHuan0807,979805910807_AstroBox_Release,4bf0d6b,LOGO.png,画板 1.png,免费;9P;10;二次元;rw6;橘雪莉,xiaomi,xmb9p;xmb10;xmb10nfc;xmrw6,
 979805910591,「方寸」,watchface,ChiHuan0807,979805910591_AstroBox_Release,965ef1f,画板 6.png,画板 1.png,简约;卡片;池焕;迟缓;时间感知,xiaomi,xmb10;xmb10nfc,force_paid
 979874220993,Xiaomi Vision GT,watchface,ChiHuan0807,VisionGT_AstroBox_Release,cbe7be5,logo.png,画板 1.png,免费;动态;池焕;迟缓;小米;60帧;简约,xiaomi,xmb10nfc;xmb10,
-979833453977,嘉光,watchface,ChiHuan0807,979833453977_AstroBox_Release,f3a90d5,logo.png,画板 1.png,免费;简约;重力感应;池焕;迟缓;蓝;绿;红,xiaomi,xmws5,
 979890780301,青丘云镜,watchface,zaona,hill-cloud-astrobox-release,e24d0a2,icon.png,preview.png,景深;风景,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6,
 979840380251,序列_Kipfel,watchface,ChiHuan0807,979840380251_AstroBox_Release,5c3dec6,序列LOGO.png,1.png,池焕;迟缓;Kipfel;可爱;简约;多模块;轻动态,xiaomi,xmb9p;xmb10p;xmrw6,force_paid
 979890780101,Ultra,watchface,zaona,ultra-astrobox-release,b56ce8b,icon.png,preview.png,表盘;简约,xiaomi,xmb10;xmb10nfc,
@@ -195,7 +194,6 @@ com.azuma.wristqr,WristQR-将任意二维码便捷的保存在手表上,quick_ap
 979830953235,摩登时刻,watchface,mintsummer67,20260727moldentime,dce379a,media/3927.jpg,media/3925.jpg,社区,xiaomi,xmrw5;xmrw5xring;xmrw6,
 979809640178,「时语」-相册表盘,watchface,shantuskat,astrobox-resource-979809640178,f3d9420,media/f5ce948e5955bfeba41c6bdec9609b12_w500_h500_s93.jpg,media/画板 18(1).png,相册;二次元;可编辑;表盘,xiaomi,xmb10p;xmb9p;xmb10;xmrw6;xmb10nfc,force_paid
 979895662825,给爷爷的表盘,watchface,Cannyworks29,GrandPAPA-WatchFace,4a3c868,media/给爷爷的表盘 介绍.png,media/_3105068-2.jpg,极简;复古;数字;适老化;大数字;清晰;简单,xiaomi,xmb9p;xmb10p,
-com.watch.dic,腕上词典,quick_app,pcai7296,com.watch.dic_AstroBox_Release,73f1feb,icon.png,cover.png,离线;英语;学习;词典;免费,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p;xmws4;xmrw5;xmrw5xring;xmrw6;xmb10p,
 com.openblack.mahjong-next,麻将,quick_app,dm1366631,astrobox-resource-com-openblack-mahjong,18ab09e,media/icon.png,media/cover.png,游戏,xiaomi,xmb10nfc;xmb10;xmb10p,
 979880470803,「时影」- 相册表盘,watchface,shantuskat,astrobox-resource-979880470803,57a970e,media/画板 81.png,media/画板 77.png,相册;二次元;照片;原神;明日方舟;蔚蓝档案;崩坏星穹铁道,xiaomi,xmb10nfc;xmb10;xmb9p;xmb10p;xmrw6,force_paid
 com.JumpEgg.solan,环间跳跳糖ProMax,quick_app,Solan-486,Astrobox-Resource_Release_AstroBox_Release,134b74b,logo.png,Preview@1x.png,跳蛋;玩具;神器;太爽了;强强,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p,
@@ -217,7 +215,6 @@ com.uzens.calculator,矩阵计算器,quick_app,jes-benjamin,com.uzens.calculator
 979866636875,此刻,watchface,SL9325,979866636875_AstroBox_Release,9e25cea,图标.png,PSX_20260725_105012.jpg,SL9325;SLWF;表盘;黑白灰,xiaomi,xmb10p,
 com.MatrixFive.ShuZiWu,缤纷数字屋,quick_app,jinmohan,ShuZiWu_AstroBox_Release,a757d31,media/logo.png,media/Preview.png,游戏;休闲;解压;娱乐,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,force_paid
 com.matrixfive.airpistol,轻音效,quick_app,jinmohan,QingYinXiao-AstroBox,2e17983,media/logo.png,media/q1-z.png,创意软件,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmws5,force_paid
-com.schedule.vela,腕上课程表,quick_app,Jursin,astrobox-resource-com-schedule-vela,94ead66,media/logo.png,media/banner.png,课程表,xiaomi,xmb9,
 moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_Release,20da525,logo (1).png.png,封面.png,邮件;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5xring;xmrw5;xmws441;xmrw6;xmws5;xmb9p;xmb10p,force_paid
 979837445868,匠格DIY版,watchface,aurysian-yan,astrobox-resource-979837445868,e4fa9fe,media/icon.png,media/cover-1.png,桌面;锁屏;可编辑;拟物;锤子;相册表盘,xiaomi,xmb10p;xmb9p,force_paid
 moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,7bbb549,logo.png,1.png,天气应用;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441;xmb10p,paid
@@ -234,7 +231,7 @@ canopus_bluetoothaudio,Canopus 蓝牙音频扩展模块,canopus,Searchstars,astr
 com.HNTPVZchv.watch.demo,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,0a194f4,media/logo-256.png,media/2：3-低分辨率.png,游戏;塔防,xiaomi,xmb10p;xmb10,
 979843426542,亮点＋,watchface,SL9325,979843426107_AstroBox_Release,e3d319e,media/46444.png,media/44887.jpg,SL9325;SLWF;蓝色系;多样式;显秒;表盘,xiaomi,xmb10p,
 com.example.band.bilibili.lite,腕上哔哩-WristBili,quick_app,Velvetine13245,astrobox-resource-com.example.band.bilibili.lite,aac1947,media/icon.webp,media/cover.webp,WristBili;腕上哔哩;B站,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws5,
-979851021027,Rainbow（支持相册编辑）,watchface,zzz78bc,astrobox-resource-979851021027,aa7418f,media/分组 1.png,media/画板 3.webp,表盘,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb10;xmb10nfc;xmb9p,
+979851021027,Rainbow,watchface,zzz78bc,astrobox-resource-979851021027,8315392,media/分组 1.png,media/画板 3.webp,表盘,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb10;xmb10nfc;xmb9p,
 com.hanyu.ai,腕语,quick_app,hanyu12138,AI-Chat-AB,104112a,media/logo.png,media/banner.png,工具;AI;聊天;助手,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4xring;xmws4;xmws3;xmws441,force_paid
 979886134928,初音未来排版表盘,watchface,YcFeller,astrobox-resource-979886134928,19c57ad,media/容器 134.png,media/初音未来排版表盘@1x.png,初音未来;静态,xiaomi,xmb9,
 979805297202,动态八重神子,watchface,YcFeller,astrobox-resource-979805297202,530fa6e,media/icon.png,media/1080_720动态八重神子@1x.png,动态表盘;八重神子,xiaomi,xmb9;xmb10;xmb10nfc,
@@ -253,4 +250,7 @@ com.mood.tracker,静心轨迹,quick_app,LR-C11,moodpress,acd36b4,media/logo.png,
 com.bandbbs.ebook.plus,弦电子书,quick_app,youshen2,astrobox-resource-com-bandbbs-ebook-plus,1c7caa9,media/icon.png,media/Frame 22_small.png,电子书;阅读;阅读器;小说;书籍,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
 979889683730,Shell++(LuaWatchFace),watchface,IKUN-CXKPRO,astrobox-resource-979889683730,ec941d1,media/logo.png,media/Shell++封面.png,lua表盘,xiaomi,xmrw6;xmb9p;xmb10p,
 com.shell.liangyi,Shell++,quick_app,IKUN-CXKPRO,astrobox-resource-com-shell-liangyi,424563e,media/logo.png,media/Shell++封面.png,客户端,xiaomi,xmb9p;xmb10p;xmrw6,
-com.dswatch.periodreminder,DS Watch（梁表）,quick_app,rufus-fan,astrobox-projects,64d09a4,media/icon.png,media/头图.png,deepseek;梁子;梁文峰;变祖器,xiaomi,xmb10p,
+com.dswatch.periodreminder,DS Watch（梁表）,quick_app,rufus-fan,astrobox-projects,5858f9a,media/icon.png,media/头图.png,deepseek;梁子;梁文峰;变祖器,xiaomi,xmb10p,
+com.watch.dic,腕上词典,quick_app,pcai7296,com.watch.dic_AstroBox_Release,7966e1a,media/logo.png,cover.png,离线;英语;学习;词典;免费,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p;xmws4;xmrw5;xmrw5xring;xmrw6;xmb10p,
+com.schedule.vela,腕上课程表,quick_app,Jursin,astrobox-resource-com-schedule-vela,19927b3,media/logo.png,media/banner.png,课程表,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
+979833453977,嘉光,watchface,ChiHuan0807,979833453977_AstroBox_Release,0fb9bd2,logo.png,画板 1.png,免费;简约;重力感应;池焕;迟缓;蓝;绿;红,xiaomi,xmws5,
