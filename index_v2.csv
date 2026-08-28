@@ -240,7 +240,6 @@ com.baka.dino,T-REX RUNNER,quick_app,Nyx-233,astrobox-resource-com-baka-dino,75f
 com.xunripic.watch,Xr图库,quick_app,YcFeller,XunriPhoto,67fa996,icon.png,cover.png,实用工具;图库,xiaomi,xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmws4;xmb10p;xmws5,force_paid
 com.HNTGameBox.watch.demo,HNT游戏盒,quick_app,HazeNoTea,HNTGameBox,6a91241,media/256px.png,media/雷霆的手搓海报.png,游戏,xiaomi,xmb10;xmb10p,
 io.github.mcxcc303.dsband.band,DSBand,quick_app,MCXCC303,astrobox-resource-io-github-mcxcc303-dsband-band,9288675,media/logo.png,media/cover2-reg-cmp.png,DeepSeek,xiaomi,xmb10;xmb10nfc;xmb9;xmb10p;xmb9p,
-com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-seconds,32c3b5d,media/logo.png,media/60秒避难所.png,游戏;避难所;60秒避难所,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9,force_paid
 moe.yzf.comic,腕上漫画,quick_app,sf-yuzifu,bandcomic_Quickapp_AstroBox_Release,67a31bf,icon.png,preview.png,漫画;本地;摸鱼;实用工具;本子;二次元,xiaomi,xmb9p;xmrw5;xmrw6;xmrw5xring;xmws4;xmws441;xmws4xring;xmws3;xmws5,
 com.hachimi.watch.catsforce,哈基米行动,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-catsforce,925771a,media/logo.png,media/cover.png,游戏;搜打撤,xiaomi,xmb9p;xmb10p;xmb10;xmb9;xmrw5;xmrw5xring;xmrw6;xmb10nfc,force_paid
 cn.galgaoshou.qihe,难道你是GAL高手,quick_app,qihe114514,astrobox-resource-cn-galgaoshou-qihe,020e735,media/5-modified.png,media/原图 - 副本.png,galgame;游戏,xiaomi,xmb10nfc;xmb10;xmb10p;xmb9;xmb9p;xmrw6;xmrw5xring;xmrw5;xmws3;xmws4xring;xmws441;xmws4;xmws5,force_paid
@@ -255,3 +254,4 @@ com.schedule.vela,腕上课程表,quick_app,Jursin,astrobox-resource-com-schedul
 979833453977,嘉光,watchface,ChiHuan0807,979833453977_AstroBox_Release,0fb9bd2,logo.png,画板 1.png,免费;简约;重力感应;池焕;迟缓;蓝;绿;红,xiaomi,xmws5,
 com.h.hzc,海战船,quick_app,henrrybyhao,astrobox-resource-com-h-hzc,f5cbc0a,media/图标1.png,media/mmexport1787892272438.jpg,游戏;免费;海战船;应用,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,
 canopus_bluetoothaudio,Canopus 蓝牙音频扩展模块,canopus,Searchstars,astrobox-resource-canopus_bluetoothaudio,cf44482,media/Frame 6-2 1.png,media/Frame 11.png,Canopus;蓝牙;蓝牙耳机;耳机;音乐;播放器;模块;扩展;内核扩展,xiaomi,xmb10p,force_paid
+com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-seconds,75cfcd7,media/logo.png,media/60秒避难所.png,游戏;避难所;60秒避难所,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9,force_paid
