@@ -143,7 +143,6 @@ moe.orpu.neomusic,NeoMusic,quick_app,OrPudding,NeoMusic-AstroBox-Resource,cff212
 979869821000,动态疾旋鼬,watchface,Eric-qiqi,Jixuanyou-for-astroboxv2,5af5d6b,media/icon.png,media/toutu.png,可爱;动态;跳转;疾旋鼬,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p;xmb10p,
 979869821100,玉兰黄鹂,watchface,Eric-qiqi,yulanhuangli-for-astrobox,b873b0c,media/icon.png,media/awa.png,工笔画,xiaomi,xmb9p;xmb10p,
 979811204059,数字交替Alternate,watchface,aurysian-yan,Alternate-ABResV2,ce194ec934ef688d3bc351f7b55a918e9d6859d2,media/icon.png,media/cover.png,大数字;大时间;多数据;简洁;天气;读秒,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb9,
-smart.box,Smart Box,quick_app,mehtmls,SmartBox-AstroBox,9704bc7,media/logo.png,media/HeadImage.png,工具箱;免费;实用;娱乐,xiaomi,xmb9;xmb9p,
 com.lst.bandtotp,BandTOTP,quick_app,leset0ng,astrobox-res-bandtotp,6887109,media/logo.png,media/ChatGPT Image 2026年6月30日 23_00_40.png,二次验证;验证码;工具;tool,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmb9p;xmb10p,
 979808743800,A.R.O.N.A.,watchface,hrsthrt74,arona-for-astrobox,0e43135,icon.png,cover.png,arona;ARONA;阿罗娜;ba;蔚蓝档案;碧蓝档案;动态,xiaomi,xmws5,
 com.yxin.mijia5,米家遥控器,quick_app,yxinstu,mijia-Astrobox,a6e1452,media/1000012179.png,media/1000012178.png,实用工具;智能家居;遥控;米家,xiaomi,xmb9p;xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6,
@@ -250,3 +249,4 @@ com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-d
 moe.yzf.comic,腕上漫画,quick_app,sf-yuzifu,bandcomic_Quickapp_AstroBox_Release,67a31bf,icon.png,preview.png,漫画;本地;摸鱼;实用工具;本子;二次元,xiaomi,xmb9p;xmrw5;xmrw6;xmrw5xring;xmws4;xmws441;xmws4xring;xmws3;xmws5,
 com.hachimi.watch.catsforce,哈基米行动,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-catsforce,925771a,media/logo.png,media/cover.png,游戏;搜打撤,xiaomi,xmb9p;xmb10p;xmb10;xmb9;xmrw5;xmrw5xring;xmrw6;xmb10nfc,force_paid
 cn.galgaoshou.qihe,难道你是GAL高手,quick_app,qihe114514,astrobox-resource-cn-galgaoshou-qihe,020e735,media/5-modified.png,media/原图 - 副本.png,galgame;游戏,xiaomi,xmb10nfc;xmb10;xmb10p;xmb9;xmb9p;xmrw6;xmrw5xring;xmrw5;xmws3;xmws4xring;xmws441;xmws4;xmws5,force_paid
+smart.box,Smart Box,quick_app,mehtmls,SmartBox-AstroBox,f1cf323,media/logo.png,media/HeadImage.png,工具箱;免费;实用;娱乐,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
