@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.highschool.learningbox,高中学习盒子,quick_app,0hulo0,astrobox-resource-com.highschool.learningbox,453f425,media/icon.webp,media/cover.webp,学习盒子;原创;小游戏,xiaomi,xmrw5;xmrw6;xmws5;xmws4;xmb10;xmb10nfc;xmb9;xmb9p;xmb10p,
