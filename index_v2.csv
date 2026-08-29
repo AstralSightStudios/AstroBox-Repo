@@ -246,7 +246,6 @@ cn.galgaoshou.qihe,难道你是GAL高手,quick_app,qihe114514,astrobox-resource-
 com.mood.tracker,静心轨迹,quick_app,LR-C11,moodpress,acd36b4,media/logo.png,media/海报 (9).png,心情;小程序,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
 com.bandbbs.ebook.plus,弦电子书,quick_app,youshen2,astrobox-resource-com-bandbbs-ebook-plus,1c7caa9,media/icon.png,media/Frame 22_small.png,电子书;阅读;阅读器;小说;书籍,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
 979889683730,Shell++(LuaWatchFace),watchface,IKUN-CXKPRO,astrobox-resource-979889683730,ec941d1,media/logo.png,media/Shell++封面.png,lua表盘,xiaomi,xmrw6;xmb9p;xmb10p,
-com.shell.liangyi,Shell++,quick_app,IKUN-CXKPRO,astrobox-resource-com-shell-liangyi,424563e,media/logo.png,media/Shell++封面.png,客户端,xiaomi,xmb9p;xmb10p;xmrw6,
 com.dswatch.periodreminder,DS Watch（梁表）,quick_app,rufus-fan,astrobox-projects,5858f9a,media/icon.png,media/头图.png,deepseek;梁子;梁文峰;变祖器,xiaomi,xmb10p,
 com.watch.dic,腕上词典,quick_app,pcai7296,com.watch.dic_AstroBox_Release,7966e1a,media/logo.png,cover.png,离线;英语;学习;词典;免费,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p;xmws4;xmrw5;xmrw5xring;xmrw6;xmb10p,
 com.schedule.vela,腕上课程表,quick_app,Jursin,astrobox-resource-com-schedule-vela,19927b3,media/logo.png,media/banner.png,课程表,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
@@ -256,3 +255,4 @@ canopus_bluetoothaudio,Canopus 蓝牙音频扩展模块,canopus,Searchstars,astr
 com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-seconds,75cfcd7,media/logo.png,media/60秒避难所.png,游戏;避难所;60秒避难所,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9,force_paid
 979851021027,Rainbow,watchface,zzz78bc,astrobox-resource-979851021027,9a5f7f6,media/分组 1.png,media/画板 3.webp,表盘,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb10;xmb10nfc;xmb9p,
 cn.sabbatofthewitch.qihe,魔女的夜宴,quick_app,qihe114514,astrobox-resource-cn-sabbatofthewitch-qihe,14e8bd5,media/icon_optimized.png,media/封面720.png,游戏;glagame,xiaomi,xmb10nfc;xmb10p;xmb10;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb9;xmws3;xmws4xring;xmws441;xmws4;xmws5,force_paid
+com.shell.liangyi,Shell++,quick_app,IKUN-CXKPRO,astrobox-resource-com-shell-liangyi,fa4dacf,media/logo.png,media/Shell++封面.png,客户端,xiaomi,xmb9p;xmb10p;xmrw6,
