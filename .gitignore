@@ -1,2 +1,4 @@
 .DS_Store
 csvtool.py
+__pycache__/
+*.pyc
