@@ -227,7 +227,6 @@ com.azuma.dic,英汉词典-五万词库中英互译,quick_app,AzumaChiaki,AzumaD
 com.canopus.lyraimport,Lyra音乐导入器,quick_app,Searchstars,LyraImport-QA-AstroBox-Release,88d882e,icon.png,cover.png,音乐;快应用;导入;导入器;Canopus;Lyra;Lyra播放器,xiaomi,xmb10p,
 canopus_lyraplayer,Lyra音乐播放器,canopus,Searchstars,LyraPlayer-AstroBox-Release,5ffb03c,icon.png,cover.png,音乐;Canopus;Lyra,xiaomi,xmb10p,
 com.HNTPVZchv.watch.demo,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,0a194f4,media/logo-256.png,media/2：3-低分辨率.png,游戏;塔防,xiaomi,xmb10p;xmb10,
-979843426542,亮点＋,watchface,SL9325,979843426107_AstroBox_Release,e3d319e,media/46444.png,media/44887.jpg,SL9325;SLWF;蓝色系;多样式;显秒;表盘,xiaomi,xmb10p,
 com.example.band.bilibili.lite,腕上哔哩-WristBili,quick_app,Velvetine13245,astrobox-resource-com.example.band.bilibili.lite,aac1947,media/icon.webp,media/cover.webp,WristBili;腕上哔哩;B站,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws5,
 com.hanyu.ai,腕语,quick_app,hanyu12138,AI-Chat-AB,104112a,media/logo.png,media/banner.png,工具;AI;聊天;助手,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4xring;xmws4;xmws3;xmws441,force_paid
 979886134928,初音未来排版表盘,watchface,YcFeller,astrobox-resource-979886134928,19c57ad,media/容器 134.png,media/初音未来排版表盘@1x.png,初音未来;静态,xiaomi,xmb9,
@@ -259,3 +258,4 @@ com.bandbbs.ebook.plus,弦电子书,quick_app,youshen2,astrobox-resource-com-ban
 979884615029,哦鲸鲸,watchface,WenHuaYiYang,astrobox-resource-979884615029,99bd368,media/DeepSeek娘.png,media/previewgraph.png,表盘,xiaomi,xmb9p;xmb10p,
 com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-seconds,1d7f503,media/logo.png,media/60秒避难所.png,游戏;避难所;60秒避难所,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9,force_paid
 com.local.brainfucklearner,Brainfuck编辑器,quick_app,Rubbishzzz,astrobox-resource-com-local-brainfucklearner,07f4b2b,media/logo.png,media/容器 24.png,FATE X;代码;解谜;游戏,xiaomi,xmb9p;xmb10p,
+979843426542,亮点＋,watchface,SL9325,979843426107_AstroBox_Release,7ba2c8b,media/46444.png,media/44887.jpg,SL9325;SLWF;蓝色系;多样式;显秒;表盘,xiaomi,xmb10p,
