@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.local.brainfucklearner,Brainfuck编辑器,quick_app,Rubbishzzz,Brain,8363c23,media/logo.png,media/容器 24.png,FATE X;代码;解谜;游戏,xiaomi,xmb9p;xmb10p,
