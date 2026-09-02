@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.awu.watch.petpal,喵伴,quick_app,jianding24,miaoban-astrobox-release,935672a,media/icon.png,media/cover.png,喵伴;小猫;宠物;养成;治愈;装饰;小游戏;表盘联动;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,paid
+com.awu.watch.petpal,喵伴,quick_app,jianding24,miaoban-astrobox-release,c45419e,media/icon.png,media/cover.jpg,喵伴;小猫;宠物;养成;治愈;装饰;小游戏;表盘联动;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,paid
