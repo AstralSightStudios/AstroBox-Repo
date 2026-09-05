@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979889683730,Shell++(LuaWatchFace),watchface,IKUN-CXKPRO,astrobox-resource-979889683730,f9d1ac9,media/logo.png,media/Shell++封面.png,lua表盘,xiaomi,xmrw6;xmb9p;xmb10p,
