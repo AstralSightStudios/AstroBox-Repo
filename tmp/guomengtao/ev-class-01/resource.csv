@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.evclass.quickapp,Ev课程表  免费版,quick_app,guomengtao,ev-class-01,4b0ac80,media/logo.png,media/Image.png,课程表;class;课程,xiaomi,xmb10p;xmb9;xmb10;xmb10nfc;xmb9p,
