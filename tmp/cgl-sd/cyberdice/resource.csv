@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.cyberdice,CyberDice,quick_app,cgl-sd,CyberDice,ad84a99,media/cyberdice-app-icon.png,media/cyberdice-cover.png,聚会娱乐;赛博骰子,xiaomi,xmb9;xmb10nfc;xmb10;xmb10p;xmb9p,
