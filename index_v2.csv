@@ -229,7 +229,6 @@ com.hanyu.ai,腕语,quick_app,hanyu12138,AI-Chat-AB,104112a,media/logo.png,media
 979805297202,动态八重神子,watchface,YcFeller,astrobox-resource-979805297202,530fa6e,media/icon.png,media/1080_720动态八重神子@1x.png,动态表盘;八重神子,xiaomi,xmb9;xmb10;xmb10nfc,
 com.vela.ai.client,AI助手,quick_app,Awesome6664,gggg-2,79555be,media/1786936203632.png,media/1787286533551.png,快应用,xiaomi,xmb9p,
 com.zb26.cc.mfstd.darkzonewalker,暗区行者,quick_app,jinmohan,AQXZ-ABRelease,d5e1bf9,media/logo.png,media/preview.png,休闲;游戏;解压;设计,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9,force_paid
-com.baka.dino,T-REX RUNNER,quick_app,Nyx-233,astrobox-resource-com-baka-dino,75f8ae6,media/logo.png,media/cover.png,游戏,xiaomi,xmb9p;xmb10p,
 com.xunripic.watch,Xr图库,quick_app,YcFeller,XunriPhoto,67fa996,icon.png,cover.png,实用工具;图库,xiaomi,xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmws4;xmb10p;xmws5,force_paid
 com.HNTGameBox.watch.demo,HNT游戏盒,quick_app,HazeNoTea,HNTGameBox,6a91241,media/256px.png,media/雷霆的手搓海报.png,游戏,xiaomi,xmb10;xmb10p,
 io.github.mcxcc303.dsband.band,DSBand,quick_app,MCXCC303,astrobox-resource-io-github-mcxcc303-dsband-band,9288675,media/logo.png,media/cover2-reg-cmp.png,DeepSeek,xiaomi,xmb10;xmb10nfc;xmb9;xmb10p;xmb9p,
@@ -267,3 +266,4 @@ app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-k
 979832764968,白笺,watchface,YcFeller,astrobox-resource-979832764968,a8f130f,media/容器 17.png,media/白笺_一纸清影，少女心事 (2).png,免费;二次元;相册表盘,xiaomi,xmb10p;xmb9p,
 com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-seconds,368a44b,media/logo.png,media/60秒避难所.png,游戏;避难所;60秒避难所,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9;xmb11;xmb11nfc;vivowgt2,force_paid
 com.cyberdice,CyberDice,quick_app,cgl-sd,CyberDice,22e3948,media/cyberdice-app-icon.png,media/cyberdice-cover.png,聚会娱乐;赛博骰子,xiaomi,xmb9;xmb10nfc;xmb10;xmb10p;xmb9p,
+com.baka.dino,T-REX RUNNER,quick_app,Nyx-233,astrobox-resource-com-baka-dino,8ead2f7,media/logo.png,media/cover.png,游戏,xiaomi,xmb9p;xmb10p;xmb11;xmb11nfc,
