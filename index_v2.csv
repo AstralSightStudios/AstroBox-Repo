@@ -247,8 +247,8 @@ com.bandbbs.ebook.plus,弦电子书,quick_app,youshen2,astrobox-resource-com-ban
 979843426542,亮点＋,watchface,SL9325,979843426107_AstroBox_Release,7ba2c8b,media/46444.png,media/44887.jpg,SL9325;SLWF;蓝色系;多样式;显秒;表盘,xiaomi,xmb10p,
 cn.sabbatofthewitch.qihe,魔女的夜宴,quick_app,qihe114514,astrobox-resource-cn-sabbatofthewitch-qihe,e83a3d6,media/icon_optimized.png,media/封面720.png,游戏;glagame,xiaomi,xmb10nfc;xmb10p;xmb10;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb9;xmws3;xmws4xring;xmws441;xmws4;xmws5,force_paid
 com.matrixfive.airpistol,轻音效,quick_app,jinmohan,QingYinXiao-AstroBox,49687ad,media/logo.png,media/q1-z.png,创意软件;音效,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmws5,force_paid
-979801230201,喵伴表盘,watchface,jianding24,miaoban-watchface-astrobox-release,6d76f89,media/icon.png,media/cover.jpg,喵伴;免费;小猫;互动;天气;压力;专注;任务;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,
-com.awu.watch.petpal,喵伴,quick_app,jianding24,miaoban-astrobox-release,d5a6e25,media/icon.png,media/cover.jpg,喵伴;小猫;宠物;养成;治愈;装饰;小游戏;表盘联动;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
+979801230201,喵伴表盘,watchface,jianding24,miaoban-watchface-astrobox-release,60c0b6a,media/icon.png,media/cover.jpg,喵伴;免费;小猫;互动;天气;压力;专注;任务;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,
+com.awu.watch.petpal,喵伴,quick_app,jianding24,miaoban-astrobox-release,0ba5436,media/icon.png,media/cover.jpg,喵伴;小猫;宠物;养成;治愈;装饰;小游戏;表盘联动;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 979884464109,ELLOTHING,watchface,SL9325,979884464109_AstroBox_Release,3897b91,media/50374.png,media/50350.png,SL9325;SLWF;显秒;自定义;多配色;相册表盘;表盘,xiaomi,xmb10p;xmb9p,
 com.whyy.snapnotes,闪念小抄,quick_app,WenHuaYiYang,snapnotes,8578496,media/图标.png,media/官网介绍图.png,客户端;应用,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb9p;xmb10p,
 com.local.brainfucklearner,Brainfuck编辑器,quick_app,Rubbishzzz,astrobox-resource-com-local-brainfucklearner,6e4ddc5,media/logo.png,media/容器 24.png,FATE X;代码;解谜;游戏,xiaomi,xmb9p;xmb10p,
@@ -268,5 +268,5 @@ com.baka.dino,T-REX RUNNER,quick_app,Nyx-233,astrobox-resource-com-baka-dino,8ea
 com.kjsjksjsjaiwjjw.chess,国际象棋,quick_app,33520276q-dotcom,vale2,e468bd7,media/IMG_20260820_201908.jpg,media/1788876486831.jpg,游戏,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws3;xmb10p;xmb9p,
 moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,d0c36c5,logo.png,1.png,天气应用;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmb10p;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441,paid
 moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_Release,e5378e6,logo (1).png.png,封面.png,邮件;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5xring;xmrw5;xmws441;xmrw6;xmws5;xmb9p;xmb10p,force_paid
-top.zaona.loopimport,Loop导入器,quick_app,zaona,loop-import-astrobox-release,bbba89d,icon.png,cover.png,课程表,xiaomi,xmb10p,
+top.zaona.loopimport,Loop导入器,quick_app,zaona,loop-import-astrobox-release,4a12a94,icon.png,cover.png,课程表,xiaomi,xmb10p,
 canopus_loop,Loop课程表,canopus,zaona,loop-astrobox-release,0d2e8cf,media/icon.png,media/cover.png,课程表,xiaomi,xmb10p,force_paid
