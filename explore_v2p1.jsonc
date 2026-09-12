@@ -149,6 +149,11 @@
         },
         {
           "type": "resource",
+          "resourceId": "com.bandbbs.ebook.plus",
+          "resBackgroundColorGradient": ["#B5EDFD", "#646C92"]
+        },
+        {
+          "type": "resource",
           "resourceId": "com.charlie.hyperbox",
           "resBackgroundColorGradient": ["#23325E", "#011E2E"]
         },
@@ -167,11 +172,6 @@
           "resourceId": "com.application.zaona.weather",
           "resBackgroundColorGradient": ["#80C2E0", "#0D4E9F"]
         },
-        {
-          "type": "resource",
-          "resourceId": "com.yzf.daymatter",
-          "resBackgroundColorGradient": ["#EAC9FF", "#42373B"]
-        }, 
         {
           "type": "resource",
           "resourceId": "moe.orpu.neomusic",
