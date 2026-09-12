@@ -1,2 +1,0 @@
-id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.cahkcs.damajian,麻将小游戏,quick_app,cahkcs,astrobox-resource-com-cahkcs-damajian,6b705e5,media/logo.png,media/design_d1.png,麻将;小游戏;快应用,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9,force_paid
