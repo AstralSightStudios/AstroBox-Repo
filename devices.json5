@@ -122,4 +122,16 @@
     chip: "bes",
     fetch: false,
   },
+  M2616B1: {
+    name: "Xiaomi Smart Band 11",
+    codename: "q66cn",
+    chip: "bes",
+    fetch: false,
+  },
+  M2617B1: {
+    name: "Xiaomi Smart Band 11 NFC",
+    codename: "q66nfc", // nfc版支持录音 与普通版区分
+    chip: "bes",
+    fetch: false,
+  }
 }

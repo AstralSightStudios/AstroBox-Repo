@@ -146,6 +146,20 @@
       "description": "",
       "chip": "bes",
       "fetch": false
+    },
+    "M2616B1": {
+      "id": "xmb11",
+      "name": "Xiaomi Smart Band 11",
+      "description": "",
+      "chip": "bes",
+      "fetch": false
+    },
+    "M2617B1": {
+      "id": "xmb11nfc",
+      "name": "Xiaomi Smart Band 11 NFC",
+      "description": "",
+      "chip": "bes",
+      "fetch": false
     }
   },
   "vivo": {
