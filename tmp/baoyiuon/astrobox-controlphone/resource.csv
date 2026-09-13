@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.techbao.controlphone,遥控手机,quick_app,baoyiuon,astrobox-controlphone,97ad9eb,media/icon-192.png,media/cover-1200x800.jpg,效率;工具;遥控,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,
+com.techbao.controlphone,遥控手机,quick_app,baoyiuon,astrobox-controlphone,46150f3,media/icon-v2-192.png,media/cover-v2-1200x800.jpg,效率;工具;遥控,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,
