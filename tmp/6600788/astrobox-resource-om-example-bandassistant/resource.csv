@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+om.example.bandassistant,凡人修仙_v1.3.0,quick_app,6600788,astrobox-resource-om-example-bandassistant,e169b8c,media/icon.png,media/封面_凡人修仙_1536x1024.jpg,游戏,xiaomi,xmb10;xmb10nfc,paid
