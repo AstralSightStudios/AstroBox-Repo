@@ -118,7 +118,6 @@ com.yzf.fireworkMaster,狂欢烟火大师赛,quick_app,sf-yuzifu,FireworkMaster_
 com.application.zaona.weather,简明天气,quick_app,zaona,simple-weather-astrobox-release,6804135,icon.png,preview.png,天气;免费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6;xmws5;xmb10p,
 com.yzf.ballsRace,滚珠赛道,quick_app,sf-yuzifu,ballsRace,8913510,icon.png,preview.png,游戏;快应用;滚珠赛道;赛车,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
 979808740600,authRD,watchface,hrsthrt74,authRD-for-astrobox,aa2eca1,icon.png,cover.png,明日方舟;通行证;多样式;跳转,xiaomi,xmb9p,
-979800000002,WF2,watchface,hrsthrt74,WF2-for-astrobox,f55c179,icon.png,cover.png,任天堂;简约;NintendoSwitch;指针;可编辑;深色模式;跳转;复刻;wf2,xiaomi,xmb9p;xmb10;xmb10nfc;xmrw5;xmrw6;xmrw5xring;xmws4;xmws4xring;xmws441;xmws5;xmb10p,
 979808740700,MaterialFlex 体验版,watchface,hrsthrt74,MaterialFlex-for-astrobox,bec8976,icon.png,cover.png,MaterialDesign;质感设计;简约;可编辑;多样式;跳转,xiaomi,xmb10;xmb10nfc,paid
 979808740800,MaterialMania,watchface,hrsthrt74,MaterialMania-for-astrobox,dff0d21,icon.png,cover.png,MaterialDesign;质感设计;简约,xiaomi,xmb10nfc;xmb10,
 979808740611,authRD - 凯尔希,watchface,hrsthrt74,authRD-kaltsit-for-astrobox,51632ed,icon.png,cover.png,明日方舟;多样式;跳转,xiaomi,xmws4;xmws4xring,
@@ -279,3 +278,4 @@ com.vt.starry,Starry 歌词显示器,quick_app,shantuskat,astrobox-resource-com.
 com.hydro.link,HydroLink Beta,quick_app,F7YM,astrobox-resource-com-hydro-link,c27d526,media/Group 3 (1).png,media/Group 9 (2).png,Windows;Linux;互联;HydroLink,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
 com.example.bandqq,BandQQ,quick_app,Gsjsjzhznsz,astrobox-resource-com-example-bandqq,209bf7d,media/1000000700.png,media/1000000760.jpg,QQ;手环;快应用,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9,
 979866596386,满屏数字,watchface,OOOOHSYPure,full-screen-digits,8ce1ad4,media/icon.png,media/cover.png,数字;极简;大字号;息屏;简约,xiaomi,xmb11;xmb11nfc,
+979800000002,WF2,watchface,hrsthrt74,WF2-for-astrobox,86f8f35,icon.png,cover.png,任天堂;简约;指针;可编辑;深色模式;跳转;复刻;wf2;游戏机;数据;多数据,xiaomi,xmb9p;xmb10;xmb10nfc;xmws4;xmws4xring;xmws441;xmws5;xmrw5;xmrw6;xmrw5xring;xmb10p;xmb11;xmb11nfc,
