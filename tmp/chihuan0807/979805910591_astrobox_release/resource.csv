@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979805910591,「方寸」,watchface,ChiHuan0807,979805910591_AstroBox_Release,0b600b1,media/画板 10.png,media/画板 1.png,简约;卡片;池焕;迟缓;时间感知;相册;相册表盘;图片,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
