@@ -132,7 +132,6 @@ top.zaona.gobang.better,更好的五子棋,quick_app,zaona,better-gobang-astrobo
 979808742300,AccessRD【Vol.1 岁】,watchface,hrsthrt74,accessrd-vol-1-for-astrobox,bfca9af,icon.png,cover.png,表盘,xiaomi,xmb9p,
 979805910928,焕芯,watchface,ChiHuan0807,979805910928_AstroBox_Release,c01d229,HuanXin_AstroBox-main/logo.png,HuanXin_AstroBox-main/画板 1.png,免费;简约;多空间;拼色,xiaomi,xmb9p,
 979805910807,「矩」- 橘雪莉,watchface,ChiHuan0807,979805910807_AstroBox_Release,4bf0d6b,LOGO.png,画板 1.png,免费;9P;10;二次元;rw6;橘雪莉,xiaomi,xmb9p;xmb10;xmb10nfc;xmrw6,
-979805910591,「方寸」,watchface,ChiHuan0807,979805910591_AstroBox_Release,965ef1f,画板 6.png,画板 1.png,简约;卡片;池焕;迟缓;时间感知,xiaomi,xmb10;xmb10nfc,force_paid
 979874220993,Xiaomi Vision GT,watchface,ChiHuan0807,VisionGT_AstroBox_Release,cbe7be5,logo.png,画板 1.png,免费;动态;池焕;迟缓;小米;60帧;简约,xiaomi,xmb10nfc;xmb10,
 979890780301,青丘云镜,watchface,zaona,hill-cloud-astrobox-release,e24d0a2,icon.png,preview.png,景深;风景,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6,
 979840380251,序列_Kipfel,watchface,ChiHuan0807,979840380251_AstroBox_Release,5c3dec6,序列LOGO.png,1.png,池焕;迟缓;Kipfel;可爱;简约;多模块;轻动态,xiaomi,xmb9p;xmb10p;xmrw6,force_paid
@@ -279,3 +278,4 @@ com.hydro.link,HydroLink Beta,quick_app,F7YM,astrobox-resource-com-hydro-link,c2
 io.github.gsjsjzhznsz.bandqq,BandQQ,quick_app,Gsjsjzhznsz,astrobox-resource-com-example-bandqq,2a02ba1,media/1000000700.png,media/1000000760.jpg,QQ;手环;快应用,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
 com.charlie.hyperbox,Hyper Box,quick_app,wuhaiqi0621,HyperBox_ForAstroBox,1610bf0,icon.png,media/Frame 7.png,实用工具;工具箱;计算器;水平仪;每日一言;歌词本;答案之书;木鱼;性能测试;摩斯密码;二维码;跑马灯;荧光棒,xiaomi,xmb10;xmb10nfc;xmb9p;xmb9;xmrw5;xmrw5xring;xmrw6;xmb10p;xmb11;xmb11nfc,
 979866596386,满屏数字,watchface,OOOOHSYPure,full-screen-digits,ee7cc9b,media/icon.png,media/cover.png,数字;极简;大字号;息屏;简约,xiaomi,xmb11;xmb11nfc,
+979805910591,「方寸」,watchface,ChiHuan0807,979805910591_AstroBox_Release,0b600b1,media/画板 10.png,media/画板 1.png,简约;卡片;池焕;迟缓;时间感知;相册;相册表盘;图片,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
