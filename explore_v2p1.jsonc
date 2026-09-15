@@ -42,8 +42,8 @@
           "tag": "独家速报",
           "introduction": "一款拥有20+功能和超绝UI的万能宝盒",
           "backgroundImg": "hyperbox/ab-square.png",
-          "resBackgroundColorGradient": ["#1a1a2e","#1a1a2e"]
-          "url": "hyperbox/index.md"
+          "resBackgroundColorGradient": ["#1a1a2e","#1a1a2e"],
+          "url": "hyperbox/index.md",
           "resourceId": "com.charlie.hyperbox",
         },
         {
