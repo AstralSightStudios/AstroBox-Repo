@@ -183,7 +183,6 @@ com.virelyx258.poster,Poster,quick_app,virelyx258,Vela_Poster,7071140,icon.png,2
 979813340786,霓虹双指针「DEMO」,watchface,Cannyworks29,Neo-twin-light,013d280,media/_7266517-2.jpg,media/_7266518-2.jpg,极简;霓虹;复古;数字;指针;赛博朋克,xiaomi,xmb10nfc;xmb10,
 979855569274,大大数字,watchface,Cannyworks29,BIGBIG-NUMBERS,40b2f24,media/付费版 osward 字体 数字表盘 01.png,media/DSCF2411 封面.jpg,极简;复古;数字;开源字体,xiaomi,xmb10nfc;xmb10;xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9;xmb9p,force_paid
 979844731883,一个小时的进度-免费黄色限定,watchface,Cannyworks29,One-Hour-Progress-Yellow,1496a3f,media/画板 1.png,media/_7266537.jpg,极简;复古;数字;进度;抽象;设计感;模糊,xiaomi,xmb9p;xmb10p,
-com.charlie.hyperbox,Hyper Box,quick_app,wuhaiqi0621,HyperBox_ForAstroBox,010661b,icon.png,head_a.png,实用工具;工具箱;计算器;水平仪;每日一言;歌词本;答案之书;木鱼;性能测试;摩斯密码;二维码;跑马灯;荧光棒,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p,
 979856192927,花开忘忧 - 壹,watchface,wuhaiqi0621,HuaKaiWangYou_ForAstroBox,7b65e57,media/icon.png,media/head.png,周深;表盘;时间;大数字;玻璃;液态玻璃,xiaomi,xmb10p;xmb9p,
 com.azuma.wristqr,WristQR-将任意二维码便捷的保存在手表上,quick_app,AzumaChiaki,WristQR_ab,726a792,media/logo.png,media/wristqr-poster-3x2.png,工具;安卓同步器;快捷;生活,xiaomi,xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmb11;xmb11nfc,force_paid
 979820260728,「Vue」- 蔚蓝档案,watchface,ChiHuan0807,astrobox-resource-979820260728,412b649,media/容器 4.png,media/IMG_20260728_005055.jpg,蔚蓝档案;ba;BA;电子;表盘;迟缓;池焕;拍立得,xiaomi,xmb9p;xmb10p,force_paid
@@ -279,3 +278,4 @@ com.hydro.link,HydroLink Beta,quick_app,F7YM,astrobox-resource-com-hydro-link,c2
 979800000002,WF2,watchface,hrsthrt74,WF2-for-astrobox,86f8f35,icon.png,cover.png,任天堂;简约;指针;可编辑;深色模式;跳转;复刻;wf2;游戏机;数据;多数据,xiaomi,xmb9p;xmb10;xmb10nfc;xmws4;xmws4xring;xmws441;xmws5;xmrw5;xmrw6;xmrw5xring;xmb10p;xmb11;xmb11nfc,
 979884464109,ELLOTHING,watchface,SL9325,979884464109_AstroBox_Release,b4f25bf,media/50374.png,media/53001,SL9325;SLWF;显秒;自定义;多配色;相册表盘,xiaomi,xmb10p;xmb9p,
 io.github.gsjsjzhznsz.bandqq,BandQQ,quick_app,Gsjsjzhznsz,astrobox-resource-com-example-bandqq,2a02ba1,media/1000000700.png,media/1000000760.jpg,QQ;手环;快应用,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
+com.charlie.hyperbox,Hyper Box,quick_app,wuhaiqi0621,HyperBox_ForAstroBox,681e9a9,icon.png,media/Frame 7.png,实用工具;工具箱;计算器;水平仪;每日一言;歌词本;答案之书;木鱼;性能测试;摩斯密码;二维码;跑马灯;荧光棒,xiaomi,xmb10;xmb10nfc;xmb9p;xmb9;xmrw5;xmrw5xring;xmrw6;xmb10p;xmb11;xmb11nfc,
