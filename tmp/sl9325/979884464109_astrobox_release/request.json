@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "979884464109",
+  "base_entry_digest": "808654b6630a147cb67953915a3f3bcf1343d8b03167de0553194b588c53ebeb",
+  "base_catalog_commit": "5498482e484807e649e0e681d2581441b9396f0d",
+  "client": {
+    "version": "0.3.0",
+    "git_commit_hash": "af18bee",
+    "build_time": "2026-09-14T23:23:24.460912900+08:00",
+    "build_user": "runner"
+  }
+}
