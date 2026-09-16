@@ -227,7 +227,6 @@ com.dswatch.periodreminder,DS Watch（梁表）,quick_app,rufus-fan,astrobox-pro
 com.watch.dic,腕上词典,quick_app,pcai7296,com.watch.dic_AstroBox_Release,7966e1a,media/logo.png,cover.png,离线;英语;学习;词典;免费,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p;xmws4;xmrw5;xmrw5xring;xmrw6;xmb10p,
 979833453977,嘉光,watchface,ChiHuan0807,979833453977_AstroBox_Release,0fb9bd2,logo.png,画板 1.png,免费;简约;重力感应;池焕;迟缓;蓝;绿;红,xiaomi,xmws5,
 com.h.hzc,海战船,quick_app,henrrybyhao,astrobox-resource-com-h-hzc,f5cbc0a,media/图标1.png,media/mmexport1787892272438.jpg,游戏;免费;海战船;应用,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,
-canopus_bluetoothaudio,Canopus 蓝牙音频扩展模块,canopus,Searchstars,astrobox-resource-canopus_bluetoothaudio,cf44482,media/Frame 6-2 1.png,media/Frame 11.png,Canopus;蓝牙;蓝牙耳机;耳机;音乐;播放器;模块;扩展;内核扩展,xiaomi,xmb10p,force_paid
 979851021027,Rainbow,watchface,zzz78bc,astrobox-resource-979851021027,9a5f7f6,media/分组 1.png,media/画板 3.webp,表盘,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb10;xmb10nfc;xmb9p,
 979884615029,哦鲸鲸,watchface,WenHuaYiYang,astrobox-resource-979884615029,99bd368,media/DeepSeek娘.png,media/previewgraph.png,表盘,xiaomi,xmb9p;xmb10p,
 979843426542,亮点＋,watchface,SL9325,979843426107_AstroBox_Release,7ba2c8b,media/46444.png,media/44887.jpg,SL9325;SLWF;蓝色系;多样式;显秒;表盘,xiaomi,xmb10p,
@@ -280,3 +279,4 @@ com.charlie.hyperbox,Hyper Box,quick_app,wuhaiqi0621,HyperBox_ForAstroBox,1610bf
 979808744000,幻彩流光,watchface,hrsthrt74,huancailiuguang-for-astrobox,c760197,media/icon.png,media/coverA.png,hrsthrt74;apple;苹果;多样式;多彩;ios,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmws5;xmws4xring;xmws441;xmws4;xmb11;xmb11nfc,force_paid
 979884464109,ELLOTHING,watchface,SL9325,979884464109_AstroBox_Release,0f3a162,media/50374.png,media/53586.png,SL9325;SLWF;显秒;自定义;多配色;多样式;相册表盘,xiaomi,xmb10p;xmb9p,
 979808744100,幻彩流光 DIY,watchface,hrsthrt74,huancailiuguang-diy-for-astrobox,d6d43eb,media/icon2.png,media/coverB.png,hrsthrt74;apple;苹果;相册表盘;DIY;ios,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmws5;xmws4xring;xmws441;xmws4;xmb11;xmb11nfc,force_paid
+canopus_bluetoothaudio,Canopus 蓝牙音频扩展模块,canopus,Searchstars,astrobox-resource-canopus_bluetoothaudio,6dc77a5,media/Frame 6-2 1.png,media/Frame 11.png,Canopus;蓝牙;蓝牙耳机;耳机;音乐;播放器;模块;扩展;内核扩展,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
