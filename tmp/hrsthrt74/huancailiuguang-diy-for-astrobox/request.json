@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "979808744100",
+  "base_entry_digest": "866964336a73e2fa9eef5636c8521319edd3f75f279b8e702387a993bba8c5ed",
+  "base_catalog_commit": "b4f95d98b91b02de9f2b38c3c508114049115ec9",
+  "client": {
+    "version": "0.3.0",
+    "git_commit_hash": "b3eafd9",
+    "build_time": "2026-09-12T18:06:03.248055500+08:00",
+    "build_user": "runneradmin"
+  }
+}
