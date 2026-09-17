@@ -104,7 +104,6 @@ fatex.gangqinkuai.zzx,钢琴块,quick_app,skdkzzx,Piano-Tiles,1f7dae7,logo.png,Q
 com.afdian.matrixfive,爱发电数据仓,quick_app,jinmohan,Afdian-ShuJuCang-AstroBox_AstroBox_Release,5643b93,icon.png,preview1.png,免费;爱发电;开源;实用工具,xiaomi,xmrw6;xmws5;xmrw5,
 com.matrixfive.online.ylgy,三相消除,quick_app,jinmohan,SanXiangXiaoChuFor_AstroBox_Release,3a49249,logo.png,preview.png,羊了个羊;三相消除;游戏;解压,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6;xmb10p,force_paid
 com.dino.runner,恐龙快跑,quick_app,YuanRong1026,go-runner_xiaomi-Vela,71316df,icon.png,cover.png,游戏;休闲;娱乐,xiaomi,xmb9p;xmb10;xmb10nfc,
-979808741600,endID,watchface,hrsthrt74,endID-for-astrobox,cfb0f39,icon.png,cover.png,表盘,xiaomi,xmrw6;xmrw5xring;xmrw5;xmws4;xmb9p;xmb10;xmb10nfc;xmws5,
 979878680101,重圆2 体验版,watchface,OnDriveLine,Recircle2_AB,c1b7801,icon.png,cover.png,表盘;可编辑控件;时间感知,xiaomi,xmb10;xmb10nfc;xmb9,force_paid
 979808740100,《马力欧＆路易吉RPG 兄弟齐航》风格表盘 +,watchface,hrsthrt74,MLRPG-brothership-for-astrobox,da8c66e,icon.png,cover.png,任天堂;马力欧;路易吉;NintendoSwitch;多样式;多设备支持;景深;简约,xiaomi,xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p,
 979808740200,PRiSM+,watchface,hrsthrt74,prism-plus-for-astrobox,a15055f,icon.png,cover.png,SEGA;maimaiDX;舞萌 DX;简约;多设备支持,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6,
@@ -280,3 +279,4 @@ com.charlie.hyperbox,Hyper Box,quick_app,wuhaiqi0621,HyperBox_ForAstroBox,1610bf
 979884464109,ELLOTHING,watchface,SL9325,979884464109_AstroBox_Release,0f3a162,media/50374.png,media/53586.png,SL9325;SLWF;显秒;自定义;多配色;多样式;相册表盘,xiaomi,xmb10p;xmb9p,
 979808744100,幻彩流光 DIY,watchface,hrsthrt74,huancailiuguang-diy-for-astrobox,d6d43eb,media/icon2.png,media/coverB.png,hrsthrt74;apple;苹果;相册表盘;DIY;ios,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmws5;xmws4xring;xmws441;xmws4;xmb11;xmb11nfc,force_paid
 canopus_bluetoothaudio,Canopus 蓝牙音频扩展模块,canopus,Searchstars,astrobox-resource-canopus_bluetoothaudio,6dc77a5,media/Frame 6-2 1.png,media/Frame 11.png,Canopus;蓝牙;蓝牙耳机;耳机;音乐;播放器;模块;扩展;内核扩展,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
+979808741600,endID,watchface,hrsthrt74,endID-for-astrobox,3c01077,media/icon.png,media/cover.png,表盘;明日方舟;终末地;明日方舟终末地;二次元;小米手环11,xiaomi,xmrw6;xmrw5xring;xmrw5;xmws4;xmb9p;xmb9;xmb10;xmb10nfc;xmws5;xmb10p;xmb11;xmb11nfc;xmws4xring,
