@@ -114,7 +114,6 @@ com.dino.runner,恐龙快跑,quick_app,YuanRong1026,go-runner_xiaomi-Vela,71316d
 com.yzf.daymatter,倒数日 快应用,quick_app,sf-yuzifu,Daymatter_Quickapp_AstroBox_Release,342ef11,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmws5,
 com.yzf.fireworkMaster,狂欢烟火大师赛,quick_app,sf-yuzifu,FireworkMaster_AstroBox_Release,1ce392d,icon.png,preview.png,游戏;休闲;烟花;明日方舟,xiaomi,xmb9;xmb9p;xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc,
 979890780202,点阵Dot,watchface,zaona,dot-astrobox-release,7bde89a,icon.png,preview.png,表盘;简约,xiaomi,xmb10;xmb10nfc,
-com.application.zaona.weather,简明天气,quick_app,zaona,simple-weather-astrobox-release,6804135,icon.png,preview.png,天气;免费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6;xmws5;xmb10p,
 com.yzf.ballsRace,滚珠赛道,quick_app,sf-yuzifu,ballsRace,8913510,icon.png,preview.png,游戏;快应用;滚珠赛道;赛车,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
 979808740600,authRD,watchface,hrsthrt74,authRD-for-astrobox,aa2eca1,icon.png,cover.png,明日方舟;通行证;多样式;跳转,xiaomi,xmb9p,
 979808740700,MaterialFlex 体验版,watchface,hrsthrt74,MaterialFlex-for-astrobox,bec8976,icon.png,cover.png,MaterialDesign;质感设计;简约;可编辑;多样式;跳转,xiaomi,xmb10;xmb10nfc,paid
@@ -280,3 +279,4 @@ canopus_bluetoothaudio,Canopus 蓝牙音频扩展模块,canopus,Searchstars,astr
 979866596386,满屏数字,watchface,OOOOHSYPure,full-screen-digits,1b510f1,media/icon.png,media/cover.png,数字;极简;大字号;息屏;简约,xiaomi,xmb11;xmb11nfc;xmb9;xmb10nfc;xmb10,
 com.hydro.link,HydroLink Beta,quick_app,F7YM,astrobox-resource-com-hydro-link,325ab26,media/Group 3 (1).png,media/Group 9 (2).png,Windows;Linux;互联;HydroLink,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
 cn.seedsoft.express,极物流,quick_app,virelyx258,cn.seedsoft.express_AstroBox_Release,1fde016,Logo_HD.png,media/封面.png,快递;物流;生活;付费,xiaomi,xmws3;xmws4;xmws4xring;xmws441;xmrw5xring;xmrw5;xmrw6;xmws5,paid
+com.application.zaona.weather,简明天气,quick_app,zaona,simple-weather-astrobox-release,44eadd6,icon.png,preview.png,天气;免费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6;xmws5;xmb10p;xmb11;xmb11nfc,
