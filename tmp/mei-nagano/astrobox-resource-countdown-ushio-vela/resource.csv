@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+countdown.ushio.vela,倒数日,quick_app,Mei-Nagano,astrobox-resource-countdown-ushio-vela,493a503,media/exec-b82f191d-ec56-4b6f-a3bc-d4c32ced03c1-size-128-128x128.png,media/fm.png,快应用;小米手环11,xiaomi,xmb11;xmb11nfc,force_paid
