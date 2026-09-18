@@ -181,7 +181,6 @@ com.virelyx258.poster,Poster,quick_app,virelyx258,Vela_Poster,7071140,icon.png,2
 com.azuma.wristqr,WristQR-将任意二维码便捷的保存在手表上,quick_app,AzumaChiaki,WristQR_ab,726a792,media/logo.png,media/wristqr-poster-3x2.png,工具;安卓同步器;快捷;生活,xiaomi,xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmb11;xmb11nfc,force_paid
 979820260728,「Vue」- 蔚蓝档案,watchface,ChiHuan0807,astrobox-resource-979820260728,412b649,media/容器 4.png,media/IMG_20260728_005055.jpg,蔚蓝档案;ba;BA;电子;表盘;迟缓;池焕;拍立得,xiaomi,xmb9p;xmb10p,force_paid
 979830953235,摩登时刻,watchface,mintsummer67,20260727moldentime,dce379a,media/3927.jpg,media/3925.jpg,社区,xiaomi,xmrw5;xmrw5xring;xmrw6,
-979809640178,「时语」-相册表盘,watchface,shantuskat,astrobox-resource-979809640178,f3d9420,media/f5ce948e5955bfeba41c6bdec9609b12_w500_h500_s93.jpg,media/画板 18(1).png,相册;二次元;可编辑;表盘,xiaomi,xmb10p;xmb9p;xmb10;xmrw6;xmb10nfc,force_paid
 979895662825,给爷爷的表盘,watchface,Cannyworks29,GrandPAPA-WatchFace,4a3c868,media/给爷爷的表盘 介绍.png,media/_3105068-2.jpg,极简;复古;数字;适老化;大数字;清晰;简单,xiaomi,xmb9p;xmb10p,
 com.openblack.mahjong-next,麻将,quick_app,dm1366631,astrobox-resource-com-openblack-mahjong,18ab09e,media/icon.png,media/cover.png,游戏,xiaomi,xmb10nfc;xmb10;xmb10p,
 com.JumpEgg.solan,环间跳跳糖ProMax,quick_app,Solan-486,Astrobox-Resource_Release_AstroBox_Release,134b74b,logo.png,Preview@1x.png,跳蛋;玩具;神器;太爽了;强强,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p,
@@ -280,3 +279,4 @@ canopus_bluetoothaudio,Canopus 蓝牙音频扩展模块,canopus,Searchstars,astr
 com.hydro.link,HydroLink Beta,quick_app,F7YM,astrobox-resource-com-hydro-link,325ab26,media/Group 3 (1).png,media/Group 9 (2).png,Windows;Linux;互联;HydroLink,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
 cn.seedsoft.express,极物流,quick_app,virelyx258,cn.seedsoft.express_AstroBox_Release,1fde016,Logo_HD.png,media/封面.png,快递;物流;生活;付费,xiaomi,xmws3;xmws4;xmws4xring;xmws441;xmrw5xring;xmrw5;xmrw6;xmws5,paid
 com.application.zaona.weather,简明天气,quick_app,zaona,simple-weather-astrobox-release,44eadd6,icon.png,preview.png,天气;免费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6;xmws5;xmb10p;xmb11;xmb11nfc,
+979809640178,「时语」-相册表盘,watchface,shantuskat,astrobox-resource-979809640178,7d436b7,media/f5ce948e5955bfeba41c6bdec9609b12_w500_h500_s93.jpg,media/画板 18.png,相册;二次元;可编辑;表盘,xiaomi,xmb10p;xmb9p;xmb10;xmrw6;xmb10nfc;xmb11;xmb11nfc,force_paid
