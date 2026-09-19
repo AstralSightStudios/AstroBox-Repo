@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-top.zaona.loopimport,Loop导入器,quick_app,zaona,loop-import-astrobox-release,d3f7ad7,icon.png,cover.png,课程表,xiaomi,xmb10p,
+top.zaona.loopimport,Loop导入器,quick_app,zaona,loop-import-astrobox-release,217482d,icon.png,cover.png,课程表,xiaomi,xmb10p;xmb11,
