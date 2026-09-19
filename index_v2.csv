@@ -240,7 +240,6 @@ com.baka.dino,T-REX RUNNER,quick_app,Nyx-233,astrobox-resource-com-baka-dino,727
 979853048574,觅光,watchface,YcFeller,astrobox-resource-979853048574,d255753,media/miguang-icon.png,media/宣发图.png,相册表盘;觅光;风景,xiaomi,xmrw5;xmrw5xring;xmrw6,force_paid
 moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,d0c36c5,logo.png,1.png,天气应用;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmb10p;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441,paid
 moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_Release,e5378e6,logo (1).png.png,封面.png,邮件;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5xring;xmrw5;xmws441;xmrw6;xmws5;xmb9p;xmb10p,force_paid
-top.zaona.loopimport,Loop导入器,quick_app,zaona,loop-import-astrobox-release,bbba89d,icon.png,cover.png,课程表,xiaomi,xmb10p,
 canopus_loop,Loop课程表,canopus,zaona,loop-astrobox-release,0d2e8cf,media/icon.png,media/cover.png,课程表,xiaomi,xmb10p,force_paid
 com.awu.watch.petpal,喵伴,quick_app,jianding24,miaoban-astrobox-release,0ba5436,media/icon.png,media/cover.jpg,喵伴;小猫;宠物;养成;治愈;装饰;小游戏;表盘联动;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 979801230201,喵伴表盘,watchface,jianding24,miaoban-watchface-astrobox-release,60c0b6a,media/icon.png,media/cover.jpg,喵伴;免费;小猫;互动;天气;压力;专注;任务;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,
@@ -282,3 +281,4 @@ com.bandbbs.ebook.plus,弦电子书,quick_app,youshen2,astrobox-resource-com-ban
 979814478421,「归序」- 相册表盘,watchface,shantuskat,astrobox-resource-979814478421,2c66cbb,media/画板 34.png,media/画板 1.png,相册;二次元,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p,force_paid
 com.hydro.link,HydroLink Beta,quick_app,F7YM,astrobox-resource-com-hydro-link,9ff349c,media/Group 3 (1).png,media/Group 9 (2).png,Windows;Linux;互联;HydroLink,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
 com.zalea.weather,Zalea Weather,quick_app,Cookie-Zalea,114,6d104db,media/app-icon-192.png,media/185be44b-4530-4e3c-9810-523e371ac186.png,天气,xiaomi,xmrw5xring,
+top.zaona.loopimport,Loop导入器,quick_app,zaona,loop-import-astrobox-release,4a85c69,icon.png,cover.png,课程表,xiaomi,xmb10p;xmb11;xmb11nfc,
