@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+canopus_audio_recorder,录音模块,canopus,0x504B0304,astrobox-resource-canopus_audio_recorder1,0c747cb,media/VoiceRecorderLargeTile.scale-100_contrast-white.png,media/VoiceRecorderLargeTile.scale-100_contrast-white.png,录音,xiaomi,xmb10p,
