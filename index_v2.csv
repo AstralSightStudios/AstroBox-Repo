@@ -149,7 +149,6 @@ com.azuma.syclass,Var课程表,quick_app,AzumaChiaki,VarClass-ab,2613ce0,media/i
 com.remote.terminal,远程终端,quick_app,F7YM,astrobox-resource-com-remote-terminal,ab36f9f,media/RemoteTerminal.png,media/Group 7 (2).png,远程控制;Linux;Windows;SSH,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
 979811130359,天归 - 天容万象 星途终归,watchface,auberdominique23-hash,979811130359_AstroBox_Release,4875f37,矩形 1.png,MasterGo 封面 16_9 - 2.png,二次元表盘;课程表;lua表盘,xiaomi,xmb9p;xmb10p,force_paid
 979825266002,倒数日 表盘,watchface,sf-yuzifu,Daymatter_Watchface_AstroBox_Release,f075888,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程;表盘,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws4;xmws4xring;xmws441,
-979899954909,午夜飞行俱乐部,watchface,Cannyworks29,MidnightFlightClub,8739deb,media/Gemini_Generated_Image_je9cklje9cklje9c_副本.jpg,media/Gemini_Generated_Image_je9cklje9cklje9c.jpg,飞行;科技感;复古;仪表,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws5;xmws4;xmws441;xmws4xring,force_paid
 me.cjack.b2048n,2048N,quick_app,CJackHwang,2048N_AstroBox_Release,d111493,src/common/logo.png,src/common/head15.png,免费;开源;2048;游戏;小米手环10;快应用,xiaomi,xmb10;xmb10nfc,
 979812768106,彩虹大大数字,watchface,Cannyworks29,Rainbow-Big-Font,6faef58,media/_5106105.jpg,media/_5106105.png,极简;大数字;彩虹,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9,
 979899954914,圆饼三指针,watchface,Cannyworks29,Three-Disk-Hands,f872685,media/画板 2523.png,media/封面图 横构图_4245899.jpg,极简;指针,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmws5,
@@ -284,3 +283,4 @@ com.application.zaona.weather,简明天气,quick_app,zaona,simple-weather-astrob
 979899671216,栈,watchface,canoneko,STACK,3d892e2,media/STACK500.png,media/STACK1200.png,Apple Watch Ultra;Apple Watch;栈;现代;大数字;日光;黄色;黄;STACK;手表;爱马仕;数字;多功能;读秒;秒针,xiaomi,xmb11;xmb10,force_paid
 top.zeora.band.metronome,节拍器,quick_app,Zeora315,top.zeora.band.metronome,84ba5bb,media/logo.png,media/Screenshot_2026-09-19-22-30-34-912_com.lemon.lv_1789828253986edit.jpg,快应用,xiaomi,xmb10nfc;xmb10,
 979866596386,满屏数字,watchface,OOOOHSYPure,full-screen-digits,a73d63c,media/icon.png,media/cover.png,数字;极简;大字号;息屏;简约,xiaomi,xmb11;xmb11nfc;xmb9;xmb10nfc;xmb10,
+979899954909,午夜飞行俱乐部,watchface,Cannyworks29,MidnightFlightClub,c4b0a0b,media/Gemini_Generated_Image_je9cklje9cklje9c_副本.jpg,media/Gemini_Generated_Image_je9cklje9cklje9c.jpg,飞行;科技感;复古;仪表,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws5;xmws4;xmws441;xmws4xring;xmb11;xmb11nfc,force_paid
