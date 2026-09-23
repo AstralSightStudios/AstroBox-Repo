@@ -174,7 +174,6 @@ com.virelyx258.poster,Poster,quick_app,virelyx258,Vela_Poster,7071140,icon.png,2
 979875862688,绝区零AngelUI-妄想天使-,watchface,shantuskat,astrobox-resource-979875862688,cb6e5bd,media/封面.png,media/画板 4.png,妄想天使;绝区零;免费;米哈游;千夏;二次元,xiaomi,xmb10;xmb10nfc;xmb9p;xmb10p;xmrw6,
 979872522000,白夜,watchface,AL-1S-hash,astrobox-resource-979872522000,9e09ad0,media/Group 88.png,media/Frame 8.png,EVOA;孤星计划;极简;商务;多跳转;日;月,xiaomi,xmb10p;xmb9p;xmb10nfc;xmb9;xmb10;xmrw6,force_paid
 979813340786,霓虹双指针「DEMO」,watchface,Cannyworks29,Neo-twin-light,013d280,media/_7266517-2.jpg,media/_7266518-2.jpg,极简;霓虹;复古;数字;指针;赛博朋克,xiaomi,xmb10nfc;xmb10,
-979855569274,大大数字,watchface,Cannyworks29,BIGBIG-NUMBERS,40b2f24,media/付费版 osward 字体 数字表盘 01.png,media/DSCF2411 封面.jpg,极简;复古;数字;开源字体,xiaomi,xmb10nfc;xmb10;xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9;xmb9p,force_paid
 979844731883,一个小时的进度-免费黄色限定,watchface,Cannyworks29,One-Hour-Progress-Yellow,1496a3f,media/画板 1.png,media/_7266537.jpg,极简;复古;数字;进度;抽象;设计感;模糊,xiaomi,xmb9p;xmb10p,
 979856192927,花开忘忧 - 壹,watchface,wuhaiqi0621,HuaKaiWangYou_ForAstroBox,7b65e57,media/icon.png,media/head.png,周深;表盘;时间;大数字;玻璃;液态玻璃,xiaomi,xmb10p;xmb9p,
 com.azuma.wristqr,WristQR-将任意二维码便捷的保存在手表上,quick_app,AzumaChiaki,WristQR_ab,726a792,media/logo.png,media/wristqr-poster-3x2.png,工具;安卓同步器;快捷;生活,xiaomi,xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmb11;xmb11nfc,force_paid
@@ -284,3 +283,4 @@ com.application.zaona.weather,简明天气,quick_app,zaona,simple-weather-astrob
 top.zeora.band.metronome,节拍器,quick_app,Zeora315,top.zeora.band.metronome,84ba5bb,media/logo.png,media/Screenshot_2026-09-19-22-30-34-912_com.lemon.lv_1789828253986edit.jpg,快应用,xiaomi,xmb10nfc;xmb10,
 979866596386,满屏数字,watchface,OOOOHSYPure,full-screen-digits,a73d63c,media/icon.png,media/cover.png,数字;极简;大字号;息屏;简约,xiaomi,xmb11;xmb11nfc;xmb9;xmb10nfc;xmb10,
 979899954909,午夜飞行俱乐部,watchface,Cannyworks29,MidnightFlightClub,c4b0a0b,media/Gemini_Generated_Image_je9cklje9cklje9c_副本.jpg,media/Gemini_Generated_Image_je9cklje9cklje9c.jpg,飞行;科技感;复古;仪表,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws5;xmws4;xmws441;xmws4xring;xmb11;xmb11nfc,force_paid
+979855569274,大大数字,watchface,Cannyworks29,BIGBIG-NUMBERS,ecf02bd,media/付费版 osward 字体 数字表盘 01.png,media/DSCF2411 封面.jpg,极简;复古;数字;开源字体,xiaomi,xmb10nfc;xmb10;xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9;xmb9p;xmb11;xmb11nfc,force_paid
