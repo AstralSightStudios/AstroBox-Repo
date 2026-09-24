@@ -284,3 +284,5 @@ top.zeora.band.metronome,节拍器,quick_app,Zeora315,top.zeora.band.metronome,d
 com.awu.watch.petpal,喵伴,quick_app,jianding24,miaoban-astrobox-release,3c63359,media/icon.png,media/cover.jpg,喵伴;小猫;宠物;养成;治愈;装饰;小游戏;表盘联动;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 979801230201,喵伴表盘,watchface,jianding24,miaoban-watchface-astrobox-release,0b20661,media/icon.png,media/cover.jpg,喵伴;免费;小猫;互动;天气;压力;专注;任务;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,
 com.baka.dino,T-REX RUNNER,quick_app,Nyx-233,astrobox-resource-com-baka-dino,4992f15,media/logo.png,media/cover.png,游戏,xiaomi,xmb9p;xmb10p;xmb11;xmb11nfc,
+com.vela.selftest,设备自检,quick_app,w2517,AstroBox_Selftest,30bc95d,icon.png,cover.png,实用工具;检测;系统信息;屏幕参数;手环,xiaomi,xmb10;xmb10nfc,
+com.vela.brightness,亮度调节,quick_app,w2517,AstroBox_Brightness,55413b2,icon.png,cover.png,实用工具;亮度;屏幕调节;手环,xiaomi,xmb10;xmb10nfc,
