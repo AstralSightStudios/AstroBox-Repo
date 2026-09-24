@@ -237,7 +237,6 @@ com.baka.dino,T-REX RUNNER,quick_app,Nyx-233,astrobox-resource-com-baka-dino,727
 979853048574,觅光,watchface,YcFeller,astrobox-resource-979853048574,d255753,media/miguang-icon.png,media/宣发图.png,相册表盘;觅光;风景,xiaomi,xmrw5;xmrw5xring;xmrw6,force_paid
 moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,d0c36c5,logo.png,1.png,天气应用;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmb10p;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441,paid
 moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_Release,e5378e6,logo (1).png.png,封面.png,邮件;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5xring;xmrw5;xmws441;xmrw6;xmws5;xmb9p;xmb10p,force_paid
-979801230201,喵伴表盘,watchface,jianding24,miaoban-watchface-astrobox-release,60c0b6a,media/icon.png,media/cover.jpg,喵伴;免费;小猫;互动;天气;压力;专注;任务;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,
 979878518191,经典 91,watchface,Cannyworks29,Classic91,d0c5d34,media/方形 logo.png,media/_8256680-2.jpg,卡西欧;经典;F91W;模拟;数字屏幕;复古;液晶;相册表盘,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6;xmws5,
 com.HNTPVZchv.watch.demo,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,eb2adce,media/logo-256.png,media/2：3-低分辨率.png,游戏;塔防,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmws4xring;xmws4;xmws441;xmb10p,
 com.kjsjksjsjaiwjjw.chess,国际象棋,quick_app,33520276q-dotcom,vale2,209a9b3,media/IMG_20260820_201908.jpg,media/1789052286821.jpg,游戏,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws3;xmb10p;xmb9p,
@@ -284,3 +283,4 @@ com.application.zaona.weather,简明天气,quick_app,zaona,simple-weather-astrob
 979899954914,圆饼三指针,watchface,Cannyworks29,Three-Disk-Hands,0545e3d,media/画板 2523.png,media/封面图 横构图_4245899.jpg,极简;指针,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmws5;xmb11nfc;xmb11,
 top.zeora.band.metronome,节拍器,quick_app,Zeora315,top.zeora.band.metronome,df72e3e,media/logo.png,media/Screenshot_2026-09-19-22-30-34-912_com.lemon.lv_1789828253986edit.jpg,快应用,xiaomi,xmb10nfc;xmb10,
 com.awu.watch.petpal,喵伴,quick_app,jianding24,miaoban-astrobox-release,3c63359,media/icon.png,media/cover.jpg,喵伴;小猫;宠物;养成;治愈;装饰;小游戏;表盘联动;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
+979801230201,喵伴表盘,watchface,jianding24,miaoban-watchface-astrobox-release,0b20661,media/icon.png,media/cover.jpg,喵伴;免费;小猫;互动;天气;压力;专注;任务;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,
