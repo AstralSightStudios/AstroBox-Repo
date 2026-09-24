@@ -1,4 +1,5 @@
 .DS_Store
 csvtool.py
+.opencode/
 __pycache__/
 *.pyc
