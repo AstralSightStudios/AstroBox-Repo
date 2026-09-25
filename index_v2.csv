@@ -234,7 +234,6 @@ moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Re
 moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_Release,e5378e6,logo (1).png.png,封面.png,邮件;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5xring;xmrw5;xmws441;xmrw6;xmws5;xmb9p;xmb10p,force_paid
 979878518191,经典 91,watchface,Cannyworks29,Classic91,d0c5d34,media/方形 logo.png,media/_8256680-2.jpg,卡西欧;经典;F91W;模拟;数字屏幕;复古;液晶;相册表盘,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6;xmws5,
 com.HNTPVZchv.watch.demo,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,eb2adce,media/logo-256.png,media/2：3-低分辨率.png,游戏;塔防,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmws4xring;xmws4;xmws441;xmb10p,
-com.kjsjksjsjaiwjjw.chess,国际象棋,quick_app,33520276q-dotcom,vale2,209a9b3,media/IMG_20260820_201908.jpg,media/1789052286821.jpg,游戏,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws3;xmb10p;xmb9p,
 979812002126,Smart Home,watchface,mehtmls,SmartHome-Astrobox,0fb1c6a,media/icon.jpg,media/头图 - SmartHome.png,工具;表盘;lua表盘;系统;截图;表盘管理;免费,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p;xmb10p;xmb11;xmb11nfc,
 com.yan.maimaidx,舞萌B50,quick_app,lu0047,astrobox-resource-com-yan-maimaidx,43d2846,media/OIP-C.webp,media/23911_compressed (1)..png,舞萌;查分,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
 com.schedule.vela,腕上课程表,quick_app,Jursin,astrobox-resource-com-schedule-vela,b7cf415,media/logo.png,media/banner.png,课程表,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
@@ -288,3 +287,4 @@ com.openblack.mahjong-next,麻将,quick_app,dm1366631,astrobox-resource-com-open
 com.netease.vela,可搜网易云,quick_app,Cookie-Zalea,NetEase-Cloud-Music-Search,2ebb1b8,media/网易云音乐-应用图标.png,media/ae2b496c-dd39-4440-b835-8502c06769c2.png,音乐,xiaomi,xmrw5xring;xmrw5;xmrw6,
 app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,36d1f49,media/16108.png,media/25729.png,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
 979859530701,米环管理/米表管理,watchface,OnDriveLine,astrobox-resource-979859530701,5b37772,media/icon.png,media/容器 475.png,工具;管理,xiaomi,xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,
+com.kjsjksjsjaiwjjw.chess,国际象棋,quick_app,33520276q-dotcom,vale2,6b746b3,media/IMG_20260820_201908.jpg,media/1790261196845.jpg,游戏,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws3;xmb10p;xmb9p,
