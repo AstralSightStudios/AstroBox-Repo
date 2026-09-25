@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979817235470,DOOM,watchface,cahkcs,doom,6b5be1c,media/doom_app_icon_128x128.png,media/DOOM_Cover_Promo_3x2_1MB.jpg,DOOM;3D游戏;表盘游戏,xiaomi,xmrw6;xmb10p;xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9,force_paid
