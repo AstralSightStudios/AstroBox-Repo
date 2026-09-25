@@ -37,13 +37,14 @@
         // | `author`               | `id`, `name`, `description`, `avatarUrl`                                         | 作者介绍      |
         
         {
-          "type": "blog",
-          "title": "AstroBox 2.1 正式发布",
-          "tag": "版本更新",
-          "introduction": "事事顺心，环间有序。",
-          "backgroundImg": "weekly/cover1.png",
-          "backgroundColor": "#E9EEE9",
-          "url": "weekly/index.md"
+          "type": "single_resource_blog",
+          "title": "Hyper Box 已支持 小米手环11",
+          "tag": "独家速报",
+          "introduction": "一款拥有20+功能和超绝UI的万能宝盒",
+          "backgroundImg": "hyperbox/ab-square.png",
+          "resBackgroundColorGradient": ["#1a1a2e","#1a1a2e"],
+          "url": "hyperbox/index.md",
+          "resourceId": "com.charlie.hyperbox",
         },
         {
           "type": "blog",
