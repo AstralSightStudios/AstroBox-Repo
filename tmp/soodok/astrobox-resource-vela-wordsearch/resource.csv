@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+vela.WordSearch,词海,quick_app,Soodok,astrobox-resource-vela-wordsearch,21c3021,media/词海-图标-100（应用内实际）.png,media/词海-封面-B-斜角暖光-1080x720.jpg,英语;词典;学习;工具,xiaomi,xmb10;xmb9;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p,
