@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979843059080,OS27模块表盘,watchface,Hobjl-lian,astrobox-resource-979843059080,9bf503a,media/Frame 16.png,media/Ab头图1.png,Hobjl;表盘,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p,force_paid
