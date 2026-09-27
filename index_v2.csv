@@ -1,5 +1,4 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.hazenotea.pvz.watch,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,a8d8ada,media/logo-256.png,media/全新雷霆大图1200x800.png,游戏;塔防,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmws4xring;xmws4;xmws441;xmb10p,paid
 com.searchstars.hyperbilibili,澎湃哔哩,quick_app,searchstars,Hyperbilibili_AstroBox_Release,00ba84c,icon.png,preview.png,客户端;实用工具;视频;社区;互动;在线;哔哩哔哩;B站;b站,xiaomi,xmws3;xmws4;xmrw5xring;xmb9p,
 LegacyItem1,Starfield Chronomark,watchface,Searchstars,StarfieldWatchFace_AstroBox_Release,efdc847,icon.png,preview.png,复刻;Starfield;星空;表盘;简约,xiaomi,xmws3;xmws4,
 com.charlie.muyuPro,木鱼Pro,quick_app,wuhaiqi0621,muyuPro_ForAstroBox,83266a4,icon.png,head.png,实用工具;木鱼;电子木鱼;游戏,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,paid
@@ -296,3 +295,4 @@ com.SoDictionary.solan,So词典[英-日-汉互译版],quick_app,Solan-486,Astrob
 979865858967,SnapUI-照片表盘-2【安装我】,watchface,Hobjl-lian,astrobox-resource-979865858967,f99b57f,media/icons.png,media/Ab头图1.jpg,Hobjl;表盘,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmb11;xmb11nfc,force_paid
 979835131763,Candy UI 风格图标包,watchface,shantuskat,astrobox-resource-979835131763,d280e78,media/画板 3.png,media/介个.png,图标;糖果;风格,xiaomi,xmb10p,force_paid
 com.hazenotea.sokuban.watch,推箱子,quick_app,HazeNoTea,HNT_SoKuBan_vela,ca69d78,media/ab_logo.png,media/AI修复大图.png,游戏,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws4xring;xmws441;xmws4,
+com.hazenotea.pvz.watch,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,a8d8ada,media/logo-256.png,media/全新雷霆大图1200x800.png,游戏;塔防,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmws4xring;xmws4;xmws441;xmb10p,paid
