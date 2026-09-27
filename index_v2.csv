@@ -1,4 +1,5 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.hazenotea.pvz.watch,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,a8d8ada,media/logo-256.png,media/全新雷霆大图1200x800.png,游戏;塔防,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmws4xring;xmws4;xmws441;xmb10p,paid
 com.searchstars.hyperbilibili,澎湃哔哩,quick_app,searchstars,Hyperbilibili_AstroBox_Release,00ba84c,icon.png,preview.png,客户端;实用工具;视频;社区;互动;在线;哔哩哔哩;B站;b站,xiaomi,xmws3;xmws4;xmrw5xring;xmb9p,
 LegacyItem1,Starfield Chronomark,watchface,Searchstars,StarfieldWatchFace_AstroBox_Release,efdc847,icon.png,preview.png,复刻;Starfield;星空;表盘;简约,xiaomi,xmws3;xmws4,
 com.charlie.muyuPro,木鱼Pro,quick_app,wuhaiqi0621,muyuPro_ForAstroBox,83266a4,icon.png,head.png,实用工具;木鱼;电子木鱼;游戏,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,paid
@@ -231,7 +232,6 @@ com.cyberdice,CyberDice,quick_app,cgl-sd,CyberDice,22e3948,media/cyberdice-app-i
 moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,d0c36c5,logo.png,1.png,天气应用;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmb10p;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441,paid
 moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_Release,e5378e6,logo (1).png.png,封面.png,邮件;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5xring;xmrw5;xmws441;xmrw6;xmws5;xmb9p;xmb10p,force_paid
 979878518191,经典 91,watchface,Cannyworks29,Classic91,d0c5d34,media/方形 logo.png,media/_8256680-2.jpg,卡西欧;经典;F91W;模拟;数字屏幕;复古;液晶;相册表盘,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6;xmws5,
-com.HNTPVZchv.watch.demo,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,eb2adce,media/logo-256.png,media/2：3-低分辨率.png,游戏;塔防,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmws4xring;xmws4;xmws441;xmb10p,
 979812002126,Smart Home,watchface,mehtmls,SmartHome-Astrobox,0fb1c6a,media/icon.jpg,media/头图 - SmartHome.png,工具;表盘;lua表盘;系统;截图;表盘管理;免费,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p;xmb10p;xmb11;xmb11nfc,
 com.yan.maimaidx,舞萌B50,quick_app,lu0047,astrobox-resource-com-yan-maimaidx,43d2846,media/OIP-C.webp,media/23911_compressed (1)..png,舞萌;查分,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
 com.schedule.vela,腕上课程表,quick_app,Jursin,astrobox-resource-com-schedule-vela,b7cf415,media/logo.png,media/banner.png,课程表,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
