@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.deepseekhn.wbtest,腕上浏览器,quick_app,midi-HL,astrobox-resource-com-deepseekhn-wbtest-ffup,8d227e8,media/icon_256.png,media/photo_2026-09-28_18-46-36.jpg,RSS订阅;AI;付费;网页搜索;开源同步器,xiaomi,xmb10;xmb11;xmb11nfc;xmb10nfc;xmb9,force_paid
