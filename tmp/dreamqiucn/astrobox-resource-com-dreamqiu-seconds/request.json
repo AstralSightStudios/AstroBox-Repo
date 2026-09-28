@@ -3,5 +3,11 @@
   "mode": "edit",
   "original_id": "com.Dreamqiu.seconds",
   "base_entry_digest": "04653b2f9ab062436aaaa0921a291008b8096a476e23713aaa350894a51bddd5",
-  "base_catalog_commit": "e7c75bf695fdca890ede67137cf128c068aef727"
+  "base_catalog_commit": "e7c75bf695fdca890ede67137cf128c068aef727",
+  "client": {
+    "version": "0.3.0",
+    "git_commit_hash": "76b7411",
+    "build_time": "2026-09-25T17:22:53.045218+08:00",
+    "build_user": "runner"
+  }
 }
