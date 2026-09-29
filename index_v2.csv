@@ -150,7 +150,6 @@ com.remote.terminal,远程终端,quick_app,F7YM,astrobox-resource-com-remote-ter
 979811130359,天归 - 天容万象 星途终归,watchface,auberdominique23-hash,979811130359_AstroBox_Release,4875f37,矩形 1.png,MasterGo 封面 16_9 - 2.png,二次元表盘;课程表;lua表盘,xiaomi,xmb9p;xmb10p,force_paid
 979825266002,倒数日 表盘,watchface,sf-yuzifu,Daymatter_Watchface_AstroBox_Release,f075888,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程;表盘,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws4;xmws4xring;xmws441,
 me.cjack.b2048n,2048N,quick_app,CJackHwang,2048N_AstroBox_Release,d111493,src/common/logo.png,src/common/head15.png,免费;开源;2048;游戏;小米手环10;快应用,xiaomi,xmb10;xmb10nfc,
-979812768106,彩虹大大数字,watchface,Cannyworks29,Rainbow-Big-Font,6faef58,media/_5106105.jpg,media/_5106105.png,极简;大数字;彩虹,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9,
 con.Dreamqiu.AngryBalls,愤怒的小球,quick_app,Dreamqiucn,angryballs-Astrobox,45cdde2,logo.png,preview1.png,游戏;2d;休闲,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
 com.Dreamqiu.9way,九号出口,quick_app,Dreamqiucn,way-astrobox,2e0d776,media/logo.png,media/九号出口 (1).png,游戏;悬疑;恐怖,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;vivowgt2;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,force_paid
 979899954912,复古液晶显示,watchface,Cannyworks29,RetroSTNdisplay3,dcc5a64,media/画板 1 副本3.png,media/_7146450 2.jpg,复古;液晶;像素;渐变;极简,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmws5,
@@ -301,3 +300,4 @@ com.hazenotea.sokuban.watch,推箱子,quick_app,HazeNoTea,HNT_SoKuBan_vela,15b0f
 com.arknights.spoor.gacha,明日方舟抽卡模拟S池,quick_app,SXM081115,astrobox-resource-com-arknights-spoor-gacha,b5ace93,media/logo.png,media/Cover123.png,明日方舟;陈;安洁莉娜;抽卡模拟,xiaomi,xmb10p;xmb9p,force_paid
 com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-seconds,2541c89,media/logo.png,media/60秒避难所.png,游戏;避难所;60秒避难所,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9;xmb11;xmb11nfc;vivowgt2,force_paid
 online.soodok.poemsearch,万诗阁,quick_app,Soodok,astrobox-resource-online-soodok-wanshige,0cff904,media/万诗阁-图标-256.png,media/万诗阁-头图-实机版-1536x1024.jpg,诗词;古文;学习;工具;离线;搜索,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,paid
+979812768106,彩虹大大数字,watchface,Cannyworks29,Rainbow-Big-Font,d67551f,media/_5106105.jpg,media/_5106105 封面 小文件.jpg,极简;大数字;彩虹,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmb11;xmb11nfc,
