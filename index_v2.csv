@@ -105,7 +105,6 @@ com.afdian.matrixfive,爱发电数据仓,quick_app,jinmohan,Afdian-ShuJuCang-Ast
 com.dino.runner,恐龙快跑,quick_app,YuanRong1026,go-runner_xiaomi-Vela,71316df,icon.png,cover.png,游戏;休闲;娱乐,xiaomi,xmb9p;xmb10;xmb10nfc,
 979878680101,重圆2 体验版,watchface,OnDriveLine,Recircle2_AB,c1b7801,icon.png,cover.png,表盘;可编辑控件;时间感知,xiaomi,xmb10;xmb10nfc;xmb9,force_paid
 979808740100,《马力欧＆路易吉RPG 兄弟齐航》风格表盘 +,watchface,hrsthrt74,MLRPG-brothership-for-astrobox,98cb9ee,icon.png,cover.png,任天堂;马力欧;路易吉;NintendoSwitch;多样式;多设备支持;景深;简约;游戏风;二次元;马里奥;玛丽,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,
-979808740200,PRiSM+,watchface,hrsthrt74,prism-plus-for-astrobox,a15055f,icon.png,cover.png,SEGA;maimaiDX;舞萌 DX;简约;多设备支持,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6,
 979808740400,The Commander 体验版,watchface,hrsthrt74,the-commander-for-astrobox,625d3c0,icon.png,cover.png,多种数据,xiaomi,xmb9p,paid
 979808740500,PoP☆P,watchface,hrsthrt74,pop-star-p-for-astrobox,76c13da,icon.png,cover.png,任天堂;星之卡比;可爱;简约;多设备支持,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc;xmws4;xmws4xring;o63;xmrw5;xmrw5xring;xmrw6,
 979825266001,【可互动】心跳文学部 莫妮卡,watchface,sf-yuzifu,Monika,a261c4b,icon.png,preview.png,表盘;可互动;心跳文学部;莫妮卡;ddlc;DDLC;Doki Doki Literature Club;心跳文学社;二次元;多设备支持;Monika;monika,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
@@ -303,3 +302,4 @@ com.matrixfive.online.ylgy,三相消除,quick_app,jinmohan,SanXiangXiaoChuFor_As
 979802168079,一大一小,watchface,imwjh,astrobox-resource-979802168079,461a09d,media/图标.png,media/cover-type-3000x2000.png,大数字;数字;极简;简约,xiaomi,xmrw5;xmrw5xring;xmrw6,
 979821993891,碑铭,watchface,imwjh,astrobox-resource-979821993891,2053c89,media/图标.png,media/cover-type-3000x2000.png,数字;简约;大数字,xiaomi,xmrw5;xmrw5xring;xmrw6,
 979808740300,World of Race,watchface,hrsthrt74,world-of-race-for-astrobox,6633f0f,icon.png,cover.png,任天堂;马力欧;NintendoSwitch;简约;游戏风;二次元;AOD,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,
+979808740200,PRiSM+,watchface,hrsthrt74,prism-plus-for-astrobox,3961ede,icon.png,cover.png,SEGA;maimaiDX;舞萌 DX;简约;多设备支持;二次元;游戏风,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb11;xmb11nfc;xmb10p,
