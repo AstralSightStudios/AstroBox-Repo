@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.bambu.watch.status,Bambu Vela,quick_app,Basin-Pen,Bambu__Vela,6b6e143,media/logo.png,media/幻灯片1.png,拓竹;Bambu;3D打印;实用工具;进度,xiaomi,xmb11;xmb11nfc;xmb10nfc;xmb10;xmb9;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws541;xmws4;xmws5;xmrw6;xmrw5xring;xmrw5,force_paid
