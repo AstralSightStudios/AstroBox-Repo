@@ -102,7 +102,6 @@ fatex.gangqinkuai.zzx,钢琴块,quick_app,skdkzzx,Piano-Tiles,1f7dae7,logo.png,Q
 979815236985,Q版初音未来表盘 第二弹,watchface,Orange0w0,Chibi-style-Miku-Watchface-for-Xiaomi-Smart-Band-9-Pro_AstroBox_Release,85dc12f,icon.png,cover.png,初音未来;Hatsune Miku;Miku;39;小米手环9 Pro;表盘;Q版,xiaomi,xmb9p,
 979885362176,Q版初音未来表盘 第三弹,watchface,Orange0w0,MikuWatchface_AstroBox_Release,cbb199b,Icon.png,%E5%B0%81%E9%9D%A2.png,初音未来;Miku;小米手环9 Pro;Q版;橘子,xiaomi,xmb9p,
 com.afdian.matrixfive,爱发电数据仓,quick_app,jinmohan,Afdian-ShuJuCang-AstroBox_AstroBox_Release,5643b93,icon.png,preview1.png,免费;爱发电;开源;实用工具,xiaomi,xmrw6;xmws5;xmrw5,
-com.matrixfive.online.ylgy,三相消除,quick_app,jinmohan,SanXiangXiaoChuFor_AstroBox_Release,3a49249,logo.png,preview.png,羊了个羊;三相消除;游戏;解压,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6;xmb10p,force_paid
 com.dino.runner,恐龙快跑,quick_app,YuanRong1026,go-runner_xiaomi-Vela,71316df,icon.png,cover.png,游戏;休闲;娱乐,xiaomi,xmb9p;xmb10;xmb10nfc,
 979878680101,重圆2 体验版,watchface,OnDriveLine,Recircle2_AB,c1b7801,icon.png,cover.png,表盘;可编辑控件;时间感知,xiaomi,xmb10;xmb10nfc;xmb9,force_paid
 979808740100,《马力欧＆路易吉RPG 兄弟齐航》风格表盘 +,watchface,hrsthrt74,MLRPG-brothership-for-astrobox,da8c66e,icon.png,cover.png,任天堂;马力欧;路易吉;NintendoSwitch;多样式;多设备支持;景深;简约,xiaomi,xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p,
@@ -301,3 +300,4 @@ online.soodok.poemsearch,万诗阁,quick_app,Soodok,astrobox-resource-online-soo
 979812768106,彩虹大大数字,watchface,Cannyworks29,Rainbow-Big-Font,d67551f,media/_5106105.jpg,media/_5106105 封面 小文件.jpg,极简;大数字;彩虹,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmb11;xmb11nfc,
 com.kjsjksjsjaiwjjw.chess,国际象棋,quick_app,33520276q-dotcom,vale2,60bc695,media/icon.png,media/1790348009703.jpg,游戏,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws3;xmb10p;xmb9p,
 com.hazenotea.sokuban.watch,推箱子,quick_app,HazeNoTea,HNT_SoKuBan_vela,1539d87,media/ab_logo.png,media/AI修复大图.png,游戏,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws4xring;xmws441;xmws4;xmb11;xmb11nfc;xmb9p,
+com.matrixfive.online.ylgy,三相消除,quick_app,jinmohan,SanXiangXiaoChuFor_AstroBox_Release,7595f4a,logo.png,preview.png,羊了个羊;三相消除;游戏;解压;休闲益智;消除游戏;益智游戏;经典三消;休闲娱乐,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6;xmb10p;xmb11;xmb11nfc;xmws441,force_paid
