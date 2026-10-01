@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.cyberbb.band.photo,CyberBB,quick_app,walter0945,astrobox-resource-com-cyberbb-band-photo,0d6605c,media/logo.png,media/封面_1500x1000.png,xiaomiband,xiaomi,xmb11;xmb10nfc;xmb10;xmb11nfc,paid
