@@ -190,7 +190,6 @@ com.uzens.calculator,矩阵计算器,quick_app,jes-benjamin,com.uzens.calculator
 cn.waijade.wordecho,WordEcho,quick_app,CheongSzesuen,WordEcho_Release,eeaeb53,media/logo.png,media/0@1x.png,单词;记忆;学习;背单词,xiaomi,xmrw6,force_paid
 canopus_manager,Canopus模块管理器,canopus,Searchstars,Canopus-Manager-AstroBox-Release,d8172f4,icon.png,cover.png,Canopus;管理器;Manager,xiaomi,xmb10p;xmb11;xmb11nfc,
 com.txcnstudio.todo,Tickit — 腕间智能清单,quick_app,txcn727-coder,astrobox-resource-com-txcnstudio-todo,f54801c,media/容器 15.png,media/容器 3 (1).png,云端;联网;todo;清单,xiaomi,xmb10p;xmb9p,
-com.azuma.dic,英汉词典-五万词库中英互译,quick_app,AzumaChiaki,AzumaDic,b45eb75,media/logo.png,media/6c618b7e0f5a7c3081d1a1631c9525d9_720.png,词典;学习;工具;英语,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10nfc;xmb10;xmb10p;xmb9;xmb9p;xmb11;xmb11nfc,force_paid
 com.canopus.lyraimport,Lyra音乐导入器,quick_app,Searchstars,LyraImport-QA-AstroBox-Release,44aa586,icon.png,cover.png,音乐;快应用;导入;导入器;Canopus;Lyra;Lyra播放器,xiaomi,xmb10p;xmb11;xmb11nfc,
 canopus_lyraplayer,Lyra音乐播放器,canopus,Searchstars,LyraPlayer-AstroBox-Release,d334e70,icon.png,cover.png,音乐;Canopus;Lyra,xiaomi,xmb10p;xmb11;xmb11nfc,
 com.example.band.bilibili.lite,腕上哔哩-WristBili,quick_app,Velvetine13245,astrobox-resource-com.example.band.bilibili.lite,aac1947,media/icon.webp,media/cover.webp,WristBili;腕上哔哩;B站,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws5,
@@ -306,3 +305,4 @@ com.komoridev.tictacgo,游击井字棋,quick_app,KomoriDev,kovela-tictacgo,403e2
 979817235470,DOOM,watchface,cahkcs,doom,1e08f83,media/doom_app_icon_192x192.png,media/DOOM_Cover_Official_3DWrist.jpg,DOOM;3D游戏;表盘游戏,xiaomi,xmrw6;xmb10p;xmb9p;xmb10;xmb10nfc;xmb9;xmb11;xmb11nfc,force_paid
 979808077601,启程,watchface,imwjh,astrobox-face-979808077601,3e00ecd,media/屏幕截图 2026-10-01 044830.png,media/cover-type-3000x2000_结果_结果.png,像素;简约;数字,xiaomi,xmrw5;xmrw5xring;xmrw6,
 com.SoDictionary.solan,So词典[英汉&日汉互译],quick_app,Solan-486,Astrobox-Resource_Release,79c757a,media/logo.png,Preview1.3.png,词典;英语;英汉互译;日语;日文;日汉互译;英语词典;日语词典;学习;工具;翻译,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p;xmws3;xmws4;xmws4xring;xmb11;xmws541;xmb11nfc;xmws5;xmws441,force_paid
+com.azuma.dic,英汉词典-五万词库中英互译,quick_app,AzumaChiaki,AzumaDic,14114e0,media/logo.png,media/6c618b7e0f5a7c3081d1a1631c9525d9_720.png,词典;学习;工具;英语,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10nfc;xmb10;xmb10p;xmb9;xmb9p;xmb11;xmb11nfc,force_paid
