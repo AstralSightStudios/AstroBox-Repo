@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.komoridev.watermelon",
+  "base_entry_digest": "4cf1cdac678a4e2338bf4a3f3f9e95dc5bf47993d535ea97b89b7c911a39d4cf",
+  "base_catalog_commit": "4de357970b303bde418beaa731257643752e2fb8",
+  "client": {
+    "version": "0.3.0",
+    "git_commit_hash": "76b7411",
+    "build_time": "2026-09-25T17:23:38.314593500+08:00",
+    "build_user": "runneradmin"
+  }
+}
