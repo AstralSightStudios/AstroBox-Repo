@@ -188,7 +188,6 @@ com.uzens.calculator,矩阵计算器,quick_app,jes-benjamin,com.uzens.calculator
 979825266003,千恋＊万花 丛雨,watchface,sf-yuzifu,murasame_AstroBox_Release,158dac2,media/4495.jpg,media/容器 778 (1).png,二次元;千恋万花;丛雨;可互动,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p;xmrw6,force_paid
 979837445868,匠格DIY版,watchface,aurysian-yan,astrobox-resource-979837445868,e4fa9fe,media/icon.png,media/cover-1.png,桌面;锁屏;可编辑;拟物;锤子;相册表盘,xiaomi,xmb10p;xmb9p,force_paid
 cn.waijade.wordecho,WordEcho,quick_app,CheongSzesuen,WordEcho_Release,eeaeb53,media/logo.png,media/0@1x.png,单词;记忆;学习;背单词,xiaomi,xmrw6,force_paid
-canopus_manager,Canopus模块管理器,canopus,Searchstars,Canopus-Manager-AstroBox-Release,d8172f4,icon.png,cover.png,Canopus;管理器;Manager,xiaomi,xmb10p;xmb11;xmb11nfc,
 com.txcnstudio.todo,Tickit — 腕间智能清单,quick_app,txcn727-coder,astrobox-resource-com-txcnstudio-todo,f54801c,media/容器 15.png,media/容器 3 (1).png,云端;联网;todo;清单,xiaomi,xmb10p;xmb9p,
 com.canopus.lyraimport,Lyra音乐导入器,quick_app,Searchstars,LyraImport-QA-AstroBox-Release,44aa586,icon.png,cover.png,音乐;快应用;导入;导入器;Canopus;Lyra;Lyra播放器,xiaomi,xmb10p;xmb11;xmb11nfc,
 canopus_lyraplayer,Lyra音乐播放器,canopus,Searchstars,LyraPlayer-AstroBox-Release,d334e70,icon.png,cover.png,音乐;Canopus;Lyra,xiaomi,xmb10p;xmb11;xmb11nfc,
@@ -308,3 +307,4 @@ com.azuma.dic,英汉词典-五万词库中英互译,quick_app,AzumaChiaki,AzumaD
 com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox,657a0ff,media/容器 14 (1).png,media/幻灯片 4_3 - 2.png,小米手环9Pro;课程表;BandClass;倒计时,xiaomi,xmb9p,
 979821993891,碑铭,watchface,imwjh,astrobox-resource-979821993891,b5ebbb4,media/图标.png,media/cover-type-3000x2000.png,数字;简约;大数字,xiaomi,xmrw5;xmrw5xring;xmrw6,
 979813494192,显影,watchface,imwjh,astrobox-resource-979813494192,9fb4edb,media/屏幕截图 2026-10-02 064313.png,media/cover-type-3000x2000_结果.png,数字;大数字;简约;息屏,xiaomi,xmrw5;xmrw5xring;xmrw6,
+canopus_manager,Canopus 模块管理器,canopus,Searchstars,Canopus-Manager-AstroBox-Release,fea395b,icon.png,cover.png,Canopus;管理器;Manager,xiaomi,xmb10p;xmb11;xmb11nfc,
