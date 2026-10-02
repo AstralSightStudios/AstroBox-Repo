@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "canopus_manager",
+  "base_entry_digest": "fbc8e3e230e7ab2f5a20ac628a9aaed283598be934fd412c9792fa997214e8e0",
+  "base_catalog_commit": "712c7dc44df64cd649a22f09aa7b03a7a82070a2",
+  "client": {
+    "version": "0.3.0",
+    "git_commit_hash": "e4fd878",
+    "build_time": "2026-10-02T12:13:13.310458+08:00",
+    "build_user": "searchstars"
+  }
+}
