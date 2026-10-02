@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.cahkcs.toxun,传输助手-MapWire,quick_app,cahkcs,MapWire,f030ab0,media/logo.png,media/cover_transfer_assistant_1200x800.png,传输;通讯,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmb10nfc;xmb10;xmb11;xmb11nfc;xmb9,force_paid
