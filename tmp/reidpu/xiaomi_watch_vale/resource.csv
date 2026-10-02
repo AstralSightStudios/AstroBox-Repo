@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+pomodoro.rpk,番茄钟(pomodoro),quick_app,ReidPu,Xiaomi_Watch_Vale,ad5bec7,media/logo.png,media/promotional_poster.png,番茄钟;s3;s4;s4 sport;vale,xiaomi,xmws3;xmws4,paid
