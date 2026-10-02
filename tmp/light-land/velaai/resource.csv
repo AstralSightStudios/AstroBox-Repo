@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.lightland.velaai,VelaAI,quick_app,light-land,velaai,8103218,media/139116.png,media/139132.png,ai;工具;聊天;api;deepseek,xiaomi,xmb9p;xmb10p,
+com.lightland.velaai,VelaAI,quick_app,light-land,velaai,a42fa32,media/139116.png,media/139141.png,ai;工具;聊天;api;deepseek,xiaomi,xmb9p;xmb10p,
