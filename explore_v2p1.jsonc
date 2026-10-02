@@ -35,7 +35,16 @@
         // | `multi_resource_blog`  | 继承单资源全部字段 + `resourceIds`（字符串数组）                                      | 多资源推荐     |
         // | `resource`             | `resourceId`, `resBackgroundColorGradient`（双色数组）                             | 方块状标准资源 |
         // | `author`               | `id`, `name`, `description`, `avatarUrl`                                         | 作者介绍      |
-        
+
+        {
+            "type": "blog",
+            "title": "AstroBox 2.2 正式发布",
+            "tag": "版本更新",
+            "introduction": "事事顺心，环间有序。",
+            "backgroundImg": "weekly/cover1.jpg",
+            "backgroundColor": "#E9EEE9",
+            "url": "weekly/index.md"
+        },
         {
           "type": "single_resource_blog",
           "title": "Hyper Box 已支持 小米手环11",
