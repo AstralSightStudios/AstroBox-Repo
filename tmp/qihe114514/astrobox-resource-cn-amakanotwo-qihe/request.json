@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "cn.amakanotwo.qihe",
+  "base_entry_digest": "33f33827d464a1eb9a9b635021980cb9bfdb74c508ef2853f9b8f649f0e32990",
+  "base_catalog_commit": "ce05bebc0f6639a14b8e55b088a6ad7544c9a621",
+  "client": {
+    "version": "0.3.0",
+    "git_commit_hash": "76b7411",
+    "build_time": "2026-09-25T17:23:38.314593500+08:00",
+    "build_user": "runneradmin"
+  }
+}
