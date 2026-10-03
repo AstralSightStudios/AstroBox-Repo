@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "canopus_corona",
+  "base_entry_digest": "8d4c4bc1cb1fdb3ed5440df5b604b15fa9ff5fa13381d979478224e5d8757ca2",
+  "base_catalog_commit": "efaf39f52f265afc9fc24c8d6de9e6de9a556eba",
+  "client": {
+    "version": "0.3.0",
+    "git_commit_hash": "76b7411",
+    "build_time": "2026-09-25T17:22:53.045218+08:00",
+    "build_user": "runner"
+  }
+}
