@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,a845899,media/show_icon.png,media/xft.png,课程表;悬浮tab,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc,
