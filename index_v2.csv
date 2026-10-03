@@ -305,7 +305,6 @@ online.soodok.poemsearch,万诗阁,quick_app,Soodok,astrobox-resource-online-soo
 979808740500,PoP☆P,watchface,hrsthrt74,pop-star-p-for-astrobox,5075f8f,icon.png,cover.png,任天堂;星之卡比;可爱;简约;多设备支持;二次元,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws4;xmrw5;xmrw5xring;xmrw6;xmb11;xmb10p;xmb11nfc;xmws4xring;xmws441,
 979808741500,死了么,watchface,hrsthrt74,sileme-for-astrobox,350f69c,icon.png,cover.png,表盘;创意;死了么;死了吗;压力;心率,xiaomi,xmb9p;xmb10p,
 979808740800,MaterialMania,watchface,hrsthrt74,MaterialMania-for-astrobox,9470305,icon.png,cover.png,MaterialDesign;质感设计;简约;谷歌;Android;壁纸;质感;数字,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
-com.lightland.velaai,VelaAI,quick_app,light-land,velaai,644cc93,media/139116.png,media/139147.png,ai;工具;聊天;api;deepseek,xiaomi,xmb9p;xmb10p,
 cn.amakanotwo.qihe,甜蜜女友 2,quick_app,qihe114514,astrobox-resource-cn-amakanotwo-qihe,54e632e,media/icon.png,media/头头图.jpg,gal;游戏;galgame,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws5;xmws4;xmws4xring;xmws441;xmws3;xmb9;xmb9p;xmb10p;xmb10nfc;xmb10;xmb11nfc;xmb11;xmws541,force_paid
 com.SoDictionary.Classical.solan,So词典-古汉语词典,quick_app,Solan-486,astrobox-resource-com-sodictionary-classical-solan,e60d6a5,media/logo.png,media/Frame 2.png,词典;古文词典;古诗词;离线词典,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10p;xmb10nfc;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
 com.komoridev.watermelon,合成大西瓜,quick_app,KomoriDev,kovela-watermelon,086e7ef,media/logo.png,media/容器 1.png,趣味;游戏,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmrw6;xmrw5;xmrw5xring;xmws5;xmws541;xmws4;xmws441;xmws4xring;xmws3,
@@ -314,3 +313,4 @@ naiwa,测试资源，千万不要下载,res_pack,leset0ng,naiwa-icon-pack,5f44ff
 com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-parsecs,c4d9e11,media/logo.png,media/60秒太空避难所.png,60秒避难所;游戏,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9,force_paid
 moe.yzf.comic,腕上漫画,quick_app,sf-yuzifu,bandcomic_Quickapp_AstroBox_Release,533d1ad,icon.png,preview.png,漫画;本地;摸鱼;实用工具;本子;二次元,xiaomi,xmb9p;xmrw5;xmrw6;xmrw5xring;xmws4;xmws441;xmws4xring;xmws3;xmws5,
 com.hachimi.watch.davethediver,潜水员戴夫,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-davethediver,b7b253c,media/logo.png,media/image-1790963157818.png,休闲;游戏;潜水;经营;娱乐,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
+com.lightland.velaai,VelaAI,quick_app,light-land,velaai,40002f7,media/139116.png,media/139147.png,ai;工具;聊天;deepseek,xiaomi,xmb9p;xmb10p,
