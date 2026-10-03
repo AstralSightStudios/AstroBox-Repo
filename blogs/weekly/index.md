@@ -4,7 +4,7 @@ title: "AstroBox 2.2 正式发布"
 subtitle: "全面优化性能，支持多设备连接与全新装扮"
 author: "AstroBox"
 date: 2026-10-03
-cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/weekly/cover.png"
+cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/weekly/cover1.jpg"
 ---
 
 也许你目前还没能收到该版本的更新推送——但别担心，它将于3天内在各个平台上陆续发布！

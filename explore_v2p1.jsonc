@@ -40,20 +40,10 @@
             "type": "blog",
             "title": "AstroBox 2.2 正式发布",
             "tag": "版本更新",
-            "introduction": "事事顺心，环间有序。",
-            "backgroundImg": "weekly/cover1.jpg",
-            "backgroundColor": "#E9EEE9",
+            "introduction": "全面优化性能，支持多设备连接与全新装扮",
+            "backgroundImg": "weekly/cover.png",
+            "backgroundColor": "#DBD7C7",
             "url": "weekly/index.md"
-        },
-        {
-          "type": "single_resource_blog",
-          "title": "Hyper Box 已支持 小米手环11",
-          "tag": "独家速报",
-          "introduction": "一款拥有20+功能和超绝UI的万能宝盒",
-          "backgroundImg": "hyperbox/ab-square.png",
-          "resBackgroundColorGradient": ["#1a1a2e","#1a1a2e"],
-          "url": "hyperbox/index.md",
-          "resourceId": "com.charlie.hyperbox",
         },
         {
           "type": "blog",
@@ -63,7 +53,7 @@
           "backgroundImg": "docs/cover.png",
           "backgroundColor": "#1a1a2e",
           "url": "docs/index.md"
-        },
+        }
       ]
     },
     {
@@ -134,6 +124,16 @@
       "type": "custom",
       "cards": [
         {
+          "type": "single_resource_blog",
+          "title": "Hyper Box 已支持 小米手环11",
+          "tag": "独家速报",
+          "introduction": "一款拥有20+功能和超绝UI的万能宝盒",
+          "backgroundImg": "hyperbox/ab-square.png",
+          "resBackgroundColorGradient": ["#1a1a2e","#1a1a2e"],
+          "url": "hyperbox/index.md",
+          "resourceId": "com.charlie.hyperbox",
+        },
+        {
           "type": "multi_resource_blog",
           "title": "手环也可以截图了？！",
           "tag": "资源推荐",
@@ -144,18 +144,6 @@
           "url": "shellpp/index.md",
           "resourceIds": ["979889683730", "com.shell.liangyi"],
           "resBackgroundColorGradient": ["#242232", "#22375D"]
-        },
-        {
-          "type": "single_resource_blog",
-          "title": "手环脱离手机也能看天气",
-          "tag": "资源推荐",
-          "textToBlack": false,
-          "introduction": "让天气数据真正留在手腕上",
-          "backgroundImg": "Eternal/banner-ex.png",
-          "backgroundColor": "#448FE4",
-          "url": "Eternal/index.md",
-          "resourceId": "moe.mcns.Eternal",
-          "resBackgroundColorGradient": ["#448FE4", "#0B224D"]
         },
         {
           "type": "resource",
