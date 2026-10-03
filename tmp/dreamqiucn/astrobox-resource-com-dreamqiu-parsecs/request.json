@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.Dreamqiu.parsecs",
+  "base_entry_digest": "e7cdb5caaacec8666c24552071face3de4f227936940d963fddcb9a7e80a7e17",
+  "base_catalog_commit": "13efc8bbfe2454bbc81feba17c59cdad33d39de1",
+  "client": {
+    "version": "0.3.0",
+    "git_commit_hash": "76b7411",
+    "build_time": "2026-09-25T17:22:53.045218+08:00",
+    "build_user": "runner"
+  }
+}
