@@ -296,7 +296,6 @@ com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox
 979813494192,显影,watchface,imwjh,astrobox-resource-979813494192,9fb4edb,media/屏幕截图 2026-10-02 064313.png,media/cover-type-3000x2000_结果.png,数字;大数字;简约;息屏,xiaomi,xmrw5;xmrw5xring;xmrw6,
 canopus_manager,Canopus 模块管理器,canopus,Searchstars,Canopus-Manager-AstroBox-Release,fea395b,icon.png,cover.png,Canopus;管理器;Manager,xiaomi,xmb10p;xmb11;xmb11nfc,
 com.MatrixFive.ShuZiWu,缤纷数字屋,quick_app,jinmohan,ShuZiWu_AstroBox_Release,753dbb7,media/logo.png,media/Preview.png,游戏;休闲;解压;娱乐,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmb11;xmb11nfc,force_paid
-online.soodok.poemsearch,万诗阁,quick_app,Soodok,astrobox-resource-online-soodok-wanshige,eaa19ff,media/万诗阁-图标-256.png,media/万诗阁-头图-实机版-1536x1024.jpg,诗词;古文;学习;工具;离线;搜索,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,paid
 979808740500,PoP☆P,watchface,hrsthrt74,pop-star-p-for-astrobox,5075f8f,icon.png,cover.png,任天堂;星之卡比;可爱;简约;多设备支持;二次元,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws4;xmrw5;xmrw5xring;xmrw6;xmb11;xmb10p;xmb11nfc;xmws4xring;xmws441,
 979808741500,死了么,watchface,hrsthrt74,sileme-for-astrobox,350f69c,icon.png,cover.png,表盘;创意;死了么;死了吗;压力;心率,xiaomi,xmb9p;xmb10p,
 979808740800,MaterialMania,watchface,hrsthrt74,MaterialMania-for-astrobox,9470305,icon.png,cover.png,MaterialDesign;质感设计;简约;谷歌;Android;壁纸;质感;数字,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
@@ -316,3 +315,4 @@ com.arknights.spoor.gacha,环上方舟,quick_app,SXM081115,astrobox-resource-com
 canopus_corona,Corona模块,canopus,leset0ng,Corona-Relese,1d993d4,media/logo.png,media/Frame 427321352.png,模块;canopus;资源包;图标;主题;字体,xiaomi,xmb10p;xmb11;xmb11nfc,
 ng.lst.corona,Corona管理器,quick_app,leset0ng,Corona-Manager-Relese,ce58a63,media/logo.png,media/Frame 29.png,canopus;主题;图标;资源包;管理;混搭;模块,xiaomi,xmb10p;xmb11;xmb11nfc,
 com.hydro.link,HydroLink,quick_app,F7YM,astrobox-resource-com-hydro-link,83d32b4,media/Group 3 (1).png,media/Group 9 (6).png,Windows;Linux;互联;HydroLink;远程终端;HydroKit,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmws541,
+online.soodok.poemsearch,万诗阁,quick_app,Soodok,astrobox-resource-online-soodok-wanshige,50ddec9,media/万诗阁-图标-192.png,media/万诗阁-头图-实机版-1536x1024.jpg,诗词;古文;学习;工具;离线;搜索,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,paid
