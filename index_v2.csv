@@ -276,7 +276,6 @@ com.cycle.vela,经期追踪,quick_app,NengGanHui,cycle-vela,5314c03,media/logo.p
 979850337126,玻璃点阵渐变,watchface,Cannyworks29,CAR_GLASS_5,54aa77f,media/4 副本q.png,media/封面.png,模拟;数字屏幕;复古;液晶;点阵;中古,xiaomi,xmb9p;xmb10p;xmb11;xmb11nfc;xmb9;xmb10nfc;xmb10,
 979812768106,彩虹大大数字,watchface,Cannyworks29,Rainbow-Big-Font,d67551f,media/_5106105.jpg,media/_5106105 封面 小文件.jpg,极简;大数字;彩虹,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmb11;xmb11nfc,
 com.kjsjksjsjaiwjjw.chess,国际象棋,quick_app,33520276q-dotcom,vale2,60bc695,media/icon.png,media/1790348009703.jpg,游戏,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws3;xmb10p;xmb9p,
-com.hazenotea.sokuban.watch,推箱子,quick_app,HazeNoTea,HNT_SoKuBan_vela,1539d87,media/ab_logo.png,media/AI修复大图.png,游戏,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws4xring;xmws441;xmws4;xmb11;xmb11nfc;xmb9p,
 979802168079,一大一小,watchface,imwjh,astrobox-resource-979802168079,818304b,media/图标.png,media/cover-type-3000x2000.png,大数字;数字;极简;简约,xiaomi,xmrw5;xmrw5xring;xmrw6,
 979808740300,World of Race,watchface,hrsthrt74,world-of-race-for-astrobox,6633f0f,icon.png,cover.png,任天堂;马力欧;NintendoSwitch;简约;游戏风;二次元;AOD,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,
 979808740200,PRiSM+,watchface,hrsthrt74,prism-plus-for-astrobox,3961ede,icon.png,cover.png,SEGA;maimaiDX;舞萌 DX;简约;多设备支持;二次元;游戏风,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb11;xmb11nfc;xmb10p,
@@ -319,3 +318,5 @@ com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource
 circlestrat,圆启,res_pack,Alittlejelly,astrobox-resource-circlestrat,3667650,media/画板 52.png,media/画板 53.png,圆形图标;多彩图标;渐变色彩,xiaomi,xmb10p,force_paid
 recircle,重圆,res_pack,Alittlejelly,astrobox-resource-recircle,fcc1cb0,media/icon.png,media/xuanfaTu.png,超椭圆;平滑圆角;200w;彩色图标;圆形图标,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
 dawn_by_aurysian,途灵破晓图标包,res_pack,aurysian-yan,dawn-iconpack,84d8079,media/包管理.png,media/cover-1.png,液态玻璃;图标包;玻璃,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
+com.ycc.tz.suishenxue,随身学pro,quick_app,lafsyc,suishenxue-promax,9f38682,media/图标.png,media/封面04-极简大字-主题设置-1200x800.png,学习;快应用,xiaomi,xmb11;xmb10;xmb10nfc;xmb11nfc,
+com.hazenotea.sokuban.watch,推箱子,quick_app,HazeNoTea,HNT_SoKuBan_vela,8c43bb7,media/ab_logo.png,media/AI修复大图.png,游戏;解谜;闯关,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws4xring;xmws441;xmws4;xmb11;xmb11nfc;xmb9p;xmb9,
