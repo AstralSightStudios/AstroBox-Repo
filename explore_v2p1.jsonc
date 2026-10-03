@@ -185,6 +185,16 @@
       "cards": [
         {
           "type": "resource",
+          "resourceId": "com.komoridev.watermelon",
+          "resBackgroundColorGradient": ["#C1FF7C", "#64904B"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "com.arknights.spoor.gacha",
+          "resBackgroundColorGradient": ["#B1B1B1", "#4C4C4C"]
+        },
+        {
+          "type": "resource",
           "resourceId": "com.matrixfive.online.ylgy",
           "resBackgroundColorGradient": ["#C1FF7C", "#2C4114"]
         },
