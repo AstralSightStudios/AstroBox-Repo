@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "material",
+  "base_entry_digest": "92629d22f6a04a657414a4a8e28aa298db87adb6ade22756a6be21c70918eb7f",
+  "base_catalog_commit": "b8d9bc036b34eae281d78bd44191754ca42373e1",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "5a6536d",
+    "build_time": "2026-10-03T18:35:17.777505900+08:00",
+    "build_user": "runneradmin"
+  }
+}
