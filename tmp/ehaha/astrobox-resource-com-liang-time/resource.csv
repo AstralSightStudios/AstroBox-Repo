@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.liang.time,命运交易,quick_app,ehaha,astrobox-resource-com-liang-time,098ea49,media/logo.png,media/mingyun (1).png,打工;赚钱;模拟人生;股票;赌博;彩票,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p,force_paid
