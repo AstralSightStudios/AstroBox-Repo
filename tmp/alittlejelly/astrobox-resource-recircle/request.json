@@ -6,8 +6,8 @@
   "base_catalog_commit": "afe2214989d23f1c17c8c82931cd41bc2db482f3",
   "client": {
     "version": "0.4.0",
-    "git_commit_hash": "5a6536d",
-    "build_time": "2026-10-03T18:35:17.777505900+08:00",
-    "build_user": "runneradmin"
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:13:25.479631754+08:00",
+    "build_user": "runner"
   }
 }
