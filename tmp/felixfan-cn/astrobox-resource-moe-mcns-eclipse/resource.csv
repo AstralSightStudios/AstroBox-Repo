@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+moe.mcns.Eclipse,Eclipse星语,quick_app,FelixFan-CN,astrobox-resource-moe-mcns-eclipse,4cc6ac0,media/icon_round.png,media/504068dfb1bd9227b930db5bda5cb60f_720.png,AI;聊天;独立;助手;工具;JS;脚本,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws4;xmws441;xmws541;xmws5,force_paid
