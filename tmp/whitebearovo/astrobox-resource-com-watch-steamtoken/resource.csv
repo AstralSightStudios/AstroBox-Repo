@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.watch.steamtoken,Steam令牌,quick_app,whitebearovo,astrobox-resource-com-watch-steamtoken,557493b,media/logo.svg,media/logo-preview.png,steam,xiaomi,xmb10p;xmb11;xmb11nfc;xmb10nfc;xmb10;xmrw6;xmrw5xring;xmrw5;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
