@@ -1,7 +1,5 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.searchstars.hyperbilibili,澎湃哔哩,quick_app,searchstars,Hyperbilibili_AstroBox_Release,00ba84c,icon.png,preview.png,客户端;实用工具;视频;社区;互动;在线;哔哩哔哩;B站;b站,xiaomi,xmws3;xmws4;xmrw5xring;xmb9p,
 LegacyItem1,Starfield Chronomark,watchface,Searchstars,StarfieldWatchFace_AstroBox_Release,efdc847,icon.png,preview.png,复刻;Starfield;星空;表盘;简约,xiaomi,xmws3;xmws4,
-com.charlie.muyuPro,木鱼Pro,quick_app,wuhaiqi0621,muyuPro_ForAstroBox,83266a4,icon.png,head.png,实用工具;木鱼;电子木鱼;游戏,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,paid
 LegacyItem8,喵喵电子书,quick_app,NEORUAA,MiaoReader_AstroBox_Release,61d87d0,icon.png,cover.png,实用工具;电子书;阅读;小说,xiaomi,xmb10;xmb10nfc;xmb9p,
 LegacyItem9,跃界,watchface,aurysian-yan,leap-n67-astrobox,fe87635,icon.png,cover.png,景深;壁纸;表盘;数据展示,xiaomi,xmb9p,
 LegacyItem10,我的世界,quick_app,DDguan2010,vela-minecraft,0ce9eaa,icon.png,preview0.png,游戏;我的世界;开放世界;休闲,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p,force_paid
@@ -11,13 +9,7 @@ LegacyItem12,SekaiUI 初音未来表盘,watchface,SmallK111407,SekaiUI_AstroBox,
 LegacyItem14,环间图库,quick_app,NEORUAA,BandAlbum_AstroBox_Release,4df5740,icon.png,cover.png,实用工具;图库;相册;图片,xiaomi,xmws4;xmws3;o63;xmws4xring;xmb10;xmb10nfc;xmb9;xmb9p,
 LegacyItem15,设备详细信息,quick_app,Internet1235,DeviceInfo_AstroBox_Release,a4925a2,icon.svg,cover.svg,实用工具;设备信息;系统信息,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p;xmws3;xmws4;xmws4xring;o63;xmrw5;xmrw5xring;xmrw6,
 LegacyItem16,澄序课程表,quick_app,waterflames-team,clartime-velaapp-astroinfo,5b65c78,logo.png,cover.png,实用工具;课程表;简约;美观,xiaomi,xmb9p,
-cn.waijade.okschoollife,OK School Life,quick_app,CheongSzesuen,OKSchoolLife_AstroBox_Release,870c217,icon.png,head%401x.png,游戏;文字游戏;移植;校园模拟;学校;校园,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,
 LegacyItem18,playball,quick_app,zyhsck,my_astrobox_ball,9d458d9,logo.png,cover.png,游戏,xiaomi,xmrw5;xmrw5xring,
-com.azumachiaki.block_life,方块生活,quick_app,Azumachiaki,block_life,a8d5d34,icon.png,cover.png,游戏;开放世界;沙盒游戏,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
-com.azumachiaki.fading_star,残星,quick_app,Azumachiaki,Fading_Star,2ddb659,icon.png,cover.png,游戏;回合制;剧情游戏,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
-com.Furina.Dreamqiu.cn,腕上芙宁娜Pro,quick_app,Dreamqiucn,Furina_of_band_PRO,9007c9f,logo.png,preview1.png,游戏;养成;战斗;原神;付费,xiaomi,xmb9;xmb9p;xmb10nfc;xmb10;xmrw5;xmrw5xring,force_paid
-com.Dreamqiu.feelingdiary,心情日记,quick_app,Dreamqiucn,feelingdiary-Astrobox,8d37111,logo.png,preview1.png,实用工具;日记;软件;免费,xiaomi,xmb9p,
-com.Dreamqiu.poem,高中古诗词,quick_app,Dreamqiucn,poem-Astrobox,cead934,logo.png,preview1.png,实用工具;软件;高中;学习工具;古诗;免费,xiaomi,xmb9p,
 LegacyItem33,番茄钟,quick_app,zyhsck,my_astrobox_tomatoclock,0737ba3,logo.png,cover.jpeg,工具,xiaomi,xmrw5;xmrw5xring,
 LegacyItem34,多功能组件,watchface,RX79XT,Multi-functional-component_AstroBox,7a826f3,icon.png,preview1.png,可编辑;付费;简约,xiaomi,xmws4;xmws4xring;xmb9;n62s,paid
 LegacyItem35,舒尔特方格,quick_app,yzl3014,AstroBox_Schulte,7490ae5,logo.png,cover.png,游戏;舒尔特方格;专注力;Schulte Grid,xiaomi,xmb9p,
@@ -37,12 +29,10 @@ LegacyItem49,学习盒子-高中版,quick_app,Hiqming,gaozhong,fb8450a,logo.png,
 LegacyItem50,趣摇盲盒,quick_app,Hiqming,qymh,1220217,logo.png,1.jpg,游戏;随机,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,force_paid
 LegacyItem51,动感飞车,quick_app,Hiqming,feiche,12d7350,logo.png,1.jpg,游戏;赛车;动感,xiaomi,xmb9;xmb10;xmb10nfc,force_paid
 LegacyItem52,WindowsWF,watchface,wuhaiqi0621,WinWF_ForAstroBox,200094c,icon.png,head.png,Windows;表盘;微软;Win11;跳转;壁纸,xiaomi,xmb10;xmb10nfc,
-cn.waijade.Isotope.2048,同位素2048,quick_app,CheongSzesuen,Isotope2048_AstroBox_Release,a0c6769,logo.png,Isotope2048.png,2048;游戏;化学;科学;趣味;二改,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p,
 LegacyItem54,环间扫雷,quick_app,DDguan2010,vela-minesweeper,c35a1a5,icon.png,preview0.png,游戏;休闲;扫雷,xiaomi,xmb10;xmb10nfc;xmb9,force_paid
 LegacyItem55,【部分付费】派对游戏合集,quick_app,Demon0H,partygame_miband,cf46991,icon.png,cover.png,游戏;付费;派对游戏,xiaomi,n66;n67;o66;o66nfc,paid
 LegacyItem56,人生重开模拟器,quick_app,DDguan2010,vela-liferestart,e425273,icon.png,preview0.png,游戏;休闲;人生重开;模拟,xiaomi,xmb10;xmb10nfc;xmb9,
 LegacyItem57,雪山动态表盘,watchface,Ziyimiao5054,Snow-Mountain,58c1eee,icon.png,cover.png,表盘;动态;雪山,xiaomi,xmb10;xmb10nfc,
-com.Dreamqiu.Rcalculate,经验回归方程计算,quick_app,Dreamqiucn,rcalculate-Astrobox,2c8958b,logo.png,preview1.png,实用工具;软件;计算器,xiaomi,xmb9p,
 LegacyItem59,星空Starfield for Xiaomi Watch S4,watchface,MineBabyBlue,Starfield_Watchface_AstroBox_Release-main,87ed74b,icon.png,preview.png,复刻;Starfield;星空;表盘;多数据;免费,xiaomi,xmws4,
 LegacyItem60,米塔mita动态眨眼表盘,watchface,MineBabyBlue,Mita_Watchface_AstroBox_Release-main,91b62c4,icon.png,preview.png,二次元;多数据;表盘;二改;免费,xiaomi,xmb9p,
 LegacyItem61,猫猫木鱼互动表盘（预览）,watchface,MineBabyBlue,CatMuyu_Watchface_AstroBox_Release-main,d6f1fce,icon.png,preview.png,多配色;可互动;可爱;表盘;付费,xiaomi,xmb9p;xmb10,paid
@@ -51,17 +41,12 @@ LegacyItem63,Contrasting colors,watchface,Azumachiaki,ctls,fd9a4a2,icon.png,cove
 LegacyItem64,Unlock mi Phone,quick_app,Azumachiaki,ulmp,0a1d79d,icon.png,cover.png,游戏;免费;AstroBox专属;梗,xiaomi,xmb9p,
 LegacyItem65,绘刻系列,watchface,Ziyimiao5054,Drawing-Carve,9f0f338,icon.png,cover.png,表盘;二次元;免费;景深,xiaomi,xmb10;xmb10nfc,
 LegacyItem66,Material You,watchface,YangWan233,Material-You_AstroBox,4461c90,icon.png,cover.png,表盘;免费;简约,xiaomi,xmb9p,
-com.Dreamqiu.CyberGua,赛博算卦,quick_app,Dreamqiucn,cybergua-Astrobox,9469dd2,logo.png,preview1.png,实用工具;软件;算卦;免费,xiaomi,xmb9p,
-com.yzl3014.simplerss,SimpleRSS,quick_app,yzl3014,AstroBox_SimpleRSS,28598dc,logo.png,cover_v3.png,免费;实用工具;阅读;RSS;开源,xiaomi,xmb9p;xmrw5;xmrw5xring,
 LegacyItem71,MIPhone Go,quick_app,wanggantian,MIPhonego,88e0df7,icon.png,cover.png,游戏;免费;梗,xiaomi,xmb9p,
 LegacyItem72,环间古诗词,quick_app,DDguan2010,vela-poem,fd0e396,icon.png,preview0.png,工具;古诗词;学习,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p,force_paid
 LegacyItem73,雪山动态_S4,watchface,Ziyimiao5054,Snow-Mountain_S4,72f515c,icon.png,cover.png,表盘;动态;雪山,xiaomi,xmws4;xmws4xring,
 LegacyItem75,BanGUI 千早爱音,watchface,SmallK111407,BanGUI_ChihayaAnon_AstroBox,a4ad144,icon.png,cover.png,表盘;邦多利;千早爱音;二次元;丰富样式;多数据,xiaomi,xmb10;xmb10nfc,paid
 LegacyItem70,环间跳蛋,quick_app,MapleMapleMa,SmartVibrator,05c081f,icon.png,头图.png,娱乐;实用工具,xiaomi,xmb10;xmb10nfc,
-LegacyItem76,Physium,quick_app,asahiqin,physium-aiot,f576a19,logo.png,cover.png,学习;实用工具;开源,xiaomi,xmb9;xmb9p,
 LegacyItem78,飞鸟会长不肯认输,quick_app,liuyuze61,Asunabi_AstroBox,9929fb9,logo.png,preview.png,galgame;游戏,xiaomi,xmb9p;xmb10;xmb10nfc,
-icu.ccicc.jslab,JSLab,quick_app,cciccicu,JSLab_AstroBox_Release,05ff539,logo.png,cover.png,JS;工具,xiaomi,xmb9p,
-cn.waijade.B2048,更好的2048,quick_app,CheongSzesuen,B2048_AstroBox_Release,4549f26,logo.png,media/head (1).png,2048;二改;更好的2048;益智,xiaomi,xmb10;xmb10nfc,
 LegacyItem83,赤旗破晓,quick_app,Tellmeway0,RememberHistory,9bfe066,logo.png,rh_cover.png,历史;游戏;免费,xiaomi,xmb9p,
 LegacyItem85,Ocean,watchface,YangWan233,Ocean_AstroBox,cdecd4b,icon.png,cover.png,海洋;景深;多样式;跳转;免费,xiaomi,xmb9p,
 LegacyItem87,MaxTab,quick_app,Goge052215,MaxTab,9bb3686,logo.png,head_image.png,计算器;实用工具;免费,xiaomi,xmb10;xmb10nfc,
@@ -80,21 +65,34 @@ LegacyItem105,骗子酒馆,quick_app,SixOneTeam,pianzi_res,53e6160,icon.png,prev
 LegacyItem106,伪装模式,quick_app,SixOneTeam,weizhuang_res,3c80af7,icon.png,preview.png,工具;伪装;保护,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p,force_paid
 LegacyItem107,众生,quick_app,SixOneTeam,zhongsheng_res,9e933fd,icon.png,preview.png,游戏;人生;模拟,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p,force_paid
 LegacyItem108,「景深;缓亮」长崎素世 [MyGO!!!!!],watchface,midi-HL,-MyGO-,dfef2e1,icon.jpg,xmbnad9.png,表盘;缓慢亮屏;二次元;MyGO!!!!!;长崎素世;景深,xiaomi,xmb9,
-com.sxm.humanrule,生物节律周期表,quick_app,SXM081115,Humanrule_VelaApp,91dcfc5,icon.png,media/cover667.png,工具;预测;实用工具;免费;学习工具;简约,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6,
 LegacyItem113,BandPet-Free,quick_app,lladlam,AstroBox-BandPet-free,87ed261,icon.png,preview.png,游戏;点击;交换,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmws4;xmws4xring,
 LegacyItem117,PymChat,quick_app,sjjsjj8,pymChat,84144e8,icon.png,preview0.png,免费;聊天;AI,xiaomi,xmrw6;xmrw5xring;xmrw5;xmb9p;xmws4,
-9798967323707,超级岛HyperIsland,watchface,aurysian-yan,astrobox-resource-9798967323707,a3ccbda,media/Frame 184.png,media/HL-0.png,表盘;付费表盘;超级岛;可编辑;自定义;壁纸;澎湃OS,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p,force_paid
-979897989798,ABGirl动态表盘,watchface,AstralSightStudios,ABGirl-ABResV1,ffa487e,icon.png,cover.png,AB娘;官方资源;动态;二次元,xiaomi,xmb9p;xmb9;xmb10;xmws3;xmb10nfc;xmws4;xmrw5;xmrw5xring;xmrw6;xmws4xring,force_paid
 LegacyItem120,羊了个羊,quick_app,SixOneTeam,yang_res,153a2fe,icon.png,preview.png,游戏;休闲;娱乐,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p,force_paid
-979865900101,富士山,watchface,apanzinc,FM-AstroBox,9e17600,icon.png,cover.png,风景;多功能,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring,
 LegacyItem122,StarsUI「景深」后藤一里,watchface,midi-HL,Bocchi-the-Rock-astrobox-Public,920e3c6,logo.jpg,xmbnad9-1.png,Bocchi the Rock;后藤一里,xiaomi,xmb9,
 LegacyItem123,咩咩数独,quick_app,Clighten,miemieSudoku,141557a,icon.png,preview0.jpeg,游戏;休闲;数独,xiaomi,xmb9;xmb9p;xmrw6;xmb10;xmb10nfc;xmws,
 LegacyItem125,Xr缤纷色彩表盘,watchface,YcFeller,xrbfxm,7ca9c10,icon.png,cover.png,多样式;色彩,xiaomi,xmb9;n66nfc,
 LegacyItem126,初音未来排版表盘,watchface,YcFeller,watchface-miku,a89e8ac,icon.png,cover.png,二次元;初音未来,xiaomi,xmb9;n66nfc,
 LegacyItem127,动态八重神子,watchface,YcFeller,watchface-yae-miko,7085382,icon.png,cover.png,二次元;原神;动态,xiaomi,xmb10;xmb10nfc;xmb9;n66nfc,
 LegacyItem128,动态爱莉希雅,watchface,YcFeller,watchface-elysia,9096f2b,icon.png,cover.png,二次元;崩坏3;动态,xiaomi,xmb10;xmb10nfc;xmb9;n66nfc,
-LegacyItem129,录了吗APP,quick_app,YcFeller,quick_app-lulema,7ec31f2,icon.png,cover.png,工具;录音,xiaomi,xmb9p,
 LegacyItem130,曦岸极简表盘,watchface,YcFeller,watchface-xian-minimal,e8d3c82,icon.png,cover.png,极简;商务,xiaomi,xmb9;n66nfc,
+com.searchstars.hyperbilibili,澎湃哔哩,quick_app,searchstars,Hyperbilibili_AstroBox_Release,00ba84c,icon.png,preview.png,客户端;实用工具;视频;社区;互动;在线;哔哩哔哩;B站;b站,xiaomi,xmws3;xmws4;xmrw5xring;xmb9p,
+com.charlie.muyuPro,木鱼Pro,quick_app,wuhaiqi0621,muyuPro_ForAstroBox,83266a4,icon.png,head.png,实用工具;木鱼;电子木鱼;游戏,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,paid
+cn.waijade.okschoollife,OK School Life,quick_app,CheongSzesuen,OKSchoolLife_AstroBox_Release,870c217,icon.png,head%401x.png,游戏;文字游戏;移植;校园模拟;学校;校园,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,
+com.azumachiaki.block_life,方块生活,quick_app,Azumachiaki,block_life,a8d5d34,icon.png,cover.png,游戏;开放世界;沙盒游戏,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
+com.azumachiaki.fading_star,残星,quick_app,Azumachiaki,Fading_Star,2ddb659,icon.png,cover.png,游戏;回合制;剧情游戏,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
+com.Furina.Dreamqiu.cn,腕上芙宁娜Pro,quick_app,Dreamqiucn,Furina_of_band_PRO,9007c9f,logo.png,preview1.png,游戏;养成;战斗;原神;付费,xiaomi,xmb9;xmb9p;xmb10nfc;xmb10;xmrw5;xmrw5xring,force_paid
+com.Dreamqiu.feelingdiary,心情日记,quick_app,Dreamqiucn,feelingdiary-Astrobox,8d37111,logo.png,preview1.png,实用工具;日记;软件;免费,xiaomi,xmb9p,
+com.Dreamqiu.poem,高中古诗词,quick_app,Dreamqiucn,poem-Astrobox,cead934,logo.png,preview1.png,实用工具;软件;高中;学习工具;古诗;免费,xiaomi,xmb9p,
+cn.waijade.Isotope.2048,同位素2048,quick_app,CheongSzesuen,Isotope2048_AstroBox_Release,a0c6769,logo.png,Isotope2048.png,2048;游戏;化学;科学;趣味;二改,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p,
+com.Dreamqiu.Rcalculate,经验回归方程计算,quick_app,Dreamqiucn,rcalculate-Astrobox,2c8958b,logo.png,preview1.png,实用工具;软件;计算器,xiaomi,xmb9p,
+com.Dreamqiu.CyberGua,赛博算卦,quick_app,Dreamqiucn,cybergua-Astrobox,9469dd2,logo.png,preview1.png,实用工具;软件;算卦;免费,xiaomi,xmb9p,
+com.yzl3014.simplerss,SimpleRSS,quick_app,yzl3014,AstroBox_SimpleRSS,28598dc,logo.png,cover_v3.png,免费;实用工具;阅读;RSS;开源,xiaomi,xmb9p;xmrw5;xmrw5xring,
+icu.ccicc.jslab,JSLab,quick_app,cciccicu,JSLab_AstroBox_Release,05ff539,logo.png,cover.png,JS;工具,xiaomi,xmb9p,
+cn.waijade.B2048,更好的2048,quick_app,CheongSzesuen,B2048_AstroBox_Release,4549f26,logo.png,media/head (1).png,2048;二改;更好的2048;益智,xiaomi,xmb10;xmb10nfc,
+com.sxm.humanrule,生物节律周期表,quick_app,SXM081115,Humanrule_VelaApp,91dcfc5,icon.png,media/cover667.png,工具;预测;实用工具;免费;学习工具;简约,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6,
+9798967323707,超级岛HyperIsland,watchface,aurysian-yan,astrobox-resource-9798967323707,a3ccbda,media/Frame 184.png,media/HL-0.png,表盘;付费表盘;超级岛;可编辑;自定义;壁纸;澎湃OS,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p,force_paid
+979897989798,ABGirl动态表盘,watchface,AstralSightStudios,ABGirl-ABResV1,ffa487e,icon.png,cover.png,AB娘;官方资源;动态;二次元,xiaomi,xmb9p;xmb9;xmb10;xmws3;xmb10nfc;xmws4;xmrw5;xmrw5xring;xmrw6;xmws4xring,force_paid
+979865900101,富士山,watchface,apanzinc,FM-AstroBox,9e17600,icon.png,cover.png,风景;多功能,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring,
 Com.MatrixFive.NumberSlidingPuzzle,数字华容道,quick_app,jinmohan,Number-Sliding-Puzzle-AstroBox,9ca4e89,icon.png,preview.png,游戏;开源;华容道,xiaomi,xmrw5;xmws4;xmrw6;xmrw5xring;xmb9p;xmb10;xmb10nfc;xmws3;xmb9,
 com.nvyou.fatex,女友模拟器,quick_app,Rubbishzzz,my_app-astrobox_AstroBox_Release,af51c3f,logg.png,xct.png,养成类;免费;FATE X;极品UI;UI美观;好玩,xiaomi,xmb9;xmb10;xmb10nfc,
 9798848801,TXCN FRAME,watchface,txcn727-coder,TXCN_Frame_AstroBox_Release,811c4f4,3.png,FRAME.png,表盘,xiaomi,xmb9p,
