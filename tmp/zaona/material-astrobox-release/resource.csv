@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+material,Material 图标包,res_pack,zaona,material-astrobox-release,0f41cf0,media/Group 2.png,media/cover.png,Material;md;图标包,xiaomi,xmb10p;xmb11;xmb11nfc,
