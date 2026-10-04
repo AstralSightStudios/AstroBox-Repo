@@ -3,5 +3,11 @@
   "mode": "edit",
   "original_id": "com.fengyu.schedule",
   "base_entry_digest": "1691160e60220e8716101523a2950f9021420a79b06a668a8659de0525053d19",
-  "base_catalog_commit": "36861f2f5875c4c28a1f664cb121f879969667f1"
+  "base_catalog_commit": "36861f2f5875c4c28a1f664cb121f879969667f1",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
 }
