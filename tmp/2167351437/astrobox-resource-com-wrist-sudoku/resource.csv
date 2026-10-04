@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.wrist.sudoku,腕上数独,quick_app,2167351437,astrobox-resource-com-wrist-sudoku,af00d51,media/1000182161.png,media/1000182179.png,XiaoBin;数独;小游戏,xiaomi,xmb10;xmb10nfc,force_paid
