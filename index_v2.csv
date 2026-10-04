@@ -257,7 +257,6 @@ com.awu.watch.petpal,喵伴,quick_app,jianding24,miaoban-astrobox-release,3c6335
 com.openblack.mahjong-next,麻将,quick_app,dm1366631,astrobox-resource-com-openblack-mahjong,c5cc72c,media/icon.png,media/cover.png,游戏,xiaomi,xmb10nfc;xmb10;xmb10p;xmb11;xmb11nfc,
 com.search,可搜网易云,quick_app,Cookie-Zalea,NetEase-Cloud-Music-Search,29e6974,media/网易云音乐-应用图标.png,media/ae2b496c-dd39-4440-b835-8502c06769c2.png,音乐,xiaomi,xmrw5xring;xmrw5;xmrw6,
 app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,36d1f49,media/16108.png,media/25729.png,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
-979859530701,米环管理/米表管理,watchface,OnDriveLine,astrobox-resource-979859530701,2ef4514,media/icon.png,media/容器 475.png,工具;管理,xiaomi,xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,
 top.zeora.band.metronome,节拍器,quick_app,Zeora315,top.zeora.band.metronome,d5253db,media/logo.png,media/Screenshot_2026-09-19-22-30-34-912_com.lemon.lv_1789828253986edit.jpg,快应用,xiaomi,xmb10nfc;xmb10,
 com.komoridev.breakout,打砖块,quick_app,KomoriDev,kovela-breakout,cd8f55a,media/breakout-logo.png,media/breakout-cover.png,趣味;游戏,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,
 online.soodok.wordsearch,词海,quick_app,Soodok,astrobox-resource-vela-wordsearch,6e241a5,media/词海-图标-100（应用内实际）.png,media/词海-头图-设计版-900x600.jpg,英语;词典;学习;工具,xiaomi,xmb9;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb10,
@@ -321,3 +320,4 @@ me.cjack.b2048n,2048N,quick_app,CJackHwang,2048N_AstroBox_Release,d2855a9,media/
 canopus_corona,Corona模块,canopus,leset0ng,Corona-Relese,4c4b637,media/logo.png,media/Frame 427321352.png,模块;canopus;资源包;图标;主题;字体,xiaomi,xmb10p;xmb11;xmb11nfc,
 circlestrat,圆启,res_pack,Alittlejelly,astrobox-resource-circlestrat,758f91a,media/icon.png,media/画板 53.png,圆形图标;多彩图标;渐变色彩,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
 com.arknights.spoor.gacha,环上方舟,quick_app,SXM081115,astrobox-resource-com-arknights-spoor-gacha,449e1d5,media/BandArk.png,media/cover345.png,明日方舟;陈;安洁莉娜;抽卡模拟;环上方舟;基建系统;理智;斩业星熊,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6,force_paid
+979859530701,米环管理/米表管理,watchface,OnDriveLine,astrobox-resource-979859530701,9ea0ff7,media/icon.png,media/容器 475.png,工具;管理;米环管理;米表管理,xiaomi,xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,
