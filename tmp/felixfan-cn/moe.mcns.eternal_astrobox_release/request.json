@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "moe.mcns.Eternal",
+  "base_entry_digest": "88281aa47c25bda64bba76379b3bd057d474893fd45bda06d9edc5f5a363c901",
+  "base_catalog_commit": "b6ccfb8d211e773fdff3a8fe1b0376dd5cc4caf1",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
