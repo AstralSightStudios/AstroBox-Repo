@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.SoDictionary.solan,So词典-英/日汉词典,quick_app,Solan-486,Astrobox-Resource_Release,f261a2f,media/logo.png,media/英汉词典封面.png,词典;英语;英汉互译;日语;日文;日汉互译;英语词典;日语词典;学习;工具;翻译,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p;xmws3;xmws4;xmws4xring;xmb11;xmws541;xmb11nfc;xmws5;xmws441,force_paid
