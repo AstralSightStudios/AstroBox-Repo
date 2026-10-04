@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "circlestrat",
+  "base_entry_digest": "5edeadddcf328976a1709ce0ad9732854708e11fbb9b7428c17aa5277182fbdb",
+  "base_catalog_commit": "d980016a02ff1a74fec15124cba5fc8218c6fbf4",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "5a6536d",
+    "build_time": "2026-10-03T18:35:17.777505900+08:00",
+    "build_user": "runneradmin"
+  }
+}
