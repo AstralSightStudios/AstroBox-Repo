@@ -3,5 +3,11 @@
   "mode": "create",
   "original_id": null,
   "base_entry_digest": null,
-  "base_catalog_commit": "1caf51692600c1ff8775a0aee96251a9581801ec"
+  "base_catalog_commit": "1caf51692600c1ff8775a0aee96251a9581801ec",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
 }
