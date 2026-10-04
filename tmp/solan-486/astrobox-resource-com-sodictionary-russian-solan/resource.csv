@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.SoDictionary.Russian.solan,So词典-俄汉词典,quick_app,Solan-486,astrobox-resource-com-sodictionary-russian-solan,d84aeed,media/logo.png,media/Frame 2.png,词典;离线词典;俄语词典;俄汉词典;俄汉互译;学习;工具,xiaomi,xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
