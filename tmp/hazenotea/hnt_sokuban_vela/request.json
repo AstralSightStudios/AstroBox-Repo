@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.hazenotea.sokuban.watch",
+  "base_entry_digest": "ee1f5cc261d7856397e395619430a9fd638bdf6b8bdd046dc04a1e81a3d9033f",
+  "base_catalog_commit": "b09668737b4465661828a3dc4b472b3eb3a2ee1e",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
