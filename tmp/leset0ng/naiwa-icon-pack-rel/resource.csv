@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+naiwapack,奶娃图标包,res_pack,leset0ng,naiwa-icon-pack-rel,7aa5218,media/canopus-character.png,media/character-icon-pack-promo.png,图标;资源包;主题;搞笑;奶龙;卡通,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
