@@ -305,7 +305,6 @@ com.hachimi.watch.davethediver,潜水员戴夫,quick_app,XuebaoHachimi,astrobox-
 com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,a845899,media/show_icon.png,media/xft.png,课程表;悬浮tab,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc,
 com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-seconds,980f901,media/logo.png,media/60秒避难所.png,游戏;避难所;60秒避难所,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9;xmb11;xmb11nfc;vivowgt2,force_paid
 com.bandbbs.ebook.plus,弦电子书,quick_app,youshen2,astrobox-resource-com-bandbbs-ebook-plus,7246927,media/icon.png,media/Frame 22_small.png,电子书;阅读;阅读器;小说;书籍,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmb11;xmb11nfc,
-canopus_corona,Corona模块,canopus,leset0ng,Corona-Relese,1d993d4,media/logo.png,media/Frame 427321352.png,模块;canopus;资源包;图标;主题;字体,xiaomi,xmb10p;xmb11;xmb11nfc,
 com.hydro.link,HydroLink,quick_app,F7YM,astrobox-resource-com-hydro-link,83d32b4,media/Group 3 (1).png,media/Group 9 (6).png,Windows;Linux;互联;HydroLink;远程终端;HydroKit,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmws541,
 online.soodok.poemsearch,万诗阁,quick_app,Soodok,astrobox-resource-online-soodok-wanshige,50ddec9,media/万诗阁-图标-192.png,media/万诗阁-头图-实机版-1536x1024.jpg,诗词;古文;学习;工具;离线;搜索,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,paid
 moe.mcns.Eclipse,Eclipse星语,quick_app,FelixFan-CN,astrobox-resource-moe-mcns-eclipse,4cc6ac0,media/icon_round.png,media/504068dfb1bd9227b930db5bda5cb60f_720.png,AI;聊天;独立;助手;工具;JS;脚本,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws4;xmws441;xmws541;xmws5,force_paid
@@ -321,3 +320,4 @@ com.arknights.spoor.gacha,环上方舟,quick_app,SXM081115,astrobox-resource-com
 com.lightland.velaai,VelaAI,quick_app,light-land,velaai,788f7cd,media/139116.png,media/139147.png,ai;工具;聊天;deepseek,xiaomi,xmb9p,
 com.komoridev.projectile,抛,quick_app,KomoriDev,kovela-projectile,03f85ce,media/icon.png,media/cover.png,游戏;休闲;清新;治愈,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,
 me.cjack.b2048n,2048N,quick_app,CJackHwang,2048N_AstroBox_Release,d2855a9,media/1000133642.jpg,media/1000133648.png,免费;开源;2048;游戏;快应用;小米手环9;小米手环10;小米手环11;小米手环9Pro;小米手环10Pro,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
+canopus_corona,Corona模块,canopus,leset0ng,Corona-Relese,4c4b637,media/logo.png,media/Frame 427321352.png,模块;canopus;资源包;图标;主题;字体,xiaomi,xmb10p;xmb11;xmb11nfc,
