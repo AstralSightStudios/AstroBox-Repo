@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.lightland.velaai",
+  "base_entry_digest": "5d60a5d532315234548ff9e778de8962062a6427c049f3de04f6e641e91a27e8",
+  "base_catalog_commit": "5ebb18191eca6b97068a5cd39b9cf3fd91154830",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:13:25.479631754+08:00",
+    "build_user": "runner"
+  }
+}
