@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.reid.pomodoro,pomodoro,quick_app,ReidPu,astrobox-resource-com-reid-pomodoro,f99b9ec,media/logo.png,media/Ultimate_q95.jpg,番茄钟;专注;自我提升,xiaomi,xmws3;xmws4,
