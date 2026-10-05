@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.galgod.band",
+  "base_entry_digest": "52278fb2db603010e9c17ac845cb500bbf260745db6fa9a9e19fc75faaf943f8",
+  "base_catalog_commit": "5709bcccdb1863881aa0a34c1d0530ca2b98e455",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
