@@ -321,7 +321,6 @@ com.SoDictionary.German.solan,So词典-德汉词典,quick_app,Solan-486,astrobox
 moe.yzf.comic,腕上漫画,quick_app,sf-yuzifu,bandcomic_Quickapp_AstroBox_Release,533d1ad,icon.png,preview.png,漫画;本地;摸鱼;实用工具;本子;二次元,xiaomi,xmb9p;xmrw5;xmrw6;xmrw5xring;xmws4;xmws441;xmws4xring;xmws3;xmws5;xmb10p,
 com.hazenotea.sokuban.watch,推箱子,quick_app,HazeNoTea,HNT_SoKuBan_vela,dee58d9,media/ab_logo.png,media/AI修复大图.png,游戏;解谜;闯关,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws4xring;xmws441;xmws4;xmb11;xmb11nfc;xmb9p;xmb9,
 top.zeora.band.metronome,节拍器,quick_app,Zeora315,top.zeora.band.metronome,6ed274b,media/logo.png,media/Screenshot_2026-09-19-22-30-34-912_com.lemon.lv_1789828253986edit.jpg,快应用;节拍器;免费,xiaomi,xmb10nfc;xmb10;xmb11;xmb11nfc,
-com.lightland.velaai,VelaAI,quick_app,light-land,velaai,08eb15a,media/139116.png,media/139357.png,ai;工具;聊天;deepseek,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10p,
 recircle,重圆,res_pack,Alittlejelly,astrobox-resource-recircle,6a53c9c,media/icon.png,media/xuanfaTu.png,超椭圆;平滑圆角;200w;彩色图标;圆形图标,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
 com.komoridev.tankturmoil,坦克动荡,quick_app,KomoriDev,kovela-tankturmoil,300d899,media/icon.png,media/cover.png,游戏;娱乐;趣味,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
 com.cahkcs.toxun,传输助手,quick_app,cahkcs,MapWire,07c8a69,media/logo.png,media/chuanshuzhushou_cover_1200x800.jpg,传输;通讯;九号电动车;工具,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
@@ -332,3 +331,5 @@ com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource
 979828644711,安卓简约,watchface,Hobjl-lian,astrobox-resource-979828644711,d25b98a,media/容器 589.png,media/安卓简约.png,Hobjl;表盘;免费,xiaomi,xmrw5;xmrw5xring;xmrw6,
 com.galgod.band,GalGod,quick_app,mcpotato1123,astrobox-resource-com-galgod-band,9c58b33,media/icon.png,media/1.png,Galgame;游戏;旮旯大神,xiaomi,xmb9p,
 com.arknights.spoor.gacha,环上方舟,quick_app,SXM081115,astrobox-resource-com-arknights-spoor-gacha,ee74af8,media/BandArk.png,media/cover345.png,明日方舟;陈;安洁莉娜;抽卡模拟;环上方舟;基建系统;理智;斩业星熊,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
+com.lightland.velaai,VelaAI,quick_app,light-land,velaai,8046bcb,media/139116.png,media/139357.png,ai;工具;聊天;deepseek,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10p,
+glazeui,Glaze UI 风格图标包,res_pack,shantuskat,astrobox-resource-glazeui,29ea536,media/画板 35.png,media/介个.png,图标包;玻璃;资源包;ios;苹果;glaze;风格;琉璃,xiaomi,xmb10p,force_paid
