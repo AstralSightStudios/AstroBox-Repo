@@ -282,7 +282,6 @@ com.komoridev.tictacgo,游击井字棋,quick_app,KomoriDev,kovela-tictacgo,403e2
 979808077601,启程,watchface,imwjh,astrobox-face-979808077601,e910cac,media/08_active-256.png,media/cover-type-3000x2000_结果_结果.png,像素;简约;数字,xiaomi,xmrw5;xmrw5xring;xmrw6,
 com.SoDictionary.solan,So词典-英/日汉词典,quick_app,Solan-486,Astrobox-Resource_Release,f261a2f,media/logo.png,media/英汉词典封面.png,词典;英语;英汉互译;日语;日文;日汉互译;英语词典;日语词典;学习;工具;翻译,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p;xmws3;xmws4;xmws4xring;xmb11;xmws541;xmb11nfc;xmws5;xmws441,force_paid
 com.azuma.dic,英汉词典-五万词库中英互译,quick_app,AzumaChiaki,AzumaDic,14114e0,media/logo.png,media/6c618b7e0f5a7c3081d1a1631c9525d9_720.png,词典;学习;工具;英语,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10nfc;xmb10;xmb10p;xmb9;xmb9p;xmb11;xmb11nfc,force_paid
-com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox,ffa4dcc,media/容器 14 (1).png,media/幻灯片 4_3 - 2 (1).png,小米手环9Pro;课程表;BandClass;倒计时;Redmi Watch 6;小米手环10Pro,xiaomi,xmb9p;xmrw6;xmb10p,
 979821993891,碑铭,watchface,imwjh,astrobox-resource-979821993891,c3d4490,media/03_active-256.png,media/cover-type-3000x2000.png,数字;简约;大数字,xiaomi,xmrw5;xmrw5xring;xmrw6,
 979813494192,显影,watchface,imwjh,astrobox-resource-979813494192,a1a8f2a,media/11_active-256.png,media/cover-type-3000x2000_结果.png,数字;大数字;简约;息屏,xiaomi,xmrw5;xmrw5xring;xmrw6,
 canopus_manager,Canopus 模块管理器,canopus,Searchstars,Canopus-Manager-AstroBox-Release,fea395b,icon.png,cover.png,Canopus;管理器;Manager,xiaomi,xmb10p;xmb11;xmb11nfc,
@@ -329,3 +328,4 @@ com.lightland.velaai,VelaAI,quick_app,light-land,velaai,08eb15a,media/139116.png
 recircle,重圆,res_pack,Alittlejelly,astrobox-resource-recircle,6a53c9c,media/icon.png,media/xuanfaTu.png,超椭圆;平滑圆角;200w;彩色图标;圆形图标,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
 com.komoridev.tankturmoil,坦克动荡,quick_app,KomoriDev,kovela-tankturmoil,300d899,media/icon.png,media/cover.png,游戏;娱乐;趣味,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
 com.cahkcs.toxun,传输助手,quick_app,cahkcs,MapWire,07c8a69,media/logo.png,media/chuanshuzhushou_cover_1200x800.jpg,传输;通讯;九号电动车;工具,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
+com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox,61e622b,media/容器 14 (2).png,media/幻灯片 4_3 - 2 (1).png,小米手环9Pro;课程表;BandClass;倒计时;Redmi Watch 6;小米手环10Pro;红米手表5,xiaomi,xmb9p;xmrw6;xmb10p;xmrw5,
