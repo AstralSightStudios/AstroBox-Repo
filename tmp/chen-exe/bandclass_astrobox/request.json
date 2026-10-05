@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.naoh.bandclass.classschedule",
+  "base_entry_digest": "0f34d4667fc1aec34807f98d755316d1d8fdef1c18bba9242a076d6fd3bc5914",
+  "base_catalog_commit": "783e0c9d445c9fc59b2642318fb39e2d1d660485",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
