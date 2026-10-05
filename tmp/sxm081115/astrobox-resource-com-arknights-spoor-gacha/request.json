@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.arknights.spoor.gacha",
+  "base_entry_digest": "60972e2977eb92662bde844e5bf3626e04267a92c5f892e63a8f47c97908ed07",
+  "base_catalog_commit": "ad931c52a0bc257ad44ffd29ba2394f5a7070d0a",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
