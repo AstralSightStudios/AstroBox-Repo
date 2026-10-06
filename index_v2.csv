@@ -294,7 +294,6 @@ com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-d
 com.bandbbs.ebook.plus,弦电子书,quick_app,youshen2,astrobox-resource-com-bandbbs-ebook-plus,7246927,media/icon.png,media/Frame 22_small.png,电子书;阅读;阅读器;小说;书籍,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmb11;xmb11nfc,
 com.hydro.link,HydroLink,quick_app,F7YM,astrobox-resource-com-hydro-link,83d32b4,media/Group 3 (1).png,media/Group 9 (6).png,Windows;Linux;互联;HydroLink;远程终端;HydroKit,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmws541,
 online.soodok.poemsearch,万诗阁,quick_app,Soodok,astrobox-resource-online-soodok-wanshige,50ddec9,media/万诗阁-图标-192.png,media/万诗阁-头图-实机版-1536x1024.jpg,诗词;古文;学习;工具;离线;搜索,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,paid
-moe.mcns.Eclipse,Eclipse星语,quick_app,FelixFan-CN,astrobox-resource-moe-mcns-eclipse,4cc6ac0,media/icon_round.png,media/504068dfb1bd9227b930db5bda5cb60f_720.png,AI;聊天;独立;助手;工具;JS;脚本,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws4;xmws441;xmws541;xmws5,force_paid
 material,Material 图标包,res_pack,zaona,material-astrobox-release,0f41cf0,media/Group 2.png,media/cover.png,Material;md;图标包,xiaomi,xmb10p;xmb11;xmb11nfc,
 ng.lst.corona,Corona管理器,quick_app,leset0ng,Corona-Manager-Relese,4022930,media/logo.png,media/Frame 29.png,canopus;主题;图标;资源包;管理;混搭;模块,xiaomi,xmb10p;xmb11;xmb11nfc,
 com.ycc.tz.suishenxue,随身学pro,quick_app,lafsyc,suishenxue-promax,9f38682,media/图标.png,media/封面04-极简大字-主题设置-1200x800.png,学习;快应用,xiaomi,xmb11;xmb10;xmb10nfc;xmb11nfc,
@@ -351,3 +350,4 @@ cupertino,图标包 Cupertino,res_pack,hrsthrt74,cupertino-iconpack-for-astrobox
 com.jpf.wrist.doodlejump,涂鸦跳跳,quick_app,jip79078-hash,doodle-jump-astrobox,175cdca,media/icon.png,media/cover-review-v2-upload.png,游戏;休闲;重力感应;跳跃;离线,xiaomi,xmb9p;xmb10p;xmrw6,
 com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrobox,e12f661,media/icon.png,media/cover-cartoon-long.jpg,游戏;赛车;漂移;重力感应;离线,xiaomi,xmb9p;xmb10p;xmrw6,
 979852930386,Glaze UI 相册表盘,watchface,shantuskat,astrobox-resource-979852930386,4ddf856,media/画板 47.png,media/介个.png,ios;苹果;相册;glaze;风格;风景;照片;山荼,xiaomi,xmb9p;xmb10p,
+moe.mcns.Eclipse,Eclipse星语,quick_app,FelixFan-CN,astrobox-resource-moe-mcns-eclipse,5ecbb67,media/icon_round.png,media/504068dfb1bd9227b930db5bda5cb60f_720.png,AI;聊天;独立;助手;工具;JS;脚本,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws4;xmws441;xmws541;xmws5,force_paid
