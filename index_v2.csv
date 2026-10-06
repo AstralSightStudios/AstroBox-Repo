@@ -319,7 +319,6 @@ moe.yzf.comic,腕上漫画,quick_app,sf-yuzifu,bandcomic_Quickapp_AstroBox_Relea
 com.hazenotea.sokuban.watch,推箱子,quick_app,HazeNoTea,HNT_SoKuBan_vela,dee58d9,media/ab_logo.png,media/AI修复大图.png,游戏;解谜;闯关,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws4xring;xmws441;xmws4;xmb11;xmb11nfc;xmb9p;xmb9,
 top.zeora.band.metronome,节拍器,quick_app,Zeora315,top.zeora.band.metronome,6ed274b,media/logo.png,media/Screenshot_2026-09-19-22-30-34-912_com.lemon.lv_1789828253986edit.jpg,快应用;节拍器;免费,xiaomi,xmb10nfc;xmb10;xmb11;xmb11nfc,
 recircle,重圆,res_pack,Alittlejelly,astrobox-resource-recircle,6a53c9c,media/icon.png,media/xuanfaTu.png,超椭圆;平滑圆角;200w;彩色图标;圆形图标,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
-com.komoridev.tankturmoil,坦克动荡,quick_app,KomoriDev,kovela-tankturmoil,300d899,media/icon.png,media/cover.png,游戏;娱乐;趣味,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
 com.cahkcs.toxun,传输助手,quick_app,cahkcs,MapWire,07c8a69,media/logo.png,media/chuanshuzhushou_cover_1200x800.jpg,传输;通讯;九号电动车;工具,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 979841172114,极简光痕,watchface,Hobjl-lian,astrobox-resource-979841172114,1c9d962,media/容器 587.png,media/极简光痕.png,Hobjl;表盘;免费,xiaomi,xmrw5;xmrw5xring;xmrw6,
 979837760552,光感液态,watchface,Hobjl-lian,astrobox-resource-979837760552,7257cd2,media/容器 588.png,media/轻简液态.png,Hobjl;表盘;免费,xiaomi,xmrw5;xmrw5xring;xmrw6,
@@ -346,3 +345,4 @@ com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource
 979896386193,LADDER,watchface,DevonStee,astrobox-resource-979896386193,31c3063,media/01-图标-1比1.png,media/02-封面-3比2.png,小米表盘;CMF;手环,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 979808744800,相册表盘 Cupertino,watchface,hrsthrt74,cupertino-wf-for-astrobox,22a6af3,media/icon.png,media/cover.png,相册表盘;自定义;跳转;表盘;苹果;iOS;拟物;复刻;还原;蓝牙,xiaomi,xmb11;xmb10;xmb9p;xmb10p,force_paid
 cupertino,图标包 Cupertino,res_pack,hrsthrt74,cupertino-iconpack-for-astrobox,396e7cf,media/icon.png,media/cover (1).png,苹果;iOS;拟物;复刻;还原;图标包;图标,xiaomi,xmb11;xmb10p,force_paid
+com.komoridev.tankturmoil,坦克动荡,quick_app,KomoriDev,kovela-tankturmoil,5d5c3f1,media/icon.png,media/cover.png,游戏;娱乐;趣味,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
