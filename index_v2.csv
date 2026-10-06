@@ -253,7 +253,6 @@ com.awu.watch.petpal,喵伴,quick_app,jianding24,miaoban-astrobox-release,3c6335
 979843426542,亮点＋,watchface,SL9325,979843426107_AstroBox_Release,fe2ba89,media/46444.png,media/44887.jpg,SL9325;SLWF;蓝色系;多样式;显秒;表盘,xiaomi,xmb10p;xmb9p,
 979872442818,Dot UI风格图标包,watchface,shantuskat,astrobox-resource-979872442818,7948bb5,media/画板 1.png,media/介个.png,图标包;dot ui;风格;系统;ui;美化;主题,xiaomi,xmb10p,force_paid
 com.openblack.mahjong-next,麻将,quick_app,dm1366631,astrobox-resource-com-openblack-mahjong,c5cc72c,media/icon.png,media/cover.png,游戏,xiaomi,xmb10nfc;xmb10;xmb10p;xmb11;xmb11nfc,
-com.search,可搜网易云,quick_app,Cookie-Zalea,NetEase-Cloud-Music-Search,29e6974,media/网易云音乐-应用图标.png,media/ae2b496c-dd39-4440-b835-8502c06769c2.png,音乐,xiaomi,xmrw5xring;xmrw5;xmrw6,
 app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,36d1f49,media/16108.png,media/25729.png,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
 com.komoridev.breakout,打砖块,quick_app,KomoriDev,kovela-breakout,cd8f55a,media/breakout-logo.png,media/breakout-cover.png,趣味;游戏,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,
 online.soodok.wordsearch,词海,quick_app,Soodok,astrobox-resource-vela-wordsearch,6e241a5,media/词海-图标-100（应用内实际）.png,media/词海-头图-设计版-900x600.jpg,英语;词典;学习;工具,xiaomi,xmb9;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb10,
@@ -326,11 +325,15 @@ com.cahkcs.toxun,传输助手,quick_app,cahkcs,MapWire,07c8a69,media/logo.png,me
 979837760552,光感液态,watchface,Hobjl-lian,astrobox-resource-979837760552,7257cd2,media/容器 588.png,media/轻简液态.png,Hobjl;表盘;免费,xiaomi,xmrw5;xmrw5xring;xmrw6,
 979828644711,安卓简约,watchface,Hobjl-lian,astrobox-resource-979828644711,d25b98a,media/容器 589.png,media/安卓简约.png,Hobjl;表盘;免费,xiaomi,xmrw5;xmrw5xring;xmrw6,
 com.galgod.band,GalGod,quick_app,mcpotato1123,astrobox-resource-com-galgod-band,f3ca7f0,media/icon.png,media/1.png,Galgame;游戏;旮旯大神,xiaomi,xmb9p,
-com.lightland.velaai,VelaAI,quick_app,light-land,velaai,8046bcb,media/139116.png,media/139357.png,ai;工具;聊天;deepseek,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10p,
 glazeui,Glaze UI 风格图标包,res_pack,shantuskat,astrobox-resource-glazeui,29ea536,media/画板 35.png,media/介个.png,图标包;玻璃;资源包;ios;苹果;glaze;风格;琉璃,xiaomi,xmb10p,force_paid
-com.taskschd.dfwatch,三角洲行动,quick_app,taskschd1145,astrobox-resource-com-taskschd-dfwatch,56b2d81,media/logo.png,media/IMG_259758_1200x800.jpg,搜打撤;战术设计;据点争夺,xiaomi,xmrw5;xmrw6;xmrw5xring;xmb10p;xmb9p,force_paid
 com.arknights.spoor.gacha,环上方舟,quick_app,SXM081115,astrobox-resource-com-arknights-spoor-gacha,7496302,media/BandArk.png,media/cover345.png,明日方舟;陈;安洁莉娜;抽卡模拟;环上方舟;基建系统;理智;斩业星熊,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
 com.hachimi.watch.davethediver,潜水员戴夫,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-davethediver,7bc9929,media/logo.png,media/image-1790963157818.png,休闲;游戏;潜水;经营;娱乐,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox,a106dc7,media/容器 14 (2).png,media/幻灯片 4_3 - 2 (1).png,小米手环9Pro;课程表;BandClass;倒计时;Redmi Watch 6;小米手环10Pro;红米手表5,xiaomi,xmb9p;xmb10p;xmrw5;xmrw6,
 com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-parsecs,00a773a,media/logo.png,media/60秒太空避难所.png,60秒避难所;游戏;60,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9;vivowgt2,force_paid
 me.cjack.b2048n,2048N,quick_app,CJackHwang,2048N_AstroBox_Release,9d39b8c,media/1000133642.jpg,media/1000133648.png,免费;开源;2048;游戏;快应用;小米手环9;小米手环10;小米手环11;小米手环9Pro;小米手环10Pro,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
+com.taskschd.dfwatch,三角洲行动,quick_app,taskschd1145,astrobox-resource-com-taskschd-dfwatch,3061c92,media/logo.png,media/IMG_259758_1200x800.jpg,搜打撤;战术设计;据点争夺,xiaomi,xmrw5;xmrw6;xmrw5xring;xmb10p;xmb9p,force_paid
+979812217215,DOT MATRIX,watchface,DevonStee,astrobox-resource-979812217215,17b7b8a,media/Screenshot 2026-10-05 at 1.40.59 AM.png,media/02-封面-3比2.png,CMF;小米;波点,xiaomi,xmb11;xmb10nfc;xmb10,
+979891781366,OS4图标包,watchface,Awesome6664,astrobox-resource-979891781366,37ab72f,media/1791200896237.png,media/1791258347940.png,图标包;9Pro;免费,xiaomi,xmb9p,
+io.github.cookiezalea.velasearch,可搜网易云,quick_app,Cookie-Zalea,NetEase-Cloud-Music-Search,d976a8a,media/网易云音乐-应用图标.png,media/ae2b496c-dd39-4440-b835-8502c06769c2.png,音乐;搜索;娱乐,xiaomi,xmrw5xring;xmrw5;xmrw6,
+com.jpf.wrist.doodlejump,涂鸦跳跳,quick_app,jip79078-hash,doodle-jump-astrobox,2d83071,media/icon.png,media/cover-review-v2-upload.png,游戏;休闲;重力感应;跳跃;离线,xiaomi,xmb9p,
+com.lightland.velaai,VelaAI,quick_app,light-land,velaai,046aeca,media/139116.png,media/139357.png,ai;工具;聊天;deepseek,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10p,
