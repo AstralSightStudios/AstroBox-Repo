@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.komoridev.billiard",
+  "base_entry_digest": "471c3a3b39c99a0b98612c2022ba8c48a98790efd716dba57a7af1ac05e56722",
+  "base_catalog_commit": "9594f627352729dd5b0004ff103ff50b6043e3e1",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
