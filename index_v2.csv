@@ -345,3 +345,4 @@ com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource
 979888789385,LED Wall,watchface,DevonStee,astrobox-resource-979888789385,bb07899,media/01-图标-1比1.png,media/02-封面-3比2.png,小米;LED;表盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 979896386193,LADDER,watchface,DevonStee,astrobox-resource-979896386193,31c3063,media/01-图标-1比1.png,media/02-封面-3比2.png,小米表盘;CMF;手环,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 979808744800,相册表盘 Cupertino,watchface,hrsthrt74,cupertino-wf-for-astrobox,22a6af3,media/icon.png,media/cover.png,相册表盘;自定义;跳转;表盘;苹果;iOS;拟物;复刻;还原;蓝牙,xiaomi,xmb11;xmb10;xmb9p;xmb10p,force_paid
+cupertino,图标包 Cupertino,res_pack,hrsthrt74,cupertino-iconpack-for-astrobox,396e7cf,media/icon.png,media/cover (1).png,苹果;iOS;拟物;复刻;还原;图标包;图标,xiaomi,xmb11;xmb10p,force_paid
