@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+cupertino,图标包 Cupertino,res_pack,hrsthrt74,cupertino-iconpack-for-astrobox,eb56695,media/icon.png,media/cover (1).png,苹果;iOS;拟物;复刻;还原;图标包;图标,xiaomi,xmb11;xmb10p,force_paid
