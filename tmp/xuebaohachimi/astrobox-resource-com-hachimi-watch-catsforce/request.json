@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.hachimi.watch.catsforce",
+  "base_entry_digest": "5cf786923ba194e46c1a7110a476ffa849c9704facb207690c8931bcf0ff2fac",
+  "base_catalog_commit": "feb513bb23995ee02268952440b77379c39ae9b2",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:10:01.713642+08:00",
+    "build_user": "runner"
+  }
+}
