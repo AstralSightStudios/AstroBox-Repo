@@ -319,7 +319,6 @@ com.cahkcs.toxun,传输助手,quick_app,cahkcs,MapWire,07c8a69,media/logo.png,me
 979841172114,极简光痕,watchface,Hobjl-lian,astrobox-resource-979841172114,1c9d962,media/容器 587.png,media/极简光痕.png,Hobjl;表盘;免费,xiaomi,xmrw5;xmrw5xring;xmrw6,
 979837760552,光感液态,watchface,Hobjl-lian,astrobox-resource-979837760552,7257cd2,media/容器 588.png,media/轻简液态.png,Hobjl;表盘;免费,xiaomi,xmrw5;xmrw5xring;xmrw6,
 979828644711,安卓简约,watchface,Hobjl-lian,astrobox-resource-979828644711,d25b98a,media/容器 589.png,media/安卓简约.png,Hobjl;表盘;免费,xiaomi,xmrw5;xmrw5xring;xmrw6,
-com.galgod.band,GalGod,quick_app,mcpotato1123,astrobox-resource-com-galgod-band,f3ca7f0,media/icon.png,media/1.png,Galgame;游戏;旮旯大神,xiaomi,xmb9p,
 glazeui,Glaze UI 风格图标包,res_pack,shantuskat,astrobox-resource-glazeui,29ea536,media/画板 35.png,media/介个.png,图标包;玻璃;资源包;ios;苹果;glaze;风格;琉璃,xiaomi,xmb10p,force_paid
 com.arknights.spoor.gacha,环上方舟,quick_app,SXM081115,astrobox-resource-com-arknights-spoor-gacha,7496302,media/BandArk.png,media/cover345.png,明日方舟;陈;安洁莉娜;抽卡模拟;环上方舟;基建系统;理智;斩业星熊,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
 com.hachimi.watch.davethediver,潜水员戴夫,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-davethediver,7bc9929,media/logo.png,media/image-1790963157818.png,休闲;游戏;潜水;经营;娱乐,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
@@ -346,3 +345,4 @@ com.komoridev.billiard,口袋台球,quick_app,KomoriDev,kovela-billiard,401b059,
 io.github.gsjsjzhznsz.bandqq,BandQQ,quick_app,Gsjsjzhznsz,astrobox-resource-com-example-bandqq,5a21c4f,media/1000000700.png,media/1000000760.jpg,QQ;手环;快应用,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmrw5;xmrw5xring;xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmb10p;xmb9p;xmws541,
 979808744800,相册表盘 Cupertino,watchface,hrsthrt74,cupertino-wf-for-astrobox,086b99f,media/icon.png,media/cover.png,相册表盘;自定义;跳转;表盘;苹果;iOS;拟物;复刻;还原;蓝牙,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9p,force_paid
 979899954914,圆饼三指针,watchface,Cannyworks29,Three-Disk-Hands,ad1170a,media/画板 2523.png,media/_1064327_副本.jpg,极简;指针;复古,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmws5;xmb11nfc;xmb11,
+com.galgod.band,GalGod,quick_app,mcpotato1123,astrobox-resource-com-galgod-band,907f455,media/icon.png,media/1.png,Galgame;游戏;旮旯大神,xiaomi,xmb9p;xmb10p,
