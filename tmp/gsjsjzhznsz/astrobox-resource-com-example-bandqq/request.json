@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "io.github.gsjsjzhznsz.bandqq",
+  "base_entry_digest": "476873d90db2da06ea2c212c64fc6a4dc81ea2c026c86752b1a3dac5888b2ec5",
+  "base_catalog_commit": "96abd6f6d3ed80f8e3a9bde611886ddf7c955ff5",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:13:25.479631754+08:00",
+    "build_user": "runner"
+  }
+}
