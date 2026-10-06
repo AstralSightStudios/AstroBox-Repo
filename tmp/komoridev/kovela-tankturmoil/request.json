@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.komoridev.tankturmoil",
+  "base_entry_digest": "fa96bac9873cd46edaa09fcf526b7e87390e8b3ba9052e91bc094fabd0c750cd",
+  "base_catalog_commit": "09ad7237e0edff11009c833e27c0c156b53b6027",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
