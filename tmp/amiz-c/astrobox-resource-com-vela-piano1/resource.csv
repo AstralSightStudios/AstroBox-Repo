@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.vela.piano,腕上钢琴,quick_app,Amiz-c,astrobox-resource-com-vela-piano1,d6177d5,media/logo.png,media/1791303277206.jpg,音乐;快应用;Music,xiaomi,xmrw5;xmrw5xring;xmrw6,force_paid
