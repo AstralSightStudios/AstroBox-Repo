@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979842683750,NIXIE TUBE,watchface,DevonStee,astrobox-resource-979842683750,f13b161,media/01-图标-1比1.png,media/02-封面-3比2.png,辉光管;小米手环10;NIXIE TUBE;辉光管表盘;闪烁的辉光管;brin,xiaomi,xmb10nfc;xmb10;xmb11;xmb11nfc,force_paid
