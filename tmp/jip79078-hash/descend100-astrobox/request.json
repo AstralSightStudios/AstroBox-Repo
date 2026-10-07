@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.jpf.wrist.descend100",
+  "base_entry_digest": "d3bb946965bd791b7bb40db4805618f43e7203156a1100652287bd24d227756a",
+  "base_catalog_commit": "6fea483d24ceed024a94b85a9cb3a66715706008",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:10:01.713642+08:00",
+    "build_user": "runner"
+  }
+}
