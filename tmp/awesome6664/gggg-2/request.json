@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.vela.ai.client",
+  "base_entry_digest": "0e57698fce77d3f5e2b6a15a31be5767e71c5177c35222797f3ff47511be12ca",
+  "base_catalog_commit": "513e24e51e95fcef1e4cf4e9ce5866bdfe05b3d8",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:13:25.479631754+08:00",
+    "build_user": "runner"
+  }
+}
