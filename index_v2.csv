@@ -317,7 +317,6 @@ glazeui,Glaze UI 风格图标包,res_pack,shantuskat,astrobox-resource-glazeui,2
 com.arknights.spoor.gacha,环上方舟,quick_app,SXM081115,astrobox-resource-com-arknights-spoor-gacha,7496302,media/BandArk.png,media/cover345.png,明日方舟;陈;安洁莉娜;抽卡模拟;环上方舟;基建系统;理智;斩业星熊,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
 com.hachimi.watch.davethediver,潜水员戴夫,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-davethediver,7bc9929,media/logo.png,media/image-1790963157818.png,休闲;游戏;潜水;经营;娱乐,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 me.cjack.b2048n,2048N,quick_app,CJackHwang,2048N_AstroBox_Release,9d39b8c,media/1000133642.jpg,media/1000133648.png,免费;开源;2048;游戏;快应用;小米手环9;小米手环10;小米手环11;小米手环9Pro;小米手环10Pro,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
-com.taskschd.dfwatch,三角洲行动,quick_app,taskschd1145,astrobox-resource-com-taskschd-dfwatch,3061c92,media/logo.png,media/IMG_259758_1200x800.jpg,搜打撤;战术设计;据点争夺,xiaomi,xmrw5;xmrw6;xmrw5xring;xmb10p;xmb9p,force_paid
 979812217215,DOT MATRIX,watchface,DevonStee,astrobox-resource-979812217215,17b7b8a,media/Screenshot 2026-10-05 at 1.40.59 AM.png,media/02-封面-3比2.png,CMF;小米;波点,xiaomi,xmb11;xmb10nfc;xmb10,
 io.github.cookiezalea.velasearch,可搜网易云,quick_app,Cookie-Zalea,NetEase-Cloud-Music-Search,d976a8a,media/网易云音乐-应用图标.png,media/ae2b496c-dd39-4440-b835-8502c06769c2.png,音乐;搜索;娱乐,xiaomi,xmrw5xring;xmrw5;xmrw6,
 com.lightland.velaai,VelaAI,quick_app,light-land,velaai,046aeca,media/139116.png,media/139357.png,ai;工具;聊天;deepseek,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10p,
@@ -352,3 +351,4 @@ io.github.micasiliconneko.hikoto,一言,quick_app,MicaSiliconNeko,YiYan_miband,c
 com.vela.ai.client,AI助手,quick_app,Awesome6664,gggg-2,cfebe9f,media/1786936203632.png,media/1789230545931.png,快应用;ai;助手,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,
 com.jpf.wrist.descend100,下100层,quick_app,jip79078-hash,descend100-astrobox,9db786e,media/icon.png,media/cover-illustrated-v1.jpg,游戏;休闲;躲避;重力感应;离线,xiaomi,xmb9p,
 candyui,Candy UI 风格图标包,res_pack,shantuskat,astrobox-resource-candyui,d792f97,media/画板 3(2).png,media/介个.png,风格;图标包;candy;糖果;山荼;ui;个性;主题;喵喵喵,xiaomi,xmb10p,force_paid
+com.taskschd.dfwatch,三角洲行动,quick_app,taskschd1145,astrobox-resource-com-taskschd-dfwatch,cf013cd,media/logo.png,media/IMG_259758_1200x800.jpg,搜打撤;战术设计;据点争夺;三角洲;枪战,xiaomi,xmrw5;xmrw6;xmrw5xring;xmb10p;xmb9p,force_paid
