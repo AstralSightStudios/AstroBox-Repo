@@ -338,7 +338,6 @@ cupertino,图标包 Cupertino,res_pack,hrsthrt74,cupertino-iconpack-for-astrobox
 979808744800,相册表盘 Cupertino,watchface,hrsthrt74,cupertino-wf-for-astrobox,1c572c4,media/icon.png,media/cover.png,相册表盘;自定义;跳转;表盘;苹果;iOS;拟物;复刻;还原;蓝牙,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9p,force_paid
 979852930386,Glaze UI 相册表盘,watchface,shantuskat,astrobox-resource-979852930386,4ddf856,media/画板 47.png,media/介个.png,ios;苹果;相册;glaze;风格;风景;照片;山荼,xiaomi,xmb9p;xmb10p,
 moe.mcns.Eclipse,Eclipse星语,quick_app,FelixFan-CN,astrobox-resource-moe-mcns-eclipse,5ecbb67,media/icon_round.png,media/504068dfb1bd9227b930db5bda5cb60f_720.png,AI;聊天;独立;助手;工具;JS;脚本,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws4;xmws441;xmws541;xmws5,force_paid
-com.hazenotea.pvz.watch,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,5109dfa,media/logo-256.png,media/全新雷霆大图1200x800.png,游戏;塔防;策略,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmws4xring;xmws4;xmws441;xmb10p;xmb11nfc;xmb11;xmb9;xmb9p,paid
 979878680101,重圆,watchface,OnDriveLine,Recircle2_AB,9433464,icon.png,media/Group 89.png,表盘;可编辑控件;多功能,xiaomi,xmb11;xmb11nfc;xmb10nfc;xmb10;xmb9;xmb10p,force_paid
 979843059080,OS27模块表盘,watchface,Hobjl-lian,astrobox-resource-979843059080,16a9d7e,media/Frame 16.png,media/Ab头图1.png,Hobjl;表盘;照片表盘;相册表盘,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p,force_paid
 com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox,4265510,media/容器 14 (2).png,media/幻灯片 4_3 - 2 (1).png,小米手环9Pro;课程表;BandClass;倒计时;Redmi Watch 6;小米手环10Pro;红米手表5,xiaomi,xmb9p;xmrw5;xmb10p;xmrw6,
@@ -356,3 +355,4 @@ com.azuma.syclass,Var课程表,quick_app,AzumaChiaki,VarClass-ab,3c485b0,media/i
 com.jpf.wrist.descend100,下100层,quick_app,jip79078-hash,descend100-astrobox,d4db9af,media/icon.png,media/cover-illustrated-v1.jpg,游戏;休闲;躲避;重力感应;离线,xiaomi,xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p,
 979812217215,DOT MATRIX,watchface,DevonStee,astrobox-resource-979812217215,c38eac3,media/Screenshot 2026-10-05 at 1.40.59 AM.png,media/02-封面-3比2.png,CMF;小米;波点,xiaomi,xmb11;xmb10nfc;xmb10;xmb11nfc,
 979871379424,连词成句,watchface,imwjh,astrobox-resource-979871379424,4dcf91c,media/12_active-256.png,media/cover-type-3000x2000_结果.png,数字;试题卷;黑色,xiaomi,xmrw5xring;xmrw5;xmrw6,
+com.hazenotea.pvz.watch,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,94b2918,media/logo-256.png,media/全新雷霆大图1200x800.png,游戏;塔防;策略,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmws4xring;xmws4;xmws441;xmb10p;xmb11nfc;xmb11;xmb9;xmb9p,paid
