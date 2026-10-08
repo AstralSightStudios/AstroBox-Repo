@@ -329,7 +329,6 @@ com.komoridev.tankturmoil,坦克动荡,quick_app,KomoriDev,kovela-tankturmoil,5d
 com.komoridev.billiard,口袋台球,quick_app,KomoriDev,kovela-billiard,401b059,media/billiard-logo.png,media/billiard-cover.png,娱乐;游戏;台球,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5;xmrw5;xmrw5xring;xmrw6,force_paid
 io.github.gsjsjzhznsz.bandqq,BandQQ,quick_app,Gsjsjzhznsz,astrobox-resource-com-example-bandqq,5a21c4f,media/1000000700.png,media/1000000760.jpg,QQ;手环;快应用,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmrw5;xmrw5xring;xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmb10p;xmb9p;xmws541,
 979899954914,圆饼三指针,watchface,Cannyworks29,Three-Disk-Hands,ad1170a,media/画板 2523.png,media/_1064327_副本.jpg,极简;指针;复古,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmws5;xmb11nfc;xmb11,
-com.galgod.band,GalGod,quick_app,mcpotato1123,astrobox-resource-com-galgod-band,907f455,media/icon.png,media/1.png,Galgame;游戏;旮旯大神,xiaomi,xmb9p;xmb10p,
 979873680166,GAUDI,watchface,DevonStee,astrobox-resource-979873680166,ccc404a,media/01-图标-1比1.png,media/02-封面-3比2.png,小米;高迪;瓷;五彩,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 979881091817,复古倾斜数字,watchface,Cannyworks29,Retro_25_numbers2,f46e054,media/画板 1.png,media/封面.jpg,复古;液晶;极简;数字;开源字体;VFD;机车;荧光;倾斜,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 979842555965,SEXTANT M3 SHAPES,watchface,DevonStee,astrobox-resource-979842555965,8e56eae,media/01-图标-1比1.png,media/02-封面-3比2.png,小米;谷歌;MD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
@@ -357,3 +356,4 @@ com.hazenotea.pvz.watch,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_
 979894087442,ASCII LEDGER,watchface,DevonStee,astrobox-resource-979894087442,28940b0,media/01-图标-1比1.png,media/02-封面-3比2.png,ASCII;琥珀色;字符画;账本;AOD;大数字;黄色;简约设计;ASCII艺术;小米手环表盘;brin;Brin;BRIN;叫我brin就好;叫我Brin就好,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,paid
 com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrobox,0152cb7,media/icon.png,media/cover-cartoon-long.jpg,游戏;赛车;漂移;重力感应;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb11;xmb9,
 com.jpf.wrist.descend100,下100层,quick_app,jip79078-hash,descend100-astrobox,3681eb8,media/icon.png,media/cover-illustrated-v1.jpg,游戏;休闲;躲避;重力感应;离线,xiaomi,xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9,
+com.galgod.band,GalGod,quick_app,mcpotato1123,astrobox-resource-com-galgod-band,8b31e17,media/icon.png,media/1.png,Galgame;游戏;旮旯大神,xiaomi,xmb9p;xmb10p,
