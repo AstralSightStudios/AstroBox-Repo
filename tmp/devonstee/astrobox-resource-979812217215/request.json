@@ -4,5 +4,10 @@
   "original_id": "979812217215",
   "base_entry_digest": "cfa9fc1bc2e588ec419df6644528ae821f69fc500eadfb65146fd4c275bd5cc7",
   "base_catalog_commit": "3bcc9617f9aa7dabd9b21320d489ac9b6ea57f35",
-  "client": null
+  "client": {
+    "version": "abcc-cli@4eaeabb",
+    "git_commit_hash": "4eaeabb",
+    "build_time": "2026-10-08T17:12:57.691Z",
+    "build_user": "brin-cli-agent (not GUI, agent submission)"
+  }
 }
