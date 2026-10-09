@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979882971084,CLOCK GRID,watchface,DevonStee,astrobox-resource-979882971084,1ca0ab0,media/01-图标-1比1.png,media/02-封面-3比2.png,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;橙色;灰色;指针;网格;亮屏动画;AOD,xiaomi,xmb11;xmb10;xmb11nfc;xmb10nfc,paid
