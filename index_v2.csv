@@ -87,7 +87,6 @@ cn.waijade.Isotope.2048,同位素2048,quick_app,CheongSzesuen,Isotope2048_AstroB
 com.Dreamqiu.Rcalculate,经验回归方程计算,quick_app,Dreamqiucn,rcalculate-Astrobox,2c8958b,logo.png,preview1.png,实用工具;软件;计算器,xiaomi,xmb9p,
 com.Dreamqiu.CyberGua,赛博算卦,quick_app,Dreamqiucn,cybergua-Astrobox,9469dd2,logo.png,preview1.png,实用工具;软件;算卦;免费,xiaomi,xmb9p,
 com.yzl3014.simplerss,SimpleRSS,quick_app,yzl3014,AstroBox_SimpleRSS,28598dc,logo.png,cover_v3.png,免费;实用工具;阅读;RSS;开源,xiaomi,xmb9p;xmrw5;xmrw5xring,
-icu.ccicc.jslab,JSLab,quick_app,cciccicu,JSLab_AstroBox_Release,05ff539,logo.png,cover.png,JS;工具,xiaomi,xmb9p,
 cn.waijade.B2048,更好的2048,quick_app,CheongSzesuen,B2048_AstroBox_Release,4549f26,logo.png,media/head (1).png,2048;二改;更好的2048;益智,xiaomi,xmb10;xmb10nfc,
 com.sxm.humanrule,生物节律周期表,quick_app,SXM081115,Humanrule_VelaApp,91dcfc5,icon.png,media/cover667.png,工具;预测;实用工具;免费;学习工具;简约,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6,
 9798967323707,超级岛HyperIsland,watchface,aurysian-yan,astrobox-resource-9798967323707,a3ccbda,media/Frame 184.png,media/HL-0.png,表盘;付费表盘;超级岛;可编辑;自定义;壁纸;澎湃OS,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p,force_paid
@@ -271,7 +270,7 @@ com.komoridev.tictacgo,游击井字棋,quick_app,KomoriDev,kovela-tictacgo,403e2
 com.SoDictionary.solan,So词典-英/日汉词典,quick_app,Solan-486,Astrobox-Resource_Release,f261a2f,media/logo.png,media/英汉词典封面.png,词典;英语;英汉互译;日语;日文;日汉互译;英语词典;日语词典;学习;工具;翻译,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p;xmws3;xmws4;xmws4xring;xmb11;xmws541;xmb11nfc;xmws5;xmws441,force_paid
 com.azuma.dic,英汉词典-五万词库中英互译,quick_app,AzumaChiaki,AzumaDic,14114e0,media/logo.png,media/6c618b7e0f5a7c3081d1a1631c9525d9_720.png,词典;学习;工具;英语,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10nfc;xmb10;xmb10p;xmb9;xmb9p;xmb11;xmb11nfc,force_paid
 979821993891,碑铭,watchface,imwjh,astrobox-resource-979821993891,c3d4490,media/03_active-256.png,media/cover-type-3000x2000.png,数字;简约;大数字,xiaomi,xmrw5;xmrw5xring;xmrw6,
-979813494192,显影,watchface,imwjh,astrobox-resource-979813494192,a1a8f2a,media/11_active-256.png,media/cover-type-3000x2000_结果.png,数字;大数字;简约;息屏,xiaomi,xmrw5;xmrw5xring;xmrw6,
+979813494192,显影,watchface,imwjh,astrobox-resource-979813494192,211875a,media/11_active-256.png,media/cover-type-3000x2000_结果.png,数字;大数字;简约;息屏,xiaomi,xmrw6,
 canopus_manager,Canopus 模块管理器,canopus,Searchstars,Canopus-Manager-AstroBox-Release,fea395b,icon.png,cover.png,Canopus;管理器;Manager,xiaomi,xmb10p;xmb11;xmb11nfc,
 com.MatrixFive.ShuZiWu,缤纷数字屋,quick_app,jinmohan,ShuZiWu_AstroBox_Release,753dbb7,media/logo.png,media/Preview.png,游戏;休闲;解压;娱乐,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmb11;xmb11nfc,force_paid
 979808740500,PoP☆P,watchface,hrsthrt74,pop-star-p-for-astrobox,5075f8f,icon.png,cover.png,任天堂;星之卡比;可爱;简约;多设备支持;二次元,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws4;xmrw5;xmrw5xring;xmrw6;xmb11;xmb10p;xmb11nfc;xmws4xring;xmws441,
@@ -363,4 +362,6 @@ com.tinyshadows.band,小小的身影，重叠的内心,quick_app,mcpotato1123,as
 979845962581,自启动管理器,watchface,wzx009412,ASTROBOX-MIBAND10PRO-AUTORUN,ecb1d9b,media/68186.png,media/68200.jpg,模块;自启动;工具;小程序表盘;小程序,xiaomi,xmb10p,
 com.hazenotea.sokuban.watch,推箱子,quick_app,HazeNoTea,HNT_SoKuBan_vela,7fd486e,media/ab_logo.png,media/AI修复大图.png,游戏;解谜;闯关,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws4xring;xmws441;xmws4;xmb11;xmb11nfc;xmb9p;xmb9,
 979826520334,RED GLOW,watchface,DevonStee,astrobox-resource-979826520334,2b33188,media/01-图标-1比1.png,media/02-封面-3比2.png,红色;点阵;辉光;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
-979877290210,辉光管,watchface,Qiqi29,astrobox-resource-979877290210,a955129,media/图标 300w.png,media/封面图 900x600.png,复古;简洁;秒数;横屏,xiaomi,xmb10;xmb11,
+979877290210,辉光管,watchface,Qiqi29,astrobox-resource-979877290210,8132d2e,media/图标 300w.png,media/封面图 900x600.png,复古;简洁;秒数;横屏,xiaomi,xmb10;xmb11;xmb10nfc;xmb11nfc,
+icu.ccicc.jslab,JSLab社区版,quick_app,cciccicu,JSLab_AstroBox_Release,ebcc51c,logo.png,media/download.png,JS;工具;游戏;脚本;引擎,xiaomi,xmb9p;xmb10p,
+979814719338,CuteeeS UI,watchface,YcFeller,astrobox-resource-979814719338,f63d127,media/logo-500x.png,media/CuteeeS-UI作品封面 5.png,相册表盘;风景;二次元,xiaomi,xmb9p,force_paid
