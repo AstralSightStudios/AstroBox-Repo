@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979844892132,calanya,watchface,cahkcs,lanya,d82075f,media/icon_192x192.png,media/bluetooth_module_cover_1200x800.jpg,蓝牙模块;传输助手;九号电动车,xiaomi,xmb11nfc;xmb11;xmb10p,force_paid
