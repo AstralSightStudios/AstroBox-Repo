@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.sixone.majhong,腕上麻将,quick_app,SixOneTeam,astrobox-resource-com-sixone-majhong,2962a49,media/logo.png,media/b261143c-4988-42c8-990a-3cac88b3acd6.png,麻将;游戏;付费;手环,xiaomi,xmb10nfc;xmb11nfc;xmb11;xmb10p;xmb10;xmb9;xmb9p,force_paid
