@@ -341,7 +341,6 @@ candyui,Candy UI 风格图标包,res_pack,shantuskat,astrobox-resource-candyui,2
 979898866988,PEBBLE REELS,watchface,DevonStee,astrobox-resource-979898866988,ff1bc75,media/01-图标-1比1.png,media/02-封面-3比2.png,pebbel;轮盘;reels;PEBBLE REELS,xiaomi,xmb11;xmb11nfc;xmb10;xmb10nfc,
 glazeui,Glaze UI 风格图标包,res_pack,shantuskat,astrobox-resource-glazeui,ed0e1bc,media/画板 35.png,media/介个.png,图标包;玻璃;资源包;ios;苹果;glaze;风格;琉璃,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
 979842683750,NIXIE TUBE,watchface,DevonStee,astrobox-resource-979842683750,f13b161,media/01-图标-1比1.png,media/02-封面-3比2.png,辉光管;小米手环10;NIXIE TUBE;辉光管表盘;闪烁的辉光管;brin,xiaomi,xmb10nfc;xmb10;xmb11;xmb11nfc,force_paid
-979826520334,RED GLOW,watchface,DevonStee,astrobox-resource-979826520334,675fd10,media/01-图标-1比1.png,media/02-封面-3比2.png,红色;点阵;辉光;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 com.jpf.wrist.doodlejump,涂鸦跳跳,quick_app,jip79078-hash,doodle-jump-astrobox,341e2f6,media/icon.png,media/cover-review-v2-upload.png,游戏;休闲;重力感应;跳跃;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb10nfc;xmb11;xmb11nfc,
 com.azuma.syclass,Var课程表,quick_app,AzumaChiaki,VarClass-ab,3c485b0,media/icon.png,media/cover.png,课程表;效率;工具,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmb11;xmb11nfc,force_paid
 979871379424,连词成句,watchface,imwjh,astrobox-resource-979871379424,4dcf91c,media/12_active-256.png,media/cover-type-3000x2000_结果.png,数字;试题卷;黑色,xiaomi,xmrw5xring;xmrw5;xmrw6,
@@ -363,3 +362,4 @@ com.galgod.band,GalGod,quick_app,mcpotato1123,astrobox-resource-com-galgod-band,
 com.tinyshadows.band,小小的身影，重叠的内心,quick_app,mcpotato1123,astrobox-resource-com-tinyshadows-band,35955cf,media/icon.png,media/cover-1800x1200-简洁.jpg,Galgame;小小身影;游戏,xiaomi,xmb9p,
 979845962581,自启动管理器,watchface,wzx009412,ASTROBOX-MIBAND10PRO-AUTORUN,ecb1d9b,media/68186.png,media/68200.jpg,模块;自启动;工具;小程序表盘;小程序,xiaomi,xmb10p,
 com.hazenotea.sokuban.watch,推箱子,quick_app,HazeNoTea,HNT_SoKuBan_vela,7fd486e,media/ab_logo.png,media/AI修复大图.png,游戏;解谜;闯关,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws4xring;xmws441;xmws4;xmb11;xmb11nfc;xmb9p;xmb9,
+979826520334,RED GLOW,watchface,DevonStee,astrobox-resource-979826520334,2b33188,media/01-图标-1比1.png,media/02-封面-3比2.png,红色;点阵;辉光;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
