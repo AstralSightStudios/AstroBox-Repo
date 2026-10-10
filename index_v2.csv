@@ -315,7 +315,6 @@ io.github.cookiezalea.velasearch,可搜网易云,quick_app,Cookie-Zalea,NetEase-
 com.lightland.velaai,VelaAI,quick_app,light-land,velaai,046aeca,media/139116.png,media/139357.png,ai;工具;聊天;deepseek,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10p,
 979804188945,Globe of Time,watchface,DevonStee,astrobox-resource-979804188945,0a8df17,media/01-图标-1比1.png,media/02-封面-3比2.png,小米;CMF;地球,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 979848633475,Dot Ring,watchface,DevonStee,astrobox-resource-979848633475,af98878,media/01-图标-1比1.png,media/02-封面-3比2.png,小米;小米手环;CMF;DOT,xiaomi,xmb11;xmb11nfc;xmb10nfc;xmb10,
-com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-parsecs,d0bcd37,media/logo.png,media/60秒太空避难所.png,60秒避难所;游戏;60,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9;vivowgt2,force_paid
 979888789385,LED Wall,watchface,DevonStee,astrobox-resource-979888789385,bb07899,media/01-图标-1比1.png,media/02-封面-3比2.png,小米;LED;表盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 com.komoridev.tankturmoil,坦克动荡,quick_app,KomoriDev,kovela-tankturmoil,5d5c3f1,media/icon.png,media/cover.png,游戏;娱乐;趣味,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
 979817235470,DOOM,watchface,cahkcs,doom,8b5f33c,media/doom_app_icon_192x192.png,media/DOOM_Cover_Official_3DWrist.jpg,DOOM;3D游戏;表盘游戏,xiaomi,xmrw6;xmb10p;xmb9p;xmb10;xmb10nfc;xmb9;xmb11;xmb11nfc,force_paid
@@ -367,3 +366,4 @@ com.taskschd.dfwatch,三角洲行动,quick_app,taskschd1145,astrobox-resource-co
 org.bandmetronome.app,手环节拍器,quick_app,kyn0v,astrobox-xiaomi-band-metronome,c0959d3,media/icon.png,media/cover.png,音乐;节拍器;实用工具;免费,xiaomi,xmb9p,
 com.cakeal.speedometer,速度计,quick_app,CakeAL,astrobox-resource-com-cakeal-speedometer,a52c794,media/icon小.png,media/speedometer-cover.png,GPS;速度计;gpx,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmws4xring;xmws441;xmws4;xmws541;xmws5,
 com.kjsjksjsjaiwjjw.chess,国际象棋,quick_app,33520276q-dotcom,vale2,30ff90c,media/icon.png,media/1790348009703.jpg,游戏;快应用;免费,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws3;xmb10p;xmb9p;xmws5,
+com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-parsecs,afc9acf,media/logo.png,media/60秒太空避难所.png,60秒避难所;游戏;60,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9;vivowgt2,force_paid
