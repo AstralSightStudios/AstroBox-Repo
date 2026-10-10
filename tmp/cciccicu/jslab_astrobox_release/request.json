@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "icu.ccicc.jslab",
+  "base_entry_digest": "de3e380006dd9cfe21c1c81924bf47f410c66327e6c807a14201ffac06285830",
+  "base_catalog_commit": "9f97ca0901bae9562107db54f88412ea2530bf5f",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
