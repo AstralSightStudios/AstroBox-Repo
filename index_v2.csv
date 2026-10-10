@@ -258,7 +258,6 @@ com.baka.dino,T-REX RUNNER,quick_app,Nyx-233,astrobox-resource-com-baka-dino,60e
 com.cycle.vela,经期追踪,quick_app,NengGanHui,cycle-vela,5314c03,media/logo.png,media/toutu_compressed.png,经期管理;经期预测;女性健康,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11nfc;xmb11;xmb9;xmb9p,
 979850337126,玻璃点阵渐变,watchface,Cannyworks29,CAR_GLASS_5,54aa77f,media/4 副本q.png,media/封面.png,模拟;数字屏幕;复古;液晶;点阵;中古,xiaomi,xmb9p;xmb10p;xmb11;xmb11nfc;xmb9;xmb10nfc;xmb10,
 979812768106,彩虹大大数字,watchface,Cannyworks29,Rainbow-Big-Font,d67551f,media/_5106105.jpg,media/_5106105 封面 小文件.jpg,极简;大数字;彩虹,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmb11;xmb11nfc,
-com.kjsjksjsjaiwjjw.chess,国际象棋,quick_app,33520276q-dotcom,vale2,60bc695,media/icon.png,media/1790348009703.jpg,游戏,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws3;xmb10p;xmb9p,
 979802168079,一大一小,watchface,imwjh,astrobox-resource-979802168079,cbba91a,media/02_active-256.png,media/cover-type-3000x2000.png,大数字;数字;极简;简约,xiaomi,xmrw6,
 979808740300,World of Race,watchface,hrsthrt74,world-of-race-for-astrobox,6633f0f,icon.png,cover.png,任天堂;马力欧;NintendoSwitch;简约;游戏风;二次元;AOD,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,
 979808740200,PRiSM+,watchface,hrsthrt74,prism-plus-for-astrobox,3961ede,icon.png,cover.png,SEGA;maimaiDX;舞萌 DX;简约;多设备支持;二次元;游戏风,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb11;xmb11nfc;xmb10p,
@@ -367,3 +366,4 @@ icu.ccicc.jslab,JSLab社区版,quick_app,cciccicu,JSLab_AstroBox_Release,ebcc51c
 com.taskschd.dfwatch,三角洲行动,quick_app,taskschd1145,astrobox-resource-com-taskschd-dfwatch,f09455d,media/logo.png,media/IMG_259758_1200x800.jpg,搜打撤;战术设计;据点争夺;三角洲;枪战,xiaomi,xmrw5;xmrw6;xmrw5xring;xmb10p;xmb9p,force_paid
 org.bandmetronome.app,手环节拍器,quick_app,kyn0v,astrobox-xiaomi-band-metronome,c0959d3,media/icon.png,media/cover.png,音乐;节拍器;实用工具;免费,xiaomi,xmb9p,
 com.cakeal.speedometer,速度计,quick_app,CakeAL,astrobox-resource-com-cakeal-speedometer,a52c794,media/icon小.png,media/speedometer-cover.png,GPS;速度计;gpx,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmws4xring;xmws441;xmws4;xmws541;xmws5,
+com.kjsjksjsjaiwjjw.chess,国际象棋,quick_app,33520276q-dotcom,vale2,30ff90c,media/icon.png,media/1790348009703.jpg,游戏;快应用;免费,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws3;xmb10p;xmb9p;xmws5,
