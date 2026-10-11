@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.tinyshadows.band",
+  "base_entry_digest": "87281af19985097a32fcdbb601a7da0a188f9a9b73c4b83c0086b6b21bb78794",
+  "base_catalog_commit": "6f59c837e2cdcea5ea13ff67843d74ea4088f71b",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
