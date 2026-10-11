@@ -97,7 +97,6 @@ com.dino.runner,恐龙快跑,quick_app,YuanRong1026,go-runner_xiaomi-Vela,71316d
 979808740100,《马力欧＆路易吉RPG 兄弟齐航》风格表盘 +,watchface,hrsthrt74,MLRPG-brothership-for-astrobox,98cb9ee,icon.png,cover.png,任天堂;马力欧;路易吉;NintendoSwitch;多样式;多设备支持;景深;简约;游戏风;二次元;马里奥;玛丽,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,
 979808740400,The Commander 体验版,watchface,hrsthrt74,the-commander-for-astrobox,625d3c0,icon.png,cover.png,多种数据,xiaomi,xmb9p,paid
 979825266001,【可互动】心跳文学部 莫妮卡,watchface,sf-yuzifu,Monika,a261c4b,icon.png,preview.png,表盘;可互动;心跳文学部;莫妮卡;ddlc;DDLC;Doki Doki Literature Club;心跳文学社;二次元;多设备支持;Monika;monika,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
-com.yzf.daymatter,倒数日 快应用,quick_app,sf-yuzifu,Daymatter_Quickapp_AstroBox_Release,342ef11,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmws5,
 com.yzf.fireworkMaster,狂欢烟火大师赛,quick_app,sf-yuzifu,FireworkMaster_AstroBox_Release,1ce392d,icon.png,preview.png,游戏;休闲;烟花;明日方舟,xiaomi,xmb9;xmb9p;xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc,
 979890780202,点阵Dot,watchface,zaona,dot-astrobox-release,7bde89a,icon.png,preview.png,表盘;简约,xiaomi,xmb10;xmb10nfc,
 com.yzf.ballsRace,滚珠赛道,quick_app,sf-yuzifu,ballsRace,8913510,icon.png,preview.png,游戏;快应用;滚珠赛道;赛车,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
@@ -364,3 +363,4 @@ icu.ccicc.jslab,JSLab社区版,quick_app,cciccicu,JSLab_AstroBox_Release,693dc36
 979820260926,Chaos,watchface,WenHuaYiYang,astrobox-resource-979820260926,34a3dc0,media/chaos_icon_resized.png,media/desc.png,模块;美化;Chaos;工具,xiaomi,xmb10p,
 com.ourbriefeternity.band,永恒与星辰与日常,quick_app,mcpotato1123,astrobox-resource-com-ourbriefeternity-band,9debc01,media/icon.png,media/cover-1500x1000.jpg,Galgame;永恒与星辰与日常;游戏,xiaomi,xmb9p,
 com.ppyycc.dict,DICT英汉词典,quick_app,ppyycc-ppc,vela_astrobox_DICT_bandpro_branch,7184f86,media/icon.png,media/cover.png,英文;学习;词典,xiaomi,xmb10p,
+com.yzf.daymatter,倒数日 快应用,quick_app,sf-yuzifu,Daymatter_Quickapp_AstroBox_Release,e8a0470,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmws5;xmws3;xmb11;xmb11nfc;xmws541,
