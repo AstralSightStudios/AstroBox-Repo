@@ -129,7 +129,6 @@ com.yxin.mijia5,米家遥控器,quick_app,yxinstu,mijia-Astrobox,a6e1452,media/1
 979808743900,COMPASS,watchface,hrsthrt74,compass-for-astrobox,1fe82c6,icon.png,cover.png,compass;mc;我的世界;minecraft;动态,xiaomi,xmws5;xmb10p;xmrw6,
 com.kevin.en,腕上单词,quick_app,AzumaChiaki,BandEnglish_ab,cd1f6de,media/logo.png,media/1F875E8E852367FCD000EF12817375C6.jpg,英语;单词;学习;工具,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmb10p;xmb9p;xmb11;xmb11nfc,force_paid
 979811130359,天归 - 天容万象 星途终归,watchface,auberdominique23-hash,979811130359_AstroBox_Release,4875f37,矩形 1.png,MasterGo 封面 16_9 - 2.png,二次元表盘;课程表;lua表盘,xiaomi,xmb9p;xmb10p,force_paid
-979825266002,倒数日 表盘,watchface,sf-yuzifu,Daymatter_Watchface_AstroBox_Release,f075888,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程;表盘,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws4;xmws4xring;xmws441,
 con.Dreamqiu.AngryBalls,愤怒的小球,quick_app,Dreamqiucn,angryballs-Astrobox,45cdde2,logo.png,preview1.png,游戏;2d;休闲,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
 com.Dreamqiu.9way,九号出口,quick_app,Dreamqiucn,way-astrobox,2e0d776,media/logo.png,media/九号出口 (1).png,游戏;悬疑;恐怖,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;vivowgt2;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,force_paid
 979899954912,复古液晶显示,watchface,Cannyworks29,RetroSTNdisplay3,dcc5a64,media/画板 1 副本3.png,media/_7146450 2.jpg,复古;液晶;像素;渐变;极简,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmws5,
@@ -358,9 +357,10 @@ icu.ccicc.jslab,JSLab社区版,quick_app,cciccicu,JSLab_AstroBox_Release,693dc36
 979877963021,「时帧」- 照片表盘,watchface,ChiHuan0807,astrobox-resource-979877963021,02d6d92,media/Frame 20.png,media/cover1.png,相册;照片;简约;杂志;池焕;迟缓;表盘,xiaomi,xmb10p;xmb9p,force_paid
 979820260926,Chaos,watchface,WenHuaYiYang,astrobox-resource-979820260926,34a3dc0,media/chaos_icon_resized.png,media/desc.png,模块;美化;Chaos;工具,xiaomi,xmb10p,
 com.ppyycc.dict,DICT英汉词典,quick_app,ppyycc-ppc,vela_astrobox_DICT_bandpro_branch,7184f86,media/icon.png,media/cover.png,英文;学习;词典,xiaomi,xmb10p,
-com.yzf.daymatter,倒数日 快应用,quick_app,sf-yuzifu,Daymatter_Quickapp_AstroBox_Release,e8a0470,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmws5;xmws3;xmb11;xmb11nfc;xmws541,
 app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,cdc872c,media/16108.png,media/25729.png,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
 com.kjsjksjsjaiwjjw.chess,国际象棋,quick_app,33520276q-dotcom,vale2,31dec27,media/icon.png,media/1790348009703.jpg,游戏;快应用;免费,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws3;xmb10p;xmb9p;xmws5;xmb9;xmb10;xmb10nfc;xmb11;xmb11nfc,
 com.jpf.wrist.descend100,下100层,quick_app,jip79078-hash,descend100-astrobox,3926aa8,media/icon.png,media/cover-illustrated-v1.jpg,游戏;休闲;躲避;重力感应;离线,xiaomi,xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9,
 minecraft-native,我的世界,canopus,andros92,astrobox-resource-minecraft-native,e192290,media/icon.png,media/cover.png,游戏;3D;我的世界,xiaomi,xmb10p;xmb9p,force_paid
 com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrobox,30050d3,media/icon.png,media/cover-cartoon-long.jpg,游戏;赛车;漂移;重力感应;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb11;xmb9,
+com.yzf.daymatter,倒数日 快应用,quick_app,sf-yuzifu,Daymatter_Quickapp_AstroBox_Release,29c775a,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmws5;xmws3;xmb11;xmb11nfc;xmws541,
+979825266002,倒数日 表盘,watchface,sf-yuzifu,Daymatter_Watchface_AstroBox_Release,fcdeac4,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程;表盘,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws5;xmws3;xmb11;xmb11nfc;xmws541,
