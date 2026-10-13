@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.cakeal.speedometer",
+  "base_entry_digest": "a7ce863911aee2ac82e4f803b473139b4184715eaae0b313e93ef1ae20619371",
+  "base_catalog_commit": "05df4cb9e915aff512ee8b8c9dba61ec7483c269",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:10:01.713642+08:00",
+    "build_user": "runner"
+  }
+}
