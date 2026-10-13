@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.cahkcs.toxun",
+  "base_entry_digest": "055645786adf1185d1ad783c90c7b4c7cdd2c2cd7fa03e425d42f4b523db9677",
+  "base_catalog_commit": "9795f1aafac48648088a235395d8cb443fd51014",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
