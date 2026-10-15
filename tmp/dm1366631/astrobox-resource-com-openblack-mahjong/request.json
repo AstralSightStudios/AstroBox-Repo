@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.openblack.mahjong-next",
+  "base_entry_digest": "ddcd751cb47ce1a2550254148d3ceb5ec7f933ee05c474ce44145a396663c781",
+  "base_catalog_commit": "c90b79c8520c13301362bde918e429031ee84fcb",
+  "client": {
+    "version": "0.3.0",
+    "git_commit_hash": "2aa2168",
+    "build_time": "2026-09-19T22:47:55.689294+08:00",
+    "build_user": "runneradmin"
+  }
+}
