@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.Dreamqiu.disease",
+  "base_entry_digest": "09edc0672e71636e5a24536fa76fc17ed0164c8872c3d96f25e6b854d14b3d62",
+  "base_catalog_commit": "b08b2753899fc673a626cb176879c69b4bf7ef09",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:10:01.713642+08:00",
+    "build_user": "runner"
+  }
+}
