@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-979844892132,calanya,watchface,cahkcs,lanya,638e99d,media/icon_192x192.png,media/5.png,蓝牙模块;传输助手;九号电动车,xiaomi,xmb11nfc;xmb11;xmb10p,force_paid
+979844892132,calanya,watchface,cahkcs,lanya,0e5fca1,media/icon_192x192.png,media/calanya_cover_icon_sim_336x224.png,蓝牙模块;传输助手;九号电动车,xiaomi,xmb11nfc;xmb11;xmb10p,force_paid
