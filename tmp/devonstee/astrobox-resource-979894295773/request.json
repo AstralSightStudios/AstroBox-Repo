@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "979894295773",
+  "base_entry_digest": "3a80a0af88abe984f34d4b241c09cf924c37a2b7356592428f6761a9d2489048",
+  "base_catalog_commit": "b5353c78a653adbddc1db5600cfcc44ea337680d",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:10:01.713642+08:00",
+    "build_user": "runner"
+  }
+}
