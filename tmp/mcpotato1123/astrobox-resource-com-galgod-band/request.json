@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.galgod.band",
+  "base_entry_digest": "593bace82669607fcefee9aa960f1a9391af80aa7cc72b44ac8dfcc5c5b2bea5",
+  "base_catalog_commit": "8fe4d257f5a94dfe885a4b57115e19032001a09a",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "8125399",
+    "build_time": "2026-10-06T18:45:14.601772+08:00",
+    "build_user": "searchstars"
+  }
+}
