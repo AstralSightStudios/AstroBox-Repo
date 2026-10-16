@@ -231,7 +231,6 @@ com.application.zaona.weather,简明天气,quick_app,zaona,simple-weather-astrob
 979855569274,大大数字,watchface,Cannyworks29,BIGBIG-NUMBERS,ecf02bd,media/付费版 osward 字体 数字表盘 01.png,media/DSCF2411 封面.jpg,极简;复古;数字;开源字体,xiaomi,xmb10nfc;xmb10;xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9;xmb9p;xmb11;xmb11nfc,force_paid
 979801230201,喵伴表盘,watchface,jianding24,miaoban-watchface-astrobox-release,c075e95,media/icon.png,media/cover.jpg,喵伴;免费;小猫;互动;天气;压力;专注;任务;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6;xmb11;xmb11nfc,
 979814478421,「归序」- 相册表盘,watchface,shantuskat,astrobox-resource-979814478421,4234e68,media/画板 34.png,media/画板 1.png,相册;二次元,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p,force_paid
-979866636875,此刻,watchface,SL9325,979866636875_AstroBox_Release,dc3c8af,图标.png,PSX_20260725_105012.jpg,SL9325;SLWF;极简;简约;黑白灰;表盘,xiaomi,xmb10p;xmb9p,
 979843426542,亮点＋,watchface,SL9325,979843426107_AstroBox_Release,fe2ba89,media/46444.png,media/44887.jpg,SL9325;SLWF;蓝色系;多样式;显秒;表盘,xiaomi,xmb10p;xmb9p,
 979872442818,Dot UI风格图标包,watchface,shantuskat,astrobox-resource-979872442818,7948bb5,media/画板 1.png,media/介个.png,图标包;dot ui;风格;系统;ui;美化;主题,xiaomi,xmb10p,force_paid
 com.komoridev.breakout,打砖块,quick_app,KomoriDev,kovela-breakout,cd8f55a,media/breakout-logo.png,media/breakout-cover.png,趣味;游戏,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,
@@ -376,3 +375,4 @@ com.Dreamqiu.disease,瘟疫公司,quick_app,Dreamqiucn,astrobox-resource-com-dre
 979845270374,Xr黑白质感表盘,watchface,YcFeller,astrobox-resource-979845270374,1fddc1f,media/画板 10.png500px.png,media/Xr黑白质感表盘-宣传海报-1200_800 1.png,多组件表盘;质感;寻日,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,9d0b12e,media/show_icon.png,media/cover-1.png,课程表;悬浮tab;简约课表,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc;xmrw5;xmrw6;xmrw5xring;xmb9;xmb9p,
 com.openblack.mahjong-next,麻将,quick_app,dm1366631,astrobox-resource-com-openblack-mahjong,ff49eec,media/icon.png,media/cover.png,游戏,xiaomi,xmb10nfc;xmb10;xmb10p;xmb11;xmb11nfc,
+979866636875,此刻,watchface,SL9325,979866636875_AstroBox_Release,1536326,图标.png,PSX_20260725_105012.jpg,SL9325;SLWF;极简;简约;黑白灰;表盘,xiaomi,xmb10p;xmb9p,
