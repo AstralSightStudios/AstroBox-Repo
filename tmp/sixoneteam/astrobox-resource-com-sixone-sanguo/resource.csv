@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.sixone.sanguo,腕上三国,quick_app,SixOneTeam,astrobox-resource-com-sixone-sanguo,8d60c12,media/logo.png,media/已粘贴 2026-10-10 下午10.08.15.png,游戏;收费;三国杀;全设备支持;卡牌,xiaomi,xmb9p;xmb9;xmb11;xmb11nfc;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
