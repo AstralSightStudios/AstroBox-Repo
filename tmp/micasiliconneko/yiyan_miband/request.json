@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "io.github.micasiliconneko.hikoto",
+  "base_entry_digest": "e6c1f64d1b509ff6132a8000b2dc466c4e5ec7c0ffbf2cbed03240ee8aa1b8a2",
+  "base_catalog_commit": "90dd3e306ea661ab38954c27bf1a3bd4fce04a17",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
