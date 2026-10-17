@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.lrc.noisemeter,分贝测量,quick_app,Chichi9588,astrobox-resource-com-lrc-noisemeter,d7aad95,media/图标_192x192.png,media/封面_分贝测量_1200x800.png,手表s5;噪音;分贝测量,xiaomi,xmws5,
