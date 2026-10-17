@@ -294,7 +294,6 @@ com.lightland.velaai,VelaAI,quick_app,light-land,velaai,046aeca,media/139116.png
 979804188945,Globe of Time,watchface,DevonStee,astrobox-resource-979804188945,0a8df17,media/01-图标-1比1.png,media/02-封面-3比2.png,小米;CMF;地球,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 979848633475,Dot Ring,watchface,DevonStee,astrobox-resource-979848633475,af98878,media/01-图标-1比1.png,media/02-封面-3比2.png,小米;小米手环;CMF;DOT,xiaomi,xmb11;xmb11nfc;xmb10nfc;xmb10,
 979888789385,LED Wall,watchface,DevonStee,astrobox-resource-979888789385,bb07899,media/01-图标-1比1.png,media/02-封面-3比2.png,小米;LED;表盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
-com.komoridev.tankturmoil,坦克动荡,quick_app,KomoriDev,kovela-tankturmoil,5d5c3f1,media/icon.png,media/cover.png,游戏;娱乐;趣味,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
 io.github.gsjsjzhznsz.bandqq,BandQQ,quick_app,Gsjsjzhznsz,astrobox-resource-com-example-bandqq,5a21c4f,media/1000000700.png,media/1000000760.jpg,QQ;手环;快应用,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmrw5;xmrw5xring;xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmb10p;xmb9p;xmws541,
 979899954914,圆饼三指针,watchface,Cannyworks29,Three-Disk-Hands,ad1170a,media/画板 2523.png,media/_1064327_副本.jpg,极简;指针;复古,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb9;xmws5;xmb11nfc;xmb11,
 979873680166,GAUDI,watchface,DevonStee,astrobox-resource-979873680166,ccc404a,media/01-图标-1比1.png,media/02-封面-3比2.png,小米;高迪;瓷;五彩,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
@@ -380,3 +379,4 @@ minecraft-native,我的世界,canopus,andros92,astrobox-resource-minecraft-nativ
 979817235470,DOOM,watchface,cahkcs,doom,8356eba,media/doom_app_icon_192x192.png,media/DOOM_Cover_Official_3DWrist.jpg,DOOM;3D游戏;表盘游戏,xiaomi,xmrw6;xmb10p;xmb9p;xmb10;xmb10nfc;xmb9;xmb11;xmb11nfc,force_paid
 com.cycle.vela,经期追踪,quick_app,NengGanHui,cycle-vela,f85d9cb,media/logo.png,media/toutu_compressed.png,经期管理;经期预测;女性健康,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11nfc;xmb11;xmb9;xmb9p,
 com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox,56bfb61,media/容器 14 (2).png,media/幻灯片 4_3 - 2.png,小米手环9Pro;课程表;BandClass;倒计时;Redmi Watch 6;小米手环10Pro;红米手表5,xiaomi,xmrw5;xmrw6;xmb9p;xmb10p,
+com.komoridev.tankturmoil,坦克动荡,quick_app,KomoriDev,kovela-tankturmoil,622ec2a,media/icon.png,media/cover.png,游戏;娱乐;趣味,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
