@@ -5,9 +5,9 @@
   "base_entry_digest": "e7993e8976af0426960e9119c9168a930deb821346e9115b923e2de23f5ea910",
   "base_catalog_commit": "89ab820fb8a42453d7e77aaed7bdd2b768c17273",
   "client": {
-    "version": "0.3.0",
-    "git_commit_hash": "76b7411",
-    "build_time": "2026-09-25T17:25:49.011218196+08:00",
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:13:25.479631754+08:00",
     "build_user": "runner"
   }
 }
