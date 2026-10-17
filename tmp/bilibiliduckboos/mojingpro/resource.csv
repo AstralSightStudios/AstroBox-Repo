@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.application.watch.demo,摸金,quick_app,BiliBiliDuckBoos,mojingpro,b1c191a,media/1000183723.jpg,media/1000183837.png,摸金;探险;寻宝,xiaomi,xmb10p;xmb9p,force_paid
