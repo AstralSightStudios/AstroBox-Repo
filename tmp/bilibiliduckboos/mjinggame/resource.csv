@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.duck.watch.gsg,摸金,quick_app,BiliBiliDuckBoos,mjinggame,bc7e14a,media/1000183723.jpg,media/1000183805.png,摸金;寻宝;探险,xiaomi,xmb10;xmb10nfc;xmb11,paid
+com.duck.watch.gsg,摸金,quick_app,BiliBiliDuckBoos,mjinggame,f6a09ea,media/1000183723.jpg,media/1000183805.png,摸金;寻宝;探险,xiaomi,xmb10;xmb10nfc;xmb11,force_paid
