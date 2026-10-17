@@ -368,7 +368,6 @@ com.hazenotea.pvz.watch,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_
 979816747762,TAROT ARCANA,watchface,DevonStee,astrobox-resource-979816747762,6422e0d,media/01-图标-1比1.png,media/02-封面-3比2.png,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;塔罗;大阿卡纳;马赛塔罗;复古;翻牌动画;昼夜切换;深蓝;AOD,xiaomi,xmb11;xmb10;xmb11nfc;xmb10nfc,force_paid
 com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrobox,6c738d6,media/icon.png,media/cover-cartoon-long.jpg,游戏;赛车;漂移;重力感应;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb11;xmb9,
 io.github.micasiliconneko.hikoto,一言,quick_app,MicaSiliconNeko,YiYan_miband,48a5961,media/icon-E2-mid.png,media/一言-封面.png,文本;快应用;一言,xiaomi,xmb10p;xmb9p,
-com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox,e432e10,media/容器 14 (2).png,media/幻灯片 4_3 - 2.png,小米手环9Pro;课程表;BandClass;倒计时;Redmi Watch 6;小米手环10Pro;红米手表5,xiaomi,xmrw5;xmrw6;xmb10p;xmb9p,
 979877290111,图文模块Pro,watchface,Qiqi29,astrobox-resource-979877290111,f83dcef,media/图标 300w.png,media/封面图 900x600.png,简洁;自定义;Watch;模块;高级,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-parsecs,6633c77,media/logo.png,media/60秒太空避难所.png,60秒避难所;游戏;60,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9;vivowgt2,force_paid
 com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-seconds,02c2d80,media/logo.png,media/60秒避难所.png,游戏;避难所;60秒避难所,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9;xmb11;xmb11nfc;vivowgt2,force_paid
@@ -380,3 +379,4 @@ com.komoridev.billiard,口袋台球,quick_app,KomoriDev,kovela-billiard,2b0177d,
 minecraft-native,我的世界,canopus,andros92,astrobox-resource-minecraft-native,3ccec17,media/icon.png,media/cover.png,游戏;3D;我的世界,xiaomi,xmb10p;xmb9p,force_paid
 979817235470,DOOM,watchface,cahkcs,doom,8356eba,media/doom_app_icon_192x192.png,media/DOOM_Cover_Official_3DWrist.jpg,DOOM;3D游戏;表盘游戏,xiaomi,xmrw6;xmb10p;xmb9p;xmb10;xmb10nfc;xmb9;xmb11;xmb11nfc,force_paid
 com.cycle.vela,经期追踪,quick_app,NengGanHui,cycle-vela,f85d9cb,media/logo.png,media/toutu_compressed.png,经期管理;经期预测;女性健康,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11nfc;xmb11;xmb9;xmb9p,
+com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox,56bfb61,media/容器 14 (2).png,media/幻灯片 4_3 - 2.png,小米手环9Pro;课程表;BandClass;倒计时;Redmi Watch 6;小米手环10Pro;红米手表5,xiaomi,xmrw5;xmrw6;xmb9p;xmb10p,
