@@ -360,7 +360,6 @@ com.reid.Pomodoro,Pomodoro,quick_app,ReidPu,astrobox-resource-com-reid-pomodoro,
 com.luoluo.kingdom.watch,洛洛王国,quick_app,x18336533511,astrobox-resource-com-luoluo-kingdom-watch,6c236f8,media/洛洛王国-应用图标-500x500.png,media/洛洛王国-封面-3比2-小于1MB.jpg,游戏;宠物养成;洛克王国同人;免费,xiaomi,xmb9p;xmb10p,
 com.hazenotea.pvz.watch,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,f7ffa11,media/logo-256.png,media/全新雷霆大图1200x800.png,游戏;塔防;策略,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmws4xring;xmws4;xmws441;xmb10p;xmb11nfc;xmb11;xmb9;xmb9p,paid
 979816747762,TAROT ARCANA,watchface,DevonStee,astrobox-resource-979816747762,6422e0d,media/01-图标-1比1.png,media/02-封面-3比2.png,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;塔罗;大阿卡纳;马赛塔罗;复古;翻牌动画;昼夜切换;深蓝;AOD,xiaomi,xmb11;xmb10;xmb11nfc;xmb10nfc,force_paid
-com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrobox,6c738d6,media/icon.png,media/cover-cartoon-long.jpg,游戏;赛车;漂移;重力感应;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb11;xmb9,
 io.github.micasiliconneko.hikoto,一言,quick_app,MicaSiliconNeko,YiYan_miband,48a5961,media/icon-E2-mid.png,media/一言-封面.png,文本;快应用;一言,xiaomi,xmb10p;xmb9p,
 979877290111,图文模块Pro,watchface,Qiqi29,astrobox-resource-979877290111,f83dcef,media/图标 300w.png,media/封面图 900x600.png,简洁;自定义;Watch;模块;高级,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-parsecs,6633c77,media/logo.png,media/60秒太空避难所.png,60秒避难所;游戏;60,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9;vivowgt2,force_paid
@@ -383,3 +382,4 @@ moe.mcns.Eclipse,Eclipse星语,quick_app,FelixFan-CN,astrobox-resource-moe-mcns-
 com.astranexus.astramai,AstraMai,quick_app,QHBSSrl,AstraMai,ef1fa85,media/icon.png,media/QQ20261011-191126 (自定义).png,街机音游;舞萌DX;中二节奏;Phigros,xiaomi,xmrw5xring;xmrw5;xmrw6,
 com.arknights.spoor.gacha,环上方舟,quick_app,SXM081115,astrobox-resource-com-arknights-spoor-gacha,e7b706f,media/BandArk.png,media/cover345.png,明日方舟;陈;安洁莉娜;抽卡模拟;环上方舟;基建系统;理智;斩业星熊,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
 com.jpf.wrist.descend100,下100层,quick_app,jip79078-hash,descend100-astrobox,2e5f1d7,media/icon.png,media/cover-illustrated-v1.jpg,游戏;休闲;躲避;重力感应;离线,xiaomi,xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9;xmrw5;xmrw6;xmws5,
+com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrobox,ff08234,media/icon.png,media/cover-cartoon-long.jpg,游戏;赛车;漂移;重力感应;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb11;xmb9;xmrw5;xmb10nfc;xmb11nfc,
