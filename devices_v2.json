@@ -160,6 +160,20 @@
       "description": "",
       "chip": "bes",
       "fetch": false
+    },
+    "M2606W1": {
+      "id": "xmws541",
+      "name": "Xiaomi Watch S5 41mm",
+      "description": "s541mm，无特别特性，但屏幕大小有差异",
+      "chip": "bes",
+      "fetch": true
+    },
+    "M2607W1": {
+      "id": "xmws541",
+      "name": "Xiaomi Watch S5 41mm",
+      "description": "s541 透明版本",
+      "chip": "bes",
+      "fetch": true
     }
   },
   "vivo": {

@@ -35,15 +35,15 @@
         // | `multi_resource_blog`  | 继承单资源全部字段 + `resourceIds`（字符串数组）                                      | 多资源推荐     |
         // | `resource`             | `resourceId`, `resBackgroundColorGradient`（双色数组）                             | 方块状标准资源 |
         // | `author`               | `id`, `name`, `description`, `avatarUrl`                                         | 作者介绍      |
-        
+
         {
-          "type": "blog",
-          "title": "AstroBox 2.1 正式发布",
-          "tag": "版本更新",
-          "introduction": "事事顺心，环间有序。",
-          "backgroundImg": "weekly/cover1.png",
-          "backgroundColor": "#E9EEE9",
-          "url": "weekly/index.md"
+            "type": "blog",
+            "title": "AstroBox 2.2 正式发布",
+            "tag": "版本更新",
+            "introduction": "全面优化性能，支持多设备连接与全新装扮",
+            "backgroundImg": "weekly/cover.png",
+            "backgroundColor": "#DBD7C7",
+            "url": "weekly/index.md"
         },
         {
           "type": "blog",
@@ -53,7 +53,7 @@
           "backgroundImg": "docs/cover.png",
           "backgroundColor": "#1a1a2e",
           "url": "docs/index.md"
-        },
+        }
       ]
     },
     {
@@ -92,8 +92,8 @@
         },
         {
           "type": "resource",
-          "resourceId": "979808741600",
-          "resBackgroundColorGradient": ["#8A8300", "#464223"]
+          "resourceId": "979808744800",
+          "resBackgroundColorGradient": ["#5FC5D8", "#747A7B"]
         },
         {
           "type": "resource",
@@ -124,6 +124,16 @@
       "type": "custom",
       "cards": [
         {
+          "type": "single_resource_blog",
+          "title": "Hyper Box 已支持 小米手环11",
+          "tag": "独家速报",
+          "introduction": "一款拥有20+功能和超绝UI的万能宝盒",
+          "backgroundImg": "hyperbox/ab-square.png",
+          "resBackgroundColorGradient": ["#1a1a2e","#1a1a2e"],
+          "url": "hyperbox/index.md",
+          "resourceId": "com.charlie.hyperbox",
+        },
+        {
           "type": "multi_resource_blog",
           "title": "手环也可以截图了？！",
           "tag": "资源推荐",
@@ -136,16 +146,9 @@
           "resBackgroundColorGradient": ["#242232", "#22375D"]
         },
         {
-          "type": "single_resource_blog",
-          "title": "手环脱离手机也能看天气",
-          "tag": "资源推荐",
-          "textToBlack": false,
-          "introduction": "让天气数据真正留在手腕上",
-          "backgroundImg": "Eternal/banner-ex.png",
-          "backgroundColor": "#448FE4",
-          "url": "Eternal/index.md",
-          "resourceId": "moe.mcns.Eternal",
-          "resBackgroundColorGradient": ["#448FE4", "#0B224D"]
+          "type": "resource",
+          "resourceId": "com.bandbbs.ebook.plus",
+          "resBackgroundColorGradient": ["#B5EDFD", "#646C92"]
         },
         {
           "type": "resource",
@@ -169,11 +172,6 @@
         },
         {
           "type": "resource",
-          "resourceId": "com.yzf.daymatter",
-          "resBackgroundColorGradient": ["#EAC9FF", "#42373B"]
-        }, 
-        {
-          "type": "resource",
           "resourceId": "moe.orpu.neomusic",
           "resBackgroundColorGradient": ["#BCC2FF", "#31334B"]
         }
@@ -185,6 +183,16 @@
       "description": "碎片时间，轻松一刻。",
       "type": "custom",
       "cards": [
+        {
+          "type": "resource",
+          "resourceId": "com.komoridev.watermelon",
+          "resBackgroundColorGradient": ["#C1FF7C", "#64904B"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "com.arknights.spoor.gacha",
+          "resBackgroundColorGradient": ["#B1B1B1", "#4C4C4C"]
+        },
         {
           "type": "resource",
           "resourceId": "com.matrixfive.online.ylgy",
