@@ -312,7 +312,6 @@ com.hazenotea.sokuban.watch,推箱子,quick_app,HazeNoTea,HNT_SoKuBan_vela,7fd48
 979814719338,CuteeeS UI,watchface,YcFeller,astrobox-resource-979814719338,f63d127,media/logo-500x.png,media/CuteeeS-UI作品封面 5.png,相册表盘;风景;二次元,xiaomi,xmb9p,force_paid
 979878680101,重圆,watchface,OnDriveLine,Recircle2_AB,c6f6e3e,icon.png,media/Group 89.png,表盘;可编辑控件;多功能,xiaomi,xmb11;xmb11nfc;xmb10nfc;xmb10;xmb9;xmb10p,force_paid
 979877963021,「时帧」- 照片表盘,watchface,ChiHuan0807,astrobox-resource-979877963021,02d6d92,media/Frame 20.png,media/cover1.png,相册;照片;简约;杂志;池焕;迟缓;表盘,xiaomi,xmb10p;xmb9p,force_paid
-979820260926,Chaos,watchface,WenHuaYiYang,astrobox-resource-979820260926,34a3dc0,media/chaos_icon_resized.png,media/desc.png,模块;美化;Chaos;工具,xiaomi,xmb10p,
 app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,cdc872c,media/16108.png,media/25729.png,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
 com.yzf.daymatter,倒数日 快应用,quick_app,sf-yuzifu,Daymatter_Quickapp_AstroBox_Release,29c775a,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmws5;xmws3;xmb11;xmb11nfc;xmws541,
 979825266002,倒数日 表盘,watchface,sf-yuzifu,Daymatter_Watchface_AstroBox_Release,9e77647,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程;表盘,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws5;xmws3;xmb11;xmb11nfc;xmws541,
@@ -406,3 +405,4 @@ org.bandmetronome.app,手环节拍器,quick_app,kyn0v,astrobox-xiaomi-band-metro
 979851888346,极光效应,watchface,Hobjl-lian,astrobox-resource-979851888346,9341182,media/icon.png,media/cover.jpg,Hobjl;表盘;小米手环,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrobox,445f129,media/icon.png,media/cover-cartoon-long.jpg,游戏;赛车;漂移;重力感应;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb11;xmb9;xmrw5;xmb10nfc;xmb11nfc,
 979835460857,雾中旅行,watchface,Hobjl-lian,astrobox-resource-979835460857,b0b73ea,media/icon.png,media/cover.png,Hobjl;表盘;小米手环,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
+979820260926,Chaos,watchface,WenHuaYiYang,astrobox-resource-979820260926,166ca04,media/chaos_icon_resized.png,media/desc.png,模块;美化;Chaos;工具,xiaomi,xmb10p,
