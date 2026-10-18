@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "org.bandmetronome.app",
+  "base_entry_digest": "0f81270eaabdcd5f3bd81f841385b210bc3bff73f4ff46a8d540a3840212b58a",
+  "base_catalog_commit": "3d6c3e6821fca5e56c91fec783656499c472a56e",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:10:01.713642+08:00",
+    "build_user": "runner"
+  }
+}
