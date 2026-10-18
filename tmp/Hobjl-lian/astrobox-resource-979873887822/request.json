@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "create",
+  "original_id": null,
+  "base_entry_digest": null,
+  "base_catalog_commit": "83ef00ac8e328ad4a40b7a1e9487967b24aa7f18",
+  "client": {
+    "version": "panfang-batch-1.0",
+    "git_commit_hash": "local",
+    "build_time": "2026-10-18T07:17:37Z",
+    "build_user": "Hobjl"
+  }
+}
