@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "979804500196",
+  "base_entry_digest": "b785a07df02a0a120ac8da792eb607eb8e5305096c5946520cabbfdcb3ba8c15",
+  "base_catalog_commit": "be137809361dd45e5135b6b50e7862d961053f72",
+  "client": {
+    "version": "panfang-batch-1.0",
+    "git_commit_hash": "local",
+    "build_time": "2026-10-18T12:51:18Z",
+    "build_user": "Hobjl"
+  }
+}
