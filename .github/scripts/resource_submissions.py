@@ -2,9 +2,10 @@
 """AstroBox v2 resource submission CLI.
 
 Commands:
-  validate-index   Strictly validate index_v2.csv.
-  validate-pr      Validate one PR containing tmp staging files.
-  apply-pending    Apply merged pending submissions to index_v2.csv.
+  validate-index      Strictly validate index_v2.csv.
+  validate-pr         Validate one PR containing tmp staging files.
+  apply-pending       Apply merged pending submissions to index_v2.csv.
+  reopen-on-request   Reopen a PR on the creator's [ABCC_REOPEN] comment.
 
 The script uses only the standard library and the GitHub REST API through
 urllib.request. It intentionally does not run any code from contributor PRs.
@@ -63,6 +64,11 @@ PATH_SEGMENT_RE = re.compile(r"^[a-z0-9](?:[a-z0-9._-]*[a-z0-9])?$")
 API_BASE = "https://api.github.com"
 GRAPHQL_URL = f"{API_BASE}/graphql"
 MERGE_PR_MESSAGE_RE = re.compile(r"Merge pull request #(\d+)")
+# 创作者发出的重开请求，以及审核成员发出的拒绝标签。两者都必须出现在评论开头，
+# 与客户端 app/logic/publish/review-status.ts 的 COMMENT_PATTERN 口径一致，
+# 避免评论里被引用（blockquote）的标签误触发。
+REOPEN_REQUEST_RE = re.compile(r"^\s*\[ABCC_REOPEN\]", re.IGNORECASE)
+REFUSE_TAG_RE = re.compile(r"^\s*\[ABCC_REFUSE\]", re.IGNORECASE)
 RETRY_BACKOFF_SECONDS = (1.0, 2.0, 4.0)
 RETRY_CAP_SECONDS = 15.0
 API_STATS = {"rest": 0, "graphql": 0}
@@ -103,12 +109,15 @@ class Request:
     base_catalog_commit: str | None
 
 
+def escape_annotation(message: str) -> str:
+    return message.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
+
+
 def annotation(message: str, file: str = CATALOG_PATH, line: int | None = None) -> None:
-    message = message.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
     location = f"file={file}"
     if line is not None:
         location += f",line={line}"
-    print(f"::error {location}::{message}")
+    print(f"::error {location}::{escape_annotation(message)}")
 
 
 def github_token() -> str:
@@ -944,6 +953,118 @@ def _print_summary(started_at: float, applied: int, skipped: int, errors: int) -
     )
 
 
+def list_issue_comments(pr_number: int, max_pages: int = 5) -> list[dict[str, Any]]:
+    repo = github_repo()
+    comments: list[dict[str, Any]] = []
+    for page in range(1, max_pages + 1):
+        batch = api_request(
+            "GET",
+            f"/repos/{repo}/issues/{pr_number}/comments?per_page=100&page={page}",
+        )
+        if not isinstance(batch, list):
+            break
+        comments.extend(batch)
+        if len(batch) < 100:
+            break
+    return comments
+
+
+def list_pull_reviews(pr_number: int, max_pages: int = 5) -> list[dict[str, Any]]:
+    repo = github_repo()
+    reviews: list[dict[str, Any]] = []
+    for page in range(1, max_pages + 1):
+        batch = api_request(
+            "GET",
+            f"/repos/{repo}/pulls/{pr_number}/reviews?per_page=100&page={page}",
+        )
+        if not isinstance(batch, list):
+            break
+        reviews.extend(batch)
+        if len(batch) < 100:
+            break
+    return reviews
+
+
+def submission_is_refused(pr_number: int) -> bool:
+    """PR 上只要出现过 [ABCC_REFUSE] 标签，就视为已被拒绝。
+
+    与客户端判定 refused 的口径保持一致（见 app/logic/publish/resources.ts）：
+    REFUSE 由审核成员通过 issue 评论发出，review 正文里也可能携带，因此两处都扫。
+    """
+    for comment in list_issue_comments(pr_number):
+        if REFUSE_TAG_RE.match((comment.get("body") or "").strip()):
+            return True
+    for review in list_pull_reviews(pr_number):
+        if REFUSE_TAG_RE.match((review.get("body") or "").strip()):
+            return True
+    return False
+
+
+def command_reopen_on_request() -> int:
+    """按创作者的 [ABCC_REOPEN] 请求代为重开 PR。
+
+    外部贡献者对组织仓库只有读权限，GitHub 不允许他们自己重开被维护者关闭的
+    PR（返回没有任何明细的 422）。这里由仓库自己的 GITHUB_TOKEN 执行重开，
+    避免同一个资源只能靠不断新建 PR 来更新。
+    """
+    event_path = os.environ.get("GITHUB_EVENT_PATH")
+    if not event_path or not Path(event_path).exists():
+        print("::warning::本地缺少 GITHUB_EVENT_PATH，跳过重开请求。")
+        return 0
+    try:
+        event = json.loads(Path(event_path).read_text(encoding="utf-8"))
+        issue = event.get("issue") if isinstance(event, dict) else None
+        comment = event.get("comment") if isinstance(event, dict) else None
+        if not isinstance(issue, dict) or not isinstance(comment, dict):
+            print("事件缺少 issue/comment 字段，跳过重开请求。")
+            return 0
+        if not issue.get("pull_request"):
+            print("非 PR 评论事件，跳过重开请求。")
+            return 0
+        body = (comment.get("body") or "").strip()
+        if not REOPEN_REQUEST_RE.match(body):
+            print("评论未以 [ABCC_REOPEN] 开头，跳过重开请求。")
+            return 0
+
+        pr_number = issue.get("number")
+        if not isinstance(pr_number, int):
+            raise SubmissionError("无法从 GitHub event 中读取 PR 编号。")
+
+        # 只有 PR 作者本人才能自助请求重开，避免评论者替别人的 PR 触发重开。
+        author = ((issue.get("user") or {}).get("login") or "").strip()
+        commenter = ((comment.get("user") or {}).get("login") or "").strip()
+        if not author or commenter.lower() != author.lower():
+            print(
+                f"重开请求必须由 PR 作者本人发出"
+                f"（作者 {author or '?'}、评论者 {commenter or '?'}），跳过。"
+            )
+            return 0
+
+        repo = github_repo()
+        pr = api_request("GET", f"/repos/{repo}/pulls/{pr_number}")
+        if not isinstance(pr, dict):
+            raise SubmissionError(f"无法读取 PR #{pr_number} 的状态。")
+        state = pr.get("state")
+        if state != "closed":
+            print(f"PR #{pr_number} 当前状态为 {state}，无需重开。")
+            return 0
+        if pr.get("merged_at"):
+            print(f"PR #{pr_number} 已合并，无法重开。")
+            return 0
+
+        # 被拒绝的资源不允许创作者自助重开，必须由维护者人工处理。
+        if submission_is_refused(pr_number):
+            print(f"PR #{pr_number} 已被 [ABCC_REFUSE] 拒绝，跳过自动重开。")
+            return 0
+
+        api_request("PATCH", f"/repos/{repo}/pulls/{pr_number}", {"state": "open"})
+        print(f"已按创作者请求重新打开 PR #{pr_number}。")
+        return 0
+    except SubmissionError as exc:
+        print(f"::error::{escape_annotation(str(exc))}")
+        return 1
+
+
 def main() -> int:
     command = sys.argv[1] if len(sys.argv) > 1 else "validate-index"
     if command == "validate-index":
@@ -952,6 +1073,8 @@ def main() -> int:
         return command_validate_pr()
     if command == "apply-pending":
         return command_apply_pending()
+    if command == "reopen-on-request":
+        return command_reopen_on_request()
     print(f"未知命令：{command}")
     return 2
 
