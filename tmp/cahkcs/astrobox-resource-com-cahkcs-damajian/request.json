@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.cahkcs.damajian",
+  "base_entry_digest": "ac44c4734c064944730f2ce26bf22ae206d914be145c5f0992928382a1b43996",
+  "base_catalog_commit": "9260319c491b81aeed25eab0a86a74dd1e7a0555",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
