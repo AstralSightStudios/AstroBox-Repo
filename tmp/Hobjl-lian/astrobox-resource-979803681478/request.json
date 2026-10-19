@@ -5,9 +5,9 @@
   "base_entry_digest": null,
   "base_catalog_commit": "83ef00ac8e328ad4a40b7a1e9487967b24aa7f18",
   "client": {
-    "version": "panfang-batch-1.0",
-    "git_commit_hash": "local",
-    "build_time": "2026-10-18T07:17:15Z",
-    "build_user": "Hobjl"
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
   }
 }
