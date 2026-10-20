@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.sixone.beings,众生,quick_app,SixOneTeam,astrobox-resource-com-sixone-beings,8625200,media/logo@1x.png,media/众生@2x.png,众生;sixone;游戏;付费,xiaomi,xmrw5xring;xmrw5;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
