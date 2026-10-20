@@ -377,5 +377,136 @@ class EarlyExitTests(unittest.TestCase):
         self.assertEqual(rs.API_STATS["graphql"], 0)
 
 
+class ReopenOnRequestTests(unittest.TestCase):
+    """[ABCC_REOPEN] 评论触发的「仓库代创作者重开」逻辑。"""
+
+    def setUp(self) -> None:
+        rs.API_STATS.update(rest=0, graphql=0)
+        env = mock.patch.dict(
+            os.environ, {"GITHUB_TOKEN": "t", "GITHUB_REPOSITORY": "o/r"}
+        )
+        env.start()
+        self.addCleanup(env.stop)
+        os.environ.pop("GITHUB_EVENT_PATH", None)
+
+        self._files: list[str] = []
+        self.calls: list[tuple[str, str]] = []
+        self.pull: dict = {"state": "closed", "merged_at": None}
+        self.comments: list[dict] = []
+        self.reviews: list[dict] = []
+        patcher = mock.patch.object(rs, "api_request", self._route)
+        patcher.start()
+        self.addCleanup(patcher.stop)
+
+    def tearDown(self) -> None:
+        for name in self._files:
+            Path(name).unlink(missing_ok=True)
+        os.environ.pop("GITHUB_EVENT_PATH", None)
+
+    def _route(self, method: str, path: str, body: object = None) -> object:
+        self.calls.append((method, path))
+        if "/comments" in path:
+            return self.comments
+        if "/reviews" in path:
+            return self.reviews
+        if method == "GET":
+            return self.pull
+        return {"state": "open"}
+
+    def write_event(
+        self,
+        body: str = "[ABCC_REOPEN] 创作者请求重开",
+        commenter: str = "alice",
+        author: str = "alice",
+        is_pr: bool = True,
+    ) -> None:
+        issue: dict = {"number": 1, "user": {"login": author}}
+        if is_pr:
+            issue["pull_request"] = {"url": "https://api.github.com/pulls/1"}
+        payload = {
+            "issue": issue,
+            "comment": {"body": body, "user": {"login": commenter}},
+        }
+        file = tempfile.NamedTemporaryFile("w", suffix=".json", delete=False)
+        json.dump(payload, file)
+        file.close()
+        self._files.append(file.name)
+        os.environ["GITHUB_EVENT_PATH"] = file.name
+
+    def patches(self) -> list[tuple[str, str]]:
+        return [call for call in self.calls if call[0] == "PATCH"]
+
+    def test_author_request_reopens_closed_pr(self) -> None:
+        self.write_event()
+        self.assertEqual(rs.command_reopen_on_request(), 0)
+        self.assertIn(("PATCH", "/repos/o/r/pulls/1"), self.patches())
+
+    def test_non_author_request_is_ignored(self) -> None:
+        self.write_event(commenter="bob")
+        self.assertEqual(rs.command_reopen_on_request(), 0)
+        self.assertEqual(self.patches(), [])
+
+    def test_merged_pr_is_not_reopened(self) -> None:
+        self.pull = {"state": "closed", "merged_at": "2026-10-10T00:00:00Z"}
+        self.write_event()
+        self.assertEqual(rs.command_reopen_on_request(), 0)
+        self.assertEqual(self.patches(), [])
+
+    def test_already_open_pr_is_skipped(self) -> None:
+        self.pull = {"state": "open", "merged_at": None}
+        self.write_event()
+        self.assertEqual(rs.command_reopen_on_request(), 0)
+        self.assertEqual(self.patches(), [])
+
+    def test_refused_pr_is_not_reopened(self) -> None:
+        self.comments = [{"body": "[ABCC_REFUSE] 头图质量过低"}]
+        self.write_event()
+        self.assertEqual(rs.command_reopen_on_request(), 0)
+        self.assertEqual(self.patches(), [])
+
+    def test_refuse_in_review_body_blocks_reopen(self) -> None:
+        self.reviews = [{"state": "CHANGES_REQUESTED", "body": "[ABCC_REFUSE] 拒绝"}]
+        self.write_event()
+        self.assertEqual(rs.command_reopen_on_request(), 0)
+        self.assertEqual(self.patches(), [])
+
+    def test_non_pr_comment_is_ignored(self) -> None:
+        self.write_event(is_pr=False)
+        self.assertEqual(rs.command_reopen_on_request(), 0)
+        self.assertEqual(self.patches(), [])
+
+    def test_unrelated_comment_is_ignored(self) -> None:
+        self.write_event(body="这个资源什么时候能过？")
+        self.assertEqual(rs.command_reopen_on_request(), 0)
+        self.assertEqual(self.patches(), [])
+
+    def test_quoted_tag_is_ignored(self) -> None:
+        self.write_event(body="> [ABCC_REOPEN] 别人引用过的标签")
+        self.assertEqual(rs.command_reopen_on_request(), 0)
+        self.assertEqual(self.patches(), [])
+
+    def test_missing_event_path_is_not_an_error(self) -> None:
+        self.assertEqual(rs.command_reopen_on_request(), 0)
+        self.assertEqual(self.patches(), [])
+
+    def test_patch_failure_returns_error(self) -> None:
+        self.write_event()
+
+        def failing_route(method: str, path: str, body: object = None) -> object:
+            if method == "PATCH":
+                raise rs.SubmissionError("GitHub API 422 /pulls/1")
+            return self._route(method, path, body)
+
+        with mock.patch.object(rs, "api_request", failing_route):
+            self.assertEqual(rs.command_reopen_on_request(), 1)
+
+    def test_main_dispatches_reopen_command(self) -> None:
+        with mock.patch.object(
+            rs, "command_reopen_on_request", return_value=0
+        ) as command, mock.patch.object(sys, "argv", ["prog", "reopen-on-request"]):
+            self.assertEqual(rs.main(), 0)
+        command.assert_called_once_with()
+
+
 if __name__ == "__main__":
     unittest.main()
