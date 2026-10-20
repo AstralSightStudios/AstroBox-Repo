@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.sixone.sheep_sheep",
+  "base_entry_digest": "db7e2a33c3954aaaae180d98cd3f05cf071f2f15d75cfea0750832c2322d858e",
+  "base_catalog_commit": "b164b8e3ebb44a3630374ee887fbcea14ea06657",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
