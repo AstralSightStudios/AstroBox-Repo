@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.sixone.masterLockpicker",
+  "base_entry_digest": "9919a1549d2b522d397b48b26db4e13f7b70ed6721dcb0522725d92103e33cbb",
+  "base_catalog_commit": "8bca57b82d0fbdae4973ce50ed86fe2bac1206c6",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
