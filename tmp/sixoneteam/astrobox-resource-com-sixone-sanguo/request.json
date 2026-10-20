@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.sixone.sanguo",
+  "base_entry_digest": "300a0bb1fa1c33391dcc9d590079c2b768b2855ea1e27d52ef5bef8eb5b8398e",
+  "base_catalog_commit": "044dd218ba070be1df6c373236d76a106928da9c",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
