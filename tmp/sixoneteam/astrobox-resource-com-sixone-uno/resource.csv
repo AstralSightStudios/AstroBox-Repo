@@ -1,2 +1,0 @@
-id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.sixone.uno,UNO,quick_app,SixOneTeam,astrobox-resource-com-sixone-uno,e87b636,media/APPicon×100@1x.png,media/UNO@2x.png,UNO;卡牌;桌游;sixone;付费;小米手环,xiaomi,xmrw5;xmrw5xring;xmb10;xmb10nfc;xmrw6;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
