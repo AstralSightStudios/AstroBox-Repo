@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979877290111,图文模块Pro,watchface,Qiqi29,astrobox-resource-979877290111,1ff319b,media/图标 300w.png,media/封面图 900x600.png,简洁;自定义;Watch;模块;高级;Apple,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
