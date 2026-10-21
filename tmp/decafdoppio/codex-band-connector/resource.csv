@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.local.codexband,Codex Band Connector,quick_app,DecafDoppio,Codex-Band-Connector,af666c0,media/icon.png,media/cover-a-dark-under-1mb.jpg,Codex;AI;开发工具,xiaomi,xmb11;xmb11nfc,
+com.local.codexband,Codex Band Connector,quick_app,DecafDoppio,Codex-Band-Connector,4050dc3,media/icon.png,media/屏幕截图 2026-10-21 031919.jpg,Codex;AI;开发工具;效率工具;授权,xiaomi,xmb11;xmb11nfc;xmb10;xmb10nfc,
