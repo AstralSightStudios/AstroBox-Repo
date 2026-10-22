@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979868337215,SIGNAL LAMPS,watchface,DevonStee,astrobox-resource-979868337215,daa98d7,media/01-图标-1比1.png,media/02-封面-3比2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;红绿灯;信号灯;交通灯;LED;点阵;秒数;电量;黑色;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
