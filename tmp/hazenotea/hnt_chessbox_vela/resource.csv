@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.hazenotea.chessbox.watch,天空棋盒,quick_app,HazeNoTea,HNT_ChessBox_vela,4b77ed7,media/天空棋盒logo.png,media/大图.png,策略;棋盘;对战,xiaomi,xmrw5;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4xring;xmws441;xmws4;xmrw6,
