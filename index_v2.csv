@@ -180,7 +180,6 @@ com.hanyu.ai,腕语,quick_app,hanyu12138,AI-Chat-AB,104112a,media/logo.png,media
 com.zb26.cc.mfstd.darkzonewalker,暗区行者,quick_app,jinmohan,AQXZ-ABRelease,d5e1bf9,media/logo.png,media/preview.png,休闲;游戏;解压;设计,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9,force_paid
 com.HNTGameBox.watch.demo,HNT游戏盒,quick_app,HazeNoTea,HNTGameBox,6a91241,media/256px.png,media/雷霆的手搓海报.png,游戏,xiaomi,xmb10;xmb10p,
 io.github.mcxcc303.dsband.band,DSBand,quick_app,MCXCC303,astrobox-resource-io-github-mcxcc303-dsband-band,9288675,media/logo.png,media/cover2-reg-cmp.png,DeepSeek,xiaomi,xmb10;xmb10nfc;xmb9;xmb10p;xmb9p,
-com.hachimi.watch.catsforce,哈基米行动,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-catsforce,925771a,media/logo.png,media/cover.png,游戏;搜打撤,xiaomi,xmb9p;xmb10p;xmb10;xmb9;xmrw5;xmrw5xring;xmrw6;xmb10nfc,force_paid
 com.mood.tracker,静心轨迹,quick_app,LR-C11,moodpress,acd36b4,media/logo.png,media/海报 (9).png,心情;小程序,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
 com.dswatch.periodreminder,DS Watch（梁表）,quick_app,rufus-fan,astrobox-projects,5858f9a,media/icon.png,media/头图.png,deepseek;梁子;梁文峰;变祖器,xiaomi,xmb10p,
 com.watch.dic,腕上词典,quick_app,pcai7296,com.watch.dic_AstroBox_Release,7966e1a,media/logo.png,cover.png,离线;英语;学习;词典;免费,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p;xmws4;xmrw5;xmrw5xring;xmrw6;xmb10p,
@@ -458,3 +457,4 @@ com.hazenotea.chessbox.watch,天空棋盒,quick_app,HazeNoTea,HNT_ChessBox_vela,
 979826102301,纸上日历,watchface,jianding24,paper-calendar-watchface-astrobox-release,3b11bf3fcd9a939d5e61d890fc6f72f4eaf37a92,media/icon.png,media/cover.jpg,免费;日历;纸质;版画,xiaomi,xmb9;xmb10;xmb11;xmb9p;xmb10p;xmrw6,
 com.awu.watch.petcolumnsort,萌宠归队,quick_app,jianding24,pet-column-sort-astrobox-release,dd03010,media/icon.png,media/cover.jpg,萌宠;益智;归队;闯关;无尽;猜队;表盘联动;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6;xmb11;xmb11nfc,force_paid
 com.hachimi.watch.thatsnotmyneighbor,那不是我的邻居,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-thatsnotmyneighbor,c5544ef,media/icon-round.png,media/tnmn-cover-3x2-v2.jpg,游戏;悬疑;推理;伪人;娱乐,xiaomi,xmrw5;xmrw6;xmb10;xmb10p;xmb11;xmb9p;xmb9;xmrw5xring,paid
+com.hachimi.watch.catsforce,哈基米行动,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-catsforce,9c4c6f0,media/logo.png,media/cover.png,游戏;搜打撤;fps;娱乐,xiaomi,xmb9p;xmb10p;xmb10;xmb9;xmrw5;xmrw5xring;xmrw6;xmb10nfc;xmb11,force_paid
