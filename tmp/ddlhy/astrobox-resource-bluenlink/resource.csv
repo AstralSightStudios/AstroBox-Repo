@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+Bluenlink,Bluenlink,canopus,DDlhy,astrobox-resource-bluenlink,090e1fe,media/icon.png,media/20261022-181553 (1)-tuya.png,原生;工具;聊天;通信,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
