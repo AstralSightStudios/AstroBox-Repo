@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979884318704,Bluenlink,watchface,DDlhy,astrobox-resource-979884318704,def6a27,media/icon.png,media/preview-tuya.png,原生;工具;聊天;通信,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
