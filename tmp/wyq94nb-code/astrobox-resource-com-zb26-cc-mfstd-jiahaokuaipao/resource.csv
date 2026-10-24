@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.zb26.cc.mfstd.jiahaokuaipao,嘉豪快跑,quick_app,wyq94nb-code,astrobox-resource-com-zb26-cc-mfstd-jiahaokuaipao,05d3751,media/logo.png,media/封面.png,游戏;小程序;跑酷,xiaomi,xmrw5;xmrw6;xmb10;xmb10p;xmb11;xmb9;xmb9p,force_paid
