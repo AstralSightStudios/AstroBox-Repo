@@ -306,7 +306,6 @@ app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-k
 979825266002,倒数日 表盘,watchface,sf-yuzifu,Daymatter_Watchface_AstroBox_Release,9e77647,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程;表盘,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws5;xmws3;xmb11;xmb11nfc;xmws541,
 cupertino,图标包 Cupertino,res_pack,hrsthrt74,cupertino-iconpack-for-astrobox,c4483d7,media/icon.png,media/cover (1).png,苹果;iOS;拟物;复刻;还原;图标包;图标,xiaomi,xmb11;xmb10p;xmb11nfc,force_paid
 com.cakeal.speedometer,速度计,quick_app,CakeAL,astrobox-resource-com-cakeal-speedometer,1dcb8d3,media/icon小.png,media/speedometer-cover.png,GPS;速度计;gpx;测速,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmws4xring;xmws441;xmws4;xmws541;xmws5,
-com.kjsjksjsjaiwjjw.chess,国际象棋,quick_app,33520276q-dotcom,vale2,f511df0,media/icon.png,media/1790348009703.jpg,游戏;快应用;免费,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws3;xmb10p;xmb9p;xmws5;xmb9;xmb10;xmb10nfc;xmb11;xmb11nfc,
 979877290311,桌搭时钟,watchface,Qiqi29,astrobox-resource-979877290311,70d7fda,media/图标 300w.png,media/封面图 900x600.png,简洁;大数字;多色;横屏;自定义,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 979817595841,分度,watchface,imwjh,astrobox-resource-979817595841,932c320,media/face-active-256.png,media/cover-type_结果.png,大数字;简约;极简;AOD;创意,xiaomi,xmrw6,
 moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,0bad36f,logo.png,media/1.png,独立;免费体验;天气;Eternal;MCNS,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmb10p;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441;xmb11;xmb11nfc;xmws541,paid
@@ -461,3 +460,4 @@ com.taskschd.dfwatch,三角洲行动,quick_app,taskschd1145,astrobox-resource-co
 com.qianse.band,茜色,quick_app,mcpotato1123,astrobox-resource-com-qianse-band,4388708,media/icon.png,media/主界面_封面+标题_1920x1080.jpg,Galgame;茜色;游戏;土豆,xiaomi,xmb9p,
 io.github.micasiliconneko.hikoto,一言,quick_app,MicaSiliconNeko,YiYan_miband,c952831,media/icon-E2-mid.png,media/一言-封面.png,文本;快应用;一言,xiaomi,xmb10p;xmb9p,
 com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-parsecs,64462c0,media/logo.png,media/60秒太空避难所.png,60秒避难所;游戏;60,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9;vivowgt2,force_paid
+com.kjsjksjsjaiwjjw.chess,国际象棋,quick_app,33520276q-dotcom,vale2,ec5ac0a,media/icon.png,media/1790348009703.jpg,游戏;快应用;免费,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws3;xmb10p;xmb9p;xmws5,
