@@ -3,11 +3,6 @@
   "mode": "edit",
   "original_id": "979801230201",
   "base_entry_digest": "f2af31c4251833937706f06d46d4db8dde105a17c33cf0c40dfead7db7d06ffe",
-  "base_catalog_commit": "69f8f5e03bb575e8dacbd5ff5b91d320fe9adfb8",
-  "client": {
-    "version": "0.4.0",
-    "git_commit_hash": "14c1c8b",
-    "build_time": "2026-10-03T19:11:15.648352300+08:00",
-    "build_user": "runneradmin"
-  }
+  "base_catalog_commit": "99bcaf39ccd342e9ba301568c519bd174ce3d5bc",
+  "client": null
 }
