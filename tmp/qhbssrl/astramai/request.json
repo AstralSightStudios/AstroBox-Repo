@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.astranexus.astramai",
+  "base_entry_digest": "36bc2f5fcbc11e1ef8f42de6cd30138d594145dd4993733b90b8c59a915c7b59",
+  "base_catalog_commit": "18f19d33aea6e83a6433bc8286cb0026d4892506",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
