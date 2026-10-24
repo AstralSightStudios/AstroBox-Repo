@@ -318,7 +318,6 @@ com.openblack.mahjong-next,麻将,quick_app,dm1366631,astrobox-resource-com-open
 979884464109,ELLOTHING,watchface,SL9325,979884464109_AstroBox_Release,210563b,media/50374.png,media/62761.png,SL9325;SLWF;显秒;自定义;多配色;多样式;跳转;步数;天气;温度;压力;心率;相册表盘,xiaomi,xmb10p;xmb9p,
 com.reid.Pomodoro,Pomodoro,quick_app,ReidPu,astrobox-resource-com-reid-pomodoro,540b2f2,media/logo.png,media/pomodoro_cover_flow_master.jpg,番茄钟;专注;自我提升,xiaomi,xmws3;xmws4,
 com.luoluo.kingdom.watch,洛洛王国,quick_app,x18336533511,astrobox-resource-com-luoluo-kingdom-watch,6c236f8,media/洛洛王国-应用图标-500x500.png,media/洛洛王国-封面-3比2-小于1MB.jpg,游戏;宠物养成;洛克王国同人;免费,xiaomi,xmb9p;xmb10p,
-com.hazenotea.pvz.watch,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,f7ffa11,media/logo-256.png,media/全新雷霆大图1200x800.png,游戏;塔防;策略,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmws4xring;xmws4;xmws441;xmb10p;xmb11nfc;xmb11;xmb9;xmb9p,paid
 com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-seconds,02c2d80,media/logo.png,media/60秒避难所.png,游戏;避难所;60秒避难所,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9;xmb11;xmb11nfc;vivowgt2,force_paid
 com.cahkcs.toxun,传输助手,quick_app,cahkcs,MapWire,3f7d828,media/logo.png,media/chuanshuzhushou_cover_1200x800.jpg,传输;通讯;九号电动车;工具,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 979886788161,PASTEL BOLD,watchface,DevonStee,astrobox-resource-979886788161,54246b0,media/01-图标-1比1.png,media/02-封面-3比2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;叠字;粉彩;大数字;圆润字体;多色;长屏;简约设计;Pixel,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
@@ -461,3 +460,4 @@ com.qianse.band,茜色,quick_app,mcpotato1123,astrobox-resource-com-qianse-band,
 io.github.micasiliconneko.hikoto,一言,quick_app,MicaSiliconNeko,YiYan_miband,c952831,media/icon-E2-mid.png,media/一言-封面.png,文本;快应用;一言,xiaomi,xmb10p;xmb9p,
 com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-parsecs,64462c0,media/logo.png,media/60秒太空避难所.png,60秒避难所;游戏;60,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9;vivowgt2,force_paid
 com.kjsjksjsjaiwjjw.chess,国际象棋,quick_app,33520276q-dotcom,vale2,ec5ac0a,media/icon.png,media/1790348009703.jpg,游戏;快应用;免费,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws3;xmb10p;xmb9p;xmws5,
+com.hazenotea.pvz.watch,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,14bf405,media/logo-256.png,media/全新雷霆大图1200x800.png,游戏;塔防;策略,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmws4xring;xmws4;xmws441;xmb10p;xmb11nfc;xmb11;xmb9;xmb9p,paid
