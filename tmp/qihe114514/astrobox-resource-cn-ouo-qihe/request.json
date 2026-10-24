@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "cn.ouo.qihe",
+  "base_entry_digest": "1d54452688ccdddfc8560fc436a6e2799b1d1f1ce7de9327e0ffb1b8d3518f99",
+  "base_catalog_commit": "18f19d33aea6e83a6433bc8286cb0026d4892506",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "00d4f8a",
+    "build_time": "2026-10-23T01:00:24.098975400+08:00",
+    "build_user": "runneradmin"
+  }
+}
