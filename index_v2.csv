@@ -403,7 +403,6 @@ com.sixone.beings,众生,quick_app,SixOneTeam,astrobox-resource-com-sixone-being
 com.sixone.uno,UNO,quick_app,SixOneTeam,astrobox-resource-com-sixone-uno,e87b636,media/APPicon×100@1x.png,media/UNO@2x.png,UNO;卡牌;桌游;sixone;付费;小米手环,xiaomi,xmrw5;xmrw5xring;xmb10;xmb10nfc;xmrw6;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 com.yzf.daymatter,倒数日 快应用,quick_app,sf-yuzifu,Daymatter_Quickapp_AstroBox_Release,db23b70,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmws5;xmws3;xmb11;xmb11nfc;xmws541,
 com.hiddenmode.sixone.hobjl,伪装模式,quick_app,SixOneTeam,astrobox-resource-com-hiddenmode-sixone-hobjl,81a3243,media/100_100@1x.png,media/伪装模式@2x.png,伪装模式;sixone;小程序;小米手环;付费,xiaomi,xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,force_paid
-minecraft-native,我的世界,canopus,andros92,astrobox-resource-minecraft-native,f21e9fa,media/icon.png,media/cover.png,游戏;3D;我的世界,xiaomi,xmb10p;xmb9p,force_paid
 com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrobox,ce6d02a,media/icon.png,media/cover-cartoon-long.jpg,游戏;赛车;漂移;重力感应;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb11;xmb9;xmrw5;xmb10nfc;xmb11nfc,
 com.sixone.LiarBar,骗子酒馆,quick_app,SixOneTeam,astrobox-resource-com-sixone-liarbar,9d1d656,media/app logo@4x.png,media/骗子酒馆@2x.png,骗子酒馆;卡牌;桌游;游戏;sixone;付费;小米手环,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,force_paid
 979815595337,Truck Tick,watchface,imwjh,astrobox-resource-979815595337,ff4a3db,media/preview-256.png,media/cover-truck-tick-3000x2000_结果_结果.png,大数字;简约;设计;极简;seegood,xiaomi,xmrw6,
@@ -462,3 +461,4 @@ com.hazenotea.pvz.watch,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_
 979821130209,波普圆点,watchface,imwjh,astrobox-resource-979821130209,0c0a0c6,media/face-256.png,media/cover_2160x1440.png,指针;艺术;高饱和;数字;设计;seegood,xiaomi,xmrw6,
 com.astranexus.astramai,AstraMai,quick_app,QHBSSrl,AstraMai,479278a,media/icon.png,media/7DE50FD6AC346BEEB0951B76792DEB32 (自定义).png,街机音游;舞萌DX;中二节奏;Phigros;osu!,xiaomi,xmrw5xring;xmrw5;xmrw6;xmb9p;xmb10p,
 cn.ouo.qihe,OuO,quick_app,qihe114514,astrobox-resource-cn-ouo-qihe,7040c09,media/icon.png,media/幻灯片1.PNG,桌宠;游戏;OuO;可爱;表情;互动;触摸;横屏;多设备,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
+minecraft-native,我的世界,canopus,andros92,astrobox-resource-minecraft-native,7635bd3,media/icon.png,media/cover.png,游戏;3D;我的世界,xiaomi,xmb10p;xmb9p;xmb9,force_paid
