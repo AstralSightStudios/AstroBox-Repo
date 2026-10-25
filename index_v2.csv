@@ -399,7 +399,6 @@ com.sixone.beings,众生,quick_app,SixOneTeam,astrobox-resource-com-sixone-being
 com.sixone.uno,UNO,quick_app,SixOneTeam,astrobox-resource-com-sixone-uno,e87b636,media/APPicon×100@1x.png,media/UNO@2x.png,UNO;卡牌;桌游;sixone;付费;小米手环,xiaomi,xmrw5;xmrw5xring;xmb10;xmb10nfc;xmrw6;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 com.yzf.daymatter,倒数日 快应用,quick_app,sf-yuzifu,Daymatter_Quickapp_AstroBox_Release,db23b70,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmws5;xmws3;xmb11;xmb11nfc;xmws541,
 com.hiddenmode.sixone.hobjl,伪装模式,quick_app,SixOneTeam,astrobox-resource-com-hiddenmode-sixone-hobjl,81a3243,media/100_100@1x.png,media/伪装模式@2x.png,伪装模式;sixone;小程序;小米手环;付费,xiaomi,xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,force_paid
-com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrobox,ce6d02a,media/icon.png,media/cover-cartoon-long.jpg,游戏;赛车;漂移;重力感应;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb11;xmb9;xmrw5;xmb10nfc;xmb11nfc,
 com.sixone.LiarBar,骗子酒馆,quick_app,SixOneTeam,astrobox-resource-com-sixone-liarbar,9d1d656,media/app logo@4x.png,media/骗子酒馆@2x.png,骗子酒馆;卡牌;桌游;游戏;sixone;付费;小米手环,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,force_paid
 979815595337,Truck Tick,watchface,imwjh,astrobox-resource-979815595337,ff4a3db,media/preview-256.png,media/cover-truck-tick-3000x2000_结果_结果.png,大数字;简约;设计;极简;seegood,xiaomi,xmrw6,
 com.liuyuze61.otto,石面棍哥,quick_app,SixOneTeam,astrobox-resource-com-liuyuze61-otto,d5bf0e0,media/logo.png,media/石面棍哥@2x.png,石面棍哥;闯关;sixone;小米手环;游戏;付费,xiaomi,xmb9p,force_paid
@@ -463,3 +462,4 @@ com.ppyycc.dict,DICT英汉词典,quick_app,ppyycc-ppc,vela_astrobox_DICT_bandpro
 com.h.studycemf,腕上学习,quick_app,henrrybyhao,astrobox-resource-com-h-studycemf,bbf790f,media/图标.png,media/11_米色文字精排版_compressed.png,学习;语文;英语;腕上学习;学习盒子;古诗词;单词,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
 com.hazenotea.cardbox.watch,天空牌盒,quick_app,HazeNoTea,HNT_CardBox_vela,5a013c8,media/logo256.png,media/大图.png,卡牌;策略;对战,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4xring;xmws441;xmws4,
 979883425857,双行数字Pro,watchface,yamu81663-dot,Numeral_Duo_Pro,9ef9eee,media/无标题26_20261025155059.png,media/BC1ABEC81935251F7C7938C1466E88D4.jpg,简约;大数字;多色,xiaomi,xmb9p;xmb10p,
+com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrobox,b0bf4b5,media/icon.png,media/cover-cartoon-long.jpg,游戏;赛车;漂移;重力感应;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb11;xmb9;xmrw5;xmb10nfc;xmb11nfc,
