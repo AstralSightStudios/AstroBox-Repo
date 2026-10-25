@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.h.studycemf",
+  "base_entry_digest": "2a3c3e48ee9514d05bb1db6f438868bcb8fd4907666de51767c64c13395d6fdb",
+  "base_catalog_commit": "05720ae024317aa9e9289bfadfb8dc0f524c4b16",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "00d4f8a",
+    "build_time": "2026-10-23T01:00:24.098975400+08:00",
+    "build_user": "runneradmin"
+  }
+}
