@@ -193,7 +193,6 @@ com.local.brainfucklearner,Brainfuck编辑器,quick_app,Rubbishzzz,astrobox-reso
 cn.seedsoft.tmtclock,番茄钟,quick_app,virelyx258,astrobox-resource-cn-seedsoft-tmtclock,ced1d30,media/193e095c-d954-4006-b424-4e4b5b94de38.png,media/0b339e30-9bc2-4946-b884-9ddb188ad80f.png,学习;生活,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws441;xmws4xring;xmws4;xmws5;xmws3,
 979832764968,白笺,watchface,YcFeller,astrobox-resource-979832764968,a8f130f,media/容器 17.png,media/白笺_一纸清影，少女心事 (2).png,免费;二次元;相册表盘,xiaomi,xmb10p;xmb9p,
 com.cyberdice,CyberDice,quick_app,cgl-sd,CyberDice,22e3948,media/cyberdice-app-icon.png,media/cyberdice-cover.png,聚会娱乐;赛博骰子,xiaomi,xmb9;xmb10nfc;xmb10;xmb10p;xmb9p,
-moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_Release,e5378e6,logo (1).png.png,封面.png,邮件;独立,xiaomi,xmws3;xmws4;xmws4xring;xmrw5xring;xmrw5;xmws441;xmrw6;xmws5;xmb9p;xmb10p,force_paid
 979878518191,经典 91,watchface,Cannyworks29,Classic91,d0c5d34,media/方形 logo.png,media/_8256680-2.jpg,卡西欧;经典;F91W;模拟;数字屏幕;复古;液晶;相册表盘,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6;xmws5,
 979812002126,Smart Home,watchface,mehtmls,SmartHome-Astrobox,0fb1c6a,media/icon.jpg,media/头图 - SmartHome.png,工具;表盘;lua表盘;系统;截图;表盘管理;免费,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p;xmb10p;xmb11;xmb11nfc,
 com.yan.maimaidx,舞萌B50,quick_app,lu0047,astrobox-resource-com-yan-maimaidx,43d2846,media/OIP-C.webp,media/23911_compressed (1)..png,舞萌;查分,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
@@ -463,3 +462,4 @@ com.hazenotea.cardbox.watch,天空牌盒,quick_app,HazeNoTea,HNT_CardBox_vela,5a
 com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrobox,b0bf4b5,media/icon.png,media/cover-cartoon-long.jpg,游戏;赛车;漂移;重力感应;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb11;xmb9;xmrw5;xmb10nfc;xmb11nfc,
 com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,c25365e,media/show_icon.png,media/cover-1.png,课程表;悬浮tab;简约课表,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc;xmrw5;xmrw6;xmrw5xring;xmb9;xmb9p,
 979883425857,双行数字Pro,watchface,yamu81663-dot,Numeral_Duo_Pro,694d49d,media/无标题26_20261025155059.png,media/无标题18_20261025183135.png,简约;大数字;多色,xiaomi,xmb9p;xmb10p,
+moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_Release,397947b,media/30482.png,封面.png,邮件;独立;验证码;短信;消息;通知,xiaomi,xmws3;xmws4;xmws4xring;xmrw5xring;xmrw5;xmws441;xmrw6;xmws5;xmb9p;xmb10p,force_paid
