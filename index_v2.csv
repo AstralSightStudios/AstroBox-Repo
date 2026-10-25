@@ -310,7 +310,6 @@ moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Re
 com.awu.watch.petpal,喵伴,quick_app,jianding24,miaoban-astrobox-release,7ebe468,media/icon.png,media/cover.jpg,喵伴;小猫;宠物;养成;治愈;装饰;小游戏;表盘联动;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6;xmb11;xmb11nfc,force_paid
 com.Dreamqiu.disease,瘟疫公司,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-disease,b428b03,media/logo.png,media/瘟疫公司 (2) 2.png,游戏;瘟疫公司;小程序,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb11;xmb10p;xmb11nfc;xmb9;xmb9p,force_paid
 979845270374,Xr黑白质感表盘,watchface,YcFeller,astrobox-resource-979845270374,1fddc1f,media/画板 10.png500px.png,media/Xr黑白质感表盘-宣传海报-1200_800 1.png,多组件表盘;质感;寻日,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
-com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,9d0b12e,media/show_icon.png,media/cover-1.png,课程表;悬浮tab;简约课表,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc;xmrw5;xmrw6;xmrw5xring;xmb9;xmb9p,
 com.openblack.mahjong-next,麻将,quick_app,dm1366631,astrobox-resource-com-openblack-mahjong,ff49eec,media/icon.png,media/cover.png,游戏,xiaomi,xmb10nfc;xmb10;xmb10p;xmb11;xmb11nfc,
 979866636875,此刻,watchface,SL9325,979866636875_AstroBox_Release,a4e1cb0,图标.png,PSX_20260725_105012.jpg,SL9325;SLWF;极简;简约;黑白灰;表盘,xiaomi,xmb10p;xmb9p,
 979884464109,ELLOTHING,watchface,SL9325,979884464109_AstroBox_Release,210563b,media/50374.png,media/62761.png,SL9325;SLWF;显秒;自定义;多配色;多样式;跳转;步数;天气;温度;压力;心率;相册表盘,xiaomi,xmb10p;xmb9p,
@@ -461,5 +460,6 @@ com.ppyycc.dict,DICT英汉词典,quick_app,ppyycc-ppc,vela_astrobox_DICT_bandpro
 979859530701,米环管理/米表管理,watchface,OnDriveLine,astrobox-resource-979859530701,a96e92a,media/icon.png,media/容器 475.png,工具;管理;米环管理;米表管理,xiaomi,xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,
 com.h.studycemf,腕上学习,quick_app,henrrybyhao,astrobox-resource-com-h-studycemf,bbf790f,media/图标.png,media/11_米色文字精排版_compressed.png,学习;语文;英语;腕上学习;学习盒子;古诗词;单词,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
 com.hazenotea.cardbox.watch,天空牌盒,quick_app,HazeNoTea,HNT_CardBox_vela,5a013c8,media/logo256.png,media/大图.png,卡牌;策略;对战,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4xring;xmws441;xmws4,
-979883425857,双行数字Pro,watchface,yamu81663-dot,Numeral_Duo_Pro,9ef9eee,media/无标题26_20261025155059.png,media/BC1ABEC81935251F7C7938C1466E88D4.jpg,简约;大数字;多色,xiaomi,xmb9p;xmb10p,
 com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrobox,b0bf4b5,media/icon.png,media/cover-cartoon-long.jpg,游戏;赛车;漂移;重力感应;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb11;xmb9;xmrw5;xmb10nfc;xmb11nfc,
+com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,c25365e,media/show_icon.png,media/cover-1.png,课程表;悬浮tab;简约课表,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc;xmrw5;xmrw6;xmrw5xring;xmb9;xmb9p,
+979883425857,双行数字Pro,watchface,yamu81663-dot,Numeral_Duo_Pro,694d49d,media/无标题26_20261025155059.png,media/无标题18_20261025183135.png,简约;大数字;多色,xiaomi,xmb9p;xmb10p,
