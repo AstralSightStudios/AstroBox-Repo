@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "top.zeora.band.metronome",
+  "base_entry_digest": "14027e3a8a446ce36ae9aaabe779ce08613f474dde7ee95487fcd78f9fa6cd90",
+  "base_catalog_commit": "e69377858a725403ef80717bb79de9566394becb",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:10:01.713642+08:00",
+    "build_user": "runner"
+  }
+}
