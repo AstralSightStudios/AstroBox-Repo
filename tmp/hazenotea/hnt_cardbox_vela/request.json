@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.hazenotea.cardbox.watch",
+  "base_entry_digest": "bdb542c9a05576b53ed280788cbd6375f4b143d097239ade71ef8b51a41deb18",
+  "base_catalog_commit": "fb327dc926a300b98f2b6b7e64ec7c9f39c8267c",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
