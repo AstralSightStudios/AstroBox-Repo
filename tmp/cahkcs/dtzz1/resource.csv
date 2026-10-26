@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.cahkcs.dituzhanchang,地图战争,quick_app,cahkcs,dtzz1,51de4a1,media/logo.png,media/map_war_official_cover.png,策略;战术;方块;排行榜;蓝牙;模拟;历史;战争,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10p;xmb10nfc;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
