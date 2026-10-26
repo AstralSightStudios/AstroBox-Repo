@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.luoluo.kingdom.watch",
+  "base_entry_digest": "35a7a5a4f233d9411efa02a51e4a5b127a873ca5a80e4664794fe6ddf4e71506",
+  "base_catalog_commit": "3525a3eb94905b90d1e23514e6726de455643ac6",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
