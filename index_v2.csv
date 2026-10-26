@@ -361,7 +361,7 @@ com.arknights.gpoor.gacha,明日方舟抽卡模拟,quick_app,SXM081115,astrobox-
 979896386193,LADDER,watchface,DevonStee,astrobox-resource-979896386193,25313ad,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我Brin就好;小米手环;小米手环9;小米手环10;小米手环11;表盘;小米表盘;免费;CMF;橙色;渐变,xiaomi,xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9,
 979811125959,Echo,watchface,DevonStee,astrobox-resource-979811125959,d383717,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我Brin就好;小米手环;小米手环9;小米手环10;小米手环11;表盘;小米表盘;免费;CMF;红色;点阵;心跳,xiaomi,xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9,
 979842555965,SEXTANT M3 SHAPES,watchface,DevonStee,astrobox-resource-979842555965,e1a841f,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,小米;谷歌;MD,xiaomi,xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
-org.bandmetronome.app,手环节拍器,quick_app,kyn0v,astrobox-xiaomi-band-metronome,9e5f650,media/icon.png,media/cover.png,音乐;节拍器;实用工具;免费,xiaomi,xmb9p,
+org.bandmetronome.app,手环节拍器,quick_app,kyn0v,astrobox-xiaomi-band-metronome,3539cac,media/icon.png,media/cover.png,音乐;节拍器;实用工具;免费,xiaomi,xmb9p,
 979873680166,GAUDI,watchface,DevonStee,astrobox-resource-979873680166,4c8c391,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,小米;高迪;瓷;五彩,xiaomi,xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 979810067295,逐梦效应,watchface,Hobjl-lian,astrobox-resource-979810067295,4ece599,media/icon.png,media/cover.png,Hobjl;表盘;小米手环,xiaomi,xmb9p;xmb10p,force_paid
 979882971084,CLOCK GRID,watchface,DevonStee,astrobox-resource-979882971084,1fbe41f,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;橙色;灰色;指针;网格;亮屏动画;AOD,xiaomi,xmb9p;xmb10p;xmb11;xmb10;xmb11nfc;xmb10nfc,force_paid
@@ -455,7 +455,6 @@ minecraft-native,我的世界,canopus,andros92,astrobox-resource-minecraft-nativ
 com.ppyycc.dict,DICT英汉词典,quick_app,ppyycc-ppc,vela_astrobox_DICT_bandpro_branch,4186e4a,media/icon.png,media/cover.png,英文;学习;词典,xiaomi,xmb10p,
 979859530701,米环管理/米表管理,watchface,OnDriveLine,astrobox-resource-979859530701,a96e92a,media/icon.png,media/容器 475.png,工具;管理;米环管理;米表管理,xiaomi,xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,
 com.h.studycemf,腕上学习,quick_app,henrrybyhao,astrobox-resource-com-h-studycemf,bbf790f,media/图标.png,media/11_米色文字精排版_compressed.png,学习;语文;英语;腕上学习;学习盒子;古诗词;单词,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
-com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrobox,b0bf4b5,media/icon.png,media/cover-cartoon-long.jpg,游戏;赛车;漂移;重力感应;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb11;xmb9;xmrw5;xmb10nfc;xmb11nfc,
 com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,c25365e,media/show_icon.png,media/cover-1.png,课程表;悬浮tab;简约课表,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc;xmrw5;xmrw6;xmrw5xring;xmb9;xmb9p,
 979883425857,双行数字Pro,watchface,yamu81663-dot,Numeral_Duo_Pro,694d49d,media/无标题26_20261025155059.png,media/无标题18_20261025183135.png,简约;大数字;多色,xiaomi,xmb9p;xmb10p,
 moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_Release,397947b,media/30482.png,封面.png,邮件;独立;验证码;短信;消息;通知,xiaomi,xmws3;xmws4;xmws4xring;xmrw5xring;xmrw5;xmws441;xmrw6;xmws5;xmb9p;xmb10p,force_paid
@@ -467,3 +466,6 @@ com.hazenotea.cardbox.watch,天空牌盒,quick_app,HazeNoTea,HNT_CardBox_vela,5e
 979848633475,Dot Ring,watchface,DevonStee,astrobox-resource-979848633475,9141ad6,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我Brin就好;小米手环;小米手环10;小米手环11;小米手环9Pro;小米手环10Pro;表盘;小米表盘;免费;CMF;DOT,xiaomi,xmb9p;xmb10p;xmb11;xmb11nfc;xmb10nfc;xmb10,
 com.luoluo.kingdom.watch,洛洛王国,quick_app,x18336533511,astrobox-resource-com-luoluo-kingdom-watch,691ac37,media/洛洛王国-应用图标-500x500.png,media/洛洛王国-封面-3比2-小于1MB.jpg,游戏;宠物养成;洛克王国同人;免费,xiaomi,xmb9p;xmb10p,
 979825266003,千恋＊万花 丛雨,watchface,sf-yuzifu,murasame_AstroBox_Release,5c408cc,media/4495.jpg,media/23b5bd3b-f56b-4a27-acad-cf7a30b30fad (1).png,二次元;千恋万花;丛雨;可互动;对话;AOD,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws5;xmb11;xmb11nfc;xmws541,force_paid
+online.soodok.chem,化学实验室,quick_app,Soodok,astrobox-resource-online-soodok-chem,d5eefbe,media/化学实验室-图标-192.png,media/化学实验室-头图-实机版-1200x800.jpg,学习;搜索;付费;离线;科学;化学;学生,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,paid
+com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrobox,28df864,media/icon.png,media/cover-cartoon-long.jpg,游戏;赛车;漂移;重力感应;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb11;xmb9;xmrw5;xmb10nfc;xmb11nfc,
+979821130311,我眼镜呢,watchface,imwjh,astrobox-resource-979821130311,7830a45,media/图标.png,media/01_头图_3x2_结果.png,大数字;简约;极简;seegood;模糊;AOD;设计,xiaomi,xmrw6,
