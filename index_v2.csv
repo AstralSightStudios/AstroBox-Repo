@@ -175,7 +175,6 @@ com.example.band.bilibili.lite,腕上哔哩-WristBili,quick_app,Velvetine13245,a
 com.hanyu.ai,腕语,quick_app,hanyu12138,AI-Chat-AB,104112a,media/logo.png,media/banner.png,工具;AI;聊天;助手,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4xring;xmws4;xmws3;xmws441,force_paid
 979886134928,初音未来排版表盘,watchface,YcFeller,astrobox-resource-979886134928,19c57ad,media/容器 134.png,media/初音未来排版表盘@1x.png,初音未来;静态,xiaomi,xmb9,
 979805297202,动态八重神子,watchface,YcFeller,astrobox-resource-979805297202,530fa6e,media/icon.png,media/1080_720动态八重神子@1x.png,动态表盘;八重神子,xiaomi,xmb9;xmb10;xmb10nfc,
-com.zb26.cc.mfstd.darkzonewalker,暗区行者,quick_app,jinmohan,AQXZ-ABRelease,d5e1bf9,media/logo.png,media/preview.png,休闲;游戏;解压;设计,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9,force_paid
 com.HNTGameBox.watch.demo,HNT游戏盒,quick_app,HazeNoTea,HNTGameBox,6a91241,media/256px.png,media/雷霆的手搓海报.png,游戏,xiaomi,xmb10;xmb10p,
 io.github.mcxcc303.dsband.band,DSBand,quick_app,MCXCC303,astrobox-resource-io-github-mcxcc303-dsband-band,9288675,media/logo.png,media/cover2-reg-cmp.png,DeepSeek,xiaomi,xmb10;xmb10nfc;xmb9;xmb10p;xmb9p,
 com.mood.tracker,静心轨迹,quick_app,LR-C11,moodpress,acd36b4,media/logo.png,media/海报 (9).png,心情;小程序,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
@@ -471,3 +470,4 @@ top.zeora.band.metronome,节拍器,quick_app,Zeora315,top.zeora.band.metronome,2
 com.ashafizullah.klikband,KlikBand,quick_app,ashafizullah,astrobox-resource-com.ashafizullah.klikband,215b935,icon.png,cover.png,伊斯兰;穆斯林;礼拜时间;赞珠;伊斯兰历;实用工具;免费;离线;开源;Islam;Muslim;Prayer Times;Sholat,xiaomi,xmb9;xmb9p;xmrw5;xmrw5xring;xmws3;xmws4;xmws441;xmws4xring;xmws5,
 979882971084,CLOCK GRID,watchface,DevonStee,astrobox-resource-979882971084,c593a47,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;橙色;灰色;指针;网格;亮屏动画;AOD,xiaomi,xmb11;xmb10;xmb11nfc;xmb10nfc;xmb9p;xmb10p,force_paid
 979848633475,Dot Ring,watchface,DevonStee,astrobox-resource-979848633475,d2b99c1,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我Brin就好;小米手环;小米手环10;小米手环11;小米手环9Pro;小米手环10Pro;表盘;小米表盘;免费;CMF;DOT,xiaomi,xmb9p;xmb10p;xmb11;xmb11nfc;xmb10nfc;xmb10,
+com.zb26.cc.mfstd.darkzonewalker,暗区行者,quick_app,jinmohan,AQXZ-ABRelease,4093cda,media/logo.png,media/preview.png,休闲;游戏;解压;摸金;搜打撤;暗区;暗区行者;三角洲;肉鸽;rogue,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9;xmb11,force_paid
