@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.zb26.cc.mfstd.darkzonewalker",
+  "base_entry_digest": "58b3b78bc04a106a5290f06e74d8cb8ed3c8e96db5401b4008080e35633db326",
+  "base_catalog_commit": "0d12617169df1b4cf54272965980256fc2fc1b14",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
