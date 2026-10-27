@@ -1,2 +1,0 @@
-id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-online.soodok.chem,化学实验室,quick_app,Soodok,astrobox-resource-online-soodok-chem,350f147,media/化学实验室-图标-192.png,media/化学实验室-头图-实机版-1200x800.jpg,学习;搜索;付费;离线;科学;化学;学生,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,paid
