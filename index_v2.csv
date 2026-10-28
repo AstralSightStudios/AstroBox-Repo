@@ -303,7 +303,6 @@ com.cakeal.speedometer,速度计,quick_app,CakeAL,astrobox-resource-com-cakeal-s
 979877290311,桌搭时钟,watchface,Qiqi29,astrobox-resource-979877290311,70d7fda,media/图标 300w.png,media/封面图 900x600.png,简洁;大数字;多色;横屏;自定义,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,0bad36f,logo.png,media/1.png,独立;免费体验;天气;Eternal;MCNS,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmb10p;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441;xmb11;xmb11nfc;xmws541,paid
 com.awu.watch.petpal,喵伴,quick_app,jianding24,miaoban-astrobox-release,7ebe468,media/icon.png,media/cover.jpg,喵伴;小猫;宠物;养成;治愈;装饰;小游戏;表盘联动;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6;xmb11;xmb11nfc,force_paid
-com.Dreamqiu.disease,瘟疫公司,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-disease,b428b03,media/logo.png,media/瘟疫公司 (2) 2.png,游戏;瘟疫公司;小程序,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb11;xmb10p;xmb11nfc;xmb9;xmb9p,force_paid
 979845270374,Xr黑白质感表盘,watchface,YcFeller,astrobox-resource-979845270374,1fddc1f,media/画板 10.png500px.png,media/Xr黑白质感表盘-宣传海报-1200_800 1.png,多组件表盘;质感;寻日,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.openblack.mahjong-next,麻将,quick_app,dm1366631,astrobox-resource-com-openblack-mahjong,ff49eec,media/icon.png,media/cover.png,游戏,xiaomi,xmb10nfc;xmb10;xmb10p;xmb11;xmb11nfc,
 979866636875,此刻,watchface,SL9325,979866636875_AstroBox_Release,a4e1cb0,图标.png,PSX_20260725_105012.jpg,SL9325;SLWF;极简;简约;黑白灰;表盘,xiaomi,xmb10p;xmb9p,
@@ -473,3 +472,4 @@ com.ashafizullah.klikband,KlikBand,quick_app,ashafizullah,astrobox-resource-com.
 979821130310,吊牌,watchface,imwjh,astrobox-resource-979821130310,ef2b0b2,media/preview-256.png,media/03-吊牌-2160x1440.png,数字;大数字;指针;大指针;简约;设计;seegood;极简;AOD,xiaomi,xmrw6;xmrw5;xmrw5xring;xmb10p;xmb9,force_paid
 979821130308,靶心,watchface,imwjh,astrobox-resource-979821130308,61c79f6,media/preview-2563.png,media/01-BULLSEYE靶心-2160x1440.png,抽象;指针;圆;seegood;AOD;波点,xiaomi,xmrw6;xmrw5;xmrw5xring;xmb10p,force_paid
 979844991466,4o,watchface,imwjh,astrobox-4o-seegood-979844991466,511aa81,media/preview_0220-256.png,media/4o_cover_结果.png,大数字;心率;秒钟;设计;付费,xiaomi,xmrw6;xmb10p,force_paid
+com.Dreamqiu.disease,瘟疫公司,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-disease,993aaef,media/logo.png,media/瘟疫公司 (2) 2.png,游戏;瘟疫公司;小程序,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb11;xmb10p;xmb11nfc;xmb9;xmb9p;vivowgt2,force_paid
