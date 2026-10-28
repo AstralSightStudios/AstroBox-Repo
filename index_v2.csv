@@ -450,7 +450,6 @@ com.h.studycemf,腕上学习,quick_app,henrrybyhao,astrobox-resource-com-h-study
 com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,c25365e,media/show_icon.png,media/cover-1.png,课程表;悬浮tab;简约课表,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc;xmrw5;xmrw6;xmrw5xring;xmb9;xmb9p,
 moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_Release,397947b,media/30482.png,封面.png,邮件;独立;验证码;短信;消息;通知,xiaomi,xmws3;xmws4;xmws4xring;xmrw5xring;xmrw5;xmws441;xmrw6;xmws5;xmb9p;xmb10p,force_paid
 com.jump.tfdc,跳一跳,quick_app,0233-wu,astrobox-resource-com-jump-tfdc,0e5614c,media/logo.png,media/跳一跳-米环9Pro宣传海报.png,游戏;跳一跳;免费,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
-979821130309,拼毯,watchface,imwjh,astrobox-resource-979821130309,910587c,media/couverture-256.png,media/02-COUVERTURE拼毯-2160x1440.png,数字;彩色;设计;seegood;简约,xiaomi,xmrw6,
 com.hazenotea.cardbox.watch,天空牌盒,quick_app,HazeNoTea,HNT_CardBox_vela,5ef7ab5,media/logo256.png,media/大图.png,卡牌;策略;对战,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4xring;xmws441;xmws4,
 com.luoluo.kingdom.watch,洛洛王国,quick_app,x18336533511,astrobox-resource-com-luoluo-kingdom-watch,691ac37,media/洛洛王国-应用图标-500x500.png,media/洛洛王国-封面-3比2-小于1MB.jpg,游戏;宠物养成;洛克王国同人;免费,xiaomi,xmb9p;xmb10p,
 979825266003,千恋＊万花 丛雨,watchface,sf-yuzifu,murasame_AstroBox_Release,5c408cc,media/4495.jpg,media/23b5bd3b-f56b-4a27-acad-cf7a30b30fad (1).png,二次元;千恋万花;丛雨;可互动;对话;AOD,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws5;xmb11;xmb11nfc;xmws541,force_paid
@@ -472,3 +471,4 @@ com.zb26.cc.mfstd.jiahaokuaipao,嘉豪快跑,quick_app,jinmohan,astrobox-resourc
 979821130311,我眼镜呢,watchface,imwjh,astrobox-resource-979821130311,e176072,media/图标.png,media/01_头图_3x2_结果.png,大数字;简约;极简;seegood;模糊;AOD;设计,xiaomi,xmrw6;xmb10p,
 979815595337,Truck Tick,watchface,imwjh,astrobox-resource-979815595337,9b0ed3d,media/preview-256.png,media/cover-truck-tick-3000x2000_结果_结果.png,大数字;简约;设计;极简;seegood,xiaomi,xmrw6;xmb10p,
 979813494192,显影,watchface,imwjh,astrobox-resource-979813494192,0850f64,media/11_active-256.png,media/cover-type-3000x2000_结果.png,数字;大数字;简约;息屏,xiaomi,xmrw6;xmb10p,
+979821130309,拼毯,watchface,imwjh,astrobox-resource-979821130309,55acf19,media/couverture-256.png,media/02-COUVERTURE拼毯-2160x1440.png,数字;彩色;设计;seegood;简约,xiaomi,xmrw6;xmb10p,
