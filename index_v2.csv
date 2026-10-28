@@ -302,7 +302,6 @@ app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-k
 cupertino,图标包 Cupertino,res_pack,hrsthrt74,cupertino-iconpack-for-astrobox,c4483d7,media/icon.png,media/cover (1).png,苹果;iOS;拟物;复刻;还原;图标包;图标,xiaomi,xmb11;xmb10p;xmb11nfc,force_paid
 com.cakeal.speedometer,速度计,quick_app,CakeAL,astrobox-resource-com-cakeal-speedometer,1dcb8d3,media/icon小.png,media/speedometer-cover.png,GPS;速度计;gpx;测速,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmws4xring;xmws441;xmws4;xmws541;xmws5,
 979877290311,桌搭时钟,watchface,Qiqi29,astrobox-resource-979877290311,70d7fda,media/图标 300w.png,media/封面图 900x600.png,简洁;大数字;多色;横屏;自定义,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
-979817595841,分度,watchface,imwjh,astrobox-resource-979817595841,932c320,media/face-active-256.png,media/cover-type_结果.png,大数字;简约;极简;AOD;创意,xiaomi,xmrw6,
 moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,0bad36f,logo.png,media/1.png,独立;免费体验;天气;Eternal;MCNS,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmb10p;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441;xmb11;xmb11nfc;xmws541,paid
 com.awu.watch.petpal,喵伴,quick_app,jianding24,miaoban-astrobox-release,7ebe468,media/icon.png,media/cover.jpg,喵伴;小猫;宠物;养成;治愈;装饰;小游戏;表盘联动;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6;xmb11;xmb11nfc,force_paid
 com.Dreamqiu.disease,瘟疫公司,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-disease,b428b03,media/logo.png,media/瘟疫公司 (2) 2.png,游戏;瘟疫公司;小程序,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb11;xmb10p;xmb11nfc;xmb9;xmb9p,force_paid
@@ -472,3 +471,4 @@ com.ashafizullah.klikband,KlikBand,quick_app,ashafizullah,astrobox-resource-com.
 979821130308,靶心,watchface,imwjh,astrobox-resource-979821130308,74de14c,media/preview-2563.png,media/01-BULLSEYE靶心-2160x1440.png,抽象;指针;圆;seegood;AOD;波点,xiaomi,xmrw6;xmrw5;xmrw5xring,force_paid
 979821130310,吊牌,watchface,imwjh,astrobox-resource-979821130310,48b2516,media/preview-256.png,media/03-吊牌-2160x1440.png,数字;大数字;指针;大指针;简约;设计;seegood;极简;AOD,xiaomi,xmrw6;xmrw5;xmrw5xring,force_paid
 com.zb26.cc.mfstd.jiahaokuaipao,嘉豪快跑,quick_app,jinmohan,astrobox-resource-com-zb26-mfstd-jiahaokuaipao,574541a,media/logo.png,media/haibao.png,跑酷;地铁跑酷;休闲;摸鱼;养成;酷跑;抽卡;收集;动作;解压;游戏;奶龙;嘉豪;嘉豪快跑,xiaomi,xmrw5;xmrw6;xmb10;xmb10p;xmb11;xmb9;xmb9p,force_paid
+979817595841,分度,watchface,imwjh,astrobox-resource-979817595841,87c8292,media/face-active-256.png,media/cover-type_结果.png,大数字;简约;极简;AOD;创意,xiaomi,xmrw6;xmb10p,
