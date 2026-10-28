@@ -175,7 +175,6 @@ com.example.band.bilibili.lite,腕上哔哩-WristBili,quick_app,Velvetine13245,a
 com.hanyu.ai,腕语,quick_app,hanyu12138,AI-Chat-AB,104112a,media/logo.png,media/banner.png,工具;AI;聊天;助手,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4xring;xmws4;xmws3;xmws441,force_paid
 979886134928,初音未来排版表盘,watchface,YcFeller,astrobox-resource-979886134928,19c57ad,media/容器 134.png,media/初音未来排版表盘@1x.png,初音未来;静态,xiaomi,xmb9,
 979805297202,动态八重神子,watchface,YcFeller,astrobox-resource-979805297202,530fa6e,media/icon.png,media/1080_720动态八重神子@1x.png,动态表盘;八重神子,xiaomi,xmb9;xmb10;xmb10nfc,
-com.zb26.cc.mfstd.darkzonewalker,暗区行者,quick_app,jinmohan,AQXZ-ABRelease,d5e1bf9,media/logo.png,media/preview.png,休闲;游戏;解压;设计,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9,force_paid
 com.HNTGameBox.watch.demo,HNT游戏盒,quick_app,HazeNoTea,HNTGameBox,6a91241,media/256px.png,media/雷霆的手搓海报.png,游戏,xiaomi,xmb10;xmb10p,
 io.github.mcxcc303.dsband.band,DSBand,quick_app,MCXCC303,astrobox-resource-io-github-mcxcc303-dsband-band,9288675,media/logo.png,media/cover2-reg-cmp.png,DeepSeek,xiaomi,xmb10;xmb10nfc;xmb9;xmb10p;xmb9p,
 com.mood.tracker,静心轨迹,quick_app,LR-C11,moodpress,acd36b4,media/logo.png,media/海报 (9).png,心情;小程序,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
@@ -218,7 +217,7 @@ com.zalea.weather,Zalea Weather,quick_app,Cookie-Zalea,114,6d104db,media/app-ico
 top.zaona.loopimport,Loop导入器,quick_app,zaona,loop-import-astrobox-release,41c9d09,icon.png,cover.png,课程表,xiaomi,xmb10p;xmb11;xmb11nfc,
 canopus_loop,Loop课程表,canopus,zaona,loop-astrobox-release,f2555aa,media/icon.png,media/cover.png,课程表,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
 com.charlie.hyperbox,Hyper Box,quick_app,wuhaiqi0621,HyperBox_ForAstroBox,95f9c0c,icon.png,media/Frame 7.png,实用工具;工具箱;计算器;水平仪;每日一言;歌词本;答案之书;木鱼;性能测试;摩斯密码;二维码;跑马灯;荧光棒,xiaomi,xmb10;xmb10nfc;xmb9p;xmb9;xmrw5;xmrw5xring;xmrw6;xmb10p;xmb11;xmb11nfc,
-com.application.zaona.weather,简明天气,quick_app,zaona,simple-weather-astrobox-release,68f9716,icon.png,preview.png,天气;免费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6;xmws5;xmb10p;xmb11;xmb11nfc,
+com.application.zaona.weather,简明天气,quick_app,zaona,simple-weather-astrobox-release,fbcccdd,icon.png,preview.png,天气;免费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws3;xmws4;xmws4xring;xmrw5;xmrw5xring;xmrw6;xmws5;xmb10p;xmb11;xmb11nfc,
 979899671216,栈,watchface,canoneko,STACK,3d892e2,media/STACK500.png,media/STACK1200.png,Apple Watch Ultra;Apple Watch;栈;现代;大数字;日光;黄色;黄;STACK;手表;爱马仕;数字;多功能;读秒;秒针,xiaomi,xmb11;xmb10,force_paid
 979866596386,满屏数字,watchface,OOOOHSYPure,full-screen-digits,14ae987,media/icon.png,media/cover.png,数字;极简;大字号;息屏;简约,xiaomi,xmb11;xmb11nfc;xmb9;xmb10nfc;xmb10,
 979899954909,午夜飞行俱乐部,watchface,Cannyworks29,MidnightFlightClub,c4b0a0b,media/Gemini_Generated_Image_je9cklje9cklje9c_副本.jpg,media/Gemini_Generated_Image_je9cklje9cklje9c.jpg,飞行;科技感;复古;仪表,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws5;xmws4;xmws441;xmws4xring;xmb11;xmb11nfc,force_paid
@@ -245,7 +244,6 @@ com.komoridev.tictacgo,游击井字棋,quick_app,KomoriDev,kovela-tictacgo,403e2
 com.SoDictionary.solan,So词典-英/日汉词典,quick_app,Solan-486,Astrobox-Resource_Release,f261a2f,media/logo.png,media/英汉词典封面.png,词典;英语;英汉互译;日语;日文;日汉互译;英语词典;日语词典;学习;工具;翻译,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p;xmws3;xmws4;xmws4xring;xmb11;xmws541;xmb11nfc;xmws5;xmws441,force_paid
 com.azuma.dic,英汉词典-五万词库中英互译,quick_app,AzumaChiaki,AzumaDic,14114e0,media/logo.png,media/6c618b7e0f5a7c3081d1a1631c9525d9_720.png,词典;学习;工具;英语,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10nfc;xmb10;xmb10p;xmb9;xmb9p;xmb11;xmb11nfc,force_paid
 979821993891,碑铭,watchface,imwjh,astrobox-resource-979821993891,c3d4490,media/03_active-256.png,media/cover-type-3000x2000.png,数字;简约;大数字,xiaomi,xmrw5;xmrw5xring;xmrw6,
-979813494192,显影,watchface,imwjh,astrobox-resource-979813494192,211875a,media/11_active-256.png,media/cover-type-3000x2000_结果.png,数字;大数字;简约;息屏,xiaomi,xmrw6,
 canopus_manager,Canopus 模块管理器,canopus,Searchstars,Canopus-Manager-AstroBox-Release,fea395b,icon.png,cover.png,Canopus;管理器;Manager,xiaomi,xmb10p;xmb11;xmb11nfc,
 com.MatrixFive.ShuZiWu,缤纷数字屋,quick_app,jinmohan,ShuZiWu_AstroBox_Release,753dbb7,media/logo.png,media/Preview.png,游戏;休闲;解压;娱乐,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmb11;xmb11nfc,force_paid
 979808740500,PoP☆P,watchface,hrsthrt74,pop-star-p-for-astrobox,5075f8f,icon.png,cover.png,任天堂;星之卡比;可爱;简约;多设备支持;二次元,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmws4;xmrw5;xmrw5xring;xmrw6;xmb11;xmb10p;xmb11nfc;xmws4xring;xmws441,
@@ -303,10 +301,8 @@ app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-k
 cupertino,图标包 Cupertino,res_pack,hrsthrt74,cupertino-iconpack-for-astrobox,c4483d7,media/icon.png,media/cover (1).png,苹果;iOS;拟物;复刻;还原;图标包;图标,xiaomi,xmb11;xmb10p;xmb11nfc,force_paid
 com.cakeal.speedometer,速度计,quick_app,CakeAL,astrobox-resource-com-cakeal-speedometer,1dcb8d3,media/icon小.png,media/speedometer-cover.png,GPS;速度计;gpx;测速,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmws4xring;xmws441;xmws4;xmws541;xmws5,
 979877290311,桌搭时钟,watchface,Qiqi29,astrobox-resource-979877290311,70d7fda,media/图标 300w.png,media/封面图 900x600.png,简洁;大数字;多色;横屏;自定义,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
-979817595841,分度,watchface,imwjh,astrobox-resource-979817595841,932c320,media/face-active-256.png,media/cover-type_结果.png,大数字;简约;极简;AOD;创意,xiaomi,xmrw6,
 moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,0bad36f,logo.png,media/1.png,独立;免费体验;天气;Eternal;MCNS,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmb10p;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441;xmb11;xmb11nfc;xmws541,paid
 com.awu.watch.petpal,喵伴,quick_app,jianding24,miaoban-astrobox-release,7ebe468,media/icon.png,media/cover.jpg,喵伴;小猫;宠物;养成;治愈;装饰;小游戏;表盘联动;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6;xmb11;xmb11nfc,force_paid
-com.Dreamqiu.disease,瘟疫公司,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-disease,b428b03,media/logo.png,media/瘟疫公司 (2) 2.png,游戏;瘟疫公司;小程序,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb11;xmb10p;xmb11nfc;xmb9;xmb9p,force_paid
 979845270374,Xr黑白质感表盘,watchface,YcFeller,astrobox-resource-979845270374,1fddc1f,media/画板 10.png500px.png,media/Xr黑白质感表盘-宣传海报-1200_800 1.png,多组件表盘;质感;寻日,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.openblack.mahjong-next,麻将,quick_app,dm1366631,astrobox-resource-com-openblack-mahjong,ff49eec,media/icon.png,media/cover.png,游戏,xiaomi,xmb10nfc;xmb10;xmb10p;xmb11;xmb11nfc,
 979866636875,此刻,watchface,SL9325,979866636875_AstroBox_Release,a4e1cb0,图标.png,PSX_20260725_105012.jpg,SL9325;SLWF;极简;简约;黑白灰;表盘,xiaomi,xmb10p;xmb9p,
@@ -363,7 +359,6 @@ com.arknights.gpoor.gacha,明日方舟抽卡模拟,quick_app,SXM081115,astrobox-
 org.bandmetronome.app,手环节拍器,quick_app,kyn0v,astrobox-xiaomi-band-metronome,3539cac,media/icon.png,media/cover.png,音乐;节拍器;实用工具;免费,xiaomi,xmb9p,
 979873680166,GAUDI,watchface,DevonStee,astrobox-resource-979873680166,4c8c391,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,小米;高迪;瓷;五彩,xiaomi,xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 979810067295,逐梦效应,watchface,Hobjl-lian,astrobox-resource-979810067295,4ece599,media/icon.png,media/cover.png,Hobjl;表盘;小米手环,xiaomi,xmb9p;xmb10p,force_paid
-979882971084,CLOCK GRID,watchface,DevonStee,astrobox-resource-979882971084,1fbe41f,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;橙色;灰色;指针;网格;亮屏动画;AOD,xiaomi,xmb9p;xmb10p;xmb11;xmb10;xmb11nfc;xmb10nfc,force_paid
 979838046796,幻境,watchface,Hobjl-lian,astrobox-resource-979838046796,4b48ef6,media/icon.png,media/cover.jpg,Hobjl;表盘;小米手环,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 979863094937,BUBBLE SQUEEZE,watchface,DevonStee,astrobox-resource-979863094937,b1e7314,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;免费;泡泡;软糖;彩色;大数字;AOD,xiaomi,xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,
 979861199706,ANT GUTTERS,watchface,DevonStee,astrobox-resource-979861199706,7a17f07,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;免费;蓝色;Ant Design;栅格;大数字;AOD,xiaomi,xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,
@@ -394,7 +389,6 @@ com.sixone.uno,UNO,quick_app,SixOneTeam,astrobox-resource-com-sixone-uno,e87b636
 com.yzf.daymatter,倒数日 快应用,quick_app,sf-yuzifu,Daymatter_Quickapp_AstroBox_Release,db23b70,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmws5;xmws3;xmb11;xmb11nfc;xmws541,
 com.hiddenmode.sixone.hobjl,伪装模式,quick_app,SixOneTeam,astrobox-resource-com-hiddenmode-sixone-hobjl,81a3243,media/100_100@1x.png,media/伪装模式@2x.png,伪装模式;sixone;小程序;小米手环;付费,xiaomi,xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,force_paid
 com.sixone.LiarBar,骗子酒馆,quick_app,SixOneTeam,astrobox-resource-com-sixone-liarbar,9d1d656,media/app logo@4x.png,media/骗子酒馆@2x.png,骗子酒馆;卡牌;桌游;游戏;sixone;付费;小米手环,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,force_paid
-979815595337,Truck Tick,watchface,imwjh,astrobox-resource-979815595337,ff4a3db,media/preview-256.png,media/cover-truck-tick-3000x2000_结果_结果.png,大数字;简约;设计;极简;seegood,xiaomi,xmrw6,
 com.liuyuze61.otto,石面棍哥,quick_app,SixOneTeam,astrobox-resource-com-liuyuze61-otto,d5bf0e0,media/logo.png,media/石面棍哥@2x.png,石面棍哥;闯关;sixone;小米手环;游戏;付费,xiaomi,xmb9p,force_paid
 com.huashu.heihade,嘿哈嘚,quick_app,MinimumBubble11,Heihade_ABD,25c8322,media/logo.png,media/heihade-poster-mini-1200x800.png,音效盒;游戏;音效,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,
 com.local.codexband,Codex Band Connector,quick_app,DecafDoppio,Codex-Band-Connector,eaf627f,media/icon.png,media/二比三头图.jpg,Codex;AI;开发工具;效率工具;授权,xiaomi,xmb11;xmb11nfc;xmb10;xmb10nfc,
@@ -406,7 +400,6 @@ com.tinyshadows.band,小小的身影，重叠的内心,quick_app,mcpotato1123,as
 979871664646,EVA UNIT-01,watchface,DevonStee,astrobox-resource-979871664646,62f7df3,media/01-图标-1比1.png,media/02-封面-3比2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;EVA;新世纪福音战士;初号机;紫色;荧光绿;大数字;电量;心率;步数;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 979898866988,PEBBLE REELS,watchface,DevonStee,astrobox-resource-979898866988,7f6b16e,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,pebbel;轮盘;reels;PEBBLE REELS,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9p,
 979808919148,BUBBLE LINE,watchface,DevonStee,astrobox-resource-979808919148,aaf02f7,media/01-图标-1比1.png,media/02-封面-3比2.png,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;免费;泡泡;圆点;橙色;黑色;秒数;亮屏动画;AOD;简约设计,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
-979872911720,EVA BATTERY,watchface,DevonStee,astrobox-resource-979872911720,d9c7e9e,media/01-图标-1比1.png,media/02-封面-3比2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;EVA;新世纪福音战士;橙色;黑色;数码管;大数字;电量;心率;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 979886351483,TILE RISE,watchface,DevonStee,astrobox-resource-979886351483,6790020,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;包豪斯;砖块;莫奈;日出印象;橙色;蓝色;3D;亮屏动画;AOD;大数字,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9p,
 979869522151,RED PLANET,watchface,DevonStee,astrobox-resource-979869522151,1bd54b0,media/01-图标-1比1.png,media/02-封面-3比2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;行星;太空;宇宙;红色;卫星;步数;心率;电量;亮屏动画;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 979804072876,ATTITUDE HORIZON,watchface,DevonStee,astrobox-resource-979804072876,92dac3e,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;航空;地平仪;蓝色;棕色;液晶数字;姿态响应;重力感应;AOD,xiaomi,xmb10p;xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
@@ -422,7 +415,6 @@ com.tinyshadows.band,小小的身影，重叠的内心,quick_app,mcpotato1123,as
 979870440702,MD VOLUME,watchface,DevonStee,astrobox-resource-979870440702,622a93b,media/01-图标-1比1.png,media/02-封面-3比2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;Material Design;音量条;滑杆;粉色;蓝色;可编辑快捷键;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 979813760004,MD GIANT HOUR,watchface,DevonStee,astrobox-resource-979813760004,59dbe92,media/01-图标-1比1.png,media/02-封面-3比2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;Material Design;巨型数字;靛蓝;电量变色;步数;心率;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 979842166669,MD EDGE ROLL,watchface,DevonStee,astrobox-resource-979842166669,34eb479,media/01-图标-1比1.png,media/02-封面-3比2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;Material Design;滚动;边框;粉色;紫色;青色;大数字;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
-979844991466,4o,watchface,imwjh,astrobox-4o-seegood-979844991466,ecad7b5,media/preview_0220-256.png,media/4o_cover_结果.png,大数字;心率;秒钟;设计;付费,xiaomi,xmrw6,force_paid
 979842683750,NIXIE TUBE,watchface,DevonStee,astrobox-resource-979842683750,2164c11,media/01-图标-1比1.png,media/02-封面-3比2.png,辉光管;小米手环10;NIXIE TUBE;辉光管表盘;闪烁的辉光管;brin,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 979848662443,CRT BULGE,watchface,DevonStee,astrobox-resource-979848662443,8eee2dd,media/01-图标-1比1.png,media/02-封面-3比2.png,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;CRT;复古;终端;绿色;荧光屏;扫描线;雪花;流动;像素字体;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 979877970294,BAGGAGE CAROUSEL,watchface,DevonStee,astrobox-resource-979877970294,d490df4,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;机场;行李转盘;蓝色;红色;传送带;动态;数据;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9p,force_paid
@@ -430,7 +422,6 @@ com.tinyshadows.band,小小的身影，重叠的内心,quick_app,mcpotato1123,as
 com.xunripic.watch,Xr图库,quick_app,YcFeller,XunriPhoto,75a15f0,icon.png,cover.png,实用工具;图库;快应用,xiaomi,xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmws4;xmb10p;xmws5;xmb11;xmb11nfc,force_paid
 com.ourbriefeternity.band,永恒与星辰与日常,quick_app,mcpotato1123,astrobox-resource-com-ourbriefeternity-band,fab11fc,media/icon.png,media/cover-1500x1000.jpg,Galgame;永恒与星辰与日常;游戏,xiaomi,xmb9p,
 com.lhy.hex,进制转换器,quick_app,DDlhy,astrobox-resource-com-lhy-hex,d74d348,media/屏幕截图 2026-10-18 231533.png,media/图片_消除_1-tuya.png,工具;实用;数学;计算;学习,xiaomi,xmb11nfc;xmb9;xmb10;xmb10nfc;xmb11;xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p,
-com.hazenotea.chessbox.watch,天空棋盒,quick_app,HazeNoTea,HNT_ChessBox_vela,4b77ed7,media/天空棋盒logo.png,media/大图.png,策略;棋盘;对战,xiaomi,xmrw5;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4xring;xmws441;xmws4;xmrw6,
 979810071001,萌宠营地,watchface,jianding24,pet-squad-companion-astrobox-release,15a384f,media/icon.png,media/cover.jpg,萌宠;免费;营地;日夜;息屏;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw6;xmb11;xmb11nfc,
 979826102301,纸上日历,watchface,jianding24,paper-calendar-watchface-astrobox-release,3b11bf3fcd9a939d5e61d890fc6f72f4eaf37a92,media/icon.png,media/cover.jpg,免费;日历;纸质;版画,xiaomi,xmb9;xmb10;xmb11;xmb9p;xmb10p;xmrw6,
 com.awu.watch.petcolumnsort,萌宠归队,quick_app,jianding24,pet-column-sort-astrobox-release,dd03010,media/icon.png,media/cover.jpg,萌宠;益智;归队;闯关;无尽;猜队;表盘联动;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6;xmb11;xmb11nfc,force_paid
@@ -445,10 +436,9 @@ io.github.micasiliconneko.hikoto,一言,quick_app,MicaSiliconNeko,YiYan_miband,c
 com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-parsecs,64462c0,media/logo.png,media/60秒太空避难所.png,60秒避难所;游戏;60,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9;vivowgt2,force_paid
 com.kjsjksjsjaiwjjw.chess,国际象棋,quick_app,33520276q-dotcom,vale2,ec5ac0a,media/icon.png,media/1790348009703.jpg,游戏;快应用;免费,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws4;xmws441;xmws4xring;xmws3;xmb10p;xmb9p;xmws5,
 com.hazenotea.pvz.watch,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,14bf405,media/logo-256.png,media/全新雷霆大图1200x800.png,游戏;塔防;策略,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmws4xring;xmws4;xmws441;xmb10p;xmb11nfc;xmb11;xmb9;xmb9p,paid
-979821130209,波普圆点,watchface,imwjh,astrobox-resource-979821130209,0c0a0c6,media/face-256.png,media/cover_2160x1440.png,指针;艺术;高饱和;数字;设计;seegood,xiaomi,xmrw6,
 com.astranexus.astramai,AstraMai,quick_app,QHBSSrl,AstraMai,479278a,media/icon.png,media/7DE50FD6AC346BEEB0951B76792DEB32 (自定义).png,街机音游;舞萌DX;中二节奏;Phigros;osu!,xiaomi,xmrw5xring;xmrw5;xmrw6;xmb9p;xmb10p,
 cn.ouo.qihe,OuO,quick_app,qihe114514,astrobox-resource-cn-ouo-qihe,7040c09,media/icon.png,media/幻灯片1.PNG,桌宠;游戏;OuO;可爱;表情;互动;触摸;横屏;多设备,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
-minecraft-native,我的世界,canopus,andros92,astrobox-resource-minecraft-native,7635bd3,media/icon.png,media/cover.png,游戏;3D;我的世界,xiaomi,xmb10p;xmb9p;xmb9,force_paid
+minecraft-native,我的世界,canopus,andros92,astrobox-resource-minecraft-native,21bac4d,media/icon.png,media/cover.png,游戏;3D;我的世界,xiaomi,xmb10p;xmb9p;xmb9,force_paid
 979825266001,心跳文学部 莫妮卡,watchface,sf-yuzifu,Monika,f43dd6f,icon.png,images/preview.png,表盘;可互动;心跳文学部;莫妮卡;ddlc;DDLC;Doki Doki Literature Club;心跳文学社;二次元;多设备支持;Monika;monika,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws5;xmb11;xmb11nfc;xmws541,
 com.ppyycc.dict,DICT英汉词典,quick_app,ppyycc-ppc,vela_astrobox_DICT_bandpro_branch,4186e4a,media/icon.png,media/cover.png,英文;学习;词典,xiaomi,xmb10p,
 979859530701,米环管理/米表管理,watchface,OnDriveLine,astrobox-resource-979859530701,a96e92a,media/icon.png,media/容器 475.png,工具;管理;米环管理;米表管理,xiaomi,xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,
@@ -456,16 +446,30 @@ com.h.studycemf,腕上学习,quick_app,henrrybyhao,astrobox-resource-com-h-study
 com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,c25365e,media/show_icon.png,media/cover-1.png,课程表;悬浮tab;简约课表,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc;xmrw5;xmrw6;xmrw5xring;xmb9;xmb9p,
 moe.mcns.WearPost,腕上信驿,quick_app,FelixFan-CN,moe.mcns.wearpost_AstroBox_Release,397947b,media/30482.png,封面.png,邮件;独立;验证码;短信;消息;通知,xiaomi,xmws3;xmws4;xmws4xring;xmrw5xring;xmrw5;xmws441;xmrw6;xmws5;xmb9p;xmb10p,force_paid
 com.jump.tfdc,跳一跳,quick_app,0233-wu,astrobox-resource-com-jump-tfdc,0e5614c,media/logo.png,media/跳一跳-米环9Pro宣传海报.png,游戏;跳一跳;免费,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
-979821130310,吊牌,watchface,imwjh,astrobox-resource-979821130310,5f1afd3,media/preview-256.png,media/03-吊牌-2160x1440.png,数字;大数字;指针;大指针;简约;设计;seegood;极简;AOD,xiaomi,xmrw6,force_paid
-979821130308,靶心,watchface,imwjh,astrobox-resource-979821130308,1a4747b,media/preview-2563.png,media/01-BULLSEYE靶心-2160x1440.png,抽象;指针;圆;seegood;AOD;波点,xiaomi,xmrw6,force_paid
-979821130309,拼毯,watchface,imwjh,astrobox-resource-979821130309,910587c,media/couverture-256.png,media/02-COUVERTURE拼毯-2160x1440.png,数字;彩色;设计;seegood;简约,xiaomi,xmrw6,
-com.hazenotea.cardbox.watch,天空牌盒,quick_app,HazeNoTea,HNT_CardBox_vela,5ef7ab5,media/logo256.png,media/大图.png,卡牌;策略;对战,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4xring;xmws441;xmws4,
-979848633475,Dot Ring,watchface,DevonStee,astrobox-resource-979848633475,9141ad6,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我Brin就好;小米手环;小米手环10;小米手环11;小米手环9Pro;小米手环10Pro;表盘;小米表盘;免费;CMF;DOT,xiaomi,xmb9p;xmb10p;xmb11;xmb11nfc;xmb10nfc;xmb10,
 com.luoluo.kingdom.watch,洛洛王国,quick_app,x18336533511,astrobox-resource-com-luoluo-kingdom-watch,691ac37,media/洛洛王国-应用图标-500x500.png,media/洛洛王国-封面-3比2-小于1MB.jpg,游戏;宠物养成;洛克王国同人;免费,xiaomi,xmb9p;xmb10p,
 979825266003,千恋＊万花 丛雨,watchface,sf-yuzifu,murasame_AstroBox_Release,5c408cc,media/4495.jpg,media/23b5bd3b-f56b-4a27-acad-cf7a30b30fad (1).png,二次元;千恋万花;丛雨;可互动;对话;AOD,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws5;xmb11;xmb11nfc;xmws541,force_paid
-online.soodok.chem,化学实验室,quick_app,Soodok,astrobox-resource-online-soodok-chem,d5eefbe,media/化学实验室-图标-192.png,media/化学实验室-头图-实机版-1200x800.jpg,学习;搜索;付费;离线;科学;化学;学生,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,paid
+online.soodok.chem,化学实验室,quick_app,Soodok,astrobox-resource-online-soodok-chem,350f147,media/化学实验室-图标-192.png,media/化学实验室-头图-实机版-1200x800.jpg,学习;搜索;付费;离线;科学;化学;学生,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,paid
 com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrobox,28df864,media/icon.png,media/cover-cartoon-long.jpg,游戏;赛车;漂移;重力感应;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb11;xmb9;xmrw5;xmb10nfc;xmb11nfc,
-979821130311,我眼镜呢,watchface,imwjh,astrobox-resource-979821130311,7830a45,media/图标.png,media/01_头图_3x2_结果.png,大数字;简约;极简;seegood;模糊;AOD;设计,xiaomi,xmrw6,
 top.zeora.band.metronome,节拍器,quick_app,Zeora315,top.zeora.band.metronome,283296b,media/logo.png,media/PicWish_20261026_220004.png,快应用;节拍器;免费,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 979883425857,双行数字Pro,watchface,yamu81663-dot,Numeral_Duo_Pro,a530504,media/无标题26_20261025155059.png,media/无标题18_20261025183135.png,简约;大数字;多色,xiaomi,xmb9p;xmb10p,
 979816747762,TAROT ARCANA,watchface,DevonStee,astrobox-resource-979816747762,395e64f,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;塔罗;大阿卡纳;马赛塔罗;复古;翻牌动画;昼夜切换;深蓝;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9p,force_paid
+979833783634,极光-照片表盘,watchface,Hobjl-lian,astrobox-resource-979833783634,6416053,media/icon.png,media/cover.jpg,Hobjl;表盘;小米手环;照片表盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
+979882971084,CLOCK GRID,watchface,DevonStee,astrobox-resource-979882971084,c593a47,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;橙色;灰色;指针;网格;亮屏动画;AOD,xiaomi,xmb11;xmb10;xmb11nfc;xmb10nfc;xmb9p;xmb10p,force_paid
+979848633475,Dot Ring,watchface,DevonStee,astrobox-resource-979848633475,d2b99c1,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我Brin就好;小米手环;小米手环10;小米手环11;小米手环9Pro;小米手环10Pro;表盘;小米表盘;免费;CMF;DOT,xiaomi,xmb9p;xmb10p;xmb11;xmb11nfc;xmb10nfc;xmb10,
+com.zb26.cc.mfstd.darkzonewalker,暗区行者,quick_app,jinmohan,AQXZ-ABRelease,4093cda,media/logo.png,media/preview.png,休闲;游戏;解压;摸金;搜打撤;暗区;暗区行者;三角洲;肉鸽;rogue,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9;xmb11,force_paid
+com.zb26.cc.mfstd.jiahaokuaipao,嘉豪快跑,quick_app,jinmohan,astrobox-resource-com-zb26-mfstd-jiahaokuaipao,574541a,media/logo.png,media/haibao.png,跑酷;地铁跑酷;休闲;摸鱼;养成;酷跑;抽卡;收集;动作;解压;游戏;奶龙;嘉豪;嘉豪快跑,xiaomi,xmrw5;xmrw6;xmb10;xmb10p;xmb11;xmb9;xmb9p,force_paid
+979817595841,分度,watchface,imwjh,astrobox-resource-979817595841,87c8292,media/face-active-256.png,media/cover-type_结果.png,大数字;简约;极简;AOD;创意,xiaomi,xmrw6;xmb10p,
+979821130209,波普圆点,watchface,imwjh,astrobox-resource-979821130209,da94ca6,media/face-256.png,media/cover_2160x1440.png,指针;艺术;高饱和;数字;设计;seegood,xiaomi,xmrw6;xmb10p,
+979821130311,我眼镜呢,watchface,imwjh,astrobox-resource-979821130311,e176072,media/图标.png,media/01_头图_3x2_结果.png,大数字;简约;极简;seegood;模糊;AOD;设计,xiaomi,xmrw6;xmb10p,
+979815595337,Truck Tick,watchface,imwjh,astrobox-resource-979815595337,9b0ed3d,media/preview-256.png,media/cover-truck-tick-3000x2000_结果_结果.png,大数字;简约;设计;极简;seegood,xiaomi,xmrw6;xmb10p,
+979813494192,显影,watchface,imwjh,astrobox-resource-979813494192,0850f64,media/11_active-256.png,media/cover-type-3000x2000_结果.png,数字;大数字;简约;息屏,xiaomi,xmrw6;xmb10p,
+979821130309,拼毯,watchface,imwjh,astrobox-resource-979821130309,55acf19,media/couverture-256.png,media/02-COUVERTURE拼毯-2160x1440.png,数字;彩色;设计;seegood;简约,xiaomi,xmrw6;xmb10p,
+979872911720,BATTERY DRIVE,watchface,DevonStee,astrobox-resource-979872911720,dbf8ab5,media/01-图标-1比1.png,media/02-封面-3比2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;橙色;黑色;数码管;大数字;控制台;警示斜纹;电量;心率;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
+com.hazenotea.cardbox.watch,天空牌盒,quick_app,HazeNoTea,HNT_CardBox_vela,51bdd7b,media/logo256.png,media/大图.png,卡牌;策略;对战,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4xring;xmws441;xmws4,
+979884106337,RAINBOW SLINKY,watchface,DevonStee,astrobox-resource-979884106337,2eb9ba4,media/01-图标-1比1.png,media/02-封面-3比2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;彩虹;弹簧;玩具;彩色;大数字;亮屏动画;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+979821130310,吊牌,watchface,imwjh,astrobox-resource-979821130310,ef2b0b2,media/preview-256.png,media/03-吊牌-2160x1440.png,数字;大数字;指针;大指针;简约;设计;seegood;极简;AOD,xiaomi,xmrw6;xmrw5;xmrw5xring;xmb10p;xmb9,force_paid
+979821130308,靶心,watchface,imwjh,astrobox-resource-979821130308,61c79f6,media/preview-2563.png,media/01-BULLSEYE靶心-2160x1440.png,抽象;指针;圆;seegood;AOD;波点,xiaomi,xmrw6;xmrw5;xmrw5xring;xmb10p,force_paid
+979844991466,4o,watchface,imwjh,astrobox-4o-seegood-979844991466,511aa81,media/preview_0220-256.png,media/4o_cover_结果.png,大数字;心率;秒钟;设计;付费,xiaomi,xmrw6;xmb10p,force_paid
+com.Dreamqiu.disease,瘟疫公司,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-disease,993aaef,media/logo.png,media/瘟疫公司 (2) 2.png,游戏;瘟疫公司;小程序,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb11;xmb10p;xmb11nfc;xmb9;xmb9p;vivowgt2,force_paid
+com.hazenotea.chessbox.watch,天空棋盒,quick_app,HazeNoTea,HNT_ChessBox_vela,80da829,media/天空棋盒logo.png,media/大图.png,策略;棋盘;对战;五子棋;象棋;围棋;国际象棋;飞行棋;扫雷,xiaomi,xmrw5;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4xring;xmws441;xmws4;xmrw6,
+com.ashafizullah.klikband,KlikBand,quick_app,ashafizullah,astrobox-resource-com.ashafizullah.klikband,b6f0955,icon.png,cover.png,伊斯兰;穆斯林;礼拜时间;赞珠;伊斯兰历;实用工具;免费;离线;开源;Islam;Muslim;Prayer Times;Sholat,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmrw5;xmrw5xring;xmrw6;xmws3;xmws4;xmws441;xmws4xring;xmws5;xmws541,
