@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.jpf.wrist.speedracer",
+  "base_entry_digest": "a588ba6a90fd7f99c8ce3be209fd5c3671a811cd7b3363348020bd03f151655e",
+  "base_catalog_commit": "eae8abff3afc40d728318b3d772c43cf87f6738a",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:10:01.713642+08:00",
+    "build_user": "runner"
+  }
+}
