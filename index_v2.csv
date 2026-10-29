@@ -351,7 +351,6 @@ org.bandmetronome.app,手环节拍器,quick_app,kyn0v,astrobox-xiaomi-band-metro
 979873680166,GAUDI,watchface,DevonStee,astrobox-resource-979873680166,4c8c391,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,小米;高迪;瓷;五彩,xiaomi,xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 979810067295,逐梦效应,watchface,Hobjl-lian,astrobox-resource-979810067295,4ece599,media/icon.png,media/cover.png,Hobjl;表盘;小米手环,xiaomi,xmb9p;xmb10p,force_paid
 979838046796,幻境,watchface,Hobjl-lian,astrobox-resource-979838046796,4b48ef6,media/icon.png,media/cover.jpg,Hobjl;表盘;小米手环,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
-979863094937,BUBBLE SQUEEZE,watchface,DevonStee,astrobox-resource-979863094937,b1e7314,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;免费;泡泡;软糖;彩色;大数字;AOD,xiaomi,xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,
 979851888346,极光效应,watchface,Hobjl-lian,astrobox-resource-979851888346,9341182,media/icon.png,media/cover.jpg,Hobjl;表盘;小米手环,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 979835460857,雾中旅行,watchface,Hobjl-lian,astrobox-resource-979835460857,b0b73ea,media/icon.png,media/cover.png,Hobjl;表盘;小米手环,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 979820260926,Chaos,watchface,WenHuaYiYang,astrobox-resource-979820260926,166ca04,media/chaos_icon_resized.png,media/desc.png,模块;美化;Chaos;工具,xiaomi,xmb10p,
@@ -474,3 +473,4 @@ com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrob
 979888789385,LED Wall,watchface,DevonStee,astrobox-resource-979888789385,9e8710c,media/01-图标-1比1.png,media/02-封面-3比2-三机.webp,BRIN;brin;Brin;叫我Brin就好;小米手环;小米手环10;小米手环11;小米手环9Pro;小米手环10Pro;表盘;小米表盘;免费;LED,xiaomi,xmrw6;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p,
 979896110313,MATERIAL SHAPES,watchface,DevonStee,astrobox-resource-979896110313,2583e44,media/01-图标-1比1.png,media/02-封面-3比2-三机.webp,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;Material Design;贴纸;蓝色;粉色;大数字;步数;可编辑快捷键;AOD,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb10nfc;xmb11;xmb11nfc,
 979823142788,MD SQUIGGLE,watchface,DevonStee,astrobox-resource-979823142788,ebba646,media/01-图标-1比1.png,media/02-封面-3比2-三机.webp,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;Material Design;紫色;粉色;波浪;一天进度;大数字;AOD,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb10nfc;xmb11;xmb11nfc,
+979863094937,BUBBLE SQUEEZE,watchface,DevonStee,astrobox-resource-979863094937,8970f96,media/01-图标-1比1.png,media/02-封面-3比2-三机.webp,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;免费;泡泡;软糖;彩色;大数字;AOD,xiaomi,xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,
