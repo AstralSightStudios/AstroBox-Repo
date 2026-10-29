@@ -1,2 +1,0 @@
-id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.zhitiao.jiaocheng,小纸条,quick_app,SixOneTeam,astrobox-resource-com-zhitiao-jiaocheng,dac8a6f,media/062b024c0e29e471c07631e76ac4a108@2x.png,media/小纸条@2x.png,小米手环;sixone;付费;聊天;蓝牙;小纸条;互连,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
