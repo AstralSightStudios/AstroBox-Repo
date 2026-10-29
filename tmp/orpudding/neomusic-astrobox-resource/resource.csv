@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+moe.orpu.neomusic,NeoMusic,quick_app,OrPudding,NeoMusic-AstroBox-Resource,f0b9517,media/icon.webp,media/cover.webp,音乐;实用工具,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws3;xmws4;xmws441;xmws4xring;xmws5,force_paid
