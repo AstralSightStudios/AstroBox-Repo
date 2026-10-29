@@ -116,7 +116,6 @@ top.zaona.gobang.better,更好的五子棋,quick_app,zaona,better-gobang-astrobo
 979890780301,青丘云镜,watchface,zaona,hill-cloud-astrobox-release,e24d0a2,icon.png,preview.png,景深;风景,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6,
 979840380251,序列_Kipfel,watchface,ChiHuan0807,979840380251_AstroBox_Release,5c3dec6,序列LOGO.png,1.png,池焕;迟缓;Kipfel;可爱;简约;多模块;轻动态,xiaomi,xmb9p;xmb10p;xmrw6,force_paid
 979890780101,Ultra,watchface,zaona,ultra-astrobox-release,b56ce8b,icon.png,preview.png,表盘;简约,xiaomi,xmb10;xmb10nfc,
-moe.orpu.neomusic,NeoMusic,quick_app,OrPudding,NeoMusic-AstroBox-Resource,cff2128,media/icon.png,media/cover.png,音乐;实用工具,Xiaomi,xmrw5;xmrw5xring;xmrw6;xmws3;xmws4;xmws441;xmws4xring;xmws5,force_paid
 979869821000,动态疾旋鼬,watchface,Eric-qiqi,Jixuanyou-for-astroboxv2,5af5d6b,media/icon.png,media/toutu.png,可爱;动态;跳转;疾旋鼬,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p;xmb10p,
 979869821100,玉兰黄鹂,watchface,Eric-qiqi,yulanhuangli-for-astrobox,da9ffff,media/eee1619613af0486bb670877b8e3b27e - 副本(1)(1).png,media/awa.png,工笔画;国风;古风,xiaomi,xmb10p;xmb9p,
 979811204059,数字交替Alternate,watchface,aurysian-yan,Alternate-ABResV2,ce194ec934ef688d3bc351f7b55a918e9d6859d2,media/icon.png,media/cover.png,大数字;大时间;多数据;简洁;天气;读秒,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb9,
@@ -473,3 +472,4 @@ com.hazenotea.cardbox.watch,天空牌盒,quick_app,HazeNoTea,HNT_CardBox_vela,51
 com.Dreamqiu.disease,瘟疫公司,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-disease,993aaef,media/logo.png,media/瘟疫公司 (2) 2.png,游戏;瘟疫公司;小程序,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb11;xmb10p;xmb11nfc;xmb9;xmb9p;vivowgt2,force_paid
 com.hazenotea.chessbox.watch,天空棋盒,quick_app,HazeNoTea,HNT_ChessBox_vela,80da829,media/天空棋盒logo.png,media/大图.png,策略;棋盘;对战;五子棋;象棋;围棋;国际象棋;飞行棋;扫雷,xiaomi,xmrw5;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4xring;xmws441;xmws4;xmrw6,
 com.ashafizullah.klikband,KlikBand,quick_app,ashafizullah,astrobox-resource-com.ashafizullah.klikband,b6f0955,icon.png,cover.png,伊斯兰;穆斯林;礼拜时间;赞珠;伊斯兰历;实用工具;免费;离线;开源;Islam;Muslim;Prayer Times;Sholat,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmrw5;xmrw5xring;xmrw6;xmws3;xmws4;xmws441;xmws4xring;xmws5;xmws541,
+moe.orpu.neomusic,NeoMusic,quick_app,OrPudding,NeoMusic-AstroBox-Resource,f0b9517,media/icon.webp,media/cover.webp,音乐;实用工具,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws3;xmws4;xmws441;xmws4xring;xmws5,force_paid
