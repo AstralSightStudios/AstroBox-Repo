@@ -344,7 +344,6 @@ com.arknights.spoor.gacha,环上方舟,quick_app,SXM081115,astrobox-resource-com
 979866888348,同心圆,watchface,t1t218,tonxinyuan,e949029,media/icon.png,media/容器 24.png,简约;指针;自定义;多配色,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb11;xmb11nfc;xmb10p,force_paid
 979840213697,LUME RADAR,watchface,DevonStee,astrobox-resource-979840213697,fb5aa51,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;绿色;雷达;CRT;扫描线;横条数字;磷光;AOD,xiaomi,xmb9p;xmb10p;xmb11;xmb10;xmb11nfc;xmb10nfc,force_paid
 com.arknights.gpoor.gacha,明日方舟抽卡模拟,quick_app,SXM081115,astrobox-resource-com-arknights-gpoor-gacha,ca1d094,media/logo.png,media/1-small.png,明日方舟;抽卡;银灰;能天使,xiaomi,xmb10p;xmb9p,
-979845526110,LIGHT SIGNATURE,watchface,DevonStee,astrobox-resource-979845526110,b28bd4b,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,BRIN;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;车灯;尾灯;红色;黑色;亮屏动画;AOD,xiaomi,xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,
 979842555965,SEXTANT M3 SHAPES,watchface,DevonStee,astrobox-resource-979842555965,e1a841f,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,小米;谷歌;MD,xiaomi,xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 org.bandmetronome.app,手环节拍器,quick_app,kyn0v,astrobox-xiaomi-band-metronome,3539cac,media/icon.png,media/cover.png,音乐;节拍器;实用工具;免费,xiaomi,xmb9p,
 979873680166,GAUDI,watchface,DevonStee,astrobox-resource-979873680166,4c8c391,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,小米;高迪;瓷;五彩,xiaomi,xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
@@ -474,3 +473,4 @@ com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrob
 979826520334,RED GLOW,watchface,DevonStee,astrobox-resource-979826520334,d56adec,media/01-图标-1比1.png,media/02-封面-3比2-三机.webp,红色;点阵;辉光;AOD,xiaomi,xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,
 979870440702,MD VOLUME,watchface,DevonStee,astrobox-resource-979870440702,cc02814,media/01-图标-1比1.png,media/02-封面-3比2-三机.webp,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;Material Design;音量条;滑杆;粉色;蓝色;可编辑快捷键;AOD,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb10nfc;xmb11;xmb11nfc,
 979869522151,RED PLANET,watchface,DevonStee,astrobox-resource-979869522151,93031af,media/01-图标-1比1.png,media/02-封面-3比2-三机.webp,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;行星;太空;宇宙;红色;卫星;步数;心率;电量;亮屏动画;AOD,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb10nfc;xmb11;xmb11nfc,
+979845526110,LIGHT SIGNATURE,watchface,DevonStee,astrobox-resource-979845526110,31dc5a8,media/01-图标-1比1.png,media/02-封面-3比2-三机.webp,BRIN;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;车灯;尾灯;红色;黑色;亮屏动画;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p;xmrw6,
