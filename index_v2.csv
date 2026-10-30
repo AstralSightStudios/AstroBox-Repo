@@ -289,7 +289,6 @@ com.azuma.syclass,Var课程表,quick_app,AzumaChiaki,VarClass-ab,3c485b0,media/i
 979853048574,觅光,watchface,YcFeller,astrobox-resource-979853048574,3577f58,media/miguang-icon.png,media/宣发图.png,相册表盘;觅光;风景,xiaomi,xmrw5;xmrw5xring;xmrw6,force_paid
 979873297503,透视表盘,watchface,Cannyworks29,Xray_trans_watchface,c4f6488,media/资源 11.png,media/_1194511_cover.png,模拟;数字屏幕;点阵;nothing;像素;科技,xiaomi,xmb10;xmb11;xmb11nfc;xmb10nfc,
 com.galgod.band,GalGod,quick_app,mcpotato1123,astrobox-resource-com-galgod-band,c5d8760,media/icon.png,media/1.png,Galgame;游戏;旮旯大神,xiaomi,xmb9p;xmb10p,
-979845962581,自启动管理器,watchface,wzx009412,ASTROBOX-MIBAND10PRO-AUTORUN,ecb1d9b,media/68186.png,media/68200.jpg,模块;自启动;工具;小程序表盘;小程序,xiaomi,xmb10p,
 com.hazenotea.sokuban.watch,推箱子,quick_app,HazeNoTea,HNT_SoKuBan_vela,7fd486e,media/ab_logo.png,media/AI修复大图.png,游戏;解谜;闯关,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws4xring;xmws441;xmws4;xmb11;xmb11nfc;xmb9p;xmb9,
 979877290210,辉光管,watchface,Qiqi29,astrobox-resource-979877290210,8132d2e,media/图标 300w.png,media/封面图 900x600.png,复古;简洁;秒数;横屏,xiaomi,xmb10;xmb11;xmb10nfc;xmb11nfc,
 979814719338,CuteeeS UI,watchface,YcFeller,astrobox-resource-979814719338,f63d127,media/logo-500x.png,media/CuteeeS-UI作品封面 5.png,相册表盘;风景;二次元,xiaomi,xmb9p,force_paid
@@ -475,3 +474,4 @@ icu.ccicc.jslab,JSLab社区版,quick_app,cciccicu,JSLab_AstroBox_Release,7e083e9
 979821130308,靶心,watchface,imwjh,astrobox-resource-979821130308,e458501,media/preview-2563.png,media/01-BULLSEYE靶心-2160x1440.png,抽象;指针;圆;seegood;AOD;波点,xiaomi,xmrw6;xmrw5;xmrw5xring;xmb10p;xmb9p,force_paid
 com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-parsecs,4519ab9,media/logo.png,media/60秒太空避难所.png,60秒避难所;游戏;60,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9;vivowgt2,force_paid
 com.taskschd.dfwatch,三角洲行动,quick_app,taskschd1145,astrobox-resource-com-taskschd-dfwatch,0e509e4,media/logo.png,media/IMG_259758_1200x800.jpg,搜打撤;战术设计;据点争夺;三角洲;枪战,xiaomi,xmrw5;xmrw6;xmrw5xring;xmb10p;xmb9p,force_paid
+979845962581,自启动管理器,watchface,wzx009412,ASTROBOX-MIBAND10PRO-AUTORUN,55157a0,media/68186.png,media/68200.jpg,模块;自启动;工具;小程序表盘;小程序,xiaomi,xmb10p,
