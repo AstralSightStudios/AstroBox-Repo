@@ -423,7 +423,6 @@ com.zb26.cc.mfstd.jiahaokuaipao,嘉豪快跑,quick_app,jinmohan,astrobox-resourc
 979821130209,波普圆点,watchface,imwjh,astrobox-resource-979821130209,da94ca6,media/face-256.png,media/cover_2160x1440.png,指针;艺术;高饱和;数字;设计;seegood,xiaomi,xmrw6;xmb10p,
 979821130311,我眼镜呢,watchface,imwjh,astrobox-resource-979821130311,e176072,media/图标.png,media/01_头图_3x2_结果.png,大数字;简约;极简;seegood;模糊;AOD;设计,xiaomi,xmrw6;xmb10p,
 979815595337,Truck Tick,watchface,imwjh,astrobox-resource-979815595337,9b0ed3d,media/preview-256.png,media/cover-truck-tick-3000x2000_结果_结果.png,大数字;简约;设计;极简;seegood,xiaomi,xmrw6;xmb10p,
-979813494192,显影,watchface,imwjh,astrobox-resource-979813494192,0850f64,media/11_active-256.png,media/cover-type-3000x2000_结果.png,数字;大数字;简约;息屏,xiaomi,xmrw6;xmb10p,
 979821130309,拼毯,watchface,imwjh,astrobox-resource-979821130309,55acf19,media/couverture-256.png,media/02-COUVERTURE拼毯-2160x1440.png,数字;彩色;设计;seegood;简约,xiaomi,xmrw6;xmb10p,
 979872911720,BATTERY DRIVE,watchface,DevonStee,astrobox-resource-979872911720,dbf8ab5,media/01-图标-1比1.png,media/02-封面-3比2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;橙色;黑色;数码管;大数字;控制台;警示斜纹;电量;心率;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 com.hazenotea.cardbox.watch,天空牌盒,quick_app,HazeNoTea,HNT_CardBox_vela,51bdd7b,media/logo256.png,media/大图.png,卡牌;策略;对战,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4xring;xmws441;xmws4,
@@ -475,3 +474,4 @@ icu.ccicc.jslab,JSLab社区版,quick_app,cciccicu,JSLab_AstroBox_Release,7e083e9
 979844991466,4o,watchface,imwjh,astrobox-4o-seegood-979844991466,29d1073,media/preview_0220-256.png,media/4o_cover_结果.png,大数字;心率;秒钟;设计;付费;seegood,xiaomi,xmrw6;xmb10p;xmrw5xring;xmrw5;xmb9p,force_paid
 979809915926,DICE CLOCK,watchface,DevonStee,astrobox-resource-979809915926,76ea447,media/01-图标-1比1.png,media/02-封面-3比2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;骰子;摇一摇;红色;黑色;游戏;互动;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p,force_paid
 979856614572,CAT COURT&设计师合作款,watchface,DevonStee,astrobox-resource-979856614572,41ce2b8,media/01-图标-1比1.png,media/02-封面-3比2.webp,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;REDMI Watch 6;表盘;小米表盘;猫;猫猫;可爱;扑克牌;卡牌;手绘;翻牌动画;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9p;xmrw6,force_paid
+979813494192,显影,watchface,imwjh,astrobox-resource-979813494192,1a0be3e,media/11_active-256.png,media/cover-type-3000x2000_结果.png,数字;大数字;简约;息屏;seegood,xiaomi,xmrw6;xmb10p;xmrw5;xmrw5xring;xmb9p,
