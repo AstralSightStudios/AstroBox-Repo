@@ -3,5 +3,11 @@
   "mode": "edit",
   "original_id": "com.bandbbs.ebook.plus",
   "base_entry_digest": "8a8f73ab0686a67ab1bed03804a5ed3ba0eabe3052a177387db0ac2b7c984392",
-  "base_catalog_commit": "8999bf8f72816dfd98ddef438b14996cb63d4e4c"
+  "base_catalog_commit": "8999bf8f72816dfd98ddef438b14996cb63d4e4c",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:10:01.713642+08:00",
+    "build_user": "runner"
+  }
 }
