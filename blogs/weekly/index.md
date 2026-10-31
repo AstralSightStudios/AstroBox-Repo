@@ -7,8 +7,6 @@ date: 2026-10-03
 cover: "https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/weekly/cover1.jpg"
 ---
 
-也许你目前还没能收到该版本的更新推送——但别担心，它将于3天内在各个平台上陆续发布！
-
 欢迎各位更新到 AstroBox 2.2 版本！如果说 2.0 是全新的起点，2.1 是交互逻辑的补足，那么 2.2 就是一个在此基础上进行大幅优化并加入数项重磅功能的版本。请允许我们为你介绍在该版本中带来的数十项显著改进：
 
 ## 性能

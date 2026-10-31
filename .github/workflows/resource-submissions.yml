@@ -4,6 +4,9 @@ on:
   pull_request:
     paths:
       - "tmp/**"
+  # 创作者无法自己重开被维护者关闭的 PR，改为发 [ABCC_REOPEN] 评论请求仓库代劳。
+  issue_comment:
+    types: [created]
   push:
     branches:
       - main
@@ -50,3 +53,32 @@ jobs:
           GITHUB_ACTOR: ${{ github.actor }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         run: python3 .github/scripts/resource_submissions.py apply-pending
+
+  reopen-on-request:
+    # 创作者（对组织仓库没有写权限）无法自己重开 PR，只能发评论请求；
+    # 这里用仓库自身的 GITHUB_TOKEN 代为重开，避免同一资源反复新建 PR。
+    if: >-
+      github.event_name == 'issue_comment' &&
+      github.event.issue.pull_request != null &&
+      contains(github.event.comment.body, '[ABCC_REOPEN]')
+    runs-on: ubuntu-latest
+    # 覆盖工作流级 concurrency，避免排在耗时的 apply-pending 后面。
+    concurrency:
+      group: resource-submissions-reopen
+      cancel-in-progress: false
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          # 这个 job 只需要 .github/scripts 下的脚本，而仓库包体很大
+          # （正式仓库实测 .git 108MB），全量 checkout 是整条链路里最慢的一步。
+          # 稀疏 + blob 过滤后只拉脚本目录，实测体积 108MB → 248KB、耗时约 5.6 倍差距。
+          sparse-checkout: .github/scripts
+          filter: blob:none
+      - name: Reopen pull request on creator request
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python3 .github/scripts/resource_submissions.py reopen-on-request

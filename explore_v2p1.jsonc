@@ -92,8 +92,8 @@
         },
         {
           "type": "resource",
-          "resourceId": "979808741600",
-          "resBackgroundColorGradient": ["#8A8300", "#464223"]
+          "resourceId": "979808744800",
+          "resBackgroundColorGradient": ["#5FC5D8", "#747A7B"]
         },
         {
           "type": "resource",
@@ -183,6 +183,16 @@
       "description": "碎片时间，轻松一刻。",
       "type": "custom",
       "cards": [
+        {
+          "type": "resource",
+          "resourceId": "com.komoridev.watermelon",
+          "resBackgroundColorGradient": ["#C1FF7C", "#64904B"]
+        },
+        {
+          "type": "resource",
+          "resourceId": "com.arknights.spoor.gacha",
+          "resBackgroundColorGradient": ["#B1B1B1", "#4C4C4C"]
+        },
         {
           "type": "resource",
           "resourceId": "com.matrixfive.online.ylgy",
