@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "cn.seedsoft.realzhixue",
+  "base_entry_digest": "c9c7c858c03dc976109e19f4c55101525d64ea9ed5277a6e8b182738f03f7291",
+  "base_catalog_commit": "8999bf8f72816dfd98ddef438b14996cb63d4e4c",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
