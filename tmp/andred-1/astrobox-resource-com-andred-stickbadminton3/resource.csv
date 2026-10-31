@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.andred.stickbadminton3,火柴人羽毛球3,quick_app,andred-1,astrobox-resource-com-andred-stickbadminton3,5e0328d,media/1000040060.png,media/1000040055.png,火柴人;羽毛球;火柴人羽毛球3,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
