@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.hachimi.watch.undertale,传说之下,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-undertale,c72d582,media/icon.png,media/undertale-cover-3x2-final.jpg,游戏;冒险;角色扮演;像素;RPG,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9,force_paid
