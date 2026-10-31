@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.andred.pigeonpop,疯狂鸽子,quick_app,andred-1,astrobox-resource-com-andred-pigeonpop,668c0e8,media/1000039907.png,media/1000040032.png,疯狂鸽子;疯狂;疯狂的鸽子,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9,force_paid
+com.andred.pigeonpop,疯狂鸽子,quick_app,andred-1,astrobox-resource-com-andred-pigeonpop,47304a8,media/1000039907.png,media/1000040056.png,疯狂鸽子;疯狂;疯狂的鸽子,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9,force_paid
