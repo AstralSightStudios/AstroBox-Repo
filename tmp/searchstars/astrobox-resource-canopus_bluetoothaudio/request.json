@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "bluetooth_audio",
+  "base_entry_digest": "27b3be0ed55cee32766efe9a147ea2d823d841359a90f2f232125ca0dab63d22",
+  "base_catalog_commit": "2f896fc73e86f210a8c224bbf33bbe6c8d8110e5",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "4eaeabb",
+    "build_time": "2026-10-07T17:49:28.003482+08:00",
+    "build_user": "searchstars"
+  }
+}
