@@ -467,7 +467,6 @@ com.taskschd.dfwatch,三角洲行动,quick_app,taskschd1145,astrobox-resource-co
 com.hachimi.watch.thatsnotmyneighbor,那不是我的邻居,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-thatsnotmyneighbor,b0783a6,media/icon-round.png,media/tnmn-cover-3x2-v2.jpg,游戏;悬疑;推理;伪人;娱乐,xiaomi,xmrw5;xmrw6;xmb10;xmb10p;xmb11;xmb9p;xmb9;xmrw5xring,paid
 979826103001,大薯条,watchface,imwjh,astrobox-resource-979826103001,f9d4d7e,media/图标.png,media/01_头图_3x2_结果.png,薯条;创意;seegood;大数字;AOD;付费;设计感,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p,force_paid
 com.goldminer.tfdc,黄金矿工,quick_app,0233-wu,astrobox-resource-com-goldminer-tfdc,dac0c82,media/logo.png,media/页面 1 (1).png,游戏;免费;黄金矿工;益智,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p,
-979843618033,Wed,watchface,imwjh,astrobox-resource-979843618033,a7d639a,media/图标.png,media/01_头图_3x2.png,星期;设计;设计感;seegood;AOD;黑色;简约,xiaomi,xmrw6;xmb10p,force_paid
 com.hachimi.watch.undertale,传说之下,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-undertale,c72d582,media/icon.png,media/undertale-cover-3x2-final.jpg,游戏;冒险;角色扮演;像素;RPG,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9,force_paid
 io.github.micasiliconneko.hikoto,一言,quick_app,MicaSiliconNeko,YiYan_miband,bc219e0,media/icon-E2-mid.png,media/一言-封面.png,文本;快应用;一言,xiaomi,xmb10p;xmb9p,
 com.arknights.spoor.gacha,环上方舟,quick_app,SXM081115,astrobox-resource-com-arknights-spoor-gacha,0a5063e,media/BandArk.png,media/cover345.png,明日方舟;陈;安洁莉娜;抽卡模拟;环上方舟;基建系统;理智;斩业星熊,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
@@ -482,3 +481,4 @@ com.awu.watch.petcolumnsort,萌宠归队,quick_app,jianding24,pet-column-sort-as
 com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,e978db8,media/show_icon.png,media/cover-1.png,课程表;悬浮tab;简约课表,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc;xmrw5;xmrw6;xmrw5xring;xmb9;xmb9p,
 com.jpf.wrist.swordforge,铸剑大师,quick_app,jip79078-hash,sword-master,9509d2a,media/icon.png,media/cover-v15.jpg,游戏;锻造;策略,xiaomi,xmrw5;xmrw6;xmb9p;xmb10p,force_paid
 com.komoridev.billiard,口袋台球,quick_app,KomoriDev,kovela-billiard,d723ba0,media/billiard-logo.png,media/billiard-cover.png,娱乐;游戏;台球,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5;xmrw5;xmrw5xring;xmrw6,force_paid
+979843618033,Wed,watchface,imwjh,astrobox-resource-979843618033,ab1ac74,media/图标.png,media/01_头图_3x2.png,星期;设计;设计感;seegood;AOD;黑色;简约,xiaomi,xmrw6;xmb10p;xmrw5;xmrw5xring,force_paid
