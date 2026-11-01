@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.wristauth.band,2FA验证器,quick_app,allow1lu-dot,2fa-band10,c3b8648,media/2fa验证器-图标-1x1-fixed.png,media/2fa验证器-宣传图-3x-fixed.png,工具;2fa;计算,xiaomi,xmb10,
