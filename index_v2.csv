@@ -249,10 +249,8 @@ com.SoDictionary.Classical.solan,So词典-古汉语词典,quick_app,Solan-486,as
 com.hydro.link,HydroLink,quick_app,F7YM,astrobox-resource-com-hydro-link,83d32b4,media/Group 3 (1).png,media/Group 9 (6).png,Windows;Linux;互联;HydroLink;远程终端;HydroKit,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmws541,
 online.soodok.poemsearch,万诗阁,quick_app,Soodok,astrobox-resource-online-soodok-wanshige,50ddec9,media/万诗阁-图标-192.png,media/万诗阁-头图-实机版-1536x1024.jpg,诗词;古文;学习;工具;离线;搜索,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,paid
 material,Material 图标包,res_pack,zaona,material-astrobox-release,0f41cf0,media/Group 2.png,media/cover.png,Material;md;图标包,xiaomi,xmb10p;xmb11;xmb11nfc,
-ng.lst.corona,Corona管理器,quick_app,leset0ng,Corona-Manager-Relese,4022930,media/logo.png,media/Frame 29.png,canopus;主题;图标;资源包;管理;混搭;模块,xiaomi,xmb10p;xmb11;xmb11nfc,
 com.ycc.tz.suishenxue,随身学pro,quick_app,lafsyc,suishenxue-promax,9f38682,media/图标.png,media/封面04-极简大字-主题设置-1200x800.png,学习;快应用,xiaomi,xmb11;xmb10;xmb10nfc;xmb11nfc,
 com.komoridev.projectile,抛,quick_app,KomoriDev,kovela-projectile,03f85ce,media/icon.png,media/cover.png,游戏;休闲;清新;治愈,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,
-canopus_corona,Corona模块,canopus,leset0ng,Corona-Relese,4c4b637,media/logo.png,media/Frame 427321352.png,模块;canopus;资源包;图标;主题;字体,xiaomi,xmb10p;xmb11;xmb11nfc,
 circlestrat,圆启,res_pack,Alittlejelly,astrobox-resource-circlestrat,758f91a,media/icon.png,media/画板 53.png,圆形图标;多彩图标;渐变色彩,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
 naiwapack,奶娃图标包,res_pack,leset0ng,naiwa-icon-pack-rel,7aa5218,media/canopus-character.png,media/character-icon-pack-promo.png,图标;资源包;主题;搞笑;奶龙;卡通,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
 com.fengyu.schedule,风屿课程表,quick_app,zuanyingabc,astrobox-resource-com-fengyu-schedule,0e11054,media/cropped_circle_image_resized.png,media/头图_compressed.png,课程表;免费;实用,xiaomi,xmb10p;xmb9p,
@@ -484,3 +482,4 @@ com.andred.pigeonpop,疯狂鸽子,quick_app,andred-1,astrobox-resource-com-andre
 bluetooth_audio,Canopus 蓝牙音频扩展模块,canopus,Searchstars,astrobox-resource-canopus_bluetoothaudio,cb10cb6,media/Frame 6-2 1.png,media/Frame 11.png,Canopus;蓝牙;蓝牙耳机;耳机;音乐;播放器;模块;扩展;内核扩展,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
 979810071001,萌宠营地,watchface,jianding24,pet-squad-companion-astrobox-release,e23fe94,media/icon.png,media/cover.jpg,萌宠;免费;营地;日夜;息屏;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw6;xmb11;xmb11nfc,
 979856732641,迷失回廊,watchface,0233-wu,astrobox-resource-979856732641,5490ef8,media/icon_corridor.png,media/页面 1 (2).png,游戏;免费;解密,xiaomi,xmb9p;xmb10p,
+canopus_corona,Corona模块,canopus,leset0ng,Corona-Relese,92e4bf1,media/logo.png,media/Frame 29.png,模块;canopus;资源包;图标;主题;字体,xiaomi,xmb10p;xmb11;xmb11nfc,
