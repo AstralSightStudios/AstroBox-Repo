@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.hydro.link",
+  "base_entry_digest": "d1fac08635869749783dfabc7ceda8c45a81fd143457366afdf01005ae8f3366",
+  "base_catalog_commit": "f6e8fb7523301482c2a8fd81c9c3b8998fa7a2ad",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:13:25.479631754+08:00",
+    "build_user": "runner"
+  }
+}
