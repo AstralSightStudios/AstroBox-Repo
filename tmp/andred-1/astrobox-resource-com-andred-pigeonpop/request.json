@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.andred.pigeonpop",
+  "base_entry_digest": "a3d47459d9fe0478c19f23b978a244c4b7c133961b32cfe192ed213472f86134",
+  "base_catalog_commit": "ee4ecc46b317e916867504c4f7ceaf5ca9a59223",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:13:25.479631754+08:00",
+    "build_user": "runner"
+  }
+}
