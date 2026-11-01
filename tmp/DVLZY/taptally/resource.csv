@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.taptally.scoreboard,点记,quick_app,DVLZY,taptally-miband,c1bd95b1bf2588191bb5c3da2c0f7ffd4412e4e8,media/icon.png,media/cover.png,实用工具;计分;比分;台球;乒乓;羽毛球;棋牌;对局,xiaomi,xmb9,
+com.taptally.scoreboard,点记,quick_app,DVLZY,taptally-miband,65d0aa0c294f999e9fc4b43d7e9d8e5eb8f1a049,media/icon.png,media/cover.png,实用工具;计分;比分;台球;乒乓;羽毛球;棋牌;对局,xiaomi,xmb9,
