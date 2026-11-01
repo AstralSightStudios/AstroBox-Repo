@@ -334,7 +334,6 @@ org.bandmetronome.app,手环节拍器,quick_app,kyn0v,astrobox-xiaomi-band-metro
 979838046796,幻境,watchface,Hobjl-lian,astrobox-resource-979838046796,4b48ef6,media/icon.png,media/cover.jpg,Hobjl;表盘;小米手环,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 979851888346,极光效应,watchface,Hobjl-lian,astrobox-resource-979851888346,9341182,media/icon.png,media/cover.jpg,Hobjl;表盘;小米手环,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 979835460857,雾中旅行,watchface,Hobjl-lian,astrobox-resource-979835460857,b0b73ea,media/icon.png,media/cover.png,Hobjl;表盘;小米手环,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
-979820260926,Chaos,watchface,WenHuaYiYang,astrobox-resource-979820260926,166ca04,media/chaos_icon_resized.png,media/desc.png,模块;美化;Chaos;工具,xiaomi,xmb10p,
 979841185402,动漫海报表盘,watchface,Hobjl-lian,astrobox-resource-979841185402,d96bfb4,media/icon.png,media/cover.png,Hobjl;表盘;小米手环;二次元,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 979858205979,MirrorUI,watchface,Hobjl-lian,astrobox-resource-979858205979,8af043b,media/icon.png,media/cover.png,Hobjl;表盘;小米手环,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 979811233548,零UI,watchface,Hobjl-lian,astrobox-resource-979811233548,8cc569c,media/icon.png,media/cover.png,Hobjl;表盘;小米手环,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
@@ -484,3 +483,4 @@ com.komoridev.angrybirds,愤怒的小鸟,quick_app,KomoriDev,kovela-angrybirds,8
 cn.amakanotwo.qihe,甜蜜女友 2,quick_app,qihe114514,astrobox-resource-cn-amakanotwo-qihe,5ce996a,media/icon.png,media/头头图.jpg,gal;游戏;galgame,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws5;xmws4;xmws4xring;xmws441;xmws3;xmb9;xmb9p;xmb10p;xmb10nfc;xmb10;xmb11nfc;xmb11;xmws541,force_paid
 com.hydro.link,HydroLink,quick_app,F7YM,astrobox-resource-com-hydro-link,f09d6ea,media/Group 3 (1).png,media/Group 9 (6).png,Windows;Linux;互联;HydroLink;远程终端;HydroKit,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmws541,
 com.ppyycc.dict,DICT英汉词典,quick_app,ppyycc-ppc,vela_astrobox_DICT_bandpro_branch,fc471c4,media/icon.png,media/cover.png,英文;学习;词典,xiaomi,xmb10p;xmb9p,
+979820260926,Chaos,watchface,WenHuaYiYang,astrobox-resource-979820260926,14da60a,media/chaos_icon_resized.png,media/desc.png,模块;美化;Chaos;工具,xiaomi,xmb10p,
