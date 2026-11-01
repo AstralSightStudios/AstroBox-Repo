@@ -355,7 +355,6 @@ com.yzf.daymatter,倒数日 快应用,quick_app,sf-yuzifu,Daymatter_Quickapp_Ast
 com.hiddenmode.sixone.hobjl,伪装模式,quick_app,SixOneTeam,astrobox-resource-com-hiddenmode-sixone-hobjl,81a3243,media/100_100@1x.png,media/伪装模式@2x.png,伪装模式;sixone;小程序;小米手环;付费,xiaomi,xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,force_paid
 com.sixone.LiarBar,骗子酒馆,quick_app,SixOneTeam,astrobox-resource-com-sixone-liarbar,9d1d656,media/app logo@4x.png,media/骗子酒馆@2x.png,骗子酒馆;卡牌;桌游;游戏;sixone;付费;小米手环,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,force_paid
 com.liuyuze61.otto,石面棍哥,quick_app,SixOneTeam,astrobox-resource-com-liuyuze61-otto,d5bf0e0,media/logo.png,media/石面棍哥@2x.png,石面棍哥;闯关;sixone;小米手环;游戏;付费,xiaomi,xmb9p,force_paid
-com.huashu.heihade,嘿哈嘚,quick_app,MinimumBubble11,Heihade_ABD,25c8322,media/logo.png,media/heihade-poster-mini-1200x800.png,音效盒;游戏;音效,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,
 com.local.codexband,Codex Band Connector,quick_app,DecafDoppio,Codex-Band-Connector,eaf627f,media/icon.png,media/二比三头图.jpg,Codex;AI;开发工具;效率工具;授权,xiaomi,xmb11;xmb11nfc;xmb10;xmb10nfc,
 979877290111,图文模块Pro,watchface,Qiqi29,astrobox-resource-979877290111,1ff319b,media/图标 300w.png,media/封面图 900x600.png,简洁;自定义;Watch;模块;高级;Apple,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.tinyshadows.band,小小的身影，重叠的内心,quick_app,mcpotato1123,astrobox-resource-com-tinyshadows-band,8a06075,media/icon.png,media/cover-1800x1200-简洁.jpg,Galgame;小小身影;游戏,xiaomi,xmb9p,
@@ -484,3 +483,4 @@ com.ppyycc.dict,DICT英汉词典,quick_app,ppyycc-ppc,vela_astrobox_DICT_bandpro
 979820260926,Chaos,watchface,WenHuaYiYang,astrobox-resource-979820260926,14da60a,media/chaos_icon_resized.png,media/desc.png,模块;美化;Chaos;工具,xiaomi,xmb10p,
 com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox,bb0c210,media/容器 14 (2).png,media/幻灯片 4_3 - 2.png,小米手环9Pro;课程表;BandClass;倒计时;Redmi Watch 6;小米手环10Pro;红米手表5,xiaomi,xmrw5;xmrw6;xmb10p;xmb9p,
 app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,86f4efe,media/16108.png,media/25729.png,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
+com.huashu.heihade,嘿哈嘚,quick_app,MinimumBubble11,Heihade_ABD,44b5481,media/logo.png,media/heihade-poster-mini.png,音效盒;游戏;音效;幻响,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,
