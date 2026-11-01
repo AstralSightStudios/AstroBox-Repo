@@ -311,7 +311,6 @@ moe.mcns.Eclipse,Eclipse星语,quick_app,FelixFan-CN,astrobox-resource-moe-mcns-
 com.jpf.wrist.descend100,下100层,quick_app,jip79078-hash,descend100-astrobox,2e5f1d7,media/icon.png,media/cover-illustrated-v1.jpg,游戏;休闲;躲避;重力感应;离线,xiaomi,xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9;xmrw5;xmrw6;xmws5,
 com.jpf.wrist.doodlejump,涂鸦跳跳,quick_app,jip79078-hash,doodle-jump-astrobox,e7427f4,media/icon.png,media/cover-review-v2-upload.png,游戏;休闲;重力感应;跳跃;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9,
 979814087238,惊鸿,watchface,Hobjl-lian,astrobox-resource-979814087238,e16a1b4,media/icon.png,media/cover.png,Hobjl;表盘;小米手环,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
-cn.amakanotwo.qihe,甜蜜女友 2,quick_app,qihe114514,astrobox-resource-cn-amakanotwo-qihe,f3e0b72,media/icon.png,media/头头图.jpg,gal;游戏;galgame,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws5;xmws4;xmws4xring;xmws441;xmws3;xmb9;xmb9p;xmb10p;xmb10nfc;xmb10;xmb11nfc;xmb11;xmws541,force_paid
 979887519328,耐克PRO（样式2）,watchface,Hobjl-lian,astrobox-resource-979887519328,8b99030,media/icon.png,media/cover.png,Hobjl;表盘;小米手环;运动,xiaomi,xmb9p;xmb10p,force_paid
 979832101860,耐克PRO,watchface,Hobjl-lian,astrobox-resource-979832101860,2a2dd4e,media/icon.png,media/cover.png,Hobjl;表盘;小米手环;运动,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 com.komoridev.tankturmoil,坦克动荡,quick_app,KomoriDev,kovela-tankturmoil,7c2eac7,media/icon.png,media/cover.png,游戏;娱乐;趣味,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
@@ -494,3 +493,4 @@ corona,Corona模块,canopus,leset0ng,Corona-Relese,ace5bb1,media/logo.png,media/
 979860087127,我要大数字9,watchface,imwjh,astrobox-resource-979860087127,5b42808,media/总览_1x1_扑克_500px.jpg,media/头图_3x2.jpg,大数字;数字;seegood;字体;艺术;设计;简约,xiaomi,xmrw6,force_paid
 979813497023,我要大数字10,watchface,imwjh,astrobox-resource-979813497023,4dff592,media/总览_1x1_扑克_500px.jpg,media/头图_3x2.jpg,大数字;数字;seegood;简约;设计;字体,xiaomi,xmrw6,force_paid
 com.komoridev.angrybirds,愤怒的小鸟,quick_app,KomoriDev,kovela-angrybirds,8052b7f,media/logo.png,media/cover.png,游戏;休闲;趣味;童年,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,paid
+cn.amakanotwo.qihe,甜蜜女友 2,quick_app,qihe114514,astrobox-resource-cn-amakanotwo-qihe,5ce996a,media/icon.png,media/头头图.jpg,gal;游戏;galgame,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws5;xmws4;xmws4xring;xmws441;xmws3;xmb9;xmb9p;xmb10p;xmb10nfc;xmb10;xmb11nfc;xmb11;xmws541,force_paid
