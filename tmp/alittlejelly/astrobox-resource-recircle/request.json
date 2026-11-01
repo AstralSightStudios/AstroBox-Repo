@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "recircle",
+  "base_entry_digest": "8eaed22404cc1a20e91ef6e11fff7f74eed9bf54da7925b5bd85d35d963c0113",
+  "base_catalog_commit": "485b324e350fe018d7ecf054426369d9f66d63c1",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:13:25.479631754+08:00",
+    "build_user": "runner"
+  }
+}
