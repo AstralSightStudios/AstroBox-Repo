@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.jump.tfdc",
+  "base_entry_digest": "a3c5fb3761e7d8a21733c1b78c6b5adc3edc8105a0c1ce2f48abc0449961eb2c",
+  "base_catalog_commit": "e02b8387987f066e3b27a5a46d1783c62d904e3c",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
