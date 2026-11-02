@@ -448,7 +448,6 @@ com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource
 com.taskschd.dfwatch,三角洲行动,quick_app,taskschd1145,astrobox-resource-com-taskschd-dfwatch,5e34ed6,media/logo.png,media/IMG_259758_1200x800.jpg,搜打撤;战术设计;据点争夺;三角洲;枪战,xiaomi,xmrw5;xmrw6;xmrw5xring;xmb10p;xmb9p,force_paid
 979845962581,自启动管理器,watchface,wzx009412,ASTROBOX-MIBAND10PRO-AUTORUN,55157a0,media/68186.png,media/68200.jpg,模块;自启动;工具;小程序表盘;小程序,xiaomi,xmb10p,
 com.hachimi.watch.thatsnotmyneighbor,那不是我的邻居,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-thatsnotmyneighbor,b0783a6,media/icon-round.png,media/tnmn-cover-3x2-v2.jpg,游戏;悬疑;推理;伪人;娱乐,xiaomi,xmrw5;xmrw6;xmb10;xmb10p;xmb11;xmb9p;xmb9;xmrw5xring,paid
-979826103001,大薯条,watchface,imwjh,astrobox-resource-979826103001,f9d4d7e,media/图标.png,media/01_头图_3x2_结果.png,薯条;创意;seegood;大数字;AOD;付费;设计感,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p,force_paid
 com.goldminer.tfdc,黄金矿工,quick_app,0233-wu,astrobox-resource-com-goldminer-tfdc,dac0c82,media/logo.png,media/页面 1 (1).png,游戏;免费;黄金矿工;益智,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p,
 com.hachimi.watch.undertale,传说之下,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-undertale,c72d582,media/icon.png,media/undertale-cover-3x2-final.jpg,游戏;冒险;角色扮演;像素;RPG,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9,force_paid
 io.github.micasiliconneko.hikoto,一言,quick_app,MicaSiliconNeko,YiYan_miband,bc219e0,media/icon-E2-mid.png,media/一言-封面.png,文本;快应用;一言,xiaomi,xmb10p;xmb9p,
@@ -486,3 +485,4 @@ canopus_loop,Loop课程表,canopus,zaona,loop-astrobox-release,dc73ab6,media/ico
 com.jump.tfdc,跳一跳,quick_app,0233-wu,astrobox-resource-com-jump-tfdc,76b7854,media/logo.png,media/页面 1.png,游戏;跳一跳;免费,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10nfc;xmb10;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
 com.kjsjksjsjaiwjjw.monopoly,大富翁,quick_app,33520276q-dotcom,97777777777777,d1594d9,media/icon.png,media/monopoly_poster_v5_1200x800.png,免费;游戏;手表;手环,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb9p;xmws441;xmws3;xmws4xring;xmb10p;xmws4,
 979890472499,合成大icon,watchface,yamu81663-dot,synthesis-big-icon,ad3b112,media/141C975B7A8DB38BD43524D80FB20A21.png,media/FB7C89C5CDD10BA1077863B80987AA26.png,小游戏;合成;原生应用,xiaomi,xmb9p;xmb10p,force_paid
+979826103001,大薯条,watchface,imwjh,astrobox-resource-979826103001,3b5435b,media/图标.png,media/01_头图_3x2_结果.png,薯条;创意;seegood;大数字;AOD;付费;设计感,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p,force_paid
