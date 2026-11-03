@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979816979482,PUFF CROWD,watchface,DevonStee,astrobox-resource-979816979482,8f4edde,media/01-icon.png,media/02-cover.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;气球;大数字;彩色;天空;双样式;AOD;小米手环表盘;可爱;飞翔;糖果;少女;清新;简明;简单数字,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
