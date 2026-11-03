@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-979849910571,SPLIT SCRIPT,watchface,DevonStee,astrobox-resource-979849910571,5e79443,media/01-icon.png,media/02-cover.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;数字;中文数字;彩色;排版;AOD;小米手环表盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
+979849910571,SPLIT SCRIPT,watchface,DevonStee,astrobox-resource-979849910571,07e01fd,media/01-icon.png,media/02-cover-v2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;数字;中文数字;彩色;排版;AOD;小米手环表盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
