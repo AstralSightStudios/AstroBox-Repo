@@ -476,7 +476,6 @@ com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox
 app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,86f4efe,media/16108.png,media/25729.png,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
 com.huashu.heihade,嘿哈嘚,quick_app,MinimumBubble11,Heihade_ABD,44b5481,media/logo.png,media/heihade-poster-mini.png,音效盒;游戏;音效;幻响,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,
 com.jpf.wrist.doodlejump,涂鸦跳跳,quick_app,jip79078-hash,doodle-jump-astrobox,e9422a0,media/icon.png,media/cover-review-v2-upload.png,游戏;休闲;重力感应;跳跃;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9,
-canopus_loop,Loop课程表,canopus,zaona,loop-astrobox-release,dc73ab6,media/icon.png,media/cover.png,课程表;Canopus;原生,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
 979835271640,我要大数字,watchface,imwjh,astrobox-resource-979835271640,317399b,media/总览_1x1_扑克_500px.jpg,media/头图_3x2_扑克.jpg,大数字;数字;seegood;简约;AOD;字体;多样式,xiaomi,xmrw6,force_paid
 979808741600,endID,watchface,hrsthrt74,endID-for-astrobox,6529dc5,media/icon.png,media/cover.png,表盘;明日方舟;终末地;明日方舟终末地;二次元;小米手环11,xiaomi,xmrw6;xmrw5xring;xmrw5;xmws4;xmb9p;xmb10;xmb10nfc;xmws5;xmb10p;xmb11;xmb11nfc;xmws4xring;xmws541,
 979855892779,Miku · Plush Dream,watchface,YcFeller,astrobox-resource-979855892779,19d678a,media/11logo.png,media/宣发图 (1).png,初音未来;miku;排版表盘;免费;可爱风;萌系,xiaomi,xmb9p;xmb10p,
@@ -487,3 +486,7 @@ com.kjsjksjsjaiwjjw.monopoly,大富翁,quick_app,33520276q-dotcom,97777777777777
 979877290111,图文模块Pro,watchface,Qiqi29,astrobox-resource-979877290111,8a9ba8e,media/图标 300w.png,media/封面图 900x600.png,简洁;自定义;Watch;模块;高级;Apple,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.qqrt.band,QQRT,quick_app,nanzhi8,astrobox-resource-com-qqrt-band,d87a563,media/icon-6-neon.png,media/processed_image_1439661065-ProcessImageAsync-4a52f3e74ba7a84a5d90a4fff3251247t_1.png,QQ;社交;免费,xiaomi,xmrw6;xmb9p,
 979817235470,DOOM,watchface,cahkcs,doom,e285261,media/doom_app_icon_192x192.png,media/DOOM_Cover_Official_3DWrist.jpg,DOOM;3D游戏;表盘游戏;射击;fps,xiaomi,xmrw6;xmb10p;xmb9p;xmb10;xmb10nfc;xmb9;xmb11;xmb11nfc;xmws3;xmws4xring;xmws441;xmws541;xmws4;xmws5,force_paid
+979849910571,SPLIT SCRIPT,watchface,DevonStee,astrobox-resource-979849910571,2fb940e,media/01-icon.png,media/02-cover-v2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;数字;中文数字;彩色;排版;AOD;小米手环表盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
+979896836797,BOARDING PASS,watchface,DevonStee,astrobox-resource-979896836797,bdbb3ba,media/01-图标-1比1.png,media/02-封面-3比2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;五合一;合集;多款式;航空;机场;雷达;地平仪;舷窗;地球;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+979816979482,PUFF CROWD,watchface,DevonStee,astrobox-resource-979816979482,8f4edde,media/01-icon.png,media/02-cover.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;气球;大数字;彩色;天空;双样式;AOD;小米手环表盘;可爱;飞翔;糖果;少女;清新;简明;简单数字,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+canopus_loop,Loop课程表,canopus,zaona,loop-astrobox-release,5ad83ae,media/icon.png,media/cover.png,课程表;Canopus;原生,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
