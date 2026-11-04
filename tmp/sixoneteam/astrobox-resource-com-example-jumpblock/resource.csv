@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.example.jumpblock,跃动方块,quick_app,SixOneTeam,astrobox-resource-com-example-jumpblock,3934250,media/跃动方块.png,media/跃动方块宣传图@2x.png,小米手环;游戏;解压;付费;sixone;跃动方块,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
+com.example.jumpblock,跃动方块,quick_app,SixOneTeam,astrobox-resource-com-example-jumpblock,02c4ced,media/跃动方块.png,media/跃动方块宣传图@2x.png,小米手环;游戏;解压;付费;sixone;跃动方块,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11nfc;xmb9;xmb9p;xmb11,force_paid
