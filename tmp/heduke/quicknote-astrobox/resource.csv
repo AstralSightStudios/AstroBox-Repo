@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.experiment.quicknote.wm3,QuickNote,quick_app,heDuke,quicknote-astrobox,9157efd,media/3939.png,media/astrobox_cover_3x2.png,vela-wear-m3;QuickNote,xiaomi,xmws3;xmws4;xmb10;xmb10nfc;xmb10p;xmb11nfc;xmb9;xmb9p;xmws4xring;xmws441;xmws541;xmws5,
