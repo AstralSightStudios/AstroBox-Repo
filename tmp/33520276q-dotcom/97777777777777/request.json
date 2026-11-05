@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.kjsjksjsjaiwjjw.monopoly",
+  "base_entry_digest": "4f67c8c1a8dee26fbc301bddac34fec062dc0cab0d105889c2468af322ec70c7",
+  "base_catalog_commit": "75c0be7d3c050ced43639730d0b66b6d7708fe7f",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:13:25.479631754+08:00",
+    "build_user": "runner"
+  }
+}
