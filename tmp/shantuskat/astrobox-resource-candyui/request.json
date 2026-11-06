@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "candyui",
+  "base_entry_digest": "d1371ce88766d458460bf6fc80086a3f9d04b08325129ccd31b4f4b65669d47a",
+  "base_catalog_commit": "0b7df1b8af5f4073a87d4e559493e11a76f5b3ed",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
