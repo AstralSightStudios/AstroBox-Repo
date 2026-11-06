@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "farshadow",
+  "base_entry_digest": "afb8ed022492b003d529990749de3c83a0acc8c9aa63d47b21e03778f8a91537",
+  "base_catalog_commit": "d23aa07db75d7565c5870d73edf185fa8af8d96c",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "9263f9a",
+    "build_time": "2026-10-31T19:00:57.535430521+08:00",
+    "build_user": "runner"
+  }
+}
