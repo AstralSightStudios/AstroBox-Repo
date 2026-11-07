@@ -432,7 +432,6 @@ icu.ccicc.jslab,JSLab社区版,quick_app,cciccicu,JSLab_AstroBox_Release,7e083e9
 979817595841,分度,watchface,imwjh,astrobox-resource-979817595841,4d15a5a,media/face-active-256.png,media/cover-type_结果.png,大数字;简约;极简;AOD;创意;seegood,xiaomi,xmrw6;xmb10p;xmrw5;xmrw5xring;xmb9p,
 979821130308,靶心,watchface,imwjh,astrobox-resource-979821130308,e458501,media/preview-2563.png,media/01-BULLSEYE靶心-2160x1440.png,抽象;指针;圆;seegood;AOD;波点,xiaomi,xmrw6;xmrw5;xmrw5xring;xmb10p;xmb9p,force_paid
 com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-parsecs,839e407,media/logo.png,media/60秒太空避难所.png,60秒避难所;游戏;60,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9;vivowgt2,force_paid
-com.taskschd.dfwatch,三角洲行动,quick_app,taskschd1145,astrobox-resource-com-taskschd-dfwatch,5e34ed6,media/logo.png,media/IMG_259758_1200x800.jpg,搜打撤;战术设计;据点争夺;三角洲;枪战,xiaomi,xmrw5;xmrw6;xmrw5xring;xmb10p;xmb9p,force_paid
 979845962581,自启动管理器,watchface,wzx009412,ASTROBOX-MIBAND10PRO-AUTORUN,55157a0,media/68186.png,media/68200.jpg,模块;自启动;工具;小程序表盘;小程序,xiaomi,xmb10p,
 com.hachimi.watch.thatsnotmyneighbor,那不是我的邻居,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-thatsnotmyneighbor,b0783a6,media/icon-round.png,media/tnmn-cover-3x2-v2.jpg,游戏;悬疑;推理;伪人;娱乐,xiaomi,xmrw5;xmrw6;xmb10;xmb10p;xmb11;xmb9p;xmb9;xmrw5xring,paid
 com.goldminer.tfdc,黄金矿工,quick_app,0233-wu,astrobox-resource-com-goldminer-tfdc,dac0c82,media/logo.png,media/页面 1 (1).png,游戏;免费;黄金矿工;益智,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p,
@@ -510,3 +509,4 @@ com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrob
 com.bandbbs.ebook.plus,弦电子书,quick_app,youshen2,astrobox-resource-com-bandbbs-ebook-plus,d5b55a9,media/icon.png,media/Frame 22_small.png,电子书;阅读;阅读器;小说;书籍,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmb11;xmb11nfc;xmws541,
 979857668318,点阵matrix,watchface,Hobjl-lian,astrobox-resource-979857668318,83f26c8,media/icon.png,media/cover-1200x800.png,Hobjl;表盘;小米手环;简约;动态,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmrw5;xmrw5xring;xmrw6,
 com.qqrt.band,QQRT,quick_app,nanzhi8,astrobox-resource-com-qqrt-band,d2a21ad,media/icon-6-neon.png,media/269f19c7-1585-4f5d-8b32-f81c95bd0854.jpeg,QQ;社交;免费,xiaomi,xmrw6;xmb9p;xmrw5;xmrw5xring;xmb10p,
+com.taskschd.dfwatch,三角洲行动,quick_app,taskschd1145,astrobox-resource-com-taskschd-dfwatch,932f6fe,media/logo.png,media/IMG_259758_1200x800.jpg,搜打撤;战术设计;据点争夺;三角洲;枪战,xiaomi,xmrw5;xmrw6;xmrw5xring;xmb10p;xmb9p,force_paid
