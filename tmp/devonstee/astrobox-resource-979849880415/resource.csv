@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979849880415,ZOOM DIAL SINGULARITY,watchface,DevonStee,astrobox-resource-979849880415,00e445a,media/01-icon.png,media/02-cover.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;黑洞;激光;放大刻度;机械臂;点云;绿色;重力感应;AOD;小米手环表盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
