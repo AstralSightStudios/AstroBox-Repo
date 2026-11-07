@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.xunripic.watch",
+  "base_entry_digest": "1b16bd33680eda6eb7d61d4c724e9fc1da6fb911e319da6b3d6527fd0df2b77b",
+  "base_catalog_commit": "72d8c5030548f74870feb51a77dd17a2b795e4da",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
