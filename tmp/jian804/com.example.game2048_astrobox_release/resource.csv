@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.example.game2048,2048,quick_app,jian804,com.example.game2048_AstroBox_Release,4f46d35,icon.png,8D5892F15CC54420991D47B3C5AFAB0D.jpg,游戏,xiaomi,xmb10p,force_paid
