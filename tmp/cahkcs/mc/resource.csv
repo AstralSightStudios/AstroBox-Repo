@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-979820261101,方块纪元,watchface,cahkcs,MC,5cf828e,media/圆角-BlockEra-icon-512 (1).png,media/屏幕截图 2026-11-07 011603.png,方块;像素;沙盒;游戏;表盘,xiaomi,xmrw6;xmb10p;xmb9p;xmb10;xmb10nfc;xmb9;xmb11;xmb11nfc,force_paid
+979820261101,方块纪元,watchface,cahkcs,MC,3888525,media/圆角-BlockEra-icon-512 (1).png,media/BlockEra-cover-1200x800.png,方块;像素;沙盒;游戏;表盘,xiaomi,xmrw6;xmb10p;xmb9p;xmb10;xmb10nfc;xmb9;xmb11;xmb11nfc,force_paid
