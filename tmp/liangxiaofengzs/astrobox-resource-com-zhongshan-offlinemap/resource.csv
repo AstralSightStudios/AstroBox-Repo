@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.zhongshan.offlinemap,环间离线地图,quick_app,liangxiaofengzs,astrobox-resource-com-zhongshan-offlinemap,015cddf,media/2715.png,media/2717.jpg,地图;离线;工具,xiaomi,xmb10p,paid
