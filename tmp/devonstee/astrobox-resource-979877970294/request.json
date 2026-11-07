@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "979877970294",
+  "base_entry_digest": "8228f3a489811fef84f62a792ef88cffe5df5e63bd6ba85d05ec90fb1c2e1a7d",
+  "base_catalog_commit": "9a8bf3f6be174a575716f429d1ce09a1959f5035",
+  "client": {
+    "version": "abcc-cli@0.1.0 (ABCC 0.4.0)",
+    "git_commit_hash": "066a7e3-dirty",
+    "build_time": "2026-10-10T03:34:13-04:00",
+    "build_user": "abcc-cli, ABCC 2c4d2a4"
+  }
+}
