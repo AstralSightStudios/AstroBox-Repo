@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.skillman.bwlb,保卫萝卜,quick_app,SixOneTeam,astrobox-resource-com-skillman-bwlb,5f53b5c,media/微信图片_20261108084241_24_1696.png,media/保卫萝卜宣传图@2x.png,sixone;付费;小米手环;游戏;闯关;关卡;保卫萝卜,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws4;xmws5,force_paid
