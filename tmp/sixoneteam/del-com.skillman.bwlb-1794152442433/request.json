@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "delete",
+  "original_id": "com.skillman.bwlb",
+  "base_entry_digest": "8a7d9343a959768ea0be0f5574623f4b73981dd8c5abc4ca12e7ca65eb8eda9f",
+  "base_catalog_commit": "f8e8c3b2f171548241abea02adbffba1b713d9b3",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "54cd5f4",
+    "build_time": "2026-11-08T23:02:24.236911+08:00",
+    "build_user": "runner"
+  }
+}
