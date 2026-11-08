@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.skillman.angrybird,愤怒的小鸟,quick_app,SixOneTeam,astrobox-resource-com-skillman-angrybird,0f08c9e,media/微信图片_20261108084237_23_1696.png,media/愤怒的小鸟宣传图@2x.png,sixone;付费;小米手环;游戏;闯关;关卡;愤怒的小鸟,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmws3;xmws4xring;xmws4;xmws5,force_paid
