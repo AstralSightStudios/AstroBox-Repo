@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.skillman.angrybird",
+  "base_entry_digest": "2be5395c455e623afe9ce66356821c9d21616ac83c976b6b047ebdc2bffc9b36",
+  "base_catalog_commit": "b81d5c34c1ecbf97fe9ff9734b2c4a9e98263a30",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
