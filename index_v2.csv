@@ -417,7 +417,6 @@ corona,Corona模块,canopus,leset0ng,Corona-Relese,ace5bb1,media/logo.png,media/
 com.komoridev.angrybirds,愤怒的小鸟,quick_app,KomoriDev,kovela-angrybirds,8052b7f,media/logo.png,media/cover.png,游戏;休闲;趣味;童年,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,paid
 cn.amakanotwo.qihe,甜蜜女友 2,quick_app,qihe114514,astrobox-resource-cn-amakanotwo-qihe,5ce996a,media/icon.png,media/头头图.jpg,gal;游戏;galgame,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws5;xmws4;xmws4xring;xmws441;xmws3;xmb9;xmb9p;xmb10p;xmb10nfc;xmb10;xmb11nfc;xmb11;xmws541,force_paid
 com.hydro.link,HydroLink,quick_app,F7YM,astrobox-resource-com-hydro-link,f09d6ea,media/Group 3 (1).png,media/Group 9 (6).png,Windows;Linux;互联;HydroLink;远程终端;HydroKit,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmws541,
-com.ppyycc.dict,DICT英汉词典,quick_app,ppyycc-ppc,vela_astrobox_DICT_bandpro_branch,fc471c4,media/icon.png,media/cover.png,英文;学习;词典,xiaomi,xmb10p;xmb9p,
 979820260926,Chaos,watchface,WenHuaYiYang,astrobox-resource-979820260926,14da60a,media/chaos_icon_resized.png,media/desc.png,模块;美化;Chaos;工具,xiaomi,xmb10p,
 com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox,bb0c210,media/容器 14 (2).png,media/幻灯片 4_3 - 2.png,小米手环9Pro;课程表;BandClass;倒计时;Redmi Watch 6;小米手环10Pro;红米手表5,xiaomi,xmrw5;xmrw6;xmb10p;xmb9p,
 app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,86f4efe,media/16108.png,media/25729.png,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
@@ -517,3 +516,4 @@ com.skillman.bwlb,保卫萝卜,quick_app,SixOneTeam,astrobox-resource-com-skillm
 979842166669,MD EDGE ROLL,watchface,DevonStee,astrobox-resource-979842166669,aaecbb9,media/01-图标-1比1.png,media/02-封面-3比2-三机.webp,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;Material Design;滚动;边框;粉色;紫色;青色;大数字;AOD,xiaomi,xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,
 com.taskschd.dfwatch,三角洲行动,quick_app,taskschd1145,astrobox-resource-com-taskschd-dfwatch,fbec216,media/logo.png,media/IMG_259758_1200x800.jpg,搜打撤;战术设计;据点争夺;三角洲;枪战,xiaomi,xmrw5;xmrw6;xmrw5xring;xmb10p;xmb9p,force_paid
 979816956515,隐藏应用列表,watchface,Sakurakilove,astrobox-resource-979816956515,fb77722,media/28691.png,media/28717.jpg,快应用;隐藏;管理;应用;列表;米环;米表,xiaomi,xmrw6,force_paid
+com.ppyycc.dict,DICT英汉词典,quick_app,ppyycc-ppc,vela_astrobox_DICT_bandpro_branch,cf594c3,media/icon.png,media/cover.png,英文;学习;词典,xiaomi,xmb10p;xmb9p,
