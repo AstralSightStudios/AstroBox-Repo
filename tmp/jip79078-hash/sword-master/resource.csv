@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.jpf.wrist.swordforge,铸剑大师,quick_app,jip79078-hash,sword-master,dc6dab7,media/icon.png,media/cover-v16.jpg,游戏;锻造;策略,xiaomi,xmrw5;xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9,force_paid
