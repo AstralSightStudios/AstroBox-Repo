@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.SkillMan.Xiaomi-Vela.watch.happy-match,开心消消乐,quick_app,QiYongWu,astrobox-resource-com-skillman-xiaomi-vela-watch-happy-match,801e2bd,media/icon.png,media/矩形_1.png,开心消消乐;消除;三消游戏;消除烦恼,xiaomi,xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
