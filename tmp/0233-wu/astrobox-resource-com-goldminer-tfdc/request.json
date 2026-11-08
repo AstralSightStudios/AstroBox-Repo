@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.goldminer.tfdc",
+  "base_entry_digest": "3521917d61770c2c4c02de1fc83f4d723c993894c491f54ec5aca0ded16a9d41",
+  "base_catalog_commit": "e29b45b0cb33ede8bd4d0c7865c02bcc0837ff30",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
