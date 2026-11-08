@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.fishworld.match3.tfdc,开心消除,quick_app,0233-wu,xc1,1b1991f,media/logo.png,media/画板 1.png,游戏;消除;益智,xiaomi,xmb10p;xmb9p,force_paid
