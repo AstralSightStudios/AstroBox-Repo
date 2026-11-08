@@ -315,7 +315,6 @@ com.komoridev.tankturmoil,坦克动荡,quick_app,KomoriDev,kovela-tankturmoil,7c
 979866888348,同心圆,watchface,t1t218,tonxinyuan,e949029,media/icon.png,media/容器 24.png,简约;指针;自定义;多配色,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb11;xmb11nfc;xmb10p,force_paid
 com.arknights.gpoor.gacha,明日方舟抽卡模拟,quick_app,SXM081115,astrobox-resource-com-arknights-gpoor-gacha,ca1d094,media/logo.png,media/1-small.png,明日方舟;抽卡;银灰;能天使,xiaomi,xmb10p;xmb9p,
 979842555965,SEXTANT M3 SHAPES,watchface,DevonStee,astrobox-resource-979842555965,e1a841f,media/01-图标-1比1.png,media/02-封面-3比2-双机.webp,小米;谷歌;MD,xiaomi,xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
-org.bandmetronome.app,手环节拍器,quick_app,kyn0v,astrobox-xiaomi-band-metronome,3539cac,media/icon.png,media/cover.png,音乐;节拍器;实用工具;免费,xiaomi,xmb9p,
 979810067295,逐梦效应,watchface,Hobjl-lian,astrobox-resource-979810067295,4ece599,media/icon.png,media/cover.png,Hobjl;表盘;小米手环,xiaomi,xmb9p;xmb10p,force_paid
 979838046796,幻境,watchface,Hobjl-lian,astrobox-resource-979838046796,4b48ef6,media/icon.png,media/cover.jpg,Hobjl;表盘;小米手环,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 979851888346,极光效应,watchface,Hobjl-lian,astrobox-resource-979851888346,9341182,media/icon.png,media/cover.jpg,Hobjl;表盘;小米手环,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
@@ -515,3 +514,4 @@ com.Dreamqiu.zombie,僵尸狂叫,quick_app,Dreamqiucn,astrobox-resource-com-drea
 979895704089,ZOOM DIAL MIRROR,watchface,DevonStee,astrobox-resource-979895704089,08e344b,media/01-icon.png,media/02-cover.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;放大刻度;指针;橙色;黑色;简约设计;镜像;AOD;小米手环表盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p,
 979883425857,双行数字Pro,watchface,yamu81663-dot,Numeral_Duo_Pro,f117925,media/无标题26_20261025155059.png,media/无标题18_20261025183135.png,简约;大数字;多色,xiaomi,xmb9p;xmb10p,
 com.hazenotea.pvz.watch,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,daa7582,media/logo-256.png,media/全新雷霆大图1200x800.png,游戏;塔防;策略,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmws4xring;xmws4;xmws441;xmb10p;xmb11nfc;xmb11;xmb9;xmb9p,paid
+org.bandmetronome.app,手环节拍器,quick_app,kyn0v,astrobox-xiaomi-band-metronome,650a0ad,media/icon.png,media/cover.png,音乐;节拍器;实用工具;免费,xiaomi,xmb9p;xmb10p,
