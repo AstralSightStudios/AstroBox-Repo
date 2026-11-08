@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.sixone.jump-game",
+  "base_entry_digest": "9eddd41b6a06d7de5ab05e852b46f9c40b45f76278364b650c5505cdae97bde2",
+  "base_catalog_commit": "647be81148014848b8d0866a0c2acd7ae8b16e0e",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
