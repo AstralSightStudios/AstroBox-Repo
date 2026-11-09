@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.skillman.chinesepoetry,中文诗歌,quick_app,QiYongWu,astrobox-resource-com-skillman-chinesepoetry,2345149,media/logo.png,media/分组_18.png,中文诗歌;古诗词;文言文;学习;古诗;诗歌;唐诗;宋词,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
