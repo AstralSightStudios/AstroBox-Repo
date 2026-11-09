@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.skillman.bwlb,保卫萝卜,quick_app,QiYongWu,astrobox-resource-com-skillman-bwlb,bc3a8aa,media/logo.png,media/分组_3.png,保卫萝卜;塔防;游戏;经典;经典塔防游戏,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
