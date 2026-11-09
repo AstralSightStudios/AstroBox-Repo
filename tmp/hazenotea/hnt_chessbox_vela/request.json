@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.hazenotea.chessbox.watch",
+  "base_entry_digest": "0f5234088402adeeee40c95e2f5a48ce922dfaf33240d9462b0f04aa711b5f66",
+  "base_catalog_commit": "e0d846143803a3898baa84560db83df339e0afa8",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
