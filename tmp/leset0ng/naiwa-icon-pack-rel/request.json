@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "naiwapack",
+  "base_entry_digest": "a5649aee335c71c41963070f04f8270c984f355b550c7ed9fcfc2f213be0fb31",
+  "base_catalog_commit": "fb2251f8cb27d3f3b7c328b7053a584bf83a3d62",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "9263f9a",
+    "build_time": "2026-10-31T18:57:57.185493+08:00",
+    "build_user": "runner"
+  }
+}
