@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.kjsjksjsjaiwjjw.video",
+  "base_entry_digest": "4bb4f5ebf5b33cc005a4367f633081bf43ede8259b166814c2ec9884bd9fd52b",
+  "base_catalog_commit": "93a6f1a3307fb78f78652a874e2b9ee6f3f2cbe7",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:13:25.479631754+08:00",
+    "build_user": "runner"
+  }
+}
