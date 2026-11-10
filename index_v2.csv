@@ -461,7 +461,6 @@ com.lightland.velaai,VelaAI,quick_app,light-land,velaai,30b196c,media/139116.png
 com.Dreamqiu.zombie,僵尸狂叫,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-zombie,39ca232,media/logo.png,media/僵尸狂叫.png,游戏;跑酷;僵尸狂叫;僵尸,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 979872913021,小米手环字体包库,watchface,shantuskat,astrobox-resource-979872913021,bb4c7ca,media/画板 3.png,media/画板 1.png,字库;字体;个性化;主题,xiaomi,xmb10p,
 979895704089,ZOOM DIAL MIRROR,watchface,DevonStee,astrobox-resource-979895704089,08e344b,media/01-icon.png,media/02-cover.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;放大刻度;指针;橙色;黑色;简约设计;镜像;AOD;小米手环表盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p,
-979883425857,双行数字Pro,watchface,yamu81663-dot,Numeral_Duo_Pro,f117925,media/无标题26_20261025155059.png,media/无标题18_20261025183135.png,简约;大数字;多色,xiaomi,xmb9p;xmb10p,
 com.hazenotea.pvz.watch,植物大战僵尸,quick_app,HazeNoTea,Plants_VS_Zombie_Vela_Chv,daa7582,media/logo-256.png,media/全新雷霆大图1200x800.png,游戏;塔防;策略,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmws4xring;xmws4;xmws441;xmb10p;xmb11nfc;xmb11;xmb9;xmb9p,paid
 org.bandmetronome.app,手环节拍器,quick_app,kyn0v,astrobox-xiaomi-band-metronome,650a0ad,media/icon.png,media/cover.png,音乐;节拍器;实用工具;免费,xiaomi,xmb9p;xmb10p,
 979894087442,ASCII 艺术 ASCII LEDGER,watchface,DevonStee,astrobox-resource-979894087442,8f7c941,media/01-图标-1比1.png,media/02-封面-3比2-三机.webp,ASCII;琥珀色;字符画;账本;AOD;大数字;黄色;简约设计;ASCII艺术;小米手环表盘;brin;Brin;BRIN;叫我brin就好;叫我Brin就好,xiaomi,xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
@@ -531,3 +530,4 @@ com.skillman.angrybird,愤怒的小鸟,quick_app,QiYongWu,astrobox-resource-com-
 com.awu.watch.petbomber,萌宠泡泡堂,quick_app,jianding24,pet-bomber-astrobox-release,8f0c1d1,media/icon.png,media/cover.jpg,萌宠;休闲;泡泡堂;闯关;电脑对战;随机远征;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmrw5;xmrw6,force_paid
 com.hazenotea.sheepmatch.watch,羊了个羊,quick_app,HazeNoTea,HNT_SheepMatch_vela,c13aa4b,media/方logo.png,media/封面.png,消除;解压;闯关,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4xring;xmws441;xmws4,
 com.skillman.sgs,三国杀,quick_app,QiYongWu,astrobox-resource-com-skillman-sgs,f0cd128,media/logo.png,media/分组_2 (1).png,三国杀;桌游;三国演义;经典桌游;多人桌游,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
+979883425857,双行数字Pro,watchface,yamu81663-dot,Numeral_Duo_Pro,f18b5da,media/无标题26_20261025155059.png,media/无标题18_20261025183135.png,简约;大数字;多色,xiaomi,xmb9p;xmb10p,
