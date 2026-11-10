@@ -429,7 +429,6 @@ com.jpf.wrist.doodlejump,涂鸦跳跳,quick_app,jip79078-hash,doodle-jump-astrob
 canopus_loop,Loop课程表,canopus,zaona,loop-astrobox-release,5ad83ae,media/icon.png,media/cover.png,课程表;Canopus;原生,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
 979892451143,时空锚点,watchface,Cannyworks29,Space_Time,3d51eb3,media/画板 1 副本 6.png,media/PB030043-2.jpg,模拟;复古;数字;科幻;赛博朋克;霓虹;夜晚,xiaomi,xmb11nfc;xmb11;xmb10nfc;xmb10,force_paid
 979891694972,红黄蓝的构成,watchface,YetYeti,xiaomi-band-composition-in-red-yellow-blue,79cda2e67a922ffd9a87711c41d8ba34f2b22e82,media/icon.png,media/cover.jpg,极简;几何;三原色;指针;多样式;AOD,xiaomi,xmb9p,
-979812491371,傅里叶 EPICYCLE CLOCK,watchface,DevonStee,astrobox-resource-979812491371,0ac8e29,media/01-icon.png,media/02-cover-v3.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;轨道;傅里叶;黑白橙;数字时钟;AOD;小米手环10;小米手环11,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 979841451574,香incense,watchface,Hobjl-lian,astrobox-resource-979841451574,774fd9d,media/icon-256.png,media/cover-1200x800.png,表盘;Hobjl;免费,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,
 979837752457,橙卡 COLOR CARDS,watchface,DevonStee,astrobox-resource-979837752457,fc9e238,media/01-icon.png,media/02-cover.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;彩色卡片;四色切换;大数字;圆润;AOD;小米手环表盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 979842683750,辉光管NIXIE TUBE,watchface,DevonStee,astrobox-resource-979842683750,4e80485,media/01-图标-1比1.png,media/02-封面-3比2.png,辉光管;小米手环10;NIXIE TUBE;辉光管表盘;闪烁的辉光管;brin,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
@@ -523,3 +522,4 @@ com.kjsjksjsjaiwjjw.video,米环相册,quick_app,33520276q-dotcom,astrobox-resou
 com.facephotos.quickapp,随变壁纸,quick_app,yamu81663-dot,astrobox-resource-com-facephotos-quickapp,7a75c9b,media/壁纸库图标.png,media/无标题41_20261110000559.png,壁纸;快应用;图片,xiaomi,xmb10p,
 com.jpf.wrist.descend100,下100层,quick_app,jip79078-hash,descend100-astrobox,c9260cc,media/icon.png,media/cover-illustrated-v1.jpg,游戏;休闲;躲避;重力感应;离线,xiaomi,xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9;xmrw5;xmrw6;xmws5,
 com.xbstudio.goodpizza,可口的比萨,quick_app,xbtnb,astrobox-resource-com-xbstudio-goodpizza,5ecdae4,media/73801.png,media/73802.jpg,经营;烹饪;模拟;比萨,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4;xmws5,force_paid
+979812491371,傅里叶 EPICYCLE CLOCK,watchface,DevonStee,astrobox-resource-979812491371,eea8e10,media/01-icon.png,media/02-cover-v3.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;轨道;傅里叶;黑白橙;数字时钟;AOD;小米手环10;小米手环11,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p,force_paid
