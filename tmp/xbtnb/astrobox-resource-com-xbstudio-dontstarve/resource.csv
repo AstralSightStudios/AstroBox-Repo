@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.xbstudio.dontstarve,饥荒·巨人国,quick_app,xbtnb,astrobox-resource-com-xbstudio-dontstarve,419b666,media/73861.png,media/73856.jpg,生存;探索;采集;制作,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb11nfc;xmb11;xmb10p;xmb9;xmb9p;xmws4;xmws5,force_paid
+com.xbstudio.dontstarve,饥荒·巨人国,quick_app,xbtnb,astrobox-resource-com-xbstudio-dontstarve,bedc3fa,media/73868.png,media/73864.jpg,生存;探索;采集;制作,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb11nfc;xmb11;xmb10p;xmb9;xmb9p;xmws4;xmws5,force_paid
