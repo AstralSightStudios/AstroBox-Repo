@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.xbstudio.dontstarve",
+  "base_entry_digest": "8a84d4904b2f73bcbae33a35eb2e9827b05575bd9239493d9a8c9cf694d7fb92",
+  "base_catalog_commit": "3687bdeb31cf28b5bf33c7f0427e66a02c253c6a",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:13:25.479631754+08:00",
+    "build_user": "runner"
+  }
+}
