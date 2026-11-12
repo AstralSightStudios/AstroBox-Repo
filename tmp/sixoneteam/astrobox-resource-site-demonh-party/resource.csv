@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+site.demonh.party,派对游戏,quick_app,SixOneTeam,astrobox-resource-site-demonh-party,35d0e7d,media/派对游戏-icon.png,media/派对游戏宣传图2@2x.png,sixone;付费;小米手环;游戏;派对游戏;多人;谁是卧底;海龟汤;真心话大冒险;你会按下按钮吗;狼人杀;脑筋急转弯;摇骰子,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
