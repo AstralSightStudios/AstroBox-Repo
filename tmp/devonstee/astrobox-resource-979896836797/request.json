@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "979896836797",
+  "base_entry_digest": "e24219419489ed17171077e871e2fdb152bf40feb114e51ebba6c13ed92b2147",
+  "base_catalog_commit": "14e2a22dc29ccb722227d5670402998a477fe41a",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "a6081af",
+    "build_time": "2026-11-13T02:42:29.824391+08:00",
+    "build_user": "black_knife_air"
+  }
+}
