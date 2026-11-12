@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.hazenotea.pvz.watch",
+  "base_entry_digest": "cd16868f7464e6134c9b98e9ffa0036d922342d67a1073891888567fbe1d7438",
+  "base_catalog_commit": "5c0b1a8c1874ccafa2c4461029aae1b4bf6f015a",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:11:02.415222700+08:00",
+    "build_user": "runneradmin"
+  }
+}
