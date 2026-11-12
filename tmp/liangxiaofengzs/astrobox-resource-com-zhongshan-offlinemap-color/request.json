@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.zhongshan.offlinemap.color",
+  "base_entry_digest": "87d84dfb901025822e660c4a0351376666b0dabed8eec1f5039c34c6a0bb202c",
+  "base_catalog_commit": "d37ac9bdd109a2f06cdc476568a0ea8f6e340438",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:13:25.479631754+08:00",
+    "build_user": "runner"
+  }
+}
