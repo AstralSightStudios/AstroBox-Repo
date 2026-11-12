@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.zhongshan.offlinemap.color,彩色地图,quick_app,liangxiaofengzs,astrobox-resource-com-zhongshan-offlinemap-color,5fbdad2,media/2891.jpg,media/2940.png,地图;轨迹记录;工具,xiaomi,xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
