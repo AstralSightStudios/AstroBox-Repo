@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.jpf.wrist.swordforge",
+  "base_entry_digest": "bb12c0081f505bc489bf2bc5fa374d1a4b2207e9364608b51e3bb6fb82404ba6",
+  "base_catalog_commit": "46aa1414a8252f2844a51982d8ca614386bbb810",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:10:43.859687+08:00",
+    "build_user": "runner"
+  }
+}
