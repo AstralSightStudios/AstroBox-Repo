@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.taskschd.dfwatch",
+  "base_entry_digest": "554edbc6656244dbecaf2ef9603cb5fb4ea8c6f21d1445d06f24cbbc636cb2ea",
+  "base_catalog_commit": "2e2d465eb464d415537707586ebe30aa0899d8f7",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "e6ffb55",
+    "build_time": "2026-11-13T12:18:00.092434500+08:00",
+    "build_user": "runneradmin"
+  }
+}
