@@ -5,9 +5,9 @@
   "base_entry_digest": null,
   "base_catalog_commit": "b61f06e87d90f5152683ed4ee179ba967edb447c",
   "client": {
-    "version": "0.4.0",
-    "git_commit_hash": "14c1c8b",
-    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:11:02.415222700+08:00",
     "build_user": "runneradmin"
   }
 }
