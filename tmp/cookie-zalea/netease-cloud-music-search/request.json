@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "io.github.cookiezalea.velasearch",
+  "base_entry_digest": "959c28a2230baa2e09d4766187fed83fd10421026a8e3d370b66021fadf2bc89",
+  "base_catalog_commit": "ae6f6e58fab69aca826f4197cd4111f605f7b3ef",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
