@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.ydnac.watch.fish,腕谷物语,quick_app,sharpice6,astrobox-resource-com-ydnac-watch-fish,a29a1d3,media/farmlogo.png,media/腕谷物语.png,腕谷物语;星露谷物语;模拟经营;挖矿,xiaomi,xmrw5;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4,force_paid
+com.ydnac.watch.fish,腕谷物语,quick_app,sharpice6,astrobox-resource-com-ydnac-watch-fish,873f7e2,media/farmlogo.png,media/wg.png,腕谷物语;星露谷物语;模拟经营;挖矿,xiaomi,xmrw5;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4,force_paid
