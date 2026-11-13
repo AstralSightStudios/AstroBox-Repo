@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.xiaomi.pokerogue,宝可梦肉鸽,quick_app,play3yy,bkmygv1.2,fbcacf0,media/61023.png,media/61072.png,快应用;宝可梦;宝可梦肉鸽;小米手环9Pro;离线;像素;fixed;小米手环10pro,xiaomi,xmb9p;xmb10p,
+com.pkr.handheld,宝可梦肉鸽,quick_app,play3yy,bkmygv1.2,0105db5,media/61023.png,media/61292.jpg,快应用;宝可梦;宝可梦肉鸽;小米手环9Pro;离线;像素;fixed;小米手环10pro,xiaomi,xmb9p;xmb10p,
