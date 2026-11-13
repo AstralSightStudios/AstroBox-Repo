@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.ydnac.mgss,猛鬼公寓,quick_app,sharpice6,astrobox-resource-com-ydnac-mgss,80c8df1,media/logo.png,media/猛鬼公寓.png,猛鬼宿舍;猛鬼公寓;塔防;恐怖;躺平发育,xiaomi,xmrw5;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
+com.ydnac.mgss,猛鬼公寓,quick_app,sharpice6,astrobox-resource-com-ydnac-mgss,a9b7115,media/logo.png,media/mg.png,猛鬼宿舍;猛鬼公寓;塔防;恐怖;躺平发育,xiaomi,xmrw5;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
