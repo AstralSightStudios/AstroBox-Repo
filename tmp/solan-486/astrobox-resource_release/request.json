@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.SoDictionary.solan",
+  "base_entry_digest": "6200b93fcbca5265e2ce47c36e8121ac04f67dd86df47bd173169201be8899b7",
+  "base_catalog_commit": "f4905ba6adf3ef8c1d5ccebef2c6212d5ae374e7",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:10:43.859687+08:00",
+    "build_user": "runner"
+  }
+}
