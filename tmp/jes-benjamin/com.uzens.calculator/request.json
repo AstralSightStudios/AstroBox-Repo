@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.uzens.calculator",
+  "base_entry_digest": "4d9e7b40bf1638f3b515b5f440041b269326bc582b586233964b94f2c9cc3370",
+  "base_catalog_commit": "0e522895fa4be7ec3e048dadd6b7fe9e01c59231",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:14:02.109788129+08:00",
+    "build_user": "runner"
+  }
+}
