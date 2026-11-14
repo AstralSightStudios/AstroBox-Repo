@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-979868320254,WavAudio,watchface,DDlhy,astrobox-resource-979868320254,2548125,media/logo.png,media/334xv3-tuya.png,音乐;播放;表盘,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
+979868320254,WavAudio,watchface,DDlhy,astrobox-resource-979868320254,0d6fbe6,media/logo.png,media/download.jpg,音乐;播放;表盘,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
