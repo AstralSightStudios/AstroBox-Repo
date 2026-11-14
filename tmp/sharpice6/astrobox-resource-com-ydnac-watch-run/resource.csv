@@ -1,2 +1,0 @@
-id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.ydnac.watch.run,熊大快跑,quick_app,sharpice6,astrobox-resource-com-ydnac-watch-run,bae2825,media/logo.png,media/xd.png,熊大快跑;熊出没;跑酷,xiaomi,xmrw5;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
