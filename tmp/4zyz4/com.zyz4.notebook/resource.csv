@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.zyz4.notebook,笔记本,quick_app,4zyz4,notebook-vela,d07c6d6,astrobox/icon.png,astrobox/cover.png,笔记;记事本;备忘录;便签;输入法;效率;实用工具;免费,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
