@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.jpf.wrist.sunnyclimb,越岭飞车,quick_app,jip79078-hash,yueling-racer-astrobox,15e20b2,media/icon.png,media/cover-endless.jpg,游戏;赛车;越野,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4;xmws4xring;xmws441;xmws5;xmws541,force_paid
+com.jpf.wrist.sunnyclimb,越岭飞车,quick_app,jip79078-hash,yueling-racer-astrobox,856899a,media/icon.png,media/cover-endless-v2.jpg,游戏;赛车;越野,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4;xmws4xring;xmws441;xmws5;xmws541,force_paid
