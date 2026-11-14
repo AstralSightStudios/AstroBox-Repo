@@ -1,14 +1,4 @@
 {
-  // 插件页「精选」：name 必须与插件 manifest 的 name 完全一致；tagline 是一句推荐语，可不写（不写就用插件自己的简介）。
-  // 这里没写、或写的插件都不在市场里时，客户端会改用安装量最高的几个。
-  "featuredPlugins": [
-    { "name": "Hyper Box同步器", "tagline": "把数据同步进手环上的万能工具箱 Hyper Box" },
-    { "name": "喵喵电子书同步器", "tagline": "把电子书传到手环上，随时翻两页" },
-    { "name": "简明天气同步器", "tagline": "出门前抬腕看一眼天气" },
-    { "name": "BandTOTP同步器", "tagline": "把两步验证码放到手腕上" },
-    { "name": "Lyra音乐导入器", "tagline": "本地 MP3 或网易云音乐直接导入手表" },
-    { "name": "网桥 FetchBridge", "tagline": "让手环上的快应用也能联网" }
-  ],
   "customSections": [
     {
       "id": "face",
