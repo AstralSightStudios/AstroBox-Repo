@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.hazenotea.skymatch.watch",
+  "base_entry_digest": "a4ad1a78800dfb0e5cf7123cdae0a04492e0a69fd13fb05f5960a744106425e5",
+  "base_catalog_commit": "929c4aa762f043a2bd82c854a2ec90eefb93e25b",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:11:02.415222700+08:00",
+    "build_user": "runneradmin"
+  }
+}
