@@ -175,7 +175,6 @@ com.HNTGameBox.watch.demo,HNT游戏盒,quick_app,HazeNoTea,HNTGameBox,6a91241,me
 io.github.mcxcc303.dsband.band,DSBand,quick_app,MCXCC303,astrobox-resource-io-github-mcxcc303-dsband-band,9288675,media/logo.png,media/cover2-reg-cmp.png,DeepSeek,xiaomi,xmb10;xmb10nfc;xmb9;xmb10p;xmb9p,
 com.mood.tracker,静心轨迹,quick_app,LR-C11,moodpress,acd36b4,media/logo.png,media/海报 (9).png,心情;小程序,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
 com.dswatch.periodreminder,DS Watch（梁表）,quick_app,rufus-fan,astrobox-projects,5858f9a,media/icon.png,media/头图.png,deepseek;梁子;梁文峰;变祖器,xiaomi,xmb10p,
-com.watch.dic,腕上词典,quick_app,pcai7296,com.watch.dic_AstroBox_Release,7966e1a,media/logo.png,cover.png,离线;英语;学习;词典;免费,xiaomi,xmb10;xmb10nfc;xmb9;xmb9p;xmws4;xmrw5;xmrw5xring;xmrw6;xmb10p,
 979833453977,嘉光,watchface,ChiHuan0807,979833453977_AstroBox_Release,0fb9bd2,logo.png,画板 1.png,免费;简约;重力感应;池焕;迟缓;蓝;绿;红,xiaomi,xmws5,
 com.h.hzc,海战船,quick_app,henrrybyhao,astrobox-resource-com-h-hzc,f5cbc0a,media/图标1.png,media/mmexport1787892272438.jpg,游戏;免费;海战船;应用,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p,
 979851021027,Rainbow,watchface,zzz78bc,astrobox-resource-979851021027,4b1623c,media/分组 1.png,media/画板 3.webp,表盘;多样式;二次元,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb10;xmb10nfc;xmb9p,
@@ -560,3 +559,4 @@ com.ysnb.sgs,三国杀,quick_app,sbsb1008,sgs,08cce17,media/Image_1794650726798_
 979822421721,随变,watchface,yamu81663-dot,astrobox-resource-979822421721,eec21a1,media/表盘图标.png,media/无标题41_20261110180631.png,时钟变形;自定义壁纸;lua表盘,xiaomi,xmb10p;xmb9p,
 979820260926,Chaos,watchface,WenHuaYiYang,astrobox-resource-979820260926,9688b7e,media/chaos_icon_resized.png,media/desc.png,模块;美化;Chaos;工具,xiaomi,xmb10p;xmb9p,
 com.wristnote.band,腕记,quick_app,Wildchiken,WristNote_AstroBox_Release,c1a52e0,media/icon.png,media/cover.png,实用工具;记事本;备忘录;笔记;输入法,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
+com.watch.dic,腕上词典,quick_app,pcai7296,com.watch.dic_AstroBox_Release,19d1ab7,media/logo.png,media/cover.png,离线;英语;学习;词典;免费,xiaomi,xmb10nfc;xmb9;xmb9p;xmws4;xmrw5;xmrw5xring;xmb10p;xmb11;xmb11nfc;xmws441;xmrw6;xmb10;xmws4xring,
