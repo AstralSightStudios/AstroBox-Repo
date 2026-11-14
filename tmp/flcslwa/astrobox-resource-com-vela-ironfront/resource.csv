@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.vela.ironfront,卡牌战争（钢铁战线）,quick_app,flcslwa,astrobox-resource-com-vela-ironfront,60e4a69,media/logo.png,media/promo-3x2.png,战争;智斗;卡牌,xiaomi,xmb9;xmb11nfc;xmb11;xmb10nfc;xmb10,force_paid
