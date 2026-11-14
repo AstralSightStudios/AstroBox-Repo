@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.JumpEgg.solan",
+  "base_entry_digest": "f332ede354335d158bc72792fb0775efae0e7d302d4ceab4aa9d0b47592e8197",
+  "base_catalog_commit": "a0d4eae9b0e94e74822e954dd156240f1057c8fe",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:10:43.859687+08:00",
+    "build_user": "runner"
+  }
+}
