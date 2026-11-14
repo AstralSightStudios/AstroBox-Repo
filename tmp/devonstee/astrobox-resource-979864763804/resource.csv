@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979864763804,碎光锦鲤 KOI HALO,watchface,DevonStee,astrobox-resource-979864763804,98d648f,media/01-icon.png,media/02-cover.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;锦鲤;鱼;颗粒光晕;点阵数字;互动;摸鱼;黑色;AOD;小米手环10;小米手环11;小米手环10Pro,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p,force_paid
