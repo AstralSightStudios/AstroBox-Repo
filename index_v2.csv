@@ -444,7 +444,6 @@ com.arknights.spoor.gacha,环上方舟,quick_app,SXM081115,astrobox-resource-com
 com.lightland.velaai,VelaAI,quick_app,light-land,velaai,30b196c,media/139116.png,media/139357.png,ai;工具;聊天;deepseek,xiaomi,xmb9p;xmrw5;xmrw5xring;xmrw6;xmb10p,
 979872913021,小米手环字体包库,watchface,shantuskat,astrobox-resource-979872913021,bb4c7ca,media/画板 3.png,media/画板 1.png,字库;字体;个性化;主题,xiaomi,xmb10p,
 979895704089,ZOOM DIAL MIRROR,watchface,DevonStee,astrobox-resource-979895704089,08e344b,media/01-icon.png,media/02-cover.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;放大刻度;指针;橙色;黑色;简约设计;镜像;AOD;小米手环表盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p,
-org.bandmetronome.app,手环节拍器,quick_app,kyn0v,astrobox-xiaomi-band-metronome,650a0ad,media/icon.png,media/cover.png,音乐;节拍器;实用工具;免费,xiaomi,xmb9p;xmb10p,
 979894087442,ASCII 艺术 ASCII LEDGER,watchface,DevonStee,astrobox-resource-979894087442,8f7c941,media/01-图标-1比1.png,media/02-封面-3比2-三机.webp,ASCII;琥珀色;字符画;账本;AOD;大数字;黄色;简约设计;ASCII艺术;小米手环表盘;brin;Brin;BRIN;叫我brin就好;叫我Brin就好,xiaomi,xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 979825087236,指示牌 AISLE SIGN,watchface,DevonStee,astrobox-resource-979825087236,94abff3,media/01-图标-1比1.png,media/02-封面-3比2-概念.png,BRIN;brin;Brin;叫我brin就好;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;Publix;超市;通道指示牌;吊牌;绿色;天花板;数据表盘;大数字;亮屏动画;AOD,xiaomi,xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,
 979861199706,ANT GUTTERS,watchface,DevonStee,astrobox-resource-979861199706,b049046,media/01-图标-1比1.png,media/02-封面-3比2-三机.webp,BRIN;叫我Brin就好;小米手环;小米手环10;小米手环11;表盘;小米表盘;免费;蓝色;Ant Design;栅格;大数字;AOD,xiaomi,xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,
@@ -552,3 +551,4 @@ com.ydnac.watch.xcp,小丑牌,quick_app,sharpice6,astrobox-resource-com-ydnac-wa
 979842034288,光感液态（样式2）,watchface,Hobjl-lian,astrobox-resource-979842034288,11764be,media/icon.png,media/cover.jpg,Hobjl;表盘;小米手环;液态玻璃;多样式,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 979843059080,OS27模块表盘,watchface,Hobjl-lian,astrobox-resource-979843059080,d9d993a,media/Frame 16.png,media/Ab头图1.png,Hobjl;表盘;照片表盘;相册表盘,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p,force_paid
 com.naoh.chemistryhelper,化学易,quick_app,CHEN-EXE,astrobox-resource-com-naoh-chemistryhelper,4b9f4ad,media/icon.png,media/mastergo_vela.png,化学;学习工具;小米手环9Pro;小米手环10Pro;红米手表5;红米手表6;化学易;免费,xiaomi,xmrw5;xmrw6;xmb10p;xmb9p,
+org.bandmetronome.app,手环节拍器,quick_app,kyn0v,astrobox-xiaomi-band-metronome,0587d3b,media/icon.png,media/cover.png,音乐;节拍器;实用工具;免费,xiaomi,xmb9p;xmb10p;xmrw6,
