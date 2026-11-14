@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.komoridev.angrybirds",
+  "base_entry_digest": "1f60b14ddc384df136954a52f5764244992b54fa546a9f1a4410d0269bfa6e83",
+  "base_catalog_commit": "9e6d98e3a156723d4cdb627dd8be2a52274c9d06",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "e6ffb55",
+    "build_time": "2026-11-13T12:18:00.092434500+08:00",
+    "build_user": "runneradmin"
+  }
+}
