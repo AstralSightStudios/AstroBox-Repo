@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979867498017,红色机器人 CRIMSON VISOR,watchface,DevonStee,astrobox-resource-979867498017,b070729,media/01-icon.png,media/02-cover.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;机甲;红色;机器人;装甲;大数字;心率;电量;AOD;小米手环表盘;小米手环10 Pro,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p,force_paid
