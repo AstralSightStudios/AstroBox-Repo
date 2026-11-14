@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.application.watch.demo,集装箱竞拍,quick_app,flcslwa,astrobox-resource-com-application-watch-demo,1fe3d13,media/logo.png,media/container_auction_3x2.png,小米手环游戏;盲盒;理财,xiaomi,xmb9;xmb10;xmb11;xmb11nfc;xmb10nfc,force_paid
