@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979832242055,白色机器人 TRICOLOR FRAME,watchface,DevonStee,astrobox-resource-979832242055,649b027,media/01-icon.png,media/02-cover.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;机器人;机甲;白色;红蓝黄;驾驶舱;大数字;心率;电量;AOD;小米手环表盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p,force_paid
