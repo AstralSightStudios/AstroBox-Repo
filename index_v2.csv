@@ -525,7 +525,6 @@ com.Dreamqiu.disease,瘟疫公司,quick_app,Dreamqiucn,astrobox-resource-com-dre
 979855356624,AWOS-照片表盘,watchface,Hobjl-lian,astrobox-resource-979855356624,3988a2d,media/ICON.png,media/Ab头图1.png,Hobjl;表盘;照片表盘;相册表盘,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmb11;xmb11nfc,force_paid
 com.pkr.handheld,宝可梦肉鸽,quick_app,play3yy,bkmygv1.2,a4105bd,media/61319.png,media/61292.jpg,快应用;宝可梦;宝可梦肉鸽;小米手环9Pro;离线;像素;fixed;小米手环10pro,xiaomi,xmb9p;xmb10p,
 com.taskschd.dfwatch,三角洲行动,quick_app,taskschd1145,astrobox-resource-com-taskschd-dfwatch,3c0fd69,media/logo.png,media/IMG_259758_1200x800.jpg,搜打撤;战术设计;据点争夺;三角洲;枪战,xiaomi,xmrw5;xmrw6;xmrw5xring;xmb10p;xmb9p,force_paid
-979822421721,随变,watchface,yamu81663-dot,astrobox-resource-979822421721,1d58357,media/表盘图标.png,media/无标题41_20261110180631.png,时钟变形;自定义壁纸;lua表盘,xiaomi,xmb10p;xmb9p,
 com.jpf.wrist.cloudtower,云端筑梦,quick_app,jip79078-hash,cloud-tower,4434cd9,media/icon.png,media/cover.jpg,游戏;休闲;叠楼,xiaomi,xmrw5;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
 com.komoridev.angrybirds,愤怒的小鸟,quick_app,KomoriDev,kovela-angrybirds,2d26338,media/logo.png,media/cover.png,游戏;休闲;趣味;童年,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,paid
 979801230201,喵伴表盘,watchface,jianding24,miaoban-watchface-astrobox-release,a6ba312,media/icon.png,media/cover.jpg,喵伴;免费;小猫;互动;天气;压力;专注;任务;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw5;xmrw5xring;xmrw6;xmb11;xmb11nfc,
@@ -559,3 +558,4 @@ com.xbstudio.goodpizza,可口的比萨,quick_app,xbtnb,astrobox-resource-com-xbs
 979864763804,碎光锦鲤 KOI HALO,watchface,DevonStee,astrobox-resource-979864763804,98d648f,media/01-icon.png,media/02-cover.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;锦鲤;鱼;颗粒光晕;点阵数字;互动;摸鱼;黑色;AOD;小米手环10;小米手环11;小米手环10Pro,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p,force_paid
 com.ysnb.sgs,三国杀,quick_app,sbsb1008,sgs,08cce17,media/Image_1794650726798_863.jpg,media/宣传图-浅色版-大图.jpg,三国杀;免费;游戏,xiaomi,xmb10p;xmb11;xmb11nfc;xmb10;xmb10nfc;xmb9p,
 979832242055,白色机器人 TRICOLOR FRAME,watchface,DevonStee,astrobox-resource-979832242055,82ed2ab,media/01-icon.png,media/02-cover.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;机器人;机甲;白色;红蓝黄;驾驶舱;大数字;心率;电量;AOD;小米手环表盘,xiaomi,xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+979822421721,随变,watchface,yamu81663-dot,astrobox-resource-979822421721,eec21a1,media/表盘图标.png,media/无标题41_20261110180631.png,时钟变形;自定义壁纸;lua表盘,xiaomi,xmb10p;xmb9p,
