@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.doom.wadloader,DOOM WAD LOADER,quick_app,IRKBI,astrobox-resource-com-doom-wadloader,d27b9ef,media/icon.png,media/IMG_20261114_122947.png,doom;工具;接收器,xiaomi,xmb10p,
