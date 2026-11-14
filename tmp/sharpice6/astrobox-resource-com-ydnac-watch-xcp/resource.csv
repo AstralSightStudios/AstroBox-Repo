@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.ydnac.watch.xcp,小丑牌,quick_app,sharpice6,astrobox-resource-com-ydnac-watch-xcp,3c4fb3c,media/logo.png,media/小丑牌.png,小丑牌;卡牌;肉鸽;扑克牌,xiaomi,xmrw5;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
+com.ydnac.watch.xcp,小丑牌,quick_app,sharpice6,astrobox-resource-com-ydnac-watch-xcp,2598bec,media/logo.png,media/xcp.png,小丑牌;卡牌;肉鸽;扑克牌,xiaomi,xmrw5;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
