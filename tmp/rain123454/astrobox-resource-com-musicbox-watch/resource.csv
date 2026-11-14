@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.musicbox.watch,音乐盒子,quick_app,rain123454,astrobox-resource-com-musicbox-watch,9a9f9c7,media/icon.png,media/xiaoai_ai_img_1794646254691.png.jpg,音乐;快应用;s5,xiaomi,xmws5,
+com.rain.musicbox,音乐盒子,quick_app,rain123454,astrobox-resource-com-musicbox-watch,d82f87e,media/icon-round-512.png,media/cover-3x2-1500x1000.jpg,音乐;快应用;s5,xiaomi,xmws5,
