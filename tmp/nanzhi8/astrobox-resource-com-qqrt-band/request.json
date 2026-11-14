@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.qqrt.band",
+  "base_entry_digest": "0f638cd7b60908f542a423fe29dee8047b0d9d268bc393659793912c9b1352e7",
+  "base_catalog_commit": "fe00a3255406aed649dadbbae85283bedf335130",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:11:15.648352300+08:00",
+    "build_user": "runneradmin"
+  }
+}
