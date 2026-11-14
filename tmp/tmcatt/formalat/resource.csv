@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.example.formalaT,魔方公式库,quick_app,TMcatt,formalaT,ff8e6d2,media/icon.png,media/公式库封面.png,魔方;公式;辅助;工具,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb9p;xmb10p,
+com.tmcat.formulalib,魔方公式库,quick_app,TMcatt,formalaT,eb3f36c,media/icon.png,media/公式库封面.png,魔方;公式;辅助;工具,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb9p;xmb10p,
