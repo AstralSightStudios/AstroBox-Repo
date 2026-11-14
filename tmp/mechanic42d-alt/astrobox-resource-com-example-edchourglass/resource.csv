@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.example.edchourglass,edc沙漏,quick_app,mechanic42d-alt,astrobox-resource-com-example-edchourglass,a53a298,media/图标-1.0.0.jpg,media/3846c358-5d05-47a3-b573-72503af0c3f5.png,edc;倒计时;沙漏,xiaomi,xmb11;xmb10;xmb10nfc;xmb11nfc,force_paid
