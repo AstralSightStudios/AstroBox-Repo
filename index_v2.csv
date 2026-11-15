@@ -392,7 +392,6 @@ bluetooth_audio,Canopus 蓝牙音频扩展模块,canopus,Searchstars,astrobox-re
 979856732641,迷失回廊,watchface,0233-wu,astrobox-resource-979856732641,5490ef8,media/icon_corridor.png,media/页面 1 (2).png,游戏;免费;解密,xiaomi,xmb9p;xmb10p,
 corona,Corona模块,canopus,leset0ng,Corona-Relese,e498248,media/logo.png,media/Frame 29.png,模块;canopus;资源包;图标;主题;字体,xiaomi,xmb10p;xmb11;xmb11nfc,
 com.hydro.link,HydroLink,quick_app,F7YM,astrobox-resource-com-hydro-link,f09d6ea,media/Group 3 (1).png,media/Group 9 (6).png,Windows;Linux;互联;HydroLink;远程终端;HydroKit,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmws541,
-com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox,bb0c210,media/容器 14 (2).png,media/幻灯片 4_3 - 2.png,小米手环9Pro;课程表;BandClass;倒计时;Redmi Watch 6;小米手环10Pro;红米手表5,xiaomi,xmrw5;xmrw6;xmb10p;xmb9p,
 app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,86f4efe,media/16108.png,media/25729.png,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
 com.huashu.heihade,嘿哈嘚,quick_app,MinimumBubble11,Heihade_ABD,44b5481,media/logo.png,media/heihade-poster-mini.png,音效盒;游戏;音效;幻响,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,
 com.jpf.wrist.doodlejump,涂鸦跳跳,quick_app,jip79078-hash,doodle-jump-astrobox,e9422a0,media/icon.png,media/cover-review-v2-upload.png,游戏;休闲;重力感应;跳跃;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9,
@@ -569,3 +568,4 @@ com.zzh.glassnotes,流沙记事本,quick_app,Augus-robot,astrobox-resource-com-z
 979822421721,随变,watchface,yamu81663-dot,astrobox-resource-979822421721,3c4306d,media/表盘图标.png,media/无标题41_20261110180631.png,时钟变形;自定义壁纸;lua表盘,xiaomi,xmb10p;xmb9p;xmrw6,
 com.facephotos.quickapp,随变壁纸,quick_app,yamu81663-dot,astrobox-resource-com-facephotos-quickapp,f89a059,media/壁纸库图标.png,media/无标题41_20261110003023.png,壁纸;快应用;图片,xiaomi,xmb10p;xmb9p;xmrw6,
 com.zzh.glasscalc,流沙计算器,quick_app,Augus-robot,astrobox-resource-com-zzh-glasscalc,864783a,media/上架图标_1x1_1024.png,media/上架封面_3x2_1920x1280.png,工具;计算器;优化;系统,xiaomi,xmb10p;xmb9p,
+com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox,4c5da86,media/容器 14 (2).png,media/幻灯片 4_3 - 2.png,小米手环9Pro;课程表;BandClass;倒计时;小米手环10Pro;红米手表5;红米手表6,xiaomi,xmrw5;xmrw6;xmb10p;xmb9p,
