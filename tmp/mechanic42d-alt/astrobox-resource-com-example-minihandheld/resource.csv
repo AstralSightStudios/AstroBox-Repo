@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.example.minihandheld,mini掌机,quick_app,mechanic42d-alt,astrobox-resource-com-example-minihandheld,62174a2,media/2ff793cd-7d37-4b0f-8f2f-22128278f655.png,media/dad57974-992e-47c5-b0f8-579f196e0895.png,掌机;游戏机;复古,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
