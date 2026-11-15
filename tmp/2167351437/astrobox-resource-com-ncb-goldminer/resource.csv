@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.ncb.goldminer,黄金矿工,quick_app,2167351437,astrobox-resource-com-ncb-goldminer,101a35d,media/1000183329.png,media/1000183330.png,休闲游戏;挖矿;黄金矿工;闯关;手环游戏,xiaomi,xmb10nfc;xmb10,force_paid
