@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.skillman.mctd",
+  "base_entry_digest": "41969db3ba070035443de6c325afdf5f8b3c575b9039ca8f8e8cfd7c96f4ff00",
+  "base_catalog_commit": "5ae51efad45b072433abdc577e30c474b20df872",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:11:02.415222700+08:00",
+    "build_user": "runneradmin"
+  }
+}
