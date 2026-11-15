@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.txcnstudio.todo",
+  "base_entry_digest": "b4642fa4d8a0e874cb446c70525f9f53328bf9cead42cde50c62c4ed08b3e073",
+  "base_catalog_commit": "1fcac67c98dc0ae19cb9a2dcea5af56a503244dd",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:14:02.109788129+08:00",
+    "build_user": "runner"
+  }
+}
