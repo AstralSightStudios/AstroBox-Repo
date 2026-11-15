@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.facephotos.quickapp",
+  "base_entry_digest": "c63ffa446fc48cabad69bfa885ff7458c4d4a7773d98f7f7152265fead6f0227",
+  "base_catalog_commit": "e2ce40ce86e524d7ef64f9c7e8d1d800c14628b6",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "988af43",
+    "build_time": "2026-11-15T01:22:43.197070+08:00",
+    "build_user": "runneradmin"
+  }
+}
