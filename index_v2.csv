@@ -153,7 +153,7 @@ com.azuma.wristqr,WristQR-将任意二维码便捷的保存在手表上,quick_ap
 979820260728,「Vue」- 蔚蓝档案,watchface,ChiHuan0807,astrobox-resource-979820260728,412b649,media/容器 4.png,media/IMG_20260728_005055.jpg,蔚蓝档案;ba;BA;电子;表盘;迟缓;池焕;拍立得,xiaomi,xmb9p;xmb10p,force_paid
 979830953235,摩登时刻,watchface,mintsummer67,20260727moldentime,dce379a,media/3927.jpg,media/3925.jpg,社区,xiaomi,xmrw5;xmrw5xring;xmrw6,
 979895662825,给爷爷的表盘,watchface,Cannyworks29,GrandPAPA-WatchFace,4a3c868,media/给爷爷的表盘 介绍.png,media/_3105068-2.jpg,极简;复古;数字;适老化;大数字;清晰;简单,xiaomi,xmb9p;xmb10p,
-com.JumpEgg.solan,环间跳跳糖ProMax,quick_app,Solan-486,Astrobox-Resource_Release_AstroBox_Release,134b74b,logo.png,Preview@1x.png,跳蛋;玩具;神器;太爽了;强强,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p,
+com.JumpEgg.solan,环间跳跳糖ProMax,quick_app,Solan-486,Astrobox-Resource_Release_AstroBox_Release,a70cd40,logo.png,media/Frame 2.png,跳蛋;玩具;神器;太爽了;强强;<__NSFW__>,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p;xmb11;xmb11nfc,
 979833881771,「终旅」- 终末地风格相册表盘,watchface,shantuskat,astrobox-resource-979833881771,c289f9d,media/画板 4.png,media/画板 3.png,相册;照片;终末地;明日方舟;二次元;免费,xiaomi,xmb10;xmb10nfc;xmb9p;xmb10p;xmrw6,
 979885011981,优香  动态,watchface,zzz78bc,astrobox-resource-979885011981,c917f3c,media/圆形 8.png,media/画板 3.png,动态表盘,xiaomi,xmb9p;xmb10p,
 com.cicada.solan,竹知了,quick_app,Solan-486,Astrobox_Cicada_AstroBox_Release,9f2f730,icon.png,Preview.png,玩具;抽象;知了;竹知了;妙妙;工具;余音绕梁,xiaomi,xmb9;xmb10;xmb9p;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb10p,
@@ -561,3 +561,4 @@ com.hazenotea.skymatch.watch,天空消消乐,quick_app,HazeNoTea,HNT_SkyMatch_ve
 com.komoridev.angrybirds,愤怒的小鸟,quick_app,KomoriDev,kovela-angrybirds,3ef92ee,media/logo.png,media/cover.png,游戏;休闲;趣味;童年,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,paid
 com.wristnote.band,腕记,quick_app,Wildchiken,WristNote_AstroBox_Release,a333d9c,media/icon.png,media/cover.png,实用工具;记事本;备忘录;笔记;输入法,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
 com.arenatiles.band,别踩白块,quick_app,huangchengkeqi-spec,astrobox-resource-com-arenatiles-band,9c7a481,media/钢琴块-应用图标-480x480-压缩.png,media/ad5d0312-acc7-407c-b1cd-7ba99e627829.png,休闲;即时;娱乐;手速;反应;动作,xiaomi,xmb10p,
+979876108505,手势控制,watchface,Eternalovenn,astrobox-resource-979876108505,2fe87d6,media/1000095990.png,media/1000096002.jpg,模块;优化;10pro;控制,xiaomi,xmb10p,force_paid
