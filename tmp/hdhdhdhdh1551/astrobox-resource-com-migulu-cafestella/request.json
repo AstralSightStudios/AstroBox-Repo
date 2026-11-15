@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.migulu.cafestella",
+  "base_entry_digest": "ca91619573c5959824004a41fbf6da95499b67a676b59cf4cab8816ae43d0c0a",
+  "base_catalog_commit": "03e15e9e88012255b845903b32de95b575cfa644",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:14:02.109788129+08:00",
+    "build_user": "runner"
+  }
+}
