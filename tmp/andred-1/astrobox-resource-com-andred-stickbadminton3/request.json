@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.andred.stickbadminton3",
+  "base_entry_digest": "1091a44851bce5a04e0a5e7970e1a338294ba264235f8a9d4e4b83f8e77df888",
+  "base_catalog_commit": "48822c81e0bf0009729ed1524b0679ef8c2577f5",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:13:25.479631754+08:00",
+    "build_user": "runner"
+  }
+}
