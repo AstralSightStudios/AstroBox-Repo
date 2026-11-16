@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.miband11exploration.mood,心情打卡,quick_app,Amaratha-AIlr,miband-mood-log,e242899,media/logo.png,media/调整比例为3_2.png,心情;免费;记录,xiaomi,xmb11nfc;xmb11;xmb10nfc;xmb10,
