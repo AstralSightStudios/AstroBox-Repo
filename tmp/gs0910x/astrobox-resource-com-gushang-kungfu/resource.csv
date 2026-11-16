@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.gushang.kungfu,我功夫特牛,quick_app,gs0910x,astrobox-resource-com-gushang-kungfu,a2e593d,media/icon.png,media/cover.jpg,游戏;武侠;战斗,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
+com.gushang.kungfu,我功夫特牛,quick_app,gs0910x,astrobox-resource-com-gushang-kungfu,1eab54e,media/icon.png,media/download.jpg,游戏;武侠;战斗,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
