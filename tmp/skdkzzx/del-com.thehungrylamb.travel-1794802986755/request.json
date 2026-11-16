@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "delete",
+  "original_id": "com.thehungrylamb.travel",
+  "base_entry_digest": "471c343a57750d7d371f7481e2e22546169637a468e65f6cb487ea1532407bce",
+  "base_catalog_commit": "b2fd2fd31cf58c0bf24e16cd6295e6244275b781",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:11:02.415222700+08:00",
+    "build_user": "runneradmin"
+  }
+}
