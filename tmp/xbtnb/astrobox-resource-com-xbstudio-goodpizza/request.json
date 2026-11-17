@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.xbstudio.goodpizza",
+  "base_entry_digest": "164f3bfdfa8bd8f6d84b9f83ec2a66757229b214b1906a4e2dbfcb59fbc02ae9",
+  "base_catalog_commit": "316539f46d3bd6caf7bff524460ee8e962c44bff",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:14:02.109788129+08:00",
+    "build_user": "runner"
+  }
+}
