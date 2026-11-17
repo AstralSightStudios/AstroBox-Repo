@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.lkjhg.bandbox,BandBox,quick_app,lkjhg10576,MiBandBox,ebbea5b,media/icon_astrobox.png,media/hero-zh-3x2.jpg,工具箱;小米手环10;免费;小米手环10 Pro;小米手环9 Pro,xiaomi,xmb10;xmb10nfc;xmb10p;xmb9p,
+com.lkjhg.bandbox,BandBox,quick_app,lkjhg10576,MiBandBox,6b6259c,media/icon_astrobox.png,media/BandBox 头图 1200x800.png,工具箱;小米手环10;免费;小米手环10 Pro;小米手环9 Pro,xiaomi,xmb10;xmb10nfc;xmb10p;xmb9p,
