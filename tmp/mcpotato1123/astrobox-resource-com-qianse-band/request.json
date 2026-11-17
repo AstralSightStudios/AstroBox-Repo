@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.qianse.band",
+  "base_entry_digest": "41bdf0c42ea0355eb3414da385ef56bfb5efbeb93d0ff555240d3665c24290e6",
+  "base_catalog_commit": "316539f46d3bd6caf7bff524460ee8e962c44bff",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "51aed3e",
+    "build_time": "2026-11-17T13:29:01.970960700+08:00",
+    "build_user": "runneradmin"
+  }
+}
