@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.jpf.wrist.sunnyclimb",
+  "base_entry_digest": "7c2aa918d03682d4a580dd14001c3c062f45f05cee85360f898b0b6f179eaae9",
+  "base_catalog_commit": "523c33c1b7eef02d92c2aaffd949c257cbc60c2e",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:10:43.859687+08:00",
+    "build_user": "runner"
+  }
+}
