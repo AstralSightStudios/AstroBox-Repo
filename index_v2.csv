@@ -563,7 +563,6 @@ com.hazenotea.sheepmatch.watch,羊了个羊,quick_app,HazeNoTea,HNT_SheepMatch_v
 moe.mcns.Eclipse,Eclipse星语,quick_app,FelixFan-CN,astrobox-resource-moe-mcns-eclipse,a6ccf5e,media/icon_round.png,media/504068dfb1bd9227b930db5bda5cb60f_720.png,AI;聊天;独立;助手;工具;JS;脚本,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws4;xmws441;xmws541;xmws5,force_paid
 979811140101,地貌手册,watchface,jianding24,astrobox-resource-979811140101,2e8ae9a,media/icon.png,media/astrobox-cover.jpg,表盘;地貌;自然;多主题;可编辑,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6;xmb9;xmb10;xmb10nfc;xmb11;xmb11nfc;xmws3;xmws4;xmws4xring;xmws441;xmws541;xmws5,force_paid
 979806755310,动态芭卡洛儿,watchface,jawnd,astrobox-resource-979806755310,ce766d8,media/icon.png,media/3Frame 4 (3).png,动态表盘;重返未来1999;芭卡洛儿,xiaomi,xmb10p;xmb9p,
-979815141180,双列视图,watchface,yamu81663-dot,astrobox-resource-979815141180,728d941,media/13671.png,media/无标题62_20261116230743.png,原生应用;注入;表盘,xiaomi,xmb9;xmb10,force_paid
 com.andred.stickbadminton3,火柴人羽毛球3,quick_app,andred-1,astrobox-resource-com-andred-stickbadminton3,72426a6,media/1000040859.png,media/1000040904.png,火柴人;羽毛球;火柴人羽毛球3,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 com.xbstudio.goodpizza,可口的比萨,quick_app,xbtnb,astrobox-resource-com-xbstudio-goodpizza,863be6f,media/73801.png,media/73802.jpg,经营;烹饪;模拟;比萨,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4;xmws5,force_paid
 com.wristfeed.band,腕读,quick_app,Wildchiken,WristFeed_AstroBox_Release,e4a0be9,media/icon.png,media/cover.png,阅读;RSS;订阅;新闻;离线;免费,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
@@ -578,3 +577,4 @@ com.jpf.wrist.sunnyclimb,越岭飞车,quick_app,jip79078-hash,yueling-racer-astr
 com.skillman.jh,饥荒,quick_app,QiYongWu,astrobox-resource-com-skillman-jh,3491171,media/logo.png,media/分组_6_(1).png,饥荒;生存;生存类游戏;经典游戏;哥特风,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
 com.lkjhg.bandbox,BandBox,quick_app,lkjhg10576,MiBandBox,6b6259c,media/icon_astrobox.png,media/BandBox 头图 1200x800.png,工具箱;小米手环10;免费;小米手环10 Pro;小米手环9 Pro,xiaomi,xmb10;xmb10nfc;xmb10p;xmb9p,
 com.wristnote.band,腕记,quick_app,Wildchiken,WristNote_AstroBox_Release,29264e0,media/icon.png,media/cover.png,实用工具;记事本;备忘录;笔记;输入法,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmrw5;xmrw6;xmws5,
+979815141180,双列视图,watchface,yamu81663-dot,astrobox-resource-979815141180,2eeac12,media/13671.png,media/无标题62_20261116230743.png,原生应用;注入;表盘,xiaomi,xmb9;xmb10;xmb10nfc,force_paid
