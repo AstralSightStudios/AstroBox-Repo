@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""AstroBox v2 resource submission CLI.
+"""AstroBox v2 resource catalog CLI.
 
 Commands:
   validate-index      Strictly validate index_v2.csv.
   validate-pr         Validate one PR containing tmp staging files.
   apply-pending       Apply merged pending submissions to index_v2.csv.
+  auto-apply-delete   Validate and merge a delete submission PR.
   reopen-on-request   Reopen a PR on the creator's [ABCC_REOPEN] comment.
 
 The script uses only the standard library and the GitHub REST API through
@@ -336,14 +337,14 @@ def parse_request_json(text: str, path: str) -> Request:
     if not isinstance(data, dict) or data.get("schema_version") != 1:
         raise SubmissionError(f"{path} schema_version 必须为 1。")
     mode = data.get("mode")
-    if mode not in {"create", "edit"}:
-        raise SubmissionError(f"{path} mode 必须为 create 或 edit。")
+    if mode not in {"create", "edit", "delete"}:
+        raise SubmissionError(f"{path} mode 必须为 create、edit 或 delete。")
     original_id = data.get("original_id")
     digest = data.get("base_entry_digest")
     commit = data.get("base_catalog_commit")
-    if mode == "edit" and (not original_id or not digest or not commit):
+    if mode in {"edit", "delete"} and (not original_id or not digest or not commit):
         raise SubmissionError(
-            f"{path} edit 请求必须提供 original_id、base_entry_digest、base_catalog_commit。"
+            f"{path} {mode} 请求必须提供 original_id、base_entry_digest、base_catalog_commit。"
         )
     return Request(
         mode=mode,
@@ -435,6 +436,65 @@ def validate_edit_or_create(
         if duplicate:
             raise SubmissionError(f"新资源 ID {new_id} 已被其他资源占用。")
     return original
+
+
+def find_delete_target(
+    entries: list[Entry],
+    entry: Entry,
+    request: Request,
+    author_login: str,
+) -> Entry | None:
+    """定位删除目标；行已消失时返回 None（用于 apply 的幂等跳过）。"""
+    original_id = (request.original_id or "").strip()
+    if not original_id:
+        raise SubmissionError("delete 请求缺少 original_id。")
+    if entry.get("id").strip().lower() != original_id.lower():
+        raise SubmissionError(
+            f"提交行 ID {entry.get('id')} 与 original_id {original_id} 不一致。"
+        )
+    if canonical_digest(entry) != request.base_entry_digest:
+        raise SubmissionError("提交行与 base_entry_digest 不一致。")
+
+    original = find_entry(entries, original_id)
+    if original is None:
+        return None
+    if canonical_digest(original) != request.base_entry_digest:
+        raise SubmissionError(f"原资源 {original_id} 的目录行 digest 已过期。")
+
+    owner = (original.get("repo_owner") or "").strip()
+    author = (author_login or "").strip()
+    if not author:
+        raise SubmissionError("无法确认 PR 作者，拒绝删除申请。")
+    if owner.lower() != author.lower():
+        raise SubmissionError(
+            f"PR 作者 {author} 不是资源所有者 {owner}，拒绝删除申请。"
+        )
+    return original
+
+
+def validate_delete(
+    entries: list[Entry],
+    entry: Entry,
+    request: Request,
+    author_login: str,
+) -> Entry:
+    original = find_delete_target(entries, entry, request, author_login)
+    if original is None:
+        raise SubmissionError(
+            f"未找到原资源 ID {(request.original_id or '').strip()}。"
+        )
+    return original
+
+
+def validate_submission(
+    entries: list[Entry],
+    entry: Entry,
+    request: Request,
+    author_login: str,
+) -> Entry | None:
+    if request.mode == "delete":
+        return validate_delete(entries, entry, request, author_login)
+    return validate_edit_or_create(entries, entry, request)
 
 
 def normalize_repo_path(path: str) -> str:
@@ -603,6 +663,267 @@ class _PrMapping:
         }
 
 
+def read_repo_text(repo_full_name: str, path: str, ref: str) -> str:
+    safe_path = urllib.parse.quote(path, safe="")
+    safe_ref = urllib.parse.quote(ref, safe="")
+    data = api_request(
+        "GET",
+        f"/repos/{repo_full_name}/contents/{safe_path}?ref={safe_ref}",
+    )
+    content = data.get("content", "")
+    if data.get("encoding", "base64") != "base64":
+        raise SubmissionError("不支持的非 base64 文件内容。")
+    return base64.b64decode(content).decode("utf-8-sig")
+
+
+def list_open_pulls() -> list[dict[str, Any]]:
+    pulls: list[dict[str, Any]] = []
+    page = 1
+    while True:
+        batch = api_request(
+            "GET",
+            f"/repos/{github_repo()}/pulls?state=open&per_page=100&page={page}",
+        )
+        if not isinstance(batch, list) or not batch:
+            break
+        pulls.extend(batch)
+        if len(batch) < 100:
+            break
+        page += 1
+    return pulls
+
+
+def pr_file_text(
+    head_repo_full_name: str,
+    head_sha: str,
+    file: dict[str, Any],
+) -> str:
+    filename = str(file.get("filename") or "")
+    sha = file.get("sha")
+    if sha:
+        try:
+            data = api_request(
+                "GET",
+                f"/repos/{github_repo()}/git/blobs/{sha}",
+            )
+            if data.get("encoding", "base64") == "base64":
+                return base64.b64decode(data.get("content", "")).decode(
+                    "utf-8-sig"
+                )
+        except SubmissionError:
+            pass
+    if head_repo_full_name and head_sha:
+        try:
+            return read_repo_text(head_repo_full_name, filename, head_sha)
+        except SubmissionError:
+            pass
+    patch = str(file.get("patch") or "")
+    lines = [
+        line[1:]
+        for line in patch.splitlines()
+        if line.startswith("+") and not line.startswith("+++")
+    ]
+    if lines:
+        return "\n".join(lines) + "\n"
+    raise SubmissionError(f"无法读取 PR 文件内容：{filename}")
+
+
+def submission_references_resource(
+    files: list[dict[str, Any]],
+    head_repo_full_name: str,
+    head_sha: str,
+    resource_id: str,
+) -> bool:
+    needle = resource_id.strip().lower()
+    for file in files:
+        filename = str(file.get("filename") or "")
+        if not submission_dir_from_file(filename):
+            continue
+        try:
+            text = pr_file_text(head_repo_full_name, head_sha, file)
+            if filename.endswith(SUBMISSION_REQUEST_FILE):
+                request = parse_request_json(text, filename)
+                if (
+                    request.mode in {"edit", "delete"}
+                    and request.original_id
+                    and request.original_id.strip().lower() == needle
+                ):
+                    return True
+            elif filename.endswith(SUBMISSION_CSV_FILE):
+                entry = parse_submission_csv(text, filename)
+                if entry.get("id").strip().lower() == needle:
+                    return True
+        except SubmissionError:
+            continue
+    return False
+
+
+def close_conflicting_submission_prs(
+    resource_id: str,
+    current_pr_number: int,
+) -> list[int]:
+    closed: list[int] = []
+    for pull in list_open_pulls():
+        number = pull.get("number")
+        if not isinstance(number, int) or number == current_pr_number:
+            continue
+        head = pull.get("head") or {}
+        head_repo = (head.get("repo") or {}).get("full_name") or ""
+        head_sha = head.get("sha") or ""
+        if not head_repo or not head_sha:
+            continue
+        try:
+            files = pull_files(number)
+        except SubmissionError:
+            # 单个 PR 读不到文件不应阻塞删除；digest 校验仍会兜底。
+            continue
+        if not submission_references_resource(
+            files,
+            str(head_repo),
+            str(head_sha),
+            resource_id,
+        ):
+            continue
+        api_request(
+            "PATCH",
+            f"/repos/{github_repo()}/pulls/{number}",
+            {"state": "closed"},
+        )
+        try:
+            api_request(
+                "POST",
+                f"/repos/{github_repo()}/issues/{number}/comments",
+                {
+                    "body": (
+                        "资源已被作者删除，此提交被仓库 Action 自动关闭。"
+                        f"删除申请见 PR #{current_pr_number}。"
+                    )
+                },
+            )
+        except SubmissionError:
+            pass
+        closed.append(number)
+    return closed
+
+
+def command_auto_apply_delete() -> int:
+    event_path = os.environ.get("GITHUB_EVENT_PATH")
+    if not event_path or not Path(event_path).exists():
+        print("::warning::本地缺少 GITHUB_EVENT_PATH，跳过删除申请自动应用。")
+        return 0
+    pr_number: int | None = None
+    try:
+        event = json.loads(Path(event_path).read_text(encoding="utf-8"))
+        pull = event.get("pull_request") or {}
+        number = pull.get("number") or event.get("number")
+        if not number:
+            raise SubmissionError("无法从 GitHub event 中读取 PR 编号。")
+        pr_number = int(number)
+        if pull.get("state") != "open":
+            print(f"PR #{pr_number} 不是 open 状态，跳过。")
+            return 0
+        if pull.get("draft"):
+            print(f"PR #{pr_number} 是 draft，跳过。")
+            return 0
+
+        author_login = ((pull.get("user") or {}).get("login") or "")
+        head = pull.get("head") or {}
+        head_repo = (head.get("repo") or {}).get("full_name") or ""
+        head_sha = head.get("sha") or ""
+        base = pull.get("base") or {}
+        base_sha = base.get("sha") or ""
+        base_ref = base.get("ref") or "main"
+        if not head_repo or not head_sha or not base_sha:
+            raise SubmissionError("PR 缺少 head/base 信息，无法读取提交文件。")
+
+        files = pull_files(pr_number)
+        dirs: set[str] = set()
+        for file in files:
+            directory = submission_dir_from_file(str(file.get("filename") or ""))
+            if directory:
+                dirs.add(directory)
+        if len(dirs) != 1:
+            raise SubmissionError(
+                f"删除 PR 必须恰好包含一个 submission 目录，当前为 {len(dirs)} 个。"
+            )
+        directory = next(iter(dirs))
+        validate_delete_submission_files(files, directory)
+
+        by_name = {str(file.get("filename") or ""): file for file in files}
+        csv_file = by_name.get(f"{directory}/{SUBMISSION_CSV_FILE}")
+        request_file = by_name.get(f"{directory}/{SUBMISSION_REQUEST_FILE}")
+        if not csv_file or not request_file:
+            raise SubmissionError("删除 PR 缺少 resource.csv 或 request.json。")
+        entry = parse_submission_csv(
+            pr_file_text(str(head_repo), str(head_sha), csv_file),
+            f"{directory}/{SUBMISSION_CSV_FILE}",
+        )
+        request = parse_request_json(
+            pr_file_text(str(head_repo), str(head_sha), request_file),
+            f"{directory}/{SUBMISSION_REQUEST_FILE}",
+        )
+        if request.mode != "delete":
+            print(f"PR #{pr_number} 不是删除申请，跳过自动应用。")
+            return 0
+
+        base_entries, _ = parse_csv_rows(
+            read_remote_text(CATALOG_PATH, str(base_sha)),
+            CATALOG_PATH,
+        )
+        validate_delete(base_entries, entry, request, author_login)
+
+        resource_id = (request.original_id or "").strip()
+        closed = close_conflicting_submission_prs(resource_id, pr_number)
+        if closed:
+            print(
+                f"已关闭资源 {resource_id} 的其他进行中提交："
+                + ", ".join(f"#{number}" for number in closed)
+            )
+
+        latest_entries, _ = parse_csv_rows(
+            read_remote_text(CATALOG_PATH, str(base_ref)),
+            CATALOG_PATH,
+        )
+        validate_delete(latest_entries, entry, request, author_login)
+
+        api_request(
+            "PUT",
+            f"/repos/{github_repo()}/pulls/{pr_number}/merge",
+            {"merge_method": "merge"},
+        )
+        # 用 GITHUB_TOKEN 合并产生的 push 不会触发新的 workflow，必须显式
+        # 派发 apply-pending，否则目录行和 tmp 目录会一直留着。
+        try:
+            api_request(
+                "POST",
+                f"/repos/{github_repo()}/actions/workflows/resource-submissions.yml/dispatches",
+                {"ref": base_ref},
+            )
+        except SubmissionError as exc:
+            raise SubmissionError(
+                f"PR #{pr_number} 已合并，但触发 apply-pending 失败：{exc}"
+            ) from exc
+        print(f"已自动应用删除申请 PR #{pr_number}（资源 {resource_id}）。")
+        return 0
+    except SubmissionError as exc:
+        annotation(str(exc))
+        if pr_number is not None:
+            try:
+                api_request(
+                    "POST",
+                    f"/repos/{github_repo()}/issues/{pr_number}/comments",
+                    {
+                        "body": (
+                            "删除申请未通过自动校验，未执行合并。\n\n"
+                            f"原因：{exc}"
+                        )
+                    },
+                )
+            except SubmissionError:
+                pass
+        return 1
+
+
 def map_submission_paths_to_prs(
     wanted_directories: set[str],
 ) -> tuple[dict[str, int], dict[int, str], dict[int, dict[str, Any]]]:
@@ -693,7 +1014,18 @@ def prepare_apply_action(
     entries: list[Entry],
     entry: Entry,
     request: Request,
+    author_login: str = "",
 ) -> dict[str, Any]:
+    if request.mode == "delete":
+        original = find_delete_target(entries, entry, request, author_login)
+        return {
+            "skip": original is None,
+            "delete": True,
+            "entry": entry,
+            "request": request,
+            "original": original,
+        }
+
     original = validate_edit_or_create(entries, entry, request)
     if request.mode == "create":
         existing = find_entry(entries, entry.get("id"))
@@ -783,6 +1115,30 @@ def command_validate_index() -> int:
         return 1
 
 
+def validate_delete_submission_files(
+    files: list[dict[str, Any]],
+    directory: str,
+) -> None:
+    """删除 PR 只允许固定的两个文件，且不能删除/重命名文件。"""
+    expected = {
+        f"{directory}/{SUBMISSION_CSV_FILE}",
+        f"{directory}/{SUBMISSION_REQUEST_FILE}",
+    }
+    actual = {str(file.get("filename") or "") for file in files}
+    if actual != expected:
+        raise SubmissionError(
+            "删除 PR 必须只包含 "
+            f"{directory}/{SUBMISSION_CSV_FILE} 和 {directory}/{SUBMISSION_REQUEST_FILE}；"
+            f"实际包含：{', '.join(sorted(actual)) or '无'}。"
+        )
+    for file in files:
+        status = str(file.get("status") or "").lower()
+        if status not in {"added", "modified"}:
+            raise SubmissionError(
+                f"删除 PR 只能新增或修改固定文件，当前 {file.get('filename')} 的状态为 {status or 'unknown'}。"
+            )
+
+
 def command_validate_pr() -> int:
     event_path = os.environ.get("GITHUB_EVENT_PATH")
     if not event_path or not Path(event_path).exists():
@@ -793,6 +1149,10 @@ def command_validate_pr() -> int:
         pr_number = event.get("number") or event.get("pull_request", {}).get("number")
         if not pr_number:
             raise SubmissionError("无法从 GitHub event 中读取 PR 编号。")
+        author_login = (
+            ((event.get("pull_request") or {}).get("user") or {}).get("login")
+            or ""
+        )
         files = pull_files(int(pr_number))
         dirs: set[str] = set()
         for file in files:
@@ -823,7 +1183,9 @@ def command_validate_pr() -> int:
 
         for directory in dirs:
             entry, request = read_submission(directory)
-            validate_edit_or_create(base_entries, entry, request)
+            if request.mode == "delete":
+                validate_delete_submission_files(files, directory)
+            validate_submission(base_entries, entry, request, author_login)
             print(
                 f"PR #{pr_number} 的 {directory} 通过本地结构校验："
                 f"{request.mode} {entry.get('id')}"
@@ -877,9 +1239,16 @@ def command_apply_pending() -> int:
             annotation(f"PR #{pr_number} 缺少 merge_commit_sha，无法确定维护者。")
             errors += 1
             continue
+        entry: Entry | None = None
         try:
             entry, request = read_submission(directory)
-            action = prepare_apply_action(current_entries, entry, request)
+            author_login = ((info.get("user") or {}).get("login") or "")
+            action = prepare_apply_action(
+                current_entries,
+                entry,
+                request,
+                author_login,
+            )
             if action.get("skip"):
                 delete_submission_dir(directory)
                 run_git(["add", "-A"])
@@ -899,6 +1268,15 @@ def command_apply_pending() -> int:
 
             if request.mode == "create":
                 current_entries.append(entry)
+            elif request.mode == "delete":
+                original = action.get("original")
+                if original is not None:
+                    original_index = find_entry_index(
+                        current_entries,
+                        original.get("id"),
+                    )
+                    if original_index is not None:
+                        current_entries.pop(original_index)
             else:
                 original = action["original"]
                 original_index = find_entry_index(current_entries, original.get("id"))
@@ -934,7 +1312,7 @@ def command_apply_pending() -> int:
         except SubmissionError as exc:
             annotation(
                 f"{directory}（PR #{pr_number}）应用失败：{exc}。"
-                f"目标资源：{entry.get('id') if 'entry' in locals() else 'unknown'}",
+                f"目标资源：{entry.get('id') if entry is not None else 'unknown'}",
                 file=directory,
             )
             errors += 1
@@ -1073,6 +1451,8 @@ def main() -> int:
         return command_validate_pr()
     if command == "apply-pending":
         return command_apply_pending()
+    if command == "auto-apply-delete":
+        return command_auto_apply_delete()
     if command == "reopen-on-request":
         return command_reopen_on_request()
     print(f"未知命令：{command}")

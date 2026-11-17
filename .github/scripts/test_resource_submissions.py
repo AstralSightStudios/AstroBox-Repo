@@ -508,5 +508,130 @@ class ReopenOnRequestTests(unittest.TestCase):
         command.assert_called_once_with()
 
 
+def make_delete_entry(**overrides) -> object:
+    values = dict.fromkeys(rs.HEADER, "")
+    values.update(
+        {
+            "id": "abc",
+            "name": "资源",
+            "restype": "quick_app",
+            "repo_owner": "owner",
+            "repo_name": "repo",
+            "repo_commit_hash": "abcdef0",
+            "icon": "icon.png",
+            "cover": "cover.png",
+            "tags": "tags",
+            "device_vendors": "xiaomi",
+            "devices": "dev",
+            "paid_type": "",
+        }
+    )
+    values.update(overrides)
+    return rs.Entry(values)
+
+
+class DeleteSubmissionTests(unittest.TestCase):
+    def make_request(self, entry, **overrides):
+        data = {
+            "schema_version": 1,
+            "mode": "delete",
+            "original_id": entry.get("id"),
+            "base_entry_digest": rs.canonical_digest(entry),
+            "base_catalog_commit": "catalog-sha",
+        }
+        data.update(overrides)
+        return rs.parse_request_json(json.dumps(data), "request.json")
+
+    def test_parse_delete_request(self) -> None:
+        entry = make_delete_entry()
+        request = self.make_request(entry)
+        self.assertEqual(request.mode, "delete")
+        self.assertEqual(request.original_id, "abc")
+
+    def test_delete_request_requires_baseline(self) -> None:
+        with self.assertRaises(rs.SubmissionError):
+            rs.parse_request_json(
+                '{"schema_version":1,"mode":"delete","original_id":"abc"}',
+                "request.json",
+            )
+
+    def test_validate_delete_accepts_owner_and_matching_digest(self) -> None:
+        entry = make_delete_entry()
+        request = self.make_request(entry)
+        original = rs.validate_delete([entry], entry, request, "Owner")
+        self.assertEqual(original.get("id"), "abc")
+
+    def test_validate_delete_rejects_non_owner(self) -> None:
+        entry = make_delete_entry()
+        request = self.make_request(entry)
+        with self.assertRaises(rs.SubmissionError):
+            rs.validate_delete([entry], entry, request, "other-user")
+
+    def test_validate_delete_rejects_stale_digest(self) -> None:
+        entry = make_delete_entry()
+        request = self.make_request(entry, base_entry_digest="deadbeef")
+        with self.assertRaises(rs.SubmissionError):
+            rs.validate_delete([entry], entry, request, "owner")
+
+    def test_prepare_apply_delete_removes_existing_row(self) -> None:
+        entry = make_delete_entry()
+        request = self.make_request(entry)
+        action = rs.prepare_apply_action([entry], entry, request, "owner")
+        self.assertFalse(action["skip"])
+        self.assertTrue(action["delete"])
+        self.assertEqual(action["original"].get("id"), "abc")
+
+    def test_prepare_apply_delete_is_idempotent_when_row_missing(self) -> None:
+        entry = make_delete_entry()
+        request = self.make_request(entry)
+        action = rs.prepare_apply_action([], entry, request, "owner")
+        self.assertTrue(action["skip"])
+        self.assertTrue(action["delete"])
+        self.assertIsNone(action["original"])
+
+    def test_delete_pr_must_contain_exactly_two_added_files(self) -> None:
+        directory = "tmp/alice/del-abc"
+        files = [
+            {"filename": f"{directory}/resource.csv", "status": "added"},
+            {"filename": f"{directory}/request.json", "status": "added"},
+        ]
+        rs.validate_delete_submission_files(files, directory)
+
+        with self.assertRaises(rs.SubmissionError):
+            rs.validate_delete_submission_files(
+                files
+                + [{"filename": f"{directory}/extra.txt", "status": "added"}],
+                directory,
+            )
+
+        with self.assertRaises(rs.SubmissionError):
+            rs.validate_delete_submission_files(
+                [
+                    {"filename": f"{directory}/resource.csv", "status": "removed"},
+                    {"filename": f"{directory}/request.json", "status": "added"},
+                ],
+                directory,
+            )
+
+        with self.assertRaises(rs.SubmissionError):
+            rs.validate_delete_submission_files(
+                [
+                    {"filename": f"{directory}/resource.csv", "status": "renamed"},
+                    {"filename": f"{directory}/request.json", "status": "added"},
+                ],
+                directory,
+            )
+
+    def test_delete_pr_must_not_touch_catalog_or_workflow(self) -> None:
+        directory = "tmp/alice/del-abc"
+        files = [
+            {"filename": f"{directory}/resource.csv", "status": "added"},
+            {"filename": f"{directory}/request.json", "status": "added"},
+            {"filename": "index_v2.csv", "status": "modified"},
+        ]
+        with self.assertRaises(rs.SubmissionError):
+            rs.validate_delete_submission_files(files, directory)
+
+
 if __name__ == "__main__":
     unittest.main()

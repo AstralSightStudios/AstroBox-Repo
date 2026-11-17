@@ -1,7 +1,13 @@
-name: Resource submissions
+name: Resource catalog
 
 on:
   pull_request:
+    paths:
+      - "tmp/**"
+  # 删除申请需要仓库 token 自动合入；pull_request_target 使用默认分支上的
+  # workflow/script，且不 checkout PR 代码，避免执行贡献者提交的内容。
+  pull_request_target:
+    types: [opened, synchronize, reopened]
     paths:
       - "tmp/**"
   # 创作者无法自己重开被维护者关闭的 PR，改为发 [ABCC_REOPEN] 评论请求仓库代劳。
@@ -35,6 +41,32 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 .github/scripts/resource_submissions.py validate-pr
+
+  auto-apply-delete:
+    if: github.event_name == 'pull_request_target'
+    runs-on: ubuntu-latest
+    # 删除申请串行处理，避免两个删除 PR 同时改同一行目录；单个 job 只做 API
+    # 校验与合并，不执行 PR 里的任何代码。
+    concurrency:
+      group: resource-delete-apply
+      cancel-in-progress: false
+    permissions:
+      contents: write
+      pull-requests: write
+      # 合并动作由 GITHUB_TOKEN 完成，push 不会触发新 workflow；显式派发
+      # apply-pending 需要 actions: write。
+      actions: write
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          sparse-checkout: .github/scripts
+          filter: blob:none
+      - name: Validate and apply delete submission
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python3 .github/scripts/resource_submissions.py auto-apply-delete
 
   apply-pending:
     if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
