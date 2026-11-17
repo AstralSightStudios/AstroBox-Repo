@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.kjsjksjsjaiwjjw.chess",
+  "base_entry_digest": "a0567c910e11b01c33920fd014fd55c3c4c08d2c99d7599008fcbe86772507ed",
+  "base_catalog_commit": "523c33c1b7eef02d92c2aaffd949c257cbc60c2e",
+  "client": {
+    "version": "0.4.0",
+    "git_commit_hash": "14c1c8b",
+    "build_time": "2026-10-03T19:13:25.479631754+08:00",
+    "build_user": "runner"
+  }
+}
