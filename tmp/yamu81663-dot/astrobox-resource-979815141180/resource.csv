@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979815141180,双列视图,watchface,yamu81663-dot,astrobox-resource-979815141180,2eeac12,media/13671.png,media/无标题62_20261116230743.png,原生应用;注入;表盘,xiaomi,xmb9;xmb10;xmb10nfc,force_paid
