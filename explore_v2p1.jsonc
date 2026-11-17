@@ -38,9 +38,9 @@
 
         {
             "type": "blog",
-            "title": "AstroBox 2.2 正式发布",
+            "title": "AstroBox 2.2.5 更新日志",
             "tag": "版本更新",
-            "introduction": "全面优化性能，支持多设备连接与全新装扮",
+            "introduction": "全新的模块安装方式，iOS 与 Linux 体验升级，创作者功能增强",
             "backgroundImg": "weekly/cover.png",
             "backgroundColor": "#DBD7C7",
             "url": "weekly/index.md"
@@ -87,13 +87,13 @@
         },
         {
           "type": "resource",
-          "resourceId": "979811204059",
+          "resourceId": "979855356624",
           "resBackgroundColorGradient": ["#642109", "#3E2E1A"]
         },
         {
           "type": "resource",
           "resourceId": "979808744800",
-          "resBackgroundColorGradient": ["#5FC5D8", "#747A7B"]
+          "resBackgroundColorGradient": ["#80C2E0", "#0D4E9F"]
         },
         {
           "type": "resource",
