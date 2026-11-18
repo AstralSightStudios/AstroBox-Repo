@@ -545,7 +545,6 @@ com.doom.wadloader,DOOM WAD LOADER,quick_app,IRKBI,astrobox-resource-com-doom-wa
 com.irkbi.hell.vela,HELL,quick_app,IRKBI,astrobox-resource-com-irkbi-hell-vela,d444a93,media/1001002278.png,media/IMG_20261113_131450.png,恐怖;玩具熊的五夜后宫4;免费;惊悚;<__NSFW__>,xiaomi,xmb9p;xmb10p;xmrw6,
 cn.amakanotwo.qihe,甜蜜女友 2,quick_app,qihe114514,astrobox-resource-cn-amakanotwo-qihe,2d347bd,media/icon.png,media/头头图.jpg,gal;游戏;galgame;<__NSFW__>,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws5;xmws4;xmws4xring;xmws441;xmws3;xmb9;xmb9p;xmb10p;xmb10nfc;xmb10;xmb11nfc;xmb11;xmws541,force_paid
 com.zzh.glassnotes,流沙记事本,quick_app,Augus-robot,astrobox-resource-com-zzh-glassclock,3647be2,media/上架图标_1x1_1024.png,media/上架封面_3x2_1200x800.png,工具;计时器;美化,xiaomi,xmb10p;xmb9p,
-979822421721,随变,watchface,yamu81663-dot,astrobox-resource-979822421721,3c4306d,media/表盘图标.png,media/无标题41_20261110180631.png,时钟变形;自定义壁纸;lua表盘,xiaomi,xmb10p;xmb9p;xmrw6,
 com.facephotos.quickapp,随变壁纸,quick_app,yamu81663-dot,astrobox-resource-com-facephotos-quickapp,f89a059,media/壁纸库图标.png,media/无标题41_20261110003023.png,壁纸;快应用;图片,xiaomi,xmb10p;xmb9p;xmrw6,
 com.zzh.glasscalc,流沙计算器,quick_app,Augus-robot,astrobox-resource-com-zzh-glasscalc,864783a,media/上架图标_1x1_1024.png,media/上架封面_3x2_1920x1280.png,工具;计算器;优化;系统,xiaomi,xmb10p;xmb9p,
 com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox,4c5da86,media/容器 14 (2).png,media/幻灯片 4_3 - 2.png,小米手环9Pro;课程表;BandClass;倒计时;小米手环10Pro;红米手表5;红米手表6,xiaomi,xmrw5;xmrw6;xmb10p;xmb9p,
@@ -580,3 +579,4 @@ com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrob
 com.hazenotea.cardbox.watch,天空牌盒,quick_app,HazeNoTea,HNT_CardBox_vela,2c58820,media/logo256.png,media/大图.png,卡牌;策略;对战;斗地主;蜘蛛纸牌;UNO;骗子酒馆;三国杀,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4xring;xmws441;xmws4,
 com.migulu.cafestella,星光咖啡馆和死神之蝶,quick_app,hdhdhdhdh1551,astrobox-resource-com-migulu-cafestella,bd3f8dc,media/24621.png,media/24697.jpg,galgame;游戏;快应用,xiaomi,xmb9p;xmb10p,
 com.smalljelly.news,随身新闻,quick_app,Nyx-233,astrobox-resource-pocketnews,d85d45f,media/95004.png,media/95016.png,新闻;热点;头条;报纸,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p,force_paid
+979822421721,随变,watchface,yamu81663-dot,astrobox-resource-979822421721,5c4335f,media/表盘图标.png,media/无标题41_20261110180631.png,时钟变形;自定义壁纸;lua表盘,xiaomi,xmb10p;xmb9p;xmrw6,force_paid
