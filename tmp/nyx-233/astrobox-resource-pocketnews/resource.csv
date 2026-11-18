@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.smalljelly.news,随身新闻,quick_app,Nyx-233,astrobox-resource-pocketnews,d85d45f,media/95004.png,media/95016.png,新闻;热点;头条;报纸,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p,force_paid
