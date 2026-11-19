@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.xbmn.midnightwatch,熊出没午夜后宫,quick_app,xbtnb,astrobox-resource-com-xbmn-midnightwatch,bc6fe12,media/74697.png,media/74887.jpg,生存恐怖;守夜;监控;生存策略,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10p;xmb11;xmb10nfc;xmb11nfc;xmb9;xmb9p;xmws4;xmws5,force_paid
