@@ -1,2 +1,0 @@
-id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-979811140101,地貌手册,watchface,jianding24,astrobox-resource-979811140101,a957a31,media/icon.png,media/astrobox-cover.jpg,表盘;地貌;自然;多主题;可编辑,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmb9p;xmb10p;xmws3;xmws4;xmws4xring;xmws441;xmws541;xmws5;xmrw5;xmrw5xring;xmrw6,force_paid
