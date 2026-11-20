@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.trae.mini,TRAE-AI学习助手,quick_app,oldboy377,oldboy20,ca1b81b,media/TRAE_icon_1024.png,media/TRAE_cover_1200x800.jpg,AI;学习助手;词典;聊天;工具,xiaomi,xmb9;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p,
