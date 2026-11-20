@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.bandbbs.vocab,环学记忆古诗单词,quick_app,t9588,astrobox-resource-com-bandbbs-vocab,fce2a4f,media/huanxue-icon.png,media/huanxue-cover-banner.png,学习;古诗;背单词,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
