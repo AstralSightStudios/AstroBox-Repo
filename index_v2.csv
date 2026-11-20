@@ -568,7 +568,6 @@ com.jpf.wrist.cloudtower,云端筑梦,quick_app,jip79078-hash,cloud-tower,01ee46
 com.jpf.wrist.swordforge,铸剑大师,quick_app,jip79078-hash,sword-master,1d2b856,media/icon.png,media/cover-v16.jpg,游戏;锻造;策略,xiaomi,xmrw5;xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmws3;xmws4;xmws441;xmws541;xmws5;xmws4xring;xmrw5xring,force_paid
 com.kjsjksjsjaiwjjw.video,米环相册,quick_app,33520276q-dotcom,astrobox-resource-com-kjsjksjsjaiwjjw-video,e40fbc8,media/icon_1794060854995.png,media/mi_album_cover_v14_1200x800.png,视频;相册;手表;手环;图片,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb9p;xmb10p;xmws3;xmws441;xmws4xring;xmws4;xmws541;xmws5,force_paid
 com.wristfeed.band,腕读,quick_app,Wildchiken,WristFeed_AstroBox_Release,1b2da7d,media/icon.png,media/cover.png,阅读;RSS;订阅;新闻;离线;免费,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
-com.wristnote.band,腕记,quick_app,Wildchiken,WristNote_AstroBox_Release,8a1edb4,media/icon.png,media/cover.png,实用工具;记事本;备忘录;笔记;输入法,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmrw5;xmrw6;xmws5,
 979866660001,神庙逃亡,watchface,jinmohan,TempleRun_AstroBox_release,6d1b928,media/templerunappicon.png,media/TemleRun_Preview.png,游戏;跑酷;神庙逃亡;体感游戏;原生应用;动作游戏;休闲娱乐;Temple Run;3D 游戏;经典游戏,xiaomi,xmb11;xmb11nfc;xmb10p,force_paid
 979818959791,镜音铃重力感应,watchface,jawnd,astrobox-resource-979818959791,15f2316,media/1ComfyUI_10841.png,media/cover.jpg,重量感应;镜音铃;表盘;二次元,xiaomi,xmb10p;xmb9p,
 979856982709,配重,watchface,jianding24,astrobox-resource-979856982709,e1632b0,media/icon.png,media/cover.jpg,几何;指针;自定义,xiaomi,xmb9p;xmb10p;xmb9;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb11;xmb11nfc,
@@ -587,3 +586,4 @@ recircle,重圆,res_pack,Alittlejelly,astrobox-resource-recircle,7cd0488,media/i
 979820627644,SnapUI-照片表盘,watchface,Hobjl-lian,astrobox-resource-979820627644,fb4f0ba,media/icons.png,media/Ab头图1.jpg,Hobjl;表盘;照片表盘;相册表盘;多样式,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmb11;xmb11nfc,force_paid
 979810071001,萌宠营地,watchface,jianding24,pet-squad-companion-astrobox-release,dd9091a,media/icon.png,media/cover.jpg,萌宠;免费;营地;日夜;息屏;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw6;xmb11;xmb11nfc,
 icu.ccicc.jslab,JSLab社区版,quick_app,cciccicu,JSLab_AstroBox_Release,9edd50b,logo.png,media/jslab-cover.jpg,JS;工具;游戏;脚本;引擎,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,
+com.wristnote.band,腕记,quick_app,Wildchiken,WristNote_AstroBox_Release,23351de,media/icon.png,media/cover.png,实用工具;记事本;备忘录;笔记;输入法,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmrw5;xmrw6;xmws5,
