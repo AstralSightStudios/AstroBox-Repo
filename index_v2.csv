@@ -507,7 +507,6 @@ com.ydnac.watch.run,熊大快跑,quick_app,sharpice6,astrobox-resource-com-ydnac
 com.ygame.dwct,动物餐馆,quick_app,sharpice6,astrobox-resource-com-ygame-dwct,20e1b00,media/logo.png,media/dw.png,动物餐厅;动物餐馆;模拟经营;餐厅,xiaomi,xmrw5;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 com.ydnac.applesnake,苹果蛇,quick_app,sharpice6,astrobox-resource-com-ydnac-applesnake,1b138f8,media/logo.png,media/pgs.png,苹果蛇;解谜;关卡,xiaomi,xmrw5;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4,force_paid
 979814087238,惊鸿,watchface,Hobjl-lian,astrobox-resource-979814087238,3d7b882,media/icon.png,media/cover.png,Hobjl;表盘;小米手环;模块;组件;多样式,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
-979832101860,耐克PRO,watchface,Hobjl-lian,astrobox-resource-979832101860,ceb0733,media/icon.png,media/cover.png,Hobjl;表盘;小米手环;运动;多样式,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 com.ydnac.watch.xcp,小丑牌,quick_app,sharpice6,astrobox-resource-com-ydnac-watch-xcp,2598bec,media/logo.png,media/xcp.png,小丑牌;卡牌;肉鸽;扑克牌,xiaomi,xmrw5;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 979885369669,腕上对战,watchface,henrrybyhao,astrobox-resource-979885369669,94c6ea5,media/腕上对战图标_200x200_透明.png,media/腕上对战_头图_1200x800_v10.png,五子棋;对战;联机;双人;蓝牙,xiaomi,xmrw6;xmb10;xmb10nfc;xmb9;xmb10p;xmb11;xmb11nfc;xmb9p,force_paid
 979845406698,光感液态,watchface,Hobjl-lian,astrobox-resource-979845406698,554f9f8,media/icon.png,media/cover.jpg,Hobjl;表盘;小米手环;液态玻璃;多样式,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
@@ -586,3 +585,4 @@ com.lhy.watch.supermario,超级马里奥,quick_app,xbtnb,astrobox-resource-com-l
 979865858967,SnapUI-照片表盘-样式2,watchface,Hobjl-lian,astrobox-resource-979865858967,0da4cc2,media/icons.png,media/Ab头图1.jpg,Hobjl;表盘;照片表盘;相册表盘;多样式,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmb11;xmb11nfc,force_paid
 979886109406,Flux Pro流转表盘,watchface,MineBabyBlue,FluxPro,99ed2d0,media/未标题-1.jpg,media/2比3.jpg,大数字;大字体;流转;苹果;息屏;AOD,xiaomi,xmrw6;xmb10;xmb9p;xmb10p;xmb11;xmb11nfc;xmb10nfc,force_paid
 com.migulu.katawa,片轮少女,quick_app,hdhdhdhdh1551,astrobox-resource-com-migulu-katawa,ff5a6ff,media/25413.png,media/25437.jpg,gal;快应用;游戏,xiaomi,xmb9p;xmb10p,
+979832101860,耐克PRO,watchface,Hobjl-lian,astrobox-resource-979832101860,b7bc322,media/icon.png,media/cover.png,Hobjl;表盘;小米手环;运动;多样式,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
