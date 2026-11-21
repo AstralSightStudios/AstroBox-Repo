@@ -577,7 +577,6 @@ com.migulu.katawa,片轮少女,quick_app,hdhdhdhdh1551,astrobox-resource-com-mig
 979822421721,随变,watchface,yamu81663-dot,astrobox-resource-979822421721,dff0ad1,media/表盘图标.png,media/无标题41_20261110180631.png,时钟变形;自定义壁纸;lua表盘,xiaomi,xmb10p;xmb9p;xmrw6,force_paid
 979815141180,双列视图,watchface,yamu81663-dot,astrobox-resource-979815141180,5521c87,media/13671.png,media/无标题62_20261116230743.png,原生应用;注入;表盘,xiaomi,xmb9;xmb10;xmb10nfc,force_paid
 979868498959,寻路者,watchface,t1t218,xunluzhe,0434f86,media/分组 40.png,media/容器 98.png,数据多功能;多样式;多配色,xiaomi,xmb10p,force_paid
-recircle,重圆,res_pack,Alittlejelly,astrobox-resource-recircle,7cd0488,media/icon.png,media/xuanfaTu.png,超椭圆;平滑圆角;200w;彩色图标;圆形图标,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
 979820627644,SnapUI-照片表盘,watchface,Hobjl-lian,astrobox-resource-979820627644,fb4f0ba,media/icons.png,media/Ab头图1.jpg,Hobjl;表盘;照片表盘;相册表盘;多样式,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmb11;xmb11nfc,force_paid
 979810071001,萌宠营地,watchface,jianding24,pet-squad-companion-astrobox-release,dd9091a,media/icon.png,media/cover.jpg,萌宠;免费;营地;日夜;息屏;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw6;xmb11;xmb11nfc,
 icu.ccicc.jslab,JSLab社区版,quick_app,cciccicu,JSLab_AstroBox_Release,9edd50b,logo.png,media/jslab-cover.jpg,JS;工具;游戏;脚本;引擎,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,
@@ -588,3 +587,4 @@ com.awu.watch.petbomber,萌宠泡泡堂,quick_app,jianding24,pet-bomber-astrobox
 com.bandbbs.ebook.plus,弦电子书,quick_app,youshen2,astrobox-resource-com-bandbbs-ebook-plus,aeb426d,media/icon.png,media/Frame 22_small.png,电子书;阅读;阅读器;小说;书籍,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmb11;xmb11nfc;xmws541,
 com.jpf.wrist.descend100,下100层,quick_app,jip79078-hash,descend100-astrobox,16f0a5a,media/icon.png,media/cover-illustrated-v1.jpg,游戏;休闲;躲避;重力感应;离线,xiaomi,xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9;xmrw5;xmrw6;xmws5,
 com.liang.xicalc,曦计算器,quick_app,LiangMengxi,Xian-Caculator,3340d57,media/icon.png,media/cover.png,计算器;小米Watch S5;多功能计算器,xiaomi,xmws5;xmws441;xmws4;xmws541,
+recircle,重圆,res_pack,Alittlejelly,astrobox-resource-recircle,a99bff9,media/icon.png,media/xuanfaTu.png,超椭圆;平滑圆角;200w;彩色图标;圆形图标,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
