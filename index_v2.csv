@@ -561,7 +561,6 @@ com.hazenotea.cardbox.watch,天空牌盒,quick_app,HazeNoTea,HNT_CardBox_vela,2c
 com.migulu.cafestella,星光咖啡馆和死神之蝶,quick_app,hdhdhdhdh1551,astrobox-resource-com-migulu-cafestella,bd3f8dc,media/24621.png,media/24697.jpg,galgame;游戏;快应用,xiaomi,xmb9p;xmb10p,
 com.smalljelly.news,随身新闻,quick_app,Nyx-233,astrobox-resource-pocketnews,d85d45f,media/95004.png,media/95016.png,新闻;热点;头条;报纸,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p,force_paid
 com.jpf.wrist.cloudtower,云端筑梦,quick_app,jip79078-hash,cloud-tower,01ee46e,media/icon.png,media/cover.jpg,游戏;休闲;叠楼,xiaomi,xmrw5;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
-com.jpf.wrist.swordforge,铸剑大师,quick_app,jip79078-hash,sword-master,1d2b856,media/icon.png,media/cover-v16.jpg,游戏;锻造;策略,xiaomi,xmrw5;xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmws3;xmws4;xmws441;xmws541;xmws5;xmws4xring;xmrw5xring,force_paid
 com.kjsjksjsjaiwjjw.video,米环相册,quick_app,33520276q-dotcom,astrobox-resource-com-kjsjksjsjaiwjjw-video,e40fbc8,media/icon_1794060854995.png,media/mi_album_cover_v14_1200x800.png,视频;相册;手表;手环;图片,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb9p;xmb10p;xmws3;xmws441;xmws4xring;xmws4;xmws541;xmws5,force_paid
 com.wristfeed.band,腕读,quick_app,Wildchiken,WristFeed_AstroBox_Release,1b2da7d,media/icon.png,media/cover.png,阅读;RSS;订阅;新闻;离线;免费,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
 979866660001,神庙逃亡,watchface,jinmohan,TempleRun_AstroBox_release,6d1b928,media/templerunappicon.png,media/TemleRun_Preview.png,游戏;跑酷;神庙逃亡;体感游戏;原生应用;动作游戏;休闲娱乐;Temple Run;3D 游戏;经典游戏,xiaomi,xmb11;xmb11nfc;xmb10p,force_paid
@@ -588,3 +587,4 @@ com.bandbbs.ebook.plus,弦电子书,quick_app,youshen2,astrobox-resource-com-ban
 com.jpf.wrist.descend100,下100层,quick_app,jip79078-hash,descend100-astrobox,16f0a5a,media/icon.png,media/cover-illustrated-v1.jpg,游戏;休闲;躲避;重力感应;离线,xiaomi,xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9;xmrw5;xmrw6;xmws5,
 com.liang.xicalc,曦计算器,quick_app,LiangMengxi,Xian-Caculator,3340d57,media/icon.png,media/cover.png,计算器;小米Watch S5;多功能计算器,xiaomi,xmws5;xmws441;xmws4;xmws541,
 recircle,重圆,res_pack,Alittlejelly,astrobox-resource-recircle,a99bff9,media/icon.png,media/xuanfaTu.png,超椭圆;平滑圆角;200w;彩色图标;圆形图标,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
+com.jpf.wrist.swordforge,铸剑大师,quick_app,jip79078-hash,sword-master,a0a9e1a,media/icon.png,media/cover-v16.jpg,游戏;锻造;策略,xiaomi,xmrw5;xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmws3;xmws4;xmws441;xmws541;xmws5;xmws4xring;xmrw5xring,force_paid
