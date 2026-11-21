@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+cn.thtd.container.auction,集装箱竞拍,quick_app,flcslwa,astrobox-resource-cn-thtd-container-auction,107d48b,media/icon_192x192.png,media/container_auction_cover_v2_1200x800.png,竞拍;运气;盲盒,xiaomi,xmb10;xmb11;xmb9;xmb11nfc;xmb10nfc,force_paid
