@@ -555,7 +555,6 @@ com.lkjhg.bandbox,BandBox,quick_app,lkjhg10576,MiBandBox,6b6259c,media/icon_astr
 com.hazenotea.ashenoath.watch,灰烬誓约,quick_app,HazeNoTea,HNT_AshenOath_vela,909ff02,media/高清LOGO.png,media/封面.png,世界;探索;RPG;战斗;收集;锻造,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmws4xring;xmws4;xmws441,force_paid
 com.jpf.wrist.speedracer,极速飞车,quick_app,jip79078-hash,speed-racer-astrobox,ddd8a4c,media/icon.png,media/cover-cartoon-long.jpg,游戏;赛车;漂移;重力感应;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb11;xmb9;xmrw5;xmb10nfc;xmb11nfc,
 com.hazenotea.cardbox.watch,天空牌盒,quick_app,HazeNoTea,HNT_CardBox_vela,2c58820,media/logo256.png,media/大图.png,卡牌;策略;对战;斗地主;蜘蛛纸牌;UNO;骗子酒馆;三国杀,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4xring;xmws441;xmws4,
-com.migulu.cafestella,星光咖啡馆和死神之蝶,quick_app,hdhdhdhdh1551,astrobox-resource-com-migulu-cafestella,bd3f8dc,media/24621.png,media/24697.jpg,galgame;游戏;快应用,xiaomi,xmb9p;xmb10p,
 com.smalljelly.news,随身新闻,quick_app,Nyx-233,astrobox-resource-pocketnews,d85d45f,media/95004.png,media/95016.png,新闻;热点;头条;报纸,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p,force_paid
 com.jpf.wrist.cloudtower,云端筑梦,quick_app,jip79078-hash,cloud-tower,01ee46e,media/icon.png,media/cover.jpg,游戏;休闲;叠楼,xiaomi,xmrw5;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
 com.kjsjksjsjaiwjjw.video,米环相册,quick_app,33520276q-dotcom,astrobox-resource-com-kjsjksjsjaiwjjw-video,e40fbc8,media/icon_1794060854995.png,media/mi_album_cover_v14_1200x800.png,视频;相册;手表;手环;图片,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb9p;xmb10p;xmws3;xmws441;xmws4xring;xmws4;xmws541;xmws5,force_paid
@@ -590,3 +589,4 @@ com.skillman.sgs,三国杀,quick_app,QiYongWu,astrobox-resource-com-skillman-sgs
 979876108505,手势控制,watchface,Eternalovenn,astrobox-resource-979876108505,1460536,media/1000095990.png,media/1000096002.jpg,模块;优化;10pro;控制,xiaomi,xmb10p,force_paid
 com.k1al.phrasetrans,环间短语,quick_app,Weal445,duanyu,59732d2,media/13615.jpg,media/13720.jpg,英语;短语;翻译;词典,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 com.migulu.katawa,片轮少女,quick_app,hdhdhdhdh1551,astrobox-resource-com-migulu-katawa,6f0e589,media/25413.png,media/25437.jpg,gal;快应用;游戏,xiaomi,xmb9p;xmb10p;xmws3;xmws4;xmws5;xmb9;xmb11;xmb10;xmb10nfc;xmb11nfc,
+com.migulu.cafestella,星光咖啡馆和死神之蝶,quick_app,hdhdhdhdh1551,astrobox-resource-com-migulu-cafestella,6992f8b,media/24621.png,media/24697.jpg,galgame;游戏;快应用,xiaomi,xmb9p;xmb10p;xmws5;xmws3;xmb10;xmb9;xmb10nfc;xmb11;xmb11nfc;xmws4,
