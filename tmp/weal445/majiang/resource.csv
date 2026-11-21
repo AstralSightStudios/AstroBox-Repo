@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.example.wristmahjong.square,腕上麻将,quick_app,Weal445,majiang,c398854,media/13729.png,media/13721.png,麻将;棋牌;娱乐,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9,force_paid
