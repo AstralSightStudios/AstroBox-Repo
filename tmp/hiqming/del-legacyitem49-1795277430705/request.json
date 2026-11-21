@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "delete",
+  "original_id": "LegacyItem49",
+  "base_entry_digest": "7b02190efc77de83bafcd0715f5d0bf45e8c9bc0c8dfd1f64b1c5c5063929d16",
+  "base_catalog_commit": "d91a7ec0b2de88e44e51dd6bf2e600f7057c3d75",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:11:02.415222700+08:00",
+    "build_user": "runneradmin"
+  }
+}
