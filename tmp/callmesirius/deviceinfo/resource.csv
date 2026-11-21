@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.wangmoxuan.deviceinfo,设备信息,quick_app,CallmeSirius,Deviceinfo,1f33b29,media/1000040040.png,media/1000040041.png,信息;手环;防丢失,xiaomi,xmb11;xmb11nfc,
+com.wangmoxuan.deviceinfo,设备信息,quick_app,CallmeSirius,Deviceinfo,aa3f327,media/1000040040.png,media/1000040067.png,信息;手环;防丢失,xiaomi,xmb11;xmb11nfc,
