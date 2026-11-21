@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.zzh.glassnotes",
+  "base_entry_digest": "f33fe942347e2db251af7f9331b1bb61bb7c6fbca648245a46bc00fee65305ae",
+  "base_catalog_commit": "62d45c71e74daae2a74f280380581f0cd8dff8ef",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:11:02.415222700+08:00",
+    "build_user": "runneradmin"
+  }
+}
