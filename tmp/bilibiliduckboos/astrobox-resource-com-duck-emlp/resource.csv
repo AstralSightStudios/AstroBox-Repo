@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.duck.emlp,恶魔轮盘,quick_app,BiliBiliDuckBoos,astrobox-resource-com-duck-emlp,70c0fc7,media/1000224275.png,media/1000224343.png,小游戏;恶魔轮盘;多人;双人;游戏,xiaomi,xmb11;xmb11nfc;xmb10;xmb10nfc,force_paid
