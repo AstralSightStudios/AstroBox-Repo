@@ -507,7 +507,6 @@ com.ydnac.watch.xcp,小丑牌,quick_app,sharpice6,astrobox-resource-com-ydnac-wa
 979845406698,光感液态,watchface,Hobjl-lian,astrobox-resource-979845406698,554f9f8,media/icon.png,media/cover.jpg,Hobjl;表盘;小米手环;液态玻璃;多样式,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 979842034288,光感液态（样式2）,watchface,Hobjl-lian,astrobox-resource-979842034288,11764be,media/icon.png,media/cover.jpg,Hobjl;表盘;小米手环;液态玻璃;多样式,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 979843059080,OS27模块表盘,watchface,Hobjl-lian,astrobox-resource-979843059080,d9d993a,media/Frame 16.png,media/Ab头图1.png,Hobjl;表盘;照片表盘;相册表盘,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p,force_paid
-com.naoh.chemistryhelper,化学易,quick_app,CHEN-EXE,astrobox-resource-com-naoh-chemistryhelper,4b9f4ad,media/icon.png,media/mastergo_vela.png,化学;学习工具;小米手环9Pro;小米手环10Pro;红米手表5;红米手表6;化学易;免费,xiaomi,xmrw5;xmrw6;xmb10p;xmb9p,
 org.bandmetronome.app,手环节拍器,quick_app,kyn0v,astrobox-xiaomi-band-metronome,0587d3b,media/icon.png,media/cover.png,音乐;节拍器;实用工具;免费,xiaomi,xmb9p;xmb10p;xmrw6,
 com.hachimi.watch.thatsnotmyneighbor,那不是我的邻居,quick_app,XuebaoHachimi,astrobox-resource-com-hachimi-watch-thatsnotmyneighbor,d37eb90,media/icon-round.png,media/tnmn-cover-3x2-v2.jpg,游戏;悬疑;推理;伪人;娱乐,xiaomi,xmrw5;xmrw6;xmb10;xmb10p;xmb11;xmb9p;xmb9;xmrw5xring,paid
 com.h.mrck,名人重开,quick_app,henrrybyhao,astrobox-resource-com-h-mrck,90f7c8f,media/名人重开_应用图标_100x100.png,media/名人重开_头图_1200x800.jpg,人生;重开;人生重开;名人重开;人生重开模拟器;模拟器,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
@@ -588,3 +587,4 @@ recircle,重圆,res_pack,Alittlejelly,astrobox-resource-recircle,7cd0488,media/i
 icu.ccicc.jslab,JSLab社区版,quick_app,cciccicu,JSLab_AstroBox_Release,9edd50b,logo.png,media/jslab-cover.jpg,JS;工具;游戏;脚本;引擎,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,
 979837545041,DOOM LAUNCHER,watchface,IRKBI,doom-launcher,c6ed5dc,media/icon.png,media/IMG_20261120_190504.png,doom;游戏;原生;付费,xiaomi,xmb10p,force_paid
 com.wristnote.band,腕记,quick_app,Wildchiken,WristNote_AstroBox_Release,902a494,media/icon.png,media/cover.png,实用工具;记事本;备忘录;笔记;输入法,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmrw5;xmrw6;xmws5,
+com.naoh.chemistryhelper,化学易,quick_app,CHEN-EXE,astrobox-resource-com-naoh-chemistryhelper,bad8fab,media/icon.png,media/mastergo_vela.png,化学;学习工具;小米手环9Pro;小米手环10Pro;红米手表5;红米手表6;化学易;免费,xiaomi,xmrw5;xmrw6;xmb10p;xmb9p,
