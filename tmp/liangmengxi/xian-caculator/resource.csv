@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.liang.xicalc,曦计算器,quick_app,LiangMengxi,Xian-Caculator,3340d57,media/icon.png,media/cover.png,计算器;小米Watch S5;多功能计算器,xiaomi,xmws5;xmws441;xmws4;xmws541,
