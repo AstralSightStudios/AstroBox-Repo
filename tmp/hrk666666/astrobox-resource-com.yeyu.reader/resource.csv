@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.yeyu.reader,阅屿电子书,quick_app,hrk666666,astrobox-resource-com.yeyu.reader,8496407870,media/icon.webp,media/cover.webp,电子书;阅读;小说;实用工具;开源,xiaomi,xmws5;xmb10;xmb10nfc;xmws3;xmws4;xmws4xring;xmws441;xmb10p;xmb9;xmb9p;xmrw5;xmrw5xring;xmrw6,
