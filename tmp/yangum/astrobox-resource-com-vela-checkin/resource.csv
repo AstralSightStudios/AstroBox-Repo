@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.vela.checkin,打卡程序,quick_app,yangum,astrobox-resource-com-vela-checkin,a6dfbe8,media/logo.png,media/cover-3x2.png,快应用;逐步开发;打卡,xiaomi,xmb10p,
