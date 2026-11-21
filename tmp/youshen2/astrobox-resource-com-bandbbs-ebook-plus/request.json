@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.bandbbs.ebook.plus",
+  "base_entry_digest": "55a1b53552a76dd650ae0b30a4f8e838b596ef99b4c2914b755cdc0e3c94a30d",
+  "base_catalog_commit": "e6e6297fc3ff88b52fde5bb2574d3ca3109d22e8",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "8abdb0c",
+    "build_time": "2026-11-17T23:19:35.176343+08:00",
+    "build_user": "runner"
+  }
+}
