@@ -575,7 +575,6 @@ com.lhy.watch.supermario,超级马里奥,quick_app,xbtnb,astrobox-resource-com-l
 com.migulu.katawa,片轮少女,quick_app,hdhdhdhdh1551,astrobox-resource-com-migulu-katawa,ff5a6ff,media/25413.png,media/25437.jpg,gal;快应用;游戏,xiaomi,xmb9p;xmb10p,
 979832101860,耐克PRO,watchface,Hobjl-lian,astrobox-resource-979832101860,b7bc322,media/icon.png,media/cover.png,Hobjl;表盘;小米手环;运动;多样式,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,force_paid
 979822421721,随变,watchface,yamu81663-dot,astrobox-resource-979822421721,dff0ad1,media/表盘图标.png,media/无标题41_20261110180631.png,时钟变形;自定义壁纸;lua表盘,xiaomi,xmb10p;xmb9p;xmrw6,force_paid
-com.liang.xicalc,曦计算器,quick_app,LiangMengxi,Xian-Caculator,f0d6adc,media/icon.png,media/cover.png,计算器;小米Watch S5;多功能计算器,xiaomi,xmws5,
 979815141180,双列视图,watchface,yamu81663-dot,astrobox-resource-979815141180,5521c87,media/13671.png,media/无标题62_20261116230743.png,原生应用;注入;表盘,xiaomi,xmb9;xmb10;xmb10nfc,force_paid
 979868498959,寻路者,watchface,t1t218,xunluzhe,0434f86,media/分组 40.png,media/容器 98.png,数据多功能;多样式;多配色,xiaomi,xmb10p,force_paid
 recircle,重圆,res_pack,Alittlejelly,astrobox-resource-recircle,7cd0488,media/icon.png,media/xuanfaTu.png,超椭圆;平滑圆角;200w;彩色图标;圆形图标,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
@@ -588,3 +587,4 @@ com.naoh.chemistryhelper,化学易,quick_app,CHEN-EXE,astrobox-resource-com-naoh
 com.awu.watch.petbomber,萌宠泡泡堂,quick_app,jianding24,pet-bomber-astrobox-release,e3024b4,media/icon.png,media/cover.jpg,萌宠;休闲;泡泡堂;闯关;电脑对战;随机远征;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmrw5;xmrw6,force_paid
 com.bandbbs.ebook.plus,弦电子书,quick_app,youshen2,astrobox-resource-com-bandbbs-ebook-plus,aeb426d,media/icon.png,media/Frame 22_small.png,电子书;阅读;阅读器;小说;书籍,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmb11;xmb11nfc;xmws541,
 com.jpf.wrist.descend100,下100层,quick_app,jip79078-hash,descend100-astrobox,16f0a5a,media/icon.png,media/cover-illustrated-v1.jpg,游戏;休闲;躲避;重力感应;离线,xiaomi,xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9;xmrw5;xmrw6;xmws5,
+com.liang.xicalc,曦计算器,quick_app,LiangMengxi,Xian-Caculator,3340d57,media/icon.png,media/cover.png,计算器;小米Watch S5;多功能计算器,xiaomi,xmws5;xmws441;xmws4;xmws541,
