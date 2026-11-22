@@ -71,7 +71,6 @@ com.charlie.muyuPro,木鱼Pro,quick_app,wuhaiqi0621,muyuPro_ForAstroBox,83266a4,
 cn.waijade.okschoollife,OK School Life,quick_app,CheongSzesuen,OKSchoolLife_AstroBox_Release,870c217,icon.png,head%401x.png,游戏;文字游戏;移植;校园模拟;学校;校园,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,
 com.azumachiaki.block_life,方块生活,quick_app,Azumachiaki,block_life,a8d5d34,icon.png,cover.png,游戏;开放世界;沙盒游戏,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
 com.azumachiaki.fading_star,残星,quick_app,Azumachiaki,Fading_Star,2ddb659,icon.png,cover.png,游戏;回合制;剧情游戏,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
-com.Furina.Dreamqiu.cn,腕上芙宁娜Pro,quick_app,Dreamqiucn,Furina_of_band_PRO,9007c9f,logo.png,preview1.png,游戏;养成;战斗;原神;付费,xiaomi,xmb9;xmb9p;xmb10nfc;xmb10;xmrw5;xmrw5xring,force_paid
 com.Dreamqiu.feelingdiary,心情日记,quick_app,Dreamqiucn,feelingdiary-Astrobox,8d37111,logo.png,preview1.png,实用工具;日记;软件;免费,xiaomi,xmb9p,
 com.Dreamqiu.poem,高中古诗词,quick_app,Dreamqiucn,poem-Astrobox,cead934,logo.png,preview1.png,实用工具;软件;高中;学习工具;古诗;免费,xiaomi,xmb9p,
 cn.waijade.Isotope.2048,同位素2048,quick_app,CheongSzesuen,Isotope2048_AstroBox_Release,a0c6769,logo.png,Isotope2048.png,2048;游戏;化学;科学;趣味;二改,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p,
@@ -598,3 +597,4 @@ io.github.o_o1112.bandbrowser,流沙浏览器,quick_app,O-O1112,astrobox-resourc
 com.lhy.watch.supermario,超级马里奥,quick_app,xbtnb,astrobox-resource-com-lhy-watch-supermario,e43e962,media/74829.png,media/74886.jpg,像素;平台跳跃;闯关;复古,xiaomi,xmrw5;xmrw6;xmb10;xmrw5xring;xmb10p;xmb10nfc;xmb11nfc;xmb11;xmb9;xmb9p;xmws4;xmws5,force_paid
 com.pkr.handheld,宝可梦肉鸽,quick_app,play3yy,bkmygv1.2,c31703f,media/61319.png,media/61292.jpg,快应用;宝可梦;宝可梦肉鸽;小米手环9Pro;离线;像素;fixed;小米手环10pro,xiaomi,xmb9p;xmb10p,
 com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,914fccb,media/show_icon.png,media/cover-1.png,课程表;悬浮tab;简约课表,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc;xmrw5;xmrw6;xmrw5xring;xmb9;xmb9p,
+com.Furina.Dreamqiu.cn,腕上芙宁娜Pro,quick_app,Dreamqiucn,Furina_of_band_PRO,6d37eb2,logo.png,media/OSL (1).png,游戏;养成;战斗;原神;付费,xiaomi,xmrw5xring;xmb9p;xmb9;xmb10;xmb10nfc;xmrw5;xmrw6;xmb10p;xmb11nfc;xmb11,force_paid
