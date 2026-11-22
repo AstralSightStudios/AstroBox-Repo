@@ -519,7 +519,6 @@ com.doom.wadloader,DOOM WAD LOADER,quick_app,IRKBI,astrobox-resource-com-doom-wa
 979816956515,隐藏应用列表,watchface,Sakurakilove,astrobox-resource-979816956515,5a4d200,media/28691.png,media/28717.jpg,快应用;隐藏;管理;应用;列表;米环;米表,xiaomi,xmrw6,force_paid
 979806059446,晨昏序 － 腕上天文观测表盘,watchface,auberdominique23-hash,Chenhunxu-fix2,e3d27ec,media/1000019718.png,media/1000013033.png,原创;时间感知;日光,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.irkbi.hell.vela,HELL,quick_app,IRKBI,astrobox-resource-com-irkbi-hell-vela,d444a93,media/1001002278.png,media/IMG_20261113_131450.png,恐怖;玩具熊的五夜后宫4;免费;惊悚;<__NSFW__>,xiaomi,xmb9p;xmb10p;xmrw6,
-cn.amakanotwo.qihe,甜蜜女友 2,quick_app,qihe114514,astrobox-resource-cn-amakanotwo-qihe,2d347bd,media/icon.png,media/头头图.jpg,gal;游戏;galgame;<__NSFW__>,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws5;xmws4;xmws4xring;xmws441;xmws3;xmb9;xmb9p;xmb10p;xmb10nfc;xmb10;xmb11nfc;xmb11;xmws541,force_paid
 com.facephotos.quickapp,随变壁纸,quick_app,yamu81663-dot,astrobox-resource-com-facephotos-quickapp,f89a059,media/壁纸库图标.png,media/无标题41_20261110003023.png,壁纸;快应用;图片,xiaomi,xmb10p;xmb9p;xmrw6,
 com.zzh.glasscalc,流沙计算器,quick_app,Augus-robot,astrobox-resource-com-zzh-glasscalc,864783a,media/上架图标_1x1_1024.png,media/上架封面_3x2_1920x1280.png,工具;计算器;优化;系统,xiaomi,xmb10p;xmb9p,
 com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox,4c5da86,media/容器 14 (2).png,media/幻灯片 4_3 - 2.png,小米手环9Pro;课程表;BandClass;倒计时;小米手环10Pro;红米手表5;红米手表6,xiaomi,xmrw5;xmrw6;xmb10p;xmb9p,
@@ -593,3 +592,4 @@ com.xbstudio.arespreview,阿瑞斯病毒,quick_app,xbtnb,astrobox-resource-com-x
 cn.ouo.qihe,OuO,quick_app,qihe114514,astrobox-resource-cn-ouo-qihe,e89df12,media/icon.png,media/幻灯片1.PNG,桌宠;游戏;OuO;可爱;表情;互动;触摸;横屏;多设备,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
 com.wristnote.band,腕记,quick_app,Wildchiken,WristNote_AstroBox_Release,1141373,media/icon.png,media/cover.png,实用工具;记事本;备忘录;笔记;输入法,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmrw5;xmrw6;xmws5,
 io.github.o_o1112.cosmicmerge,星际碰碰,quick_app,O-O1112,astrobox-resource-com-band-cosmicmerge,e4f8bad,media/logo.png,media/astrobox_cover.png,游戏;物理合成;休闲;小米手环9Pro,xiaomi,xmb9p,
+cn.amakanotwo.qihe,甜蜜女友 2,quick_app,qihe114514,astrobox-resource-cn-amakanotwo-qihe,aaef8f8,media/icon.png,media/头头图.jpg,gal;游戏;galgame;<__NSFW__>,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws5;xmws4;xmws4xring;xmws441;xmws3;xmb9;xmb9p;xmb10p;xmb10nfc;xmb10;xmb11nfc;xmb11;xmws541,force_paid
