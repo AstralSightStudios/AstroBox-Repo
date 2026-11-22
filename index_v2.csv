@@ -517,7 +517,6 @@ com.irkbi.hell.vela,HELL,quick_app,IRKBI,astrobox-resource-com-irkbi-hell-vela,d
 com.facephotos.quickapp,随变壁纸,quick_app,yamu81663-dot,astrobox-resource-com-facephotos-quickapp,f89a059,media/壁纸库图标.png,media/无标题41_20261110003023.png,壁纸;快应用;图片,xiaomi,xmb10p;xmb9p;xmrw6,
 com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox,4c5da86,media/容器 14 (2).png,media/幻灯片 4_3 - 2.png,小米手环9Pro;课程表;BandClass;倒计时;小米手环10Pro;红米手表5;红米手表6,xiaomi,xmrw5;xmrw6;xmb10p;xmb9p,
 com.txcnstudio.todo,Tickit — 腕间智能清单,quick_app,txcn727-coder,astrobox-resource-com-txcnstudio-todo,0034d78,media/容器 15.png,media/1000007250.jpg,云端;联网;todo;清单;免费;小米手表,xiaomi,xmb10p;xmb9p;xmws4xring;xmws441;xmws4;xmws541;xmws5,
-com.pkr.handheld,宝可梦肉鸽,quick_app,play3yy,bkmygv1.2,21102c6,media/61319.png,media/61292.jpg,快应用;宝可梦;宝可梦肉鸽;小米手环9Pro;离线;像素;fixed;小米手环10pro,xiaomi,xmb9p;xmb10p,
 cat.mario.vela,喵哩奥,quick_app,jes-benjamin,cat.mario.vela,63e769a,media/29905.jpg,media/26294.jpg,小游戏;游戏;猫,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5;xmb10p;xmb9p,
 979868320254,WavAudio,watchface,DDlhy,astrobox-resource-979868320254,ead41ee,media/logo.png,media/download.jpg,音乐;播放;表盘,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 com.hazenotea.richman.watch,环球大富翁,quick_app,HazeNoTea,HNT_RichMan_vela,ec27587,media/方logo.png,media/封面.png,大富翁;益智;策略;桌游,xiaomi,xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4xring;xmws441;xmws4,
@@ -598,3 +597,4 @@ com.hi.watch.xuexi,学习盒子-初中版,quick_app,Hiqming,astrobox-resource-co
 979840904601,我的世界,watchface,andros92,astrobox-resource-minecraft-native,238571f,media/icon.png,media/cover.png,游戏;3D;我的世界,xiaomi,xmb10p;xmb9p;xmb9,force_paid
 io.github.o_o1112.bandbrowser,流沙浏览器,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-bandbrowser,e5feb07,media/logo.png,media/astrobox_cover.png,浏览器;实用工具;网页阅读;小米手环9Pro;无源流沙,xiaomi,xmb9p,
 com.lhy.watch.supermario,超级马里奥,quick_app,xbtnb,astrobox-resource-com-lhy-watch-supermario,e43e962,media/74829.png,media/74886.jpg,像素;平台跳跃;闯关;复古,xiaomi,xmrw5;xmrw6;xmb10;xmrw5xring;xmb10p;xmb10nfc;xmb11nfc;xmb11;xmb9;xmb9p;xmws4;xmws5,force_paid
+com.pkr.handheld,宝可梦肉鸽,quick_app,play3yy,bkmygv1.2,c31703f,media/61319.png,media/61292.jpg,快应用;宝可梦;宝可梦肉鸽;小米手环9Pro;离线;像素;fixed;小米手环10pro,xiaomi,xmb9p;xmb10p,
