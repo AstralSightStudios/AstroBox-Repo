@@ -4,5 +4,10 @@
   "original_id": "com.schedule.vela",
   "base_entry_digest": "6e6b543a425574f794567bedb9b8570ef3a9afe1080fe6905a6d57a90b73cad9",
   "base_catalog_commit": "62d45c71e74daae2a74f280380581f0cd8dff8ef",
-  "client": null
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "8abdb0c",
+    "build_time": "2026-11-17T23:19:49.646699600+08:00",
+    "build_user": "runneradmin"
+  }
 }
