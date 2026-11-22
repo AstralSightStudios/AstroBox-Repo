@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.vela.qrpay,收款码,quick_app,FIB-Wyx,qrpay-app,fcad573,icon.png,cover.png,微信支付;收款码;工具,xiaomi,xmrw6,
