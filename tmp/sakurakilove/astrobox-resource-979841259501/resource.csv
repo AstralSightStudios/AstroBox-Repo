@@ -1,2 +1,2 @@
 id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-979841259501,纸间晨光相册表盘,watchface,Sakurakilove,astrobox-resource-979841259501,2f08c01,media/29090.png,media/29092.webp,相册;表盘;自定义;图片;相册表盘;自由,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,force_paid
+979841259501,纸间晨光相册表盘,watchface,Sakurakilove,astrobox-resource-979841259501,0807de6,media/29090.png,media/29117.jpg,相册;表盘;自定义;图片;相册表盘;自由,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,force_paid
