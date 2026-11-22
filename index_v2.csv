@@ -442,7 +442,6 @@ com.lightland.velaai,VelaAI,quick_app,light-land,velaai,30b196c,media/139116.png
 979896110313,MATERIAL SHAPES,watchface,DevonStee,astrobox-resource-979896110313,2178352,media/01-图标-1比1.png,media/02-封面-3比2-三机.webp,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;Material Design;贴纸;蓝色;粉色;大数字;步数;可编辑快捷键;AOD,xiaomi,xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,
 979842166669,MD EDGE ROLL,watchface,DevonStee,astrobox-resource-979842166669,aaecbb9,media/01-图标-1比1.png,media/02-封面-3比2-三机.webp,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;Material Design;滚动;边框;粉色;紫色;青色;大数字;AOD,xiaomi,xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,
 com.ppyycc.dict,DICT英汉词典,quick_app,ppyycc-ppc,vela_astrobox_DICT_bandpro_branch,cf594c3,media/icon.png,media/cover.png,英文;学习;词典,xiaomi,xmb10p;xmb9p,
-com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,3e23e70,media/show_icon.png,media/cover-1.png,课程表;悬浮tab;简约课表,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc;xmrw5;xmrw6;xmrw5xring;xmb9;xmb9p,
 com.jump.tfdc,跳一跳,quick_app,0233-wu,astrobox-resource-com-jump-tfdc,3c3d828,media/logo.png,media/页面 1.png,游戏;跳一跳;免费,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10nfc;xmb10;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
 com.goldminer.tfdc,黄金矿工,quick_app,0233-wu,astrobox-resource-com-goldminer-tfdc,c0af2e3,media/logo.png,media/页面 1 (1).png,游戏;免费;黄金矿工;益智,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p,
 com.fishworld.match3.tfdc,开心消除,quick_app,0233-wu,xc1,1b1991f,media/logo.png,media/画板 1.png,游戏;消除;益智,xiaomi,xmb10p;xmb9p,force_paid
@@ -598,3 +597,4 @@ com.hi.watch.xuexi,学习盒子-初中版,quick_app,Hiqming,astrobox-resource-co
 io.github.o_o1112.bandbrowser,流沙浏览器,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-bandbrowser,e5feb07,media/logo.png,media/astrobox_cover.png,浏览器;实用工具;网页阅读;小米手环9Pro;无源流沙,xiaomi,xmb9p,
 com.lhy.watch.supermario,超级马里奥,quick_app,xbtnb,astrobox-resource-com-lhy-watch-supermario,e43e962,media/74829.png,media/74886.jpg,像素;平台跳跃;闯关;复古,xiaomi,xmrw5;xmrw6;xmb10;xmrw5xring;xmb10p;xmb10nfc;xmb11nfc;xmb11;xmb9;xmb9p;xmws4;xmws5,force_paid
 com.pkr.handheld,宝可梦肉鸽,quick_app,play3yy,bkmygv1.2,c31703f,media/61319.png,media/61292.jpg,快应用;宝可梦;宝可梦肉鸽;小米手环9Pro;离线;像素;fixed;小米手环10pro,xiaomi,xmb9p;xmb10p,
+com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,914fccb,media/show_icon.png,media/cover-1.png,课程表;悬浮tab;简约课表,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc;xmrw5;xmrw6;xmrw5xring;xmb9;xmb9p,
