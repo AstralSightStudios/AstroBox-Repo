@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.openblack.map,腕上地图,quick_app,dm1366631,astrobox-resource-com-openblack-maps,039f395,media/logo.png,media/header_wanshang_ditu_1200x800_paid.png,地图;离线地图;导航;骑行;徒步;工具,xiaomi,xmb10p,force_paid
