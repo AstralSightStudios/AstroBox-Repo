@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.hi.watch.xuexi,学习盒子-初中版,quick_app,Hiqming,astrobox-resource-com-hi-watch-xuexi,95e20b5,media/logo.png,media/retouch_2026112210470719.jpg,学习;工具;初中;学习工具;学生,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
