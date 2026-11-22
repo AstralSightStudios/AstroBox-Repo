@@ -565,7 +565,6 @@ com.lhy.watch.supermario,超级马里奥,quick_app,xbtnb,astrobox-resource-com-l
 979810071001,萌宠营地,watchface,jianding24,pet-squad-companion-astrobox-release,dd9091a,media/icon.png,media/cover.jpg,萌宠;免费;营地;日夜;息屏;应用联动,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmrw6;xmb11;xmb11nfc,
 icu.ccicc.jslab,JSLab社区版,quick_app,cciccicu,JSLab_AstroBox_Release,9edd50b,logo.png,media/jslab-cover.jpg,JS;工具;游戏;脚本;引擎,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6,
 979837545041,DOOM LAUNCHER,watchface,IRKBI,doom-launcher,c6ed5dc,media/icon.png,media/IMG_20261120_190504.png,doom;游戏;原生;付费,xiaomi,xmb10p,force_paid
-com.wristnote.band,腕记,quick_app,Wildchiken,WristNote_AstroBox_Release,902a494,media/icon.png,media/cover.png,实用工具;记事本;备忘录;笔记;输入法,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmrw5;xmrw6;xmws5,
 com.naoh.chemistryhelper,化学易,quick_app,CHEN-EXE,astrobox-resource-com-naoh-chemistryhelper,bad8fab,media/icon.png,media/mastergo_vela.png,化学;学习工具;小米手环9Pro;小米手环10Pro;红米手表5;红米手表6;化学易;免费,xiaomi,xmrw5;xmrw6;xmb10p;xmb9p,
 com.awu.watch.petbomber,萌宠泡泡堂,quick_app,jianding24,pet-bomber-astrobox-release,e3024b4,media/icon.png,media/cover.jpg,萌宠;休闲;泡泡堂;闯关;电脑对战;随机远征;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmrw5;xmrw6,force_paid
 com.bandbbs.ebook.plus,弦电子书,quick_app,youshen2,astrobox-resource-com-bandbbs-ebook-plus,aeb426d,media/icon.png,media/Frame 22_small.png,电子书;阅读;阅读器;小说;书籍,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmb11;xmb11nfc;xmws541,
@@ -592,3 +591,4 @@ com.taskschd.dfwatch,三角洲行动,quick_app,taskschd1145,astrobox-resource-co
 icu.sxm2027.endfield,环上终末地,quick_app,SXM081115,astrobox-resource-icu-sxm2027-endfield,766e8dc,media/logo.png,media/coverend_last.png,终末地;陈千语;诀;明河,xiaomi,xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6;xmws441;xmws4xring;xmws4;xmws541;xmws5,force_paid
 com.xbstudio.arespreview,阿瑞斯病毒,quick_app,xbtnb,astrobox-resource-com-xbstudio-arespreview,5ae0b5a,media/75055.png,media/75213.jpg,生存;剧情;解谜,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4;xmws5,force_paid
 cn.ouo.qihe,OuO,quick_app,qihe114514,astrobox-resource-cn-ouo-qihe,e89df12,media/icon.png,media/幻灯片1.PNG,桌宠;游戏;OuO;可爱;表情;互动;触摸;横屏;多设备,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
+com.wristnote.band,腕记,quick_app,Wildchiken,WristNote_AstroBox_Release,1141373,media/icon.png,media/cover.png,实用工具;记事本;备忘录;笔记;输入法,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmrw5;xmrw6;xmws5,
