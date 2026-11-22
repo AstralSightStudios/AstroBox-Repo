@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "minecraft-native",
+  "base_entry_digest": "06f548fb4e53e2fc9a97f3b356897df76a1d9bbacaa4d06051971ac7b54be381",
+  "base_catalog_commit": "ca5eb8678668f65746b71ff965c745282899bba1",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:09:47.783185481+08:00",
+    "build_user": "runner"
+  }
+}
