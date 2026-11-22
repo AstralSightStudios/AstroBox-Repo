@@ -67,8 +67,6 @@ Eclipse 星语会跟着聊天内容，在后台自动为会话命名：第一条
 
 顶部标题栏会先短暂显示“已自动命名”，再切换成新名称。整个过程静默完成，不打断对话，聊天记录里也不会多出一条无用内容。
 
-![会话被自动命名为「日常问候」](https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/eclipse/4.png)
-
 ---
 
 ## 用哪个模型，你说了算
@@ -78,8 +76,6 @@ Eclipse 星语不绑定任何一家模型。
 官方中转开箱即用，会持续同步当前可用的模型。每次拉取都会把本地列表完整对齐服务端——下线的旧模型自动清掉，不会留下一个点了没反应的选项。
 
 你也可以完全不用官方线路，自己填服务地址与密钥，走兼容 OpenAI 协议的任何服务。同一个问题换一个模型，往往就是另一种回答风格。
-
-![同一句问候在不同模型下的回答](https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/eclipse/5.png)
 
 ![官方中转与自定义供应商](https://raw.githubusercontent.com/AstralSightStudios/AstroBox-Repo/refs/heads/main/blogs/eclipse/6.png)
 
