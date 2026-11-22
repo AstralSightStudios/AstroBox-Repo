@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "app.kageoto.watch",
+  "base_entry_digest": "415cc2fe099ce0ddd0404de31595c59a32714ea1cefd34dbcae2486da39cc9c3",
+  "base_catalog_commit": "7ca2ccbe4d8fb736672730bb3631de644515789b",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:14:02.109788129+08:00",
+    "build_user": "runner"
+  }
+}
