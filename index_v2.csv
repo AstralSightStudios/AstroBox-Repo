@@ -71,7 +71,6 @@ com.charlie.muyuPro,木鱼Pro,quick_app,wuhaiqi0621,muyuPro_ForAstroBox,83266a4,
 cn.waijade.okschoollife,OK School Life,quick_app,CheongSzesuen,OKSchoolLife_AstroBox_Release,870c217,icon.png,head%401x.png,游戏;文字游戏;移植;校园模拟;学校;校园,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,
 com.azumachiaki.block_life,方块生活,quick_app,Azumachiaki,block_life,a8d5d34,icon.png,cover.png,游戏;开放世界;沙盒游戏,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
 com.azumachiaki.fading_star,残星,quick_app,Azumachiaki,Fading_Star,2ddb659,icon.png,cover.png,游戏;回合制;剧情游戏,xiaomi,xmb9p;xmb9;xmb10;xmb10nfc,force_paid
-com.Furina.Dreamqiu.cn,腕上芙宁娜Pro,quick_app,Dreamqiucn,Furina_of_band_PRO,9007c9f,logo.png,preview1.png,游戏;养成;战斗;原神;付费,xiaomi,xmb9;xmb9p;xmb10nfc;xmb10;xmrw5;xmrw5xring,force_paid
 com.Dreamqiu.feelingdiary,心情日记,quick_app,Dreamqiucn,feelingdiary-Astrobox,8d37111,logo.png,preview1.png,实用工具;日记;软件;免费,xiaomi,xmb9p,
 com.Dreamqiu.poem,高中古诗词,quick_app,Dreamqiucn,poem-Astrobox,cead934,logo.png,preview1.png,实用工具;软件;高中;学习工具;古诗;免费,xiaomi,xmb9p,
 cn.waijade.Isotope.2048,同位素2048,quick_app,CheongSzesuen,Isotope2048_AstroBox_Release,a0c6769,logo.png,Isotope2048.png,2048;游戏;化学;科学;趣味;二改,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p,
@@ -442,7 +441,6 @@ com.lightland.velaai,VelaAI,quick_app,light-land,velaai,30b196c,media/139116.png
 979896110313,MATERIAL SHAPES,watchface,DevonStee,astrobox-resource-979896110313,2178352,media/01-图标-1比1.png,media/02-封面-3比2-三机.webp,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;Material Design;贴纸;蓝色;粉色;大数字;步数;可编辑快捷键;AOD,xiaomi,xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,
 979842166669,MD EDGE ROLL,watchface,DevonStee,astrobox-resource-979842166669,aaecbb9,media/01-图标-1比1.png,media/02-封面-3比2-三机.webp,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;Material Design;滚动;边框;粉色;紫色;青色;大数字;AOD,xiaomi,xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc,
 com.ppyycc.dict,DICT英汉词典,quick_app,ppyycc-ppc,vela_astrobox_DICT_bandpro_branch,cf594c3,media/icon.png,media/cover.png,英文;学习;词典,xiaomi,xmb10p;xmb9p,
-com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,3e23e70,media/show_icon.png,media/cover-1.png,课程表;悬浮tab;简约课表,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc;xmrw5;xmrw6;xmrw5xring;xmb9;xmb9p,
 com.jump.tfdc,跳一跳,quick_app,0233-wu,astrobox-resource-com-jump-tfdc,3c3d828,media/logo.png,media/页面 1.png,游戏;跳一跳;免费,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10nfc;xmb10;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
 com.goldminer.tfdc,黄金矿工,quick_app,0233-wu,astrobox-resource-com-goldminer-tfdc,c0af2e3,media/logo.png,media/页面 1 (1).png,游戏;免费;黄金矿工;益智,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p,
 com.fishworld.match3.tfdc,开心消除,quick_app,0233-wu,xc1,1b1991f,media/logo.png,media/画板 1.png,游戏;消除;益智,xiaomi,xmb10p;xmb9p,force_paid
@@ -517,7 +515,6 @@ com.irkbi.hell.vela,HELL,quick_app,IRKBI,astrobox-resource-com-irkbi-hell-vela,d
 com.facephotos.quickapp,随变壁纸,quick_app,yamu81663-dot,astrobox-resource-com-facephotos-quickapp,f89a059,media/壁纸库图标.png,media/无标题41_20261110003023.png,壁纸;快应用;图片,xiaomi,xmb10p;xmb9p;xmrw6,
 com.naoh.bandclass.classschedule,BandClass,quick_app,CHEN-EXE,BandClass_Astrobox,4c5da86,media/容器 14 (2).png,media/幻灯片 4_3 - 2.png,小米手环9Pro;课程表;BandClass;倒计时;小米手环10Pro;红米手表5;红米手表6,xiaomi,xmrw5;xmrw6;xmb10p;xmb9p,
 com.txcnstudio.todo,Tickit — 腕间智能清单,quick_app,txcn727-coder,astrobox-resource-com-txcnstudio-todo,0034d78,media/容器 15.png,media/1000007250.jpg,云端;联网;todo;清单;免费;小米手表,xiaomi,xmb10p;xmb9p;xmws4xring;xmws441;xmws4;xmws541;xmws5,
-com.pkr.handheld,宝可梦肉鸽,quick_app,play3yy,bkmygv1.2,21102c6,media/61319.png,media/61292.jpg,快应用;宝可梦;宝可梦肉鸽;小米手环9Pro;离线;像素;fixed;小米手环10pro,xiaomi,xmb9p;xmb10p,
 cat.mario.vela,喵哩奥,quick_app,jes-benjamin,cat.mario.vela,63e769a,media/29905.jpg,media/26294.jpg,小游戏;游戏;猫,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5;xmb10p;xmb9p,
 979868320254,WavAudio,watchface,DDlhy,astrobox-resource-979868320254,ead41ee,media/logo.png,media/download.jpg,音乐;播放;表盘,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 com.hazenotea.richman.watch,环球大富翁,quick_app,HazeNoTea,HNT_RichMan_vela,ec27587,media/方logo.png,media/封面.png,大富翁;益智;策略;桌游,xiaomi,xmrw5;xmrw6;xmrw5xring;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4xring;xmws441;xmws4,
@@ -598,3 +595,6 @@ com.hi.watch.xuexi,学习盒子-初中版,quick_app,Hiqming,astrobox-resource-co
 979840904601,我的世界,watchface,andros92,astrobox-resource-minecraft-native,238571f,media/icon.png,media/cover.png,游戏;3D;我的世界,xiaomi,xmb10p;xmb9p;xmb9,force_paid
 io.github.o_o1112.bandbrowser,流沙浏览器,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-bandbrowser,e5feb07,media/logo.png,media/astrobox_cover.png,浏览器;实用工具;网页阅读;小米手环9Pro;无源流沙,xiaomi,xmb9p,
 com.lhy.watch.supermario,超级马里奥,quick_app,xbtnb,astrobox-resource-com-lhy-watch-supermario,e43e962,media/74829.png,media/74886.jpg,像素;平台跳跃;闯关;复古,xiaomi,xmrw5;xmrw6;xmb10;xmrw5xring;xmb10p;xmb10nfc;xmb11nfc;xmb11;xmb9;xmb9p;xmws4;xmws5,force_paid
+com.pkr.handheld,宝可梦肉鸽,quick_app,play3yy,bkmygv1.2,c31703f,media/61319.png,media/61292.jpg,快应用;宝可梦;宝可梦肉鸽;小米手环9Pro;离线;像素;fixed;小米手环10pro,xiaomi,xmb9p;xmb10p,
+com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,914fccb,media/show_icon.png,media/cover-1.png,课程表;悬浮tab;简约课表,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc;xmrw5;xmrw6;xmrw5xring;xmb9;xmb9p,
+com.Furina.Dreamqiu.cn,腕上芙宁娜Pro,quick_app,Dreamqiucn,Furina_of_band_PRO,6d37eb2,logo.png,media/OSL (1).png,游戏;养成;战斗;原神;付费,xiaomi,xmrw5xring;xmb9p;xmb9;xmb10;xmb10nfc;xmrw5;xmrw6;xmb10p;xmb11nfc;xmb11,force_paid
