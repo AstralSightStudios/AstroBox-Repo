@@ -183,7 +183,6 @@ com.cyberdice,CyberDice,quick_app,cgl-sd,CyberDice,22e3948,media/cyberdice-app-i
 979878518191,经典 91,watchface,Cannyworks29,Classic91,d0c5d34,media/方形 logo.png,media/_8256680-2.jpg,卡西欧;经典;F91W;模拟;数字屏幕;复古;液晶;相册表盘,xiaomi,xmb9p;xmb10p;xmrw5;xmrw5xring;xmrw6;xmws5,
 979812002126,Smart Home,watchface,mehtmls,SmartHome-Astrobox,0fb1c6a,media/icon.jpg,media/头图 - SmartHome.png,工具;表盘;lua表盘;系统;截图;表盘管理;免费,xiaomi,xmb9;xmb10;xmb10nfc;xmb9p;xmb10p;xmb11;xmb11nfc,
 com.yan.maimaidx,舞萌B50,quick_app,lu0047,astrobox-resource-com-yan-maimaidx,43d2846,media/OIP-C.webp,media/23911_compressed (1)..png,舞萌;查分,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5,
-com.schedule.vela,腕上课程表,quick_app,Jursin,astrobox-resource-com-schedule-vela,b7cf415,media/logo.png,media/banner.png,课程表,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc,
 smart.box,Smart Box,quick_app,mehtmls,SmartBox-AstroBox,aeb26bd,media/sbicon.png,media/头图 - SmartBox.png,工具箱;免费;实用;娱乐,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmrw5;xmrw5xring,
 cn.sabbatofthewitch.qihe,魔女的夜宴,quick_app,qihe114514,astrobox-resource-cn-sabbatofthewitch-qihe,9ced339,media/icon_optimized.png,media/封面720.png,游戏;glagame;gal,xiaomi,xmb10nfc;xmb10p;xmb10;xmb9p;xmrw5;xmrw5xring;xmrw6;xmb9;xmws3;xmws4xring;xmws441;xmws4;xmws5,force_paid
 com.shell.liangyi,Shell++,quick_app,IKUN-CXKPRO,astrobox-resource-com-shell-liangyi,a844015,media/logo.png,media/Shell++封面.png,客户端,xiaomi,xmb9p;xmb10p;xmrw6,
@@ -599,3 +598,4 @@ com.wristnote.band,腕记,quick_app,Wildchiken,WristNote_AstroBox_Release,812e23
 com.jpf.wrist.schoolbusjam,放学校车站,quick_app,jip79078-hash,school-bus-jam-astrobox,d9f0b8a,media/icon.png,media/cover.jpg,游戏;休闲;益智;解谜,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
 io.github.o_o1112.bandbrowser,流沙浏览器,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-bandbrowser,8d8ccfc,media/logo.png,media/astrobox_cover.png,浏览器;实用工具;网页阅读;小米手环9Pro;无源流沙,xiaomi,xmb9p,
 app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,a4237e2,media/16108.png,media/25729.png,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
+top.jursin.hyperschedule,HyperSchedule,quick_app,Jursin,astrobox-resource-top-jursin-hyperschedule,1fbeee9,media/logo.png,media/cover.png,课程表;课表;大学,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmrw6,
