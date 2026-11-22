@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.xiaochong.campus",
+  "base_entry_digest": "4d5e076ca60d47e8843f03e62f026e3b70a2713e04f7684d0d409ee1b2982394",
+  "base_catalog_commit": "30e00a93d72cc1f1ddc1ed51229c2eafe929dbd0",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:11:02.415222700+08:00",
+    "build_user": "runneradmin"
+  }
+}
