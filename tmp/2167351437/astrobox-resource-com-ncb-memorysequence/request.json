@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.ncb.memorysequence",
+  "base_entry_digest": "4d8085ff9c96b3d40e6951c1fbc48333ddce5c83afeb8ef40913bc01285666c4",
+  "base_catalog_commit": "552f82779f0d4188a7b5164034a69e8ff23f6a88",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "e6ffb55",
+    "build_time": "2026-11-13T12:17:03.086396948+08:00",
+    "build_user": "runner"
+  }
+}
