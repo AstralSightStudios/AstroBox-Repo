@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979839808745,edc光轨,watchface,mechanic42d-alt,astrobox-resource-979839808745,f5292b2,media/光轨.png,media/exec-d3261b26-d523-44a6-95d2-dbfd326b9948.png,edc;简约;质感,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
