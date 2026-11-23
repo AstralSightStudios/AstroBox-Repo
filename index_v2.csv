@@ -596,7 +596,6 @@ com.wristelem.band,腕素,quick_app,Wildchiken,WristElem_AstroBox_Release,beb526
 io.github.o_o1112.trampoline,云端蹦蹦床,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-trampoline,8bc326e,media/logo.png,media/astrobox_cover.png,休闲益智;跳一跳;蹦蹦床;小米手环9Pro;小游戏,xiaomi,xmb9p,
 io.github.o_o1112.tantanbubble,弹弹泡泡,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-tantanbubble,5c5972f,media/logo.png,media/astrobox_cover.png,休闲益智;泡泡龙;消消乐;小米手环9Pro;小游戏,xiaomi,xmb9p,
 com.wristfeed.band,腕读,quick_app,Wildchiken,WristFeed_AstroBox_Release,625b7c8,media/icon.png,media/cover.png,阅读;RSS;订阅;新闻;离线;免费,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
-com.wristnote.band,腕记,quick_app,Wildchiken,WristNote_AstroBox_Release,1f62318,media/icon.png,media/cover.png,实用工具;记事本;备忘录;笔记;输入法,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmrw5;xmrw6;xmws5,
 io.github.o_o1112.cosmicmerge,星际碰碰,quick_app,O-O1112,astrobox-resource-com-band-cosmicmerge,af8f1eb,media/logo.png,media/astrobox_cover.png,游戏;物理合成;休闲;小米手环9Pro,xiaomi,xmb9p,
 io.github.o_o1112.bandbrowser,流沙浏览器,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-bandbrowser,3c2c84d,media/logo.png,media/astrobox_cover.png,浏览器;实用工具;网页阅读;小米手环9Pro;无源流沙,xiaomi,xmb9p,
 979811140101,地貌手册,watchface,jianding24,astrobox-resource-979811140101,5503a80,media/icon.png,media/astrobox-cover.jpg,表盘;地貌;自然;多主题;可编辑,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmb9p;xmb10p;xmws3;xmws4;xmws4xring;xmws441;xmws541;xmws5;xmrw5;xmrw5xring;xmrw6,force_paid
@@ -608,3 +607,4 @@ com.kjsjksjsjaiwjjw.video,米环相册,quick_app,33520276q-dotcom,astrobox-resou
 com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-seconds,de5b148,media/logo.png,media/60秒避难所.png,游戏;避难所;60秒避难所,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9;xmb11;xmb11nfc;vivowgt2,force_paid
 979839808745,edc光轨,watchface,mechanic42d-alt,astrobox-resource-979839808745,f5292b2,media/光轨.png,media/exec-d3261b26-d523-44a6-95d2-dbfd326b9948.png,edc;简约;质感,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.jpf.wrist.descend100,下100层,quick_app,jip79078-hash,descend100-astrobox,2cf10e7,media/icon.png,media/cover-illustrated-v1.jpg,游戏;休闲;躲避;重力感应;离线,xiaomi,xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9;xmrw5;xmrw6;xmws5,
+com.wristnote.band,腕记,quick_app,Wildchiken,WristNote_AstroBox_Release,2f68017,media/icon.png,media/cover.png,实用工具;记事本;备忘录;笔记;输入法,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmrw5;xmrw6;xmws5,
