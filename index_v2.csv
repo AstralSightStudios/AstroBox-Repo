@@ -377,7 +377,6 @@ com.hydro.link,HydroLink,quick_app,F7YM,astrobox-resource-com-hydro-link,f09d6ea
 com.huashu.heihade,嘿哈嘚,quick_app,MinimumBubble11,Heihade_ABD,44b5481,media/logo.png,media/heihade-poster-mini.png,音效盒;游戏;音效;幻响,xiaomi,xmrw5;xmrw5xring;xmrw6;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,
 com.jpf.wrist.doodlejump,涂鸦跳跳,quick_app,jip79078-hash,doodle-jump-astrobox,e9422a0,media/icon.png,media/cover-review-v2-upload.png,游戏;休闲;重力感应;跳跃;离线,xiaomi,xmb9p;xmb10p;xmrw6;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9,
 979835271640,我要大数字,watchface,imwjh,astrobox-resource-979835271640,317399b,media/总览_1x1_扑克_500px.jpg,media/头图_3x2_扑克.jpg,大数字;数字;seegood;简约;AOD;字体;多样式,xiaomi,xmrw6,force_paid
-979808741600,endID,watchface,hrsthrt74,endID-for-astrobox,6529dc5,media/icon.png,media/cover.png,表盘;明日方舟;终末地;明日方舟终末地;二次元;小米手环11,xiaomi,xmrw6;xmrw5xring;xmrw5;xmws4;xmb9p;xmb10;xmb10nfc;xmws5;xmb10p;xmb11;xmb11nfc;xmws4xring;xmws541,
 979855892779,Miku · Plush Dream,watchface,YcFeller,astrobox-resource-979855892779,19d678a,media/11logo.png,media/宣发图 (1).png,初音未来;miku;排版表盘;免费;可爱风;萌系,xiaomi,xmb9p;xmb10p,
 979890472499,合成大icon,watchface,yamu81663-dot,synthesis-big-icon,ad3b112,media/141C975B7A8DB38BD43524D80FB20A21.png,media/FB7C89C5CDD10BA1077863B80987AA26.png,小游戏;合成;原生应用,xiaomi,xmb9p;xmb10p,force_paid
 979826103001,大薯条,watchface,imwjh,astrobox-resource-979826103001,3b5435b,media/图标.png,media/01_头图_3x2_结果.png,薯条;创意;seegood;大数字;AOD;付费;设计感,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p,force_paid
@@ -601,3 +600,4 @@ top.jursin.hyperschedule,HyperSchedule,quick_app,Jursin,astrobox-resource-top-ju
 979807892428,水果忍者,watchface,andred-1,astrobox-resource-979807892428,bde88a3,media/1000041166.png,media/1000041165.jpg,水果;忍者;水果忍者,xiaomi,xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,aae4095,media/16108.png,media/25729.png,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
 com.ncb.memorysequence,记忆序列,quick_app,2167351437,astrobox-resource-com-ncb-memorysequence,83a14eb,media/1000183123.png,media/1000183638.jpg,记忆序列;小游戏;XiaoBin;记忆训练;益智;休闲,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,force_paid
+979808741600,endID,watchface,hrsthrt74,endID-for-astrobox,c4616da,media/icon.png,media/cover.png,表盘;明日方舟;终末地;明日方舟终末地;二次元,xiaomi,xmrw6;xmrw5xring;xmrw5;xmws4;xmb9p;xmb10;xmb10nfc;xmws5;xmb10p;xmb11;xmb11nfc;xmws4xring;xmws541,
