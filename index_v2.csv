@@ -536,7 +536,6 @@ com.kjsjksjsjaiwjjw.video,米环相册,quick_app,33520276q-dotcom,astrobox-resou
 979866660001,神庙逃亡,watchface,jinmohan,TempleRun_AstroBox_release,6d1b928,media/templerunappicon.png,media/TemleRun_Preview.png,游戏;跑酷;神庙逃亡;体感游戏;原生应用;动作游戏;休闲娱乐;Temple Run;3D 游戏;经典游戏,xiaomi,xmb11;xmb11nfc;xmb10p,force_paid
 979818959791,镜音铃重力感应,watchface,jawnd,astrobox-resource-979818959791,15f2316,media/1ComfyUI_10841.png,media/cover.jpg,重量感应;镜音铃;表盘;二次元,xiaomi,xmb10p;xmb9p,
 979856982709,配重,watchface,jianding24,astrobox-resource-979856982709,e1632b0,media/icon.png,media/cover.jpg,几何;指针;自定义,xiaomi,xmb9p;xmb10p;xmb9;xmb10;xmb10nfc;xmrw5;xmrw5xring;xmrw6;xmb11;xmb11nfc,
-979811140101,地貌手册,watchface,jianding24,astrobox-resource-979811140101,a957a31,media/icon.png,media/astrobox-cover.jpg,表盘;地貌;自然;多主题;可编辑,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmb9p;xmb10p;xmws3;xmws4;xmws4xring;xmws441;xmws541;xmws5;xmrw5;xmrw5xring;xmrw6,force_paid
 com.xbmn.midnightwatch,熊出没午夜后宫,quick_app,xbtnb,astrobox-resource-com-xbmn-midnightwatch,bc6fe12,media/74697.png,media/74887.jpg,生存恐怖;守夜;监控;生存策略,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10p;xmb11;xmb10nfc;xmb11nfc;xmb9;xmb9p;xmws4;xmws5,force_paid
 979865858967,SnapUI-照片表盘-样式2,watchface,Hobjl-lian,astrobox-resource-979865858967,0da4cc2,media/icons.png,media/Ab头图1.jpg,Hobjl;表盘;照片表盘;相册表盘;多样式,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmb11;xmb11nfc,force_paid
 979886109406,Flux Pro流转表盘,watchface,MineBabyBlue,FluxPro,99ed2d0,media/未标题-1.jpg,media/2比3.jpg,大数字;大字体;流转;苹果;息屏;AOD,xiaomi,xmrw6;xmb10;xmb9p;xmb10p;xmb11;xmb11nfc;xmb10nfc,force_paid
@@ -604,3 +603,4 @@ com.wristfeed.band,腕读,quick_app,Wildchiken,WristFeed_AstroBox_Release,625b7c
 com.wristnote.band,腕记,quick_app,Wildchiken,WristNote_AstroBox_Release,1f62318,media/icon.png,media/cover.png,实用工具;记事本;备忘录;笔记;输入法,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmrw5;xmrw6;xmws5,
 io.github.o_o1112.cosmicmerge,星际碰碰,quick_app,O-O1112,astrobox-resource-com-band-cosmicmerge,af8f1eb,media/logo.png,media/astrobox_cover.png,游戏;物理合成;休闲;小米手环9Pro,xiaomi,xmb9p,
 io.github.o_o1112.bandbrowser,流沙浏览器,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-bandbrowser,3c2c84d,media/logo.png,media/astrobox_cover.png,浏览器;实用工具;网页阅读;小米手环9Pro;无源流沙,xiaomi,xmb9p,
+979811140101,地貌手册,watchface,jianding24,astrobox-resource-979811140101,5503a80,media/icon.png,media/astrobox-cover.jpg,表盘;地貌;自然;多主题;可编辑,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmb9p;xmb10p;xmws3;xmws4;xmws4xring;xmws441;xmws541;xmws5;xmrw5;xmrw5xring;xmrw6,force_paid
