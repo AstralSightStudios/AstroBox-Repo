@@ -563,7 +563,6 @@ com.lkjhg.bandbox,BandBox,quick_app,lkjhg10576,MiBandBox,1b497a3,media/icon_astr
 com.monobeat.silent,节奏大师,quick_app,huangchengkeqi-spec,astrobox-resource-com-monobeat-silent,e9e6dd7,media/icon.png,media/e30d58b5-c976-40ba-9ef4-6c418a870c04.png,音游;手速;闯关;反应;小游戏;挑战,xiaomi,xmb10p,
 com.openblack.map,腕上地图,quick_app,dm1366631,astrobox-resource-com-openblack-maps,039f395,media/logo.png,media/header_wanshang_ditu_1200x800_paid.png,地图;离线地图;导航;骑行;徒步;工具,xiaomi,xmb10p,force_paid
 com.Dreamqiu.parsecs,60秒太空避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-parsecs,c899e9d,media/logo.png,media/60秒太空避难所.png,60秒避难所;游戏;60,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9p;xmb9;vivowgt2,force_paid
-com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-seconds,6951412,media/logo.png,media/60秒避难所.png,游戏;避难所;60秒避难所,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9;xmb11;xmb11nfc;vivowgt2,force_paid
 com.Dreamqiu.zombie,僵尸狂叫,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-zombie,98fbc8b,media/logo.png,media/僵尸狂叫 (2).png,游戏;跑酷;僵尸狂叫;僵尸,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 com.zzh.glassnotes,流沙记事本,quick_app,Augus-robot,astrobox-resource-com-zzh-glassclock,3eed9d8,media/上架图标_1x1_1024.png,media/上架封面_3x2_1536x1024.png,工具;计时器;美化;校园,xiaomi,xmb10p;xmb9p,
 979891694972,红黄蓝的构成,watchface,YetYeti,xiaomi-band-composition-in-red-yellow-blue,d1f4b11,media/icon.png,media/cover.jpg,极简;几何;三原色;指针;多样式;AOD,xiaomi,xmb9p,
@@ -607,3 +606,4 @@ com.kjsjksjsjaiwjjw.video,米环相册,quick_app,33520276q-dotcom,astrobox-resou
 979834324999,时间账单,watchface,mechanic42d-alt,astrobox-resource-979834324999,8c96547,media/download-1.png,media/download-3.jpg,时间账单;edc;昼夜切换,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 979867685308,机械时叙,watchface,mechanic42d-alt,astrobox-resource-979867685308,c0aff08,media/download-3.png,media/头图.jpg,edc;手写;机械臂,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 979896141003,像素小骷髅,watchface,mechanic42d-alt,astrobox-resource-979896141003,6701167,media/小骷髅.png,media/download-5.jpg,像素;宠物;骷髅,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-seconds,de5b148,media/logo.png,media/60秒避难所.png,游戏;避难所;60秒避难所,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9p;xmb9;xmb11;xmb11nfc;vivowgt2,force_paid
