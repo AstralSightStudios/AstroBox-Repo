@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "cupertino",
+  "base_entry_digest": "a34f0fc04b6798fe875ccabf1afadf1b6a13930125ff42bee8ef0103030380a4",
+  "base_catalog_commit": "47f8885c3af8a33115c8763e338c79a20b4e544c",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "e6ffb55",
+    "build_time": "2026-11-13T12:18:00.092434500+08:00",
+    "build_user": "runneradmin"
+  }
+}
