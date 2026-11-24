@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.cyh.fishinggame,像素钓鱼,quick_app,Alittlejelly,fishinggame,960fe8f,media/123.png,media/画板 2.jpg,钓鱼;像素风;等级系统,xiaomi,xmb10p,force_paid
