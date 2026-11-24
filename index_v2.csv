@@ -587,7 +587,6 @@ top.jursin.hyperschedule,HyperSchedule,quick_app,Jursin,astrobox-resource-top-ju
 app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,aae4095,media/16108.png,media/25729.png,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
 com.ncb.memorysequence,记忆序列,quick_app,2167351437,astrobox-resource-com-ncb-memorysequence,83a14eb,media/1000183123.png,media/1000183638.jpg,记忆序列;小游戏;XiaoBin;记忆训练;益智;休闲,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,force_paid
 979808741600,endID,watchface,hrsthrt74,endID-for-astrobox,c4616da,media/icon.png,media/cover.png,表盘;明日方舟;终末地;明日方舟终末地;二次元,xiaomi,xmrw6;xmrw5xring;xmrw5;xmws4;xmb9p;xmb10;xmb10nfc;xmws5;xmb10p;xmb11;xmb11nfc;xmws4xring;xmws541,
-io.github.o_o1112.trampoline,云端蹦蹦床,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-trampoline,8bc326e,media/logo.png,media/astrobox_cover.png,休闲益智;跳一跳;蹦蹦床;小米手环9Pro;小游戏,xiaomi,xmb9p,
 io.github.o_o1112.tantanbubble,弹弹泡泡,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-tantanbubble,5c5972f,media/logo.png,media/astrobox_cover.png,休闲益智;泡泡龙;消消乐;小米手环9Pro;小游戏,xiaomi,xmb9p,
 com.wristfeed.band,腕读,quick_app,Wildchiken,WristFeed_AstroBox_Release,625b7c8,media/icon.png,media/cover.png,阅读;RSS;订阅;新闻;离线;免费,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
 io.github.o_o1112.cosmicmerge,星际碰碰,quick_app,O-O1112,astrobox-resource-com-band-cosmicmerge,af8f1eb,media/logo.png,media/astrobox_cover.png,游戏;物理合成;休闲;小米手环9Pro,xiaomi,xmb9p,
@@ -615,3 +614,4 @@ com.kidming.edcpusher,edc推牌,quick_app,mechanic42d-alt,edc-fidget-slider,d552
 com.kidming.edcbubblewrap,edc泡泡纸,quick_app,mechanic42d-alt,edc-bubble-wrap,8037250,media/icon.png,media/cover.jpg,edc;edc泡泡纸;捏泡泡,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.kidming.edcflame,edc火焰,quick_app,mechanic42d-alt,edc-pixel-flame,d426dfe,media/icon.png,media/cover.jpg,edc;edc火焰;像素氛围灯,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.kidming.edctraffic,edc红绿灯,quick_app,mechanic42d-alt,edc-traffic-lights,bdc0d5c,media/icon.png,media/cover.jpg,edc;edc红绿灯;打地鼠,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+io.github.o_o1112.trampoline,云端蹦蹦床,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-trampoline,289b6d8,media/logo.png,media/astrobox_cover.png,休闲益智;跳一跳;蹦蹦床;小米手环9Pro;小游戏,xiaomi,xmb9p,
