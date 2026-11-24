@@ -579,7 +579,6 @@ com.hi.watch.xuexi,学习盒子-初中版,quick_app,Hiqming,astrobox-resource-co
 979840904601,我的世界,watchface,andros92,astrobox-resource-minecraft-native,238571f,media/icon.png,media/cover.png,游戏;3D;我的世界,xiaomi,xmb10p;xmb9p;xmb9,force_paid
 com.lhy.watch.supermario,超级马里奥,quick_app,xbtnb,astrobox-resource-com-lhy-watch-supermario,e43e962,media/74829.png,media/74886.jpg,像素;平台跳跃;闯关;复古,xiaomi,xmrw5;xmrw6;xmb10;xmrw5xring;xmb10p;xmb10nfc;xmb11nfc;xmb11;xmb9;xmb9p;xmws4;xmws5,force_paid
 com.pkr.handheld,宝可梦肉鸽,quick_app,play3yy,bkmygv1.2,c31703f,media/61319.png,media/61292.jpg,快应用;宝可梦;宝可梦肉鸽;小米手环9Pro;离线;像素;fixed;小米手环10pro,xiaomi,xmb9p;xmb10p,
-com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,914fccb,media/show_icon.png,media/cover-1.png,课程表;悬浮tab;简约课表,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc;xmrw5;xmrw6;xmrw5xring;xmb9;xmb9p,
 com.Furina.Dreamqiu.cn,腕上芙宁娜Pro,quick_app,Dreamqiucn,Furina_of_band_PRO,6d37eb2,logo.png,media/OSL (1).png,游戏;养成;战斗;原神;付费,xiaomi,xmrw5xring;xmb9p;xmb9;xmb10;xmb10nfc;xmrw5;xmrw6;xmb10p;xmb11nfc;xmb11,force_paid
 com.jpf.wrist.schoolbusjam,放学校车站,quick_app,jip79078-hash,school-bus-jam-astrobox,d9f0b8a,media/icon.png,media/cover.jpg,游戏;休闲;益智;解谜,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,force_paid
 top.jursin.hyperschedule,HyperSchedule,quick_app,Jursin,astrobox-resource-top-jursin-hyperschedule,1fbeee9,media/logo.png,media/cover.png,课程表;课表;大学,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmrw6,
@@ -588,7 +587,6 @@ top.jursin.hyperschedule,HyperSchedule,quick_app,Jursin,astrobox-resource-top-ju
 app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,aae4095,media/16108.png,media/25729.png,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
 com.ncb.memorysequence,记忆序列,quick_app,2167351437,astrobox-resource-com-ncb-memorysequence,83a14eb,media/1000183123.png,media/1000183638.jpg,记忆序列;小游戏;XiaoBin;记忆训练;益智;休闲,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,force_paid
 979808741600,endID,watchface,hrsthrt74,endID-for-astrobox,c4616da,media/icon.png,media/cover.png,表盘;明日方舟;终末地;明日方舟终末地;二次元,xiaomi,xmrw6;xmrw5xring;xmrw5;xmws4;xmb9p;xmb10;xmb10nfc;xmws5;xmb10p;xmb11;xmb11nfc;xmws4xring;xmws541,
-io.github.o_o1112.trampoline,云端蹦蹦床,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-trampoline,8bc326e,media/logo.png,media/astrobox_cover.png,休闲益智;跳一跳;蹦蹦床;小米手环9Pro;小游戏,xiaomi,xmb9p,
 io.github.o_o1112.tantanbubble,弹弹泡泡,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-tantanbubble,5c5972f,media/logo.png,media/astrobox_cover.png,休闲益智;泡泡龙;消消乐;小米手环9Pro;小游戏,xiaomi,xmb9p,
 com.wristfeed.band,腕读,quick_app,Wildchiken,WristFeed_AstroBox_Release,625b7c8,media/icon.png,media/cover.png,阅读;RSS;订阅;新闻;离线;免费,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
 io.github.o_o1112.cosmicmerge,星际碰碰,quick_app,O-O1112,astrobox-resource-com-band-cosmicmerge,af8f1eb,media/logo.png,media/astrobox_cover.png,游戏;物理合成;休闲;小米手环9Pro,xiaomi,xmb9p,
@@ -608,3 +606,17 @@ com.hazenotea.ashenoath.watch,灰烬誓约,quick_app,HazeNoTea,HNT_AshenOath_vel
 979839808745,edc光轨,watchface,mechanic42d-alt,astrobox-resource-979839808745,a67f243,media/光轨.png,media/exec-d3261b26-d523-44a6-95d2-dbfd326b9948.png,edc;简约;质感,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 979867685308,机械时叙,watchface,mechanic42d-alt,astrobox-resource-979867685308,b4218ab,media/download-3.png,media/头图.jpg,edc;手写;机械臂,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 979808744800,相册表盘 Cupertino,watchface,hrsthrt74,cupertino-wf-for-astrobox,d50007f,media/icon.png,media/cover.png,相册表盘;自定义;跳转;表盘;苹果;iOS;拟物;复刻;还原;蓝牙;经典,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9p;xmrw5;xmrw5xring;xmrw6,force_paid
+com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,eff31a7,media/show_icon.png,media/cover-1.png,课程表;悬浮tab;简约课表,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc;xmrw5;xmrw6;xmrw5xring;xmb9;xmb9p;xmws4xring;xmws441;xmws4;xmws541;xmws5,
+979865491561,数字气球,watchface,mechanic42d-alt,astrobox-resource-979865491561,cdf5879,media/download-5.png,media/01-cover.jpg,数字;气球;edc,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+979877010630,edc沙漏,watchface,mechanic42d-alt,astrobox-resource-979877010630,6927bbd,media/白色沙漏.png,media/01-cover.jpg,edc;沙漏;简约,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+com.pengminglang.edcdotbeat,edc光律,quick_app,mechanic42d-alt,edc-rhythm-lights,cccc777,media/icon.png,media/cover.jpg,edc;edc光律;点阵光效,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+com.kidming.edcpusher,edc推牌,quick_app,mechanic42d-alt,edc-fidget-slider,d552fdc,media/icon.png,media/cover.jpg,edc;edc推牌;解压玩具,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+com.kidming.edcbubblewrap,edc泡泡纸,quick_app,mechanic42d-alt,edc-bubble-wrap,8037250,media/icon.png,media/cover.jpg,edc;edc泡泡纸;捏泡泡,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+com.kidming.edcflame,edc火焰,quick_app,mechanic42d-alt,edc-pixel-flame,d426dfe,media/icon.png,media/cover.jpg,edc;edc火焰;像素氛围灯,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+com.kidming.edctraffic,edc红绿灯,quick_app,mechanic42d-alt,edc-traffic-lights,bdc0d5c,media/icon.png,media/cover.jpg,edc;edc红绿灯;打地鼠,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+io.github.o_o1112.trampoline,云端蹦蹦床,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-trampoline,289b6d8,media/logo.png,media/astrobox_cover.png,休闲益智;跳一跳;蹦蹦床;小米手环9Pro;小游戏,xiaomi,xmb9p,
+979881572625,膨胀大数字,watchface,mechanic42d-alt,astrobox-resource-979881572625,4835086,media/exec-be0e1385-2db9-4d99-a882-944361505566.png,media/01-cover.jpg,数字;膨胀;edc,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+com.kidming.djtraffic,edc舞台灯,quick_app,mechanic42d-alt,edc-stage-lights,bd4fcfa,media/icon.png,media/cover.jpg,edc;edc舞台灯;舞台灯光,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+com.kidming.edcflywheel,edc飞轮,quick_app,mechanic42d-alt,edc-flywheel,15689b3,media/icon.png,media/cover.jpg,edc;edc飞轮;惯性转子,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+com.kidming.minihandheld,迷你掌机,quick_app,mechanic42d-alt,kidming-mini-games,81e27c6,media/icon.png,media/cover.jpg,edc;迷你掌机;腕上游戏,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+979890775248,金鱼百叶,watchface,mechanic42d-alt,watchface-goldfish-blinds,c8ad69a,media/icon.png,media/cover.jpg,edc;金鱼百叶;百叶窗,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
