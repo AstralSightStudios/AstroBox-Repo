@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.naoh.chemistryhelper",
+  "base_entry_digest": "de01b70f5a47e0a58d6d6d9b7e40d49cae151be1280cf6666ba4157cb787c9d5",
+  "base_catalog_commit": "4d2700cbf6ddda32baa5a43ea0aedf472495bd35",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:14:02.109788129+08:00",
+    "build_user": "runner"
+  }
+}
