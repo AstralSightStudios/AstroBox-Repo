@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979877010630,edc沙漏,watchface,mechanic42d-alt,astrobox-resource-979877010630,6927bbd,media/白色沙漏.png,media/01-cover.jpg,edc;沙漏;简约,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
