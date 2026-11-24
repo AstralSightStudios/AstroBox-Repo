@@ -1,2 +1,0 @@
-id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.kidming.edcflywheel,edc飞轮,quick_app,mechanic42d-alt,edc-flywheel,15689b3,media/icon.png,media/cover.jpg,edc;edc飞轮;惯性转子,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
