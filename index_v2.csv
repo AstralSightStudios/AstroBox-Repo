@@ -592,7 +592,6 @@ top.jursin.hyperschedule,HyperSchedule,quick_app,Jursin,astrobox-resource-top-ju
 app.kageoto.watch,影律播放器,quick_app,Sakurakilove,astrobox-resource-app-kageoto-watch,aae4095,media/16108.png,media/25729.png,音乐;播放器;快应用,xiaomi,xmrw6;xmrw5;xmws4;xmws5;xmws441,force_paid
 com.ncb.memorysequence,记忆序列,quick_app,2167351437,astrobox-resource-com-ncb-memorysequence,83a14eb,media/1000183123.png,media/1000183638.jpg,记忆序列;小游戏;XiaoBin;记忆训练;益智;休闲,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,force_paid
 979808741600,endID,watchface,hrsthrt74,endID-for-astrobox,c4616da,media/icon.png,media/cover.png,表盘;明日方舟;终末地;明日方舟终末地;二次元,xiaomi,xmrw6;xmrw5xring;xmrw5;xmws4;xmb9p;xmb10;xmb10nfc;xmws5;xmb10p;xmb11;xmb11nfc;xmws4xring;xmws541,
-com.wristelem.band,腕素,quick_app,Wildchiken,WristElem_AstroBox_Release,beb526a,media/icon.png,media/cover.png,离线;免费;化学;物理;学习;元素周期表,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
 io.github.o_o1112.trampoline,云端蹦蹦床,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-trampoline,8bc326e,media/logo.png,media/astrobox_cover.png,休闲益智;跳一跳;蹦蹦床;小米手环9Pro;小游戏,xiaomi,xmb9p,
 io.github.o_o1112.tantanbubble,弹弹泡泡,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-tantanbubble,5c5972f,media/logo.png,media/astrobox_cover.png,休闲益智;泡泡龙;消消乐;小米手环9Pro;小游戏,xiaomi,xmb9p,
 com.wristfeed.band,腕读,quick_app,Wildchiken,WristFeed_AstroBox_Release,625b7c8,media/icon.png,media/cover.png,阅读;RSS;订阅;新闻;离线;免费,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
@@ -608,3 +607,4 @@ com.Dreamqiu.seconds,60秒避难所,quick_app,Dreamqiucn,astrobox-resource-com-d
 979839808745,edc光轨,watchface,mechanic42d-alt,astrobox-resource-979839808745,f5292b2,media/光轨.png,media/exec-d3261b26-d523-44a6-95d2-dbfd326b9948.png,edc;简约;质感,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.jpf.wrist.descend100,下100层,quick_app,jip79078-hash,descend100-astrobox,2cf10e7,media/icon.png,media/cover-illustrated-v1.jpg,游戏;休闲;躲避;重力感应;离线,xiaomi,xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb10p;xmb9;xmrw5;xmrw6;xmws5,
 com.wristnote.band,腕记,quick_app,Wildchiken,WristNote_AstroBox_Release,2f68017,media/icon.png,media/cover.png,实用工具;记事本;备忘录;笔记;输入法,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmrw5;xmrw6;xmws5,
+com.wristelem.band,腕素,quick_app,Wildchiken,WristElem_AstroBox_Release,7ed7ac7,media/icon.png,media/cover.png,离线;免费;化学;物理;学习;元素周期表,xiaomi,xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,
