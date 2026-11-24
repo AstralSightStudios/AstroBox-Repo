@@ -129,7 +129,7 @@
           "tag": "资源推荐",
           "textToBlack": false,
           "introduction": "Eclipse 星语：把每一次抬腕，都变成一次真实的对话",
-          "backgroundImg": "banner_square.png",
+          "backgroundImg": "eclipse/banner_square.png",
           "backgroundColor": "#181617",
           "url": "eclipse/index.md",
         },
