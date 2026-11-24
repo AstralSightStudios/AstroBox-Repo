@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.kidming.edcflame,edc火焰,quick_app,mechanic42d-alt,edc-pixel-flame,d426dfe,media/icon.png,media/cover.jpg,edc;edc火焰;像素氛围灯,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
