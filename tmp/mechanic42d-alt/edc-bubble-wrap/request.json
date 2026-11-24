@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.kidming.edcbubblewrap",
+  "base_entry_digest": "2751eb54f724a017355a11bd34303931d1d0cbf926cabbaa6d9814008c6d7adb",
+  "base_catalog_commit": "4d2700cbf6ddda32baa5a43ea0aedf472495bd35",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:10:43.859687+08:00",
+    "build_user": "runner"
+  }
+}
