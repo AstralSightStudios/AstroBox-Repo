@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "io.github.o_o1112.trampoline",
+  "base_entry_digest": "0a3c3d9cfda7b589349678c6b3b8c02e9e13b82d2b7e14f0877c85233c2d153e",
+  "base_catalog_commit": "8a3c84609e1ceb4c4c487774678b43dbed1e9569",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:11:02.415222700+08:00",
+    "build_user": "runneradmin"
+  }
+}
