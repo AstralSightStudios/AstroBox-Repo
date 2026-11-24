@@ -627,3 +627,4 @@ com.kidming.minihandheld,迷你掌机,quick_app,mechanic42d-alt,kidming-mini-gam
 979882730605,粉色大眼萌,watchface,mechanic42d-alt,watchface-pink-puff,32038d7,media/icon.png,media/cover.jpg,edc;粉色大眼萌;重力萌宠,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 979845430673,迪斯科灯球,watchface,mechanic42d-alt,watchface-disco-mirrorball,d3443b3,media/icon.png,media/cover.jpg,edc;迪斯科灯球;彩灯互动,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.kidming.edcdial,edc拨盘,quick_app,mechanic42d-alt,edc-number-dial,2f23a10,media/icon.png,media/cover.jpg,edc;edc拨盘;复古拨盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+com.kidming.edchourglass,edc沙漏,quick_app,mechanic42d-alt,edc-hourglass-app,d7812c6,media/icon.png,media/cover.jpg,edc;edc沙漏（快应用）;重力倒计时,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
