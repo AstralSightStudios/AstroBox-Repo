@@ -258,7 +258,7 @@ com.hazenotea.sokuban.watch,推箱子,quick_app,HazeNoTea,HNT_SoKuBan_vela,7fd48
 979878680101,重圆,watchface,OnDriveLine,Recircle2_AB,c6f6e3e,icon.png,media/Group 89.png,表盘;可编辑控件;多功能,xiaomi,xmb11;xmb11nfc;xmb10nfc;xmb10;xmb9;xmb10p,force_paid
 979877963021,「时帧」- 照片表盘,watchface,ChiHuan0807,astrobox-resource-979877963021,02d6d92,media/Frame 20.png,media/cover1.png,相册;照片;简约;杂志;池焕;迟缓;表盘,xiaomi,xmb10p;xmb9p,force_paid
 979825266002,倒数日 表盘,watchface,sf-yuzifu,Daymatter_Watchface_AstroBox_Release,9e77647,icon.png,preview.png,实用工具;日历;倒数日;倒计时;备忘录;提醒;日程;表盘,xiaomi,xmb9;xmb9p;xmws4;xmws441;xmws4xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmws5;xmws3;xmb11;xmb11nfc;xmws541,
-cupertino,图标包 Cupertino,res_pack,hrsthrt74,cupertino-iconpack-for-astrobox,c4483d7,media/icon.png,media/cover (1).png,苹果;iOS;拟物;复刻;还原;图标包;图标,xiaomi,xmb11;xmb10p;xmb11nfc,force_paid
+cupertino,图标包 Cupertino,res_pack,hrsthrt74,cupertino-iconpack-for-astrobox,61e7fad,media/icon.png,media/cover (1).png,苹果;iOS;拟物;复刻;还原;图标包;图标;经典,xiaomi,xmb11;xmb10p;xmb11nfc,force_paid
 com.cakeal.speedometer,速度计,quick_app,CakeAL,astrobox-resource-com-cakeal-speedometer,1dcb8d3,media/icon小.png,media/speedometer-cover.png,GPS;速度计;gpx;测速,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmws4xring;xmws441;xmws4;xmws541;xmws5,
 979877290311,桌搭时钟,watchface,Qiqi29,astrobox-resource-979877290311,70d7fda,media/图标 300w.png,media/封面图 900x600.png,简洁;大数字;多色;横屏;自定义,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 moe.mcns.Eternal,永昼天气,quick_app,FelixFan-CN,moe.mcns.eternal_AstroBox_Release,0bad36f,logo.png,media/1.png,独立;免费体验;天气;Eternal;MCNS,xiaomi,xmws3;xmws4;xmws4xring;xmrw5;xmb10p;xmrw5xring;xmws5;xmrw6;xmb9p;xmb10nfc;xmb10;xmws441;xmb11;xmb11nfc;xmws541,paid
