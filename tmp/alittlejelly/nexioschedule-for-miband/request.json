@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.haooz.chedule",
+  "base_entry_digest": "f0d174a17ae0ccd9fa99bad8dcb73c598653f0eb7a8a20111c48936558e00678",
+  "base_catalog_commit": "3381ec84c4babe2a6f0060de16396b55fa2512ba",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:11:02.415222700+08:00",
+    "build_user": "runneradmin"
+  }
+}
