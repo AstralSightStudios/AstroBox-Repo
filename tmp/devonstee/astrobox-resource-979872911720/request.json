@@ -5,9 +5,9 @@
   "base_entry_digest": "9e8219432cd5c22b720ca6b822cb096c9ceb95dc6640a0b849145c3fe935b268",
   "base_catalog_commit": "d21e0a6cd4ad838b57b33d8171f13bb7b5f27d47",
   "client": {
-    "version": "abcc-cli@0.1.0 (ABCC 0.4.0)",
-    "git_commit_hash": "066a7e3-dirty",
-    "build_time": "2026-10-10T03:34:13-04:00",
-    "build_user": "abcc-cli, ABCC 2c4d2a4"
+    "version": "0.5.1",
+    "git_commit_hash": "ca20170",
+    "build_time": "2026-11-24T18:12:00.910692+08:00",
+    "build_user": "black_knife_air"
   }
 }
