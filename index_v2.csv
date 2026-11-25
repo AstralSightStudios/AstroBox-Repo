@@ -542,7 +542,6 @@ icu.ccicc.jslab,JSLab社区版,quick_app,cciccicu,JSLab_AstroBox_Release,9edd50b
 com.naoh.chemistryhelper,化学易,quick_app,CHEN-EXE,astrobox-resource-com-naoh-chemistryhelper,bad8fab,media/icon.png,media/mastergo_vela.png,化学;学习工具;小米手环9Pro;小米手环10Pro;红米手表5;红米手表6;化学易;免费,xiaomi,xmrw5;xmrw6;xmb10p;xmb9p,
 com.awu.watch.petbomber,萌宠泡泡堂,quick_app,jianding24,pet-bomber-astrobox-release,e3024b4,media/icon.png,media/cover.jpg,萌宠;休闲;泡泡堂;闯关;电脑对战;随机远征;付费,xiaomi,xmb9;xmb9p;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmrw5;xmrw6,force_paid
 com.bandbbs.ebook.plus,弦电子书,quick_app,youshen2,astrobox-resource-com-bandbbs-ebook-plus,aeb426d,media/icon.png,media/Frame 22_small.png,电子书;阅读;阅读器;小说;书籍,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws5;xmb11;xmb11nfc;xmws541,
-com.liang.xicalc,曦计算器,quick_app,LiangMengxi,Xian-Caculator,3340d57,media/icon.png,media/cover.png,计算器;小米Watch S5;多功能计算器,xiaomi,xmws5;xmws441;xmws4;xmws541,
 recircle,重圆,res_pack,Alittlejelly,astrobox-resource-recircle,a99bff9,media/icon.png,media/xuanfaTu.png,超椭圆;平滑圆角;200w;彩色图标;圆形图标,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
 com.jpf.wrist.swordforge,铸剑大师,quick_app,jip79078-hash,sword-master,a0a9e1a,media/icon.png,media/cover-v16.jpg,游戏;锻造;策略,xiaomi,xmrw5;xmrw6;xmb9p;xmb10p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9;xmws3;xmws4;xmws441;xmws541;xmws5;xmws4xring;xmrw5xring,force_paid
 979830970243,Mirror Flow,watchface,auberdominique23-hash,Mirrorflow,406379e,media/1000020500.png,media/1000019566.png,液态玻璃;桌面;大数字;时间感知,xiaomi,xmb9p;xmb10p,force_paid
@@ -631,3 +630,4 @@ com.cyh.fishinggame,像素钓鱼,quick_app,Alittlejelly,fishinggame,252c069,medi
 979821471859,超级橘喵播放器,watchface,wyq94nb-code,super-orange-cat-player-release,fe7aec1,media/nikugirl_mint_player_icon_100.png,media/切图 3 (3).png,音乐;视频;播放器;播放;短剧;休闲;MP4;MP3;橘喵;超级橘喵播放器;喵喵,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
 com.hazenotea.skymatch.watch,天空消消乐,quick_app,HazeNoTea,HNT_SkyMatch_vela,ce1808a,media/AI修复.png,media/大图.png,消消乐;益智;解谜;消除;闯关,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws4;xmws441;xmws4xring,
 com.keal.wristpingpong,腕上乒乓球,quick_app,Weal445,pingpong,fa2e8ee,media/13923.jpg,media/13953.jpg,乒乓球;腕上小游戏;运动;球类,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9,force_paid
+com.liang.xicalc,曦计算器,quick_app,LiangMengxi,Xian-Caculator,6ba7765,media/icon.png,media/cover.png,计算器;小米Watch S5;多功能计算器,xiaomi,xmws5;xmws441;xmws4;xmws541,
