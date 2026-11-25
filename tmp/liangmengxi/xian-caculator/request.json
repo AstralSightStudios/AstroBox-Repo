@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.liang.xicalc",
+  "base_entry_digest": "1b275846f48ba1d095c3d9247c9c4d0b46a8aec66efcb86bdb781ed359fe3a1a",
+  "base_catalog_commit": "d21e0a6cd4ad838b57b33d8171f13bb7b5f27d47",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:11:02.415222700+08:00",
+    "build_user": "runneradmin"
+  }
+}
