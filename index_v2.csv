@@ -381,7 +381,6 @@ com.jpf.wrist.doodlejump,涂鸦跳跳,quick_app,jip79078-hash,doodle-jump-astrob
 979890472499,合成大icon,watchface,yamu81663-dot,synthesis-big-icon,ad3b112,media/141C975B7A8DB38BD43524D80FB20A21.png,media/FB7C89C5CDD10BA1077863B80987AA26.png,小游戏;合成;原生应用,xiaomi,xmb9p;xmb10p,force_paid
 979826103001,大薯条,watchface,imwjh,astrobox-resource-979826103001,3b5435b,media/图标.png,media/01_头图_3x2_结果.png,薯条;创意;seegood;大数字;AOD;付费;设计感,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p,force_paid
 979877290111,图文模块Pro,watchface,Qiqi29,astrobox-resource-979877290111,8a9ba8e,media/图标 300w.png,media/封面图 900x600.png,简洁;自定义;Watch;模块;高级;Apple,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
-979817235470,DOOM,watchface,cahkcs,doom,e285261,media/doom_app_icon_192x192.png,media/DOOM_Cover_Official_3DWrist.jpg,DOOM;3D游戏;表盘游戏;射击;fps,xiaomi,xmrw6;xmb10p;xmb9p;xmb10;xmb10nfc;xmb9;xmb11;xmb11nfc;xmws3;xmws4xring;xmws441;xmws541;xmws4;xmws5,force_paid
 979849910571,SPLIT SCRIPT,watchface,DevonStee,astrobox-resource-979849910571,2fb940e,media/01-icon.png,media/02-cover-v2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;数字;中文数字;彩色;排版;AOD;小米手环表盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 979816979482,PUFF CROWD,watchface,DevonStee,astrobox-resource-979816979482,8f4edde,media/01-icon.png,media/02-cover.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;气球;大数字;彩色;天空;双样式;AOD;小米手环表盘;可爱;飞翔;糖果;少女;清新;简明;简单数字,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 canopus_loop,Loop课程表,canopus,zaona,loop-astrobox-release,5ad83ae,media/icon.png,media/cover.png,课程表;Canopus;原生,xiaomi,xmb10p;xmb11;xmb11nfc,force_paid
@@ -629,3 +628,4 @@ com.kidming.minihandheld,迷你掌机,quick_app,mechanic42d-alt,kidming-mini-gam
 com.kidming.edcdial,edc拨盘,quick_app,mechanic42d-alt,edc-number-dial,2f23a10,media/icon.png,media/cover.jpg,edc;edc拨盘;复古拨盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.kidming.edchourglass,edc沙漏,quick_app,mechanic42d-alt,edc-hourglass-app,d7812c6,media/icon.png,media/cover.jpg,edc;edc沙漏（快应用）;重力倒计时,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.cyh.fishinggame,像素钓鱼,quick_app,Alittlejelly,fishinggame,8637488,media/123.png,media/画板 2 副本.jpg,钓鱼;像素风;等级系统,xiaomi,xmb10p;xmb9p;xmb11nfc;xmb11;xmb10nfc;xmb10;xmb9,force_paid
+979817235470,DOOM,watchface,cahkcs,doom,8e5173a,media/doom_app_icon_192x192.png,media/9a7aafa24c32bc4ce1bcf095a537e8fccfbf1aebee32e3448365fcc948df19f0.png,DOOM;3D游戏;表盘游戏;射击;fps,xiaomi,xmrw6;xmb10p;xmb9p;xmb10;xmb10nfc;xmb9;xmb11;xmb11nfc;xmws3;xmws4xring;xmws441;xmws541;xmws4;xmws5,force_paid
