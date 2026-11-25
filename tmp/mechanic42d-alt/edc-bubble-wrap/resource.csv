@@ -1,2 +1,0 @@
-id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.kidming.edcbubblewrap,edc泡泡纸,quick_app,mechanic42d-alt,edc-bubble-wrap,62fa32f,media/edc泡泡纸-圆形图标.png,media/cover.jpg,edc;edc泡泡纸;捏泡泡,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
