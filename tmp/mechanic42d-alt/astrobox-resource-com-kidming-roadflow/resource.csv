@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.kidming.roadflow,无限公路,quick_app,mechanic42d-alt,astrobox-resource-com-kidming-roadflow,4201871,media/02-圆形图标-480x480.png,media/无限公路-贯穿公路头图-暖黄对齐版.jpg,交通模拟;像素风;模拟驾驶;红绿灯,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
