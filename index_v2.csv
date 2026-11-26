@@ -630,7 +630,6 @@ com.liang.xicalc,曦计算器,quick_app,LiangMengxi,Xian-Caculator,6ba7765,media
 979883638886,SEGMENT34,watchface,DevonStee,astrobox-resource-979883638886,db13b94,media/01-icon.png,media/02-cover.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;Segment34;34段码;段码;复古;琥珀色;月相;天气;大数字;AOD;小米手环10;小米手环11;小米手环10Pro,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p,force_paid
 979872911720,BATTERY DRIVE,watchface,DevonStee,astrobox-resource-979872911720,69b009d,media/01-图标-1比1.png,media/02-封面-Pro-3比2.png,brin;Brin;BRIN;叫我brin就好;叫我Brin就好;橙色;黑色;蓝色;数码管;大数字;控制台;警示斜纹;电量;心率;AOD,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9p;xmb10p,
 com.kidming.roadflow,无限公路,quick_app,mechanic42d-alt,astrobox-resource-com-kidming-roadflow,4201871,media/02-圆形图标-480x480.png,media/无限公路-贯穿公路头图-暖黄对齐版.jpg,交通模拟;像素风;模拟驾驶;红绿灯,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
-979861473033,拳分夺秒,watchface,mechanic42d-alt,astrobox-resource-979861473033,6288bbd,media/拳分夺秒-正方形图标.png,media/01-拳分夺秒-头图.jpg,互动表盘;数字拳击;卡通动画;熄屏显示,xiaomi,xmb11;xmb11nfc,force_paid
 979820261301,赤狐冒险,watchface,cahkcs,FoxLeap,df52207,media/icon.png,media/3-2.png,横版跳跃;动作冒险;跑酷;闯关;像素;平台跳跃;休闲;收集;皮肤,xiaomi,xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 com.migulu.cafestella,星光咖啡馆和死神之蝶,quick_app,hdhdhdhdh1551,astrobox-resource-com-migulu-cafestella,7445f4b,media/24621.png,media/24697.jpg,galgame;游戏;快应用,xiaomi,xmb9p;xmb10p;xmws5;xmws3;xmb10;xmb9;xmb10nfc;xmb11;xmb11nfc;xmws4,
 com.ncb.sevendungeon,七格地牢,quick_app,2167351437,astrobox-resource-com-ncb-sevendungeon,aa3d079,media/1000183735.png,media/1000183734.png,地牢;回合制;手环游戏;单机;冒险;休闲;七格;迷宫;角色扮演,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
@@ -639,3 +638,4 @@ com.ncb.sevendungeon,七格地牢,quick_app,2167351437,astrobox-resource-com-ncb
 979864051998,浮时 · Time Afloat,watchface,mechanic42d-alt,astrobox-resource-979864051998,0f8d141,media/浮时-正方形图标.png,media/00-浮时-分钟刻度头图.jpg,液体表盘;重力感应;液位读时;熄屏显示,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.keal.wristfishing,腕上钓鱼,quick_app,Weal445,astrobox-resource-com-keal-wristfishing,ad20e25,media/14018.png,media/14027.png,钓鱼;像素游戏;钓鱼佬;娱乐休闲,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9,force_paid
 979862405846,RasterDial佩洛伊斯光栅表盘,watchface,litangking114,astrobox-resource-979862405846,33ba895,media/icon_300_pal160.png,media/RasterDial_1536x1024_300PPI_Q95.jpg,光栅;动态;绝区零;佩洛伊斯,xiaomi,xmb10p;xmb9p;xmb11,
+979861473033,拳分夺秒,watchface,mechanic42d-alt,astrobox-resource-979861473033,26364c3,media/拳分夺秒-正方形图标.png,media/01-拳分夺秒-头图.jpg,互动表盘;数字拳击;卡通动画;熄屏显示,xiaomi,xmb11;xmb11nfc;xmb10;xmb10nfc,force_paid
