@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.keal.wristfishing,腕上钓鱼,quick_app,Weal445,astrobox-resource-com-keal-wristfishing,ad20e25,media/14018.png,media/14027.png,钓鱼;像素游戏;钓鱼佬;娱乐休闲,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9,force_paid
