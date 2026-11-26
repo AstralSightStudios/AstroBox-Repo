@@ -1,2 +1,0 @@
-id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-979864051998,浮时 · Time Afloat,watchface,mechanic42d-alt,astrobox-resource-979864051998,0f8d141,media/浮时-正方形图标.png,media/00-浮时-分钟刻度头图.jpg,液体表盘;重力感应;液位读时;熄屏显示,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
