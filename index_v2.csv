@@ -571,7 +571,6 @@ com.xiaochong.campus,小宠校园,quick_app,myyouhh,astrobox-resource-com-xiaoch
 com.gaozhong.aqm,学习盒子-高中版,quick_app,Hiqming,xxhzgz-astrobox,1649b1e,media/logo.png,media/retouch_2026112120143482.jpg,学习;工具;学习工具,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 com.hi.watch.xuexi,学习盒子-初中版,quick_app,Hiqming,astrobox-resource-com-hi-watch-xuexi,6fa7107,media/logo.png,media/retouch_2026112212210879.jpg,学习;工具;初中;学习工具;学生,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 979841259501,纸间晨光相册表盘,watchface,Sakurakilove,astrobox-resource-979841259501,08fdf75,media/29090.png,media/29119.jpg,相册;表盘;自定义;图片;相册表盘;自由,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc,force_paid
-979840904601,我的世界,watchface,andros92,astrobox-resource-minecraft-native,238571f,media/icon.png,media/cover.png,游戏;3D;我的世界,xiaomi,xmb10p;xmb9p;xmb9,force_paid
 com.lhy.watch.supermario,超级马里奥,quick_app,xbtnb,astrobox-resource-com-lhy-watch-supermario,e43e962,media/74829.png,media/74886.jpg,像素;平台跳跃;闯关;复古,xiaomi,xmrw5;xmrw6;xmb10;xmrw5xring;xmb10p;xmb10nfc;xmb11nfc;xmb11;xmb9;xmb9p;xmws4;xmws5,force_paid
 com.pkr.handheld,宝可梦肉鸽,quick_app,play3yy,bkmygv1.2,c31703f,media/61319.png,media/61292.jpg,快应用;宝可梦;宝可梦肉鸽;小米手环9Pro;离线;像素;fixed;小米手环10pro,xiaomi,xmb9p;xmb10p,
 com.Furina.Dreamqiu.cn,腕上芙宁娜Pro,quick_app,Dreamqiucn,Furina_of_band_PRO,6d37eb2,logo.png,media/OSL (1).png,游戏;养成;战斗;原神;付费,xiaomi,xmrw5xring;xmb9p;xmb9;xmb10;xmb10nfc;xmrw5;xmrw6;xmb10p;xmb11nfc;xmb11,force_paid
@@ -636,3 +635,4 @@ com.kidming.roadflow,无限公路,quick_app,mechanic42d-alt,astrobox-resource-co
 979820261301,赤狐冒险,watchface,cahkcs,FoxLeap,df52207,media/icon.png,media/3-2.png,横版跳跃;动作冒险;跑酷;闯关;像素;平台跳跃;休闲;收集;皮肤,xiaomi,xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 com.migulu.cafestella,星光咖啡馆和死神之蝶,quick_app,hdhdhdhdh1551,astrobox-resource-com-migulu-cafestella,7445f4b,media/24621.png,media/24697.jpg,galgame;游戏;快应用,xiaomi,xmb9p;xmb10p;xmws5;xmws3;xmb10;xmb9;xmb10nfc;xmb11;xmb11nfc;xmws4,
 com.ncb.sevendungeon,七格地牢,quick_app,2167351437,astrobox-resource-com-ncb-sevendungeon,aa3d079,media/1000183735.png,media/1000183734.png,地牢;回合制;手环游戏;单机;冒险;休闲;七格;迷宫;角色扮演,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+979840904601,我的世界,watchface,andros92,astrobox-resource-minecraft-native,a3e866e,media/icon.png,media/cover.png,游戏;3D;我的世界,xiaomi,xmb10p;xmb9p;xmb9,force_paid
