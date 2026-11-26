@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+979865051546,手势剧场,watchface,mechanic42d-alt,astrobox-resource-979865051546,92daacf,media/手势剧场-红幕六手势-圆形图标.png,media/01-手势剧场-英文大标题-r2.jpg,互动表盘;手势报时;换装;熄屏显示,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
