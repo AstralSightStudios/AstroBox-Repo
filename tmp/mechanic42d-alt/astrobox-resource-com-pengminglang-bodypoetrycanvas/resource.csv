@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.pengminglang.bodypoetrycanvas,腕上生花,quick_app,mechanic42d-alt,astrobox-resource-com-pengminglang-bodypoetrycanvas,93aa925,media/腕上生花-内置图标.png,media/腕上生花-快应用头图.jpg,腕上生花;绘画;重力互动,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
