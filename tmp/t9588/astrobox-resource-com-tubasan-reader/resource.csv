@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.tubasan.reader,腕上电子书,quick_app,t9588,astrobox-resource-com-tubasan-reader,1172f5a,media/icon-app-512.png,media/cover-D.png,电子书;学习资料;小说;txt,xiaomi,xmb11;xmb11nfc,
