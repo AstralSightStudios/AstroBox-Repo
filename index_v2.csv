@@ -599,7 +599,6 @@ com.kidming.edcpusher,edc推牌,quick_app,mechanic42d-alt,edc-fidget-slider,d552
 com.kidming.edcbubblewrap,edc泡泡纸,quick_app,mechanic42d-alt,edc-bubble-wrap,62fa32f,media/edc泡泡纸-圆形图标.png,media/cover.jpg,edc;edc泡泡纸;捏泡泡,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.kidming.edcflame,edc火焰,quick_app,mechanic42d-alt,edc-pixel-flame,d426dfe,media/icon.png,media/cover.jpg,edc;edc火焰;像素氛围灯,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.kidming.edctraffic,edc红绿灯,quick_app,mechanic42d-alt,edc-traffic-lights,bdc0d5c,media/icon.png,media/cover.jpg,edc;edc红绿灯;打地鼠,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
-io.github.o_o1112.trampoline,云端蹦蹦床,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-trampoline,289b6d8,media/logo.png,media/astrobox_cover.png,休闲益智;跳一跳;蹦蹦床;小米手环9Pro;小游戏,xiaomi,xmb9p,
 979881572625,膨胀大数字,watchface,mechanic42d-alt,astrobox-resource-979881572625,c6186ef,media/exec-be0e1385-2db9-4d99-a882-944361505566.png,media/膨胀大数字-头图-英文左置.jpg,数字;膨胀;edc,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,
 com.kidming.djtraffic,edc舞台灯,quick_app,mechanic42d-alt,edc-stage-lights,bd4fcfa,media/icon.png,media/cover.jpg,edc;edc舞台灯;舞台灯光,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.kidming.edcflywheel,edc飞轮,quick_app,mechanic42d-alt,edc-flywheel,15689b3,media/icon.png,media/cover.jpg,edc;edc飞轮;惯性转子,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
@@ -641,3 +640,4 @@ com.pengminglang.bodypoetrycanvas,腕上生花,quick_app,mechanic42d-alt,astrobo
 com.liang.xicalc,曦计算器,quick_app,LiangMengxi,Xian-Caculator,4f2fac0,media/icon.png,media/cover.png,计算器;小米Watch S5;多功能计算器,xiaomi,xmws5;xmws441;xmws4;xmws541,
 com.ydnac.mgss,猛鬼公寓,quick_app,sharpice6,astrobox-resource-com-ydnac-mgss,3daa9ac,media/logo.png,media/mg.png,猛鬼宿舍;猛鬼公寓;塔防;恐怖;躺平发育,xiaomi,xmrw5;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 979896141003,像素小骷髅,watchface,mechanic42d-alt,astrobox-resource-979896141003,08b55ee,media/小骷髅.png,media/download-5.jpg,像素;宠物;骷髅,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
+io.github.o_o1112.trampoline,云端蹦蹦床,quick_app,O-O1112,astrobox-resource-io-github-o_o1112-trampoline,913c63d,media/logo.png,media/astrobox_cover.png,休闲益智;跳一跳;蹦蹦床;小米手环9Pro;小游戏,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,
