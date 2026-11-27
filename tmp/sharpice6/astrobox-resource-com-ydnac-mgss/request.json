@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.ydnac.mgss",
+  "base_entry_digest": "c45c11a25f4842aa5725351842c6a069c47f21843564188a73408fb8efd85cba",
+  "base_catalog_commit": "b2f6f76d87dfd4f27f4c0034d76b00b6a4b9c7d2",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:11:02.415222700+08:00",
+    "build_user": "runneradmin"
+  }
+}
