@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "io.github.o_o1112.cosmicmerge",
+  "base_entry_digest": "40ab662898889499b8244e37d7a7294b0188b84723c38672fabd0914154d7ab2",
+  "base_catalog_commit": "b2f6f76d87dfd4f27f4c0034d76b00b6a4b9c7d2",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:11:02.415222700+08:00",
+    "build_user": "runneradmin"
+  }
+}
