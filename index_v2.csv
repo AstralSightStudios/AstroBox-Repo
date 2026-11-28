@@ -621,7 +621,6 @@ com.kidming.roadflow,无限公路,quick_app,mechanic42d-alt,astrobox-resource-co
 com.migulu.cafestella,星光咖啡馆和死神之蝶,quick_app,hdhdhdhdh1551,astrobox-resource-com-migulu-cafestella,7445f4b,media/24621.png,media/24697.jpg,galgame;游戏;快应用,xiaomi,xmb9p;xmb10p;xmws5;xmws3;xmb10;xmb9;xmb10nfc;xmb11;xmb11nfc;xmws4,
 979840904601,我的世界,watchface,andros92,astrobox-resource-minecraft-native,a3e866e,media/icon.png,media/cover.png,游戏;3D;我的世界,xiaomi,xmb10p;xmb9p;xmb9,force_paid
 979865051546,手势剧场,watchface,mechanic42d-alt,astrobox-resource-979865051546,92daacf,media/手势剧场-红幕六手势-圆形图标.png,media/01-手势剧场-英文大标题-r2.jpg,互动表盘;手势报时;换装;熄屏显示,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
-979864051998,浮时 · Time Afloat,watchface,mechanic42d-alt,astrobox-resource-979864051998,0f8d141,media/浮时-正方形图标.png,media/00-浮时-分钟刻度头图.jpg,液体表盘;重力感应;液位读时;熄屏显示,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.keal.wristfishing,腕上钓鱼,quick_app,Weal445,astrobox-resource-com-keal-wristfishing,ad20e25,media/14018.png,media/14027.png,钓鱼;像素游戏;钓鱼佬;娱乐休闲,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10p;xmb9p;xmb10;xmb10nfc;xmb11;xmb11nfc;xmb9,force_paid
 979862405846,RasterDial佩洛伊斯光栅表盘,watchface,litangking114,astrobox-resource-979862405846,33ba895,media/icon_300_pal160.png,media/RasterDial_1536x1024_300PPI_Q95.jpg,光栅;动态;绝区零;佩洛伊斯,xiaomi,xmb10p;xmb9p;xmb11,
 979861473033,拳分夺秒,watchface,mechanic42d-alt,astrobox-resource-979861473033,26364c3,media/拳分夺秒-正方形图标.png,media/01-拳分夺秒-头图.jpg,互动表盘;数字拳击;卡通动画;熄屏显示,xiaomi,xmb11;xmb11nfc;xmb10;xmb10nfc,force_paid
@@ -644,3 +643,4 @@ com.jpf.wrist.schoolcrossing,放学过街,quick_app,jip79078-hash,school-crossin
 979848210857,下一站此刻,watchface,mechanic42d-alt,astrobox-resource-979848210857,86d850a,media/下一站此刻-正方形图标-100KB内.png,media/下一站此刻-头图.jpg,下一站此刻;复古电梯;互动表盘,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.komoridev.angrybirds,愤怒的小鸟,quick_app,KomoriDev,kovela-angrybirds,0bf17a5,media/logo.png,media/cover.png,游戏;休闲;趣味;童年,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p;xmws3;xmws4xring;xmws441;xmws4;xmws541;xmws5,paid
 com.watch.dic,腕上词典,quick_app,pcai7296,com.watch.dic_AstroBox_Release,f418f41,media/logo.png,media/cover.png,离线;英语;学习;词典;免费,xiaomi,xmb10nfc;xmb9;xmb9p;xmws4;xmrw5;xmrw5xring;xmb10p;xmb11;xmb11nfc;xmws441;xmrw6;xmb10;xmws4xring,
+979864051998,浮时 · Time Afloat,watchface,mechanic42d-alt,astrobox-resource-979864051998,b1a633a,media/浮时-正方形图标.png,media/00-浮时-分钟刻度头图.jpg,液体表盘;重力感应;液位读时;熄屏显示,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
