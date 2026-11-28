@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.Dreamqiu.zombie",
+  "base_entry_digest": "d4030a266ed65faa6f745ba6a0271125119f1944ecc65f5ad659e7062e8bff9f",
+  "base_catalog_commit": "a2150e2642047430fe6d330627ce32a9dccf3f14",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:10:43.859687+08:00",
+    "build_user": "runner"
+  }
+}
