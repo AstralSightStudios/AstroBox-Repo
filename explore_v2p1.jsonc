@@ -1,14 +1,4 @@
 {
-  // 插件页「精选」：name 必须与插件 manifest 的 name 完全一致；tagline 是一句推荐语，可不写（不写就用插件自己的简介）。
-  // 这里没写、或写的插件都不在市场里时，客户端会改用安装量最高的几个。
-  "featuredPlugins": [
-    { "name": "Hyper Box同步器", "tagline": "把数据同步进手环上的万能工具箱 Hyper Box" },
-    { "name": "喵喵电子书同步器", "tagline": "把电子书传到手环上，随时翻两页" },
-    { "name": "简明天气同步器", "tagline": "出门前抬腕看一眼天气" },
-    { "name": "BandTOTP同步器", "tagline": "把两步验证码放到手腕上" },
-    { "name": "Lyra音乐导入器", "tagline": "本地 MP3 或网易云音乐直接导入手表" },
-    { "name": "网桥 FetchBridge", "tagline": "让手环上的快应用也能联网" }
-  ],
   "customSections": [
     {
       "id": "face",
@@ -97,13 +87,13 @@
         },
         {
           "type": "resource",
-          "resourceId": "979811204059",
+          "resourceId": "979855356624",
           "resBackgroundColorGradient": ["#642109", "#3E2E1A"]
         },
         {
           "type": "resource",
           "resourceId": "979808744800",
-          "resBackgroundColorGradient": ["#5FC5D8", "#747A7B"]
+          "resBackgroundColorGradient": ["#80C2E0", "#0D4E9F"]
         },
         {
           "type": "resource",
@@ -134,6 +124,16 @@
       "type": "custom",
       "cards": [
         {
+          "type": "blog",
+          "title": "手表上的 AI，终于能自己动手了",
+          "tag": "资源推荐",
+          "textToBlack": false,
+          "introduction": "Eclipse 星语：把每一次抬腕，都变成一次真实的对话",
+          "backgroundImg": "eclipse/banner_square.png",
+          "backgroundColor": "#181617",
+          "url": "eclipse/index.md",
+        },
+        {
           "type": "single_resource_blog",
           "title": "Hyper Box 已支持 小米手环11",
           "tag": "独家速报",
@@ -142,18 +142,6 @@
           "resBackgroundColorGradient": ["#1a1a2e","#1a1a2e"],
           "url": "hyperbox/index.md",
           "resourceId": "com.charlie.hyperbox",
-        },
-        {
-          "type": "multi_resource_blog",
-          "title": "手环也可以截图了？！",
-          "tag": "资源推荐",
-          "textToBlack": false,
-          "introduction": "“解锁”手环的高级玩法",
-          "backgroundImg": "shellpp/ab-banner.png",
-          "backgroundColor": "#242232",
-          "url": "shellpp/index.md",
-          "resourceIds": ["979889683730", "com.shell.liangyi"],
-          "resBackgroundColorGradient": ["#242232", "#22375D"]
         },
         {
           "type": "resource",
