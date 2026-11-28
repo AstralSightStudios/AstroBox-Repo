@@ -1,2 +1,0 @@
-id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
-com.pengminglang.edclevel,edc水平仪,quick_app,mechanic42d-alt,astrobox-resource-com-pengminglang-edclevel,e2100c4,media/edc水平仪-正方形图标.png,media/edc水平仪-横版头图.jpg,edc;edc水平仪;重力互动,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
