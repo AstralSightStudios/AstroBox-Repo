@@ -124,6 +124,16 @@
       "type": "custom",
       "cards": [
         {
+          "type": "blog",
+          "title": "手表上的 AI，终于能自己动手了",
+          "tag": "资源推荐",
+          "textToBlack": false,
+          "introduction": "Eclipse 星语：把每一次抬腕，都变成一次真实的对话",
+          "backgroundImg": "eclipse/banner_square.png",
+          "backgroundColor": "#181617",
+          "url": "eclipse/index.md",
+        },
+        {
           "type": "single_resource_blog",
           "title": "Hyper Box 已支持 小米手环11",
           "tag": "独家速报",
@@ -132,18 +142,6 @@
           "resBackgroundColorGradient": ["#1a1a2e","#1a1a2e"],
           "url": "hyperbox/index.md",
           "resourceId": "com.charlie.hyperbox",
-        },
-        {
-          "type": "multi_resource_blog",
-          "title": "手环也可以截图了？！",
-          "tag": "资源推荐",
-          "textToBlack": false,
-          "introduction": "“解锁”手环的高级玩法",
-          "backgroundImg": "shellpp/ab-banner.png",
-          "backgroundColor": "#242232",
-          "url": "shellpp/index.md",
-          "resourceIds": ["979889683730", "com.shell.liangyi"],
-          "resBackgroundColorGradient": ["#242232", "#22375D"]
         },
         {
           "type": "resource",
