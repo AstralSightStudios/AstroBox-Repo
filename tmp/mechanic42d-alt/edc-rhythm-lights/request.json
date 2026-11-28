@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.pengminglang.edcdotbeat",
+  "base_entry_digest": "f8ae9d67a5a81ac03027a95ee49479d25b8197d72706fb2d93768fab533e3248",
+  "base_catalog_commit": "9b59b82d9b2f479415d36a55ed227d08985be88f",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:10:43.859687+08:00",
+    "build_user": "runner"
+  }
+}
