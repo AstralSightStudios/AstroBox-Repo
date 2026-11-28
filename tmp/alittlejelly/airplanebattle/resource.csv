@@ -1,0 +1,2 @@
+id,name,restype,repo_owner,repo_name,repo_commit_hash,icon,cover,tags,device_vendors,devices,paid_type
+com.wrist.raiders,飞机大战,quick_app,Alittlejelly,AirplaneBattle,1d7c347,media/画板 31.png,media/画板 1.png,飞机;打飞机;战斗;游戏,xiaomi,xmb10p;xmb10nfc;xmb10;xmb11nfc;xmb11;xmb9;xmb9p;xmrw6;xmrw5;xmrw5xring,force_paid
