@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "com.yg.game2048",
+  "base_entry_digest": "d2bad3fcd2e074540987a0ce067c2615b0f5b9677c2d3b30c999627799109dd6",
+  "base_catalog_commit": "1c702c7cb9a6b1c27d4ee5b29a8189ecde1fe1c4",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:14:02.109788129+08:00",
+    "build_user": "runner"
+  }
+}
