@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "mode": "edit",
+  "original_id": "io.github.o_o1112.bandlevel",
+  "base_entry_digest": "b408979b256df3ce1fa83095040b8fa6d701f4b8d4443ddc9783a3f244fa8dea",
+  "base_catalog_commit": "1c702c7cb9a6b1c27d4ee5b29a8189ecde1fe1c4",
+  "client": {
+    "version": "0.5.1",
+    "git_commit_hash": "1edf221",
+    "build_time": "2026-11-12T23:11:02.415222700+08:00",
+    "build_user": "runneradmin"
+  }
+}
