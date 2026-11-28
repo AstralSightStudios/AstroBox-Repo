@@ -584,7 +584,6 @@ com.hazenotea.ashenoath.watch,灰烬誓约,quick_app,HazeNoTea,HNT_AshenOath_vel
 com.haooz.chedule,Nexio课程表,quick_app,Alittlejelly,NexioSchedule-for-MiBand,eff31a7,media/show_icon.png,media/cover-1.png,课程表;悬浮tab;简约课表,xiaomi,xmb10p;xmb10;xmb11;xmb10nfc;xmb11nfc;xmrw5;xmrw6;xmrw5xring;xmb9;xmb9p;xmws4xring;xmws441;xmws4;xmws541;xmws5,
 979865491561,数字气球,watchface,mechanic42d-alt,astrobox-resource-979865491561,cdf5879,media/download-5.png,media/01-cover.jpg,数字;气球;edc,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 979877010630,edc沙漏,watchface,mechanic42d-alt,astrobox-resource-979877010630,6927bbd,media/白色沙漏.png,media/01-cover.jpg,edc;沙漏;简约,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
-com.pengminglang.edcdotbeat,edc光律,quick_app,mechanic42d-alt,edc-rhythm-lights,cccc777,media/icon.png,media/cover.jpg,edc;edc光律;点阵光效,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.kidming.edcpusher,edc推牌,quick_app,mechanic42d-alt,edc-fidget-slider,d552fdc,media/icon.png,media/cover.jpg,edc;edc推牌;解压玩具,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.kidming.edcbubblewrap,edc泡泡纸,quick_app,mechanic42d-alt,edc-bubble-wrap,62fa32f,media/edc泡泡纸-圆形图标.png,media/cover.jpg,edc;edc泡泡纸;捏泡泡,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
 com.kidming.edcflame,edc火焰,quick_app,mechanic42d-alt,edc-pixel-flame,d426dfe,media/icon.png,media/cover.jpg,edc;edc火焰;像素氛围灯,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
@@ -650,3 +649,4 @@ com.skillman.sgs,三国杀,quick_app,QiYongWu,astrobox-resource-com-skillman-sgs
 com.Dreamqiu.disease,瘟疫公司,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-disease,057dd5f,media/logo.png,media/瘟疫公司 (2) 2.png,游戏;瘟疫公司;小程序,xiaomi;vivo,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb11;xmb10p;xmb11nfc;xmb9;xmb9p;vivowgt2,force_paid
 com.Dreamqiu.mygo,上班模拟器,quick_app,Dreamqiucn,astrobox-resource-com-dreamqiu-mygo,c049cfd,media/logo.png,media/上班模拟器.png,游戏;模拟器;模拟,xiaomi,xmrw5;xmrw5xring;xmrw6;xmb10;xmb10nfc;xmb10p;xmb11;xmb11nfc;xmb9;xmb9p,force_paid
 com.lkjhg.bandbox,BandBox,quick_app,lkjhg10576,MiBandBox,86660e1,media/icon_astrobox.png,media/BandBox 头图 1200x800.png,工具箱;小米手环10;免费;小米手环10 Pro;小米手环9 Pro,xiaomi,xmb10;xmb10nfc;xmb10p;xmb9p;xmb11;xmb11nfc;xmb9;xmrw5;xmrw6;xmrw5xring,
+com.pengminglang.edcdotbeat,edc光律,quick_app,mechanic42d-alt,edc-rhythm-lights,cffe577,media/icon.png,media/cover.jpg,edc;edc光律;点阵光效,xiaomi,xmb10;xmb10nfc;xmb11;xmb11nfc,force_paid
